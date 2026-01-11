@@ -1548,7 +1548,7 @@
 <g X="3736.969" Y="-1820.172" Z="398.7779"/>
 <b X="3725.0559" Y="-1809.7889" Z="398.7813"/>
 <InfoNormRichtung vMax="38.8889" km="407.7798">
-<Ereignis Er="1000027" Wert="213"/>
+<Ereignis Er="1000027" Wert="213" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedling 2" Stellwerk="BÜ Reichenau-Waldsiedling 2" Signalname="BÜ Reichenau-Waldsiedling 2" SignalTyp="14" BoundingR="1">
 <p X="3731.9099" Y="-1815.77" Z="398.78"/>
 <phi/>
@@ -1563,7 +1563,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="407.764" pos="1">
-<Ereignis Er="1000027" Wert="212"/>
+<Ereignis Er="1000027" Wert="212" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedling 2" Stellwerk="BÜ Reichenau-Waldsiedling 2" Signalname="BÜ Reichenau-Waldsiedling 2" SignalTyp="14" BoundingR="1">
 <p X="3731.9099" Y="-1815.77" Z="398.78"/>
 <phi Z="3.141593"/>
@@ -1787,7 +1787,7 @@
 <g X="3734.459" Y="-1823.04" Z="398.7779"/>
 <b X="3722.511" Y="-1812.634" Z="398.7813"/>
 <InfoNormRichtung vMax="38.8889" km="407.7798">
-<Ereignis Er="1000027" Wert="215"/>
+<Ereignis Er="1000027" Wert="215" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedling 2" Stellwerk="BÜ Reichenau-Waldsiedling 2" Signalname="BÜ Reichenau-Waldsiedling 2" SignalTyp="14" BoundingR="1">
 <p X="3729.48" Y="-1818.7" Z="398.78"/>
 <phi/>
@@ -1802,7 +1802,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="407.7639" pos="1">
-<Ereignis Er="1000027" Wert="214"/>
+<Ereignis Er="1000027" Wert="214" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedling 2" Stellwerk="BÜ Reichenau-Waldsiedling 2" Signalname="BÜ Reichenau-Waldsiedling 2" SignalTyp="14" BoundingR="1">
 <p X="3729.48" Y="-1818.7" Z="398.78"/>
 <phi Z="3.141593"/>
@@ -1989,7 +1989,7 @@
 <Ereignis Er="1000012" Beschr="Reichenau (Baden)-Waldsiedlung Hp"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="407.0519" pos="1">
-<Ereignis Er="1000027" Wert="218"/>
+<Ereignis Er="1000027" Wert="218" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedling 1" Stellwerk="BÜ Reichenau-Waldsiedling 1" Signalname="BÜ Reichenau-Waldsiedling 1" SignalTyp="14" BoundingR="1">
 <p X="3409.4099" Y="-1436.25" Z="398.89"/>
 <phi Z="3.141593"/>
@@ -2091,7 +2091,7 @@
 <g X="3039.9419" Y="-894.1614" Z="399.3034"/>
 <b X="2989.343" Y="-819.9229" Z="399.3609"/>
 <InfoNormRichtung vMax="38.8889" km="406.39">
-<Ereignis Er="1000027" Wert="225"/>
+<Ereignis Er="1000027" Wert="225" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hegne 2" Stellwerk="BÜ Hegne 2" Signalname="BÜ Hegne 2" SignalTyp="14" BoundingR="1">
 <p X="2993.9399" Y="-826.67" Z="399.36"/>
 <phi/>
@@ -2106,7 +2106,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="406.3001" pos="1">
-<Ereignis Er="1000027" Wert="224"/>
+<Ereignis Er="1000027" Wert="224" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hegne 2" Stellwerk="BÜ Hegne 2" Signalname="BÜ Hegne 2" SignalTyp="14" BoundingR="1">
 <p X="2993.9399" Y="-826.67" Z="399.36"/>
 <phi Z="3.141593"/>
@@ -2192,7 +2192,7 @@
 <Ereignis Er="1000009" Beschr="Reichenau (Baden)-Waldsiedlung Hp"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="407.0519" pos="1">
-<Ereignis Er="1000027" Wert="220"/>
+<Ereignis Er="1000027" Wert="220" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedling 1" Stellwerk="BÜ Reichenau-Waldsiedling 1" Signalname="BÜ Reichenau-Waldsiedling 1" SignalTyp="14" BoundingR="1">
 <p X="3412.6399" Y="-1433.89" Z="398.89"/>
 <phi Z="3.141593"/>
@@ -2277,7 +2277,7 @@
 <g X="3043.2471" Y="-891.9086" Z="399.3034"/>
 <b X="2992.6479" Y="-817.6702" Z="399.3609"/>
 <InfoNormRichtung vMax="38.8889" km="406.39">
-<Ereignis Er="1000027" Wert="227"/>
+<Ereignis Er="1000027" Wert="227" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hegne 2" Stellwerk="BÜ Hegne 2" Signalname="BÜ Hegne 2" SignalTyp="14" BoundingR="1">
 <p X="2997.23" Y="-824.4" Z="399.36"/>
 <phi/>
@@ -2292,7 +2292,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="406.3001" pos="1">
-<Ereignis Er="1000027" Wert="226"/>
+<Ereignis Er="1000027" Wert="226" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hegne 2" Stellwerk="BÜ Hegne 2" Signalname="BÜ Hegne 2" SignalTyp="14" BoundingR="1">
 <p X="2997.23" Y="-824.4" Z="399.36"/>
 <phi Z="3.141593"/>
@@ -3284,7 +3284,7 @@
 <g X="1574.022" Y="-39.2766" Z="399.5205"/>
 <b X="1664.054" Y="-73.0047" Z="399.5498"/>
 <InfoNormRichtung vMax="38.8889" km="404.6342" pos="1">
-<Ereignis Er="1000027" Wert="231"/>
+<Ereignis Er="1000027" Wert="231" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hegne 1" Stellwerk="BÜ Hegne 1" Signalname="BÜ Hegne 1" SignalTyp="14" BoundingR="1">
 <p X="1601.0601" Y="-49.41" Z="399.53"/>
 <phi/>
@@ -3299,7 +3299,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="404.7303">
-<Ereignis Er="1000027" Wert="230"/>
+<Ereignis Er="1000027" Wert="230" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hegne 1" Stellwerk="BÜ Hegne 1" Signalname="BÜ Hegne 1" SignalTyp="14" BoundingR="1">
 <p X="1601.0601" Y="-49.41" Z="399.53"/>
 <phi Z="3.141593"/>
@@ -3508,7 +3508,7 @@
 <g X="1583.085" Y="-38.4008" Z="399.523"/>
 <b X="1672.239" Y="-71.8" Z="399.552"/>
 <InfoNormRichtung vMax="38.8889" km="404.6424" pos="1">
-<Ereignis Er="1000027" Wert="233"/>
+<Ereignis Er="1000027" Wert="233" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hegne 1" Stellwerk="BÜ Hegne 1" Signalname="BÜ Hegne 1" SignalTyp="14" BoundingR="1">
 <p X="1602.58" Y="-45.7" Z="399.53"/>
 <phi/>
@@ -3523,7 +3523,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="404.7376">
-<Ereignis Er="1000027" Wert="232"/>
+<Ereignis Er="1000027" Wert="232" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hegne 1" Stellwerk="BÜ Hegne 1" Signalname="BÜ Hegne 1" SignalTyp="14" BoundingR="1">
 <p X="1602.58" Y="-45.7" Z="399.53"/>
 <phi Z="3.141593"/>
@@ -4035,7 +4035,7 @@
 <g X="-158.675" Y="725.3867" Z="399.6281"/>
 <b X="-221.3919" Y="757.1741" Z="399.8116"/>
 <InfoNormRichtung vMax="38.8889" km="402.7274">
-<Ereignis Er="1000027" Wert="249"/>
+<Ereignis Er="1000027" Wert="249" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Brunnengasse" Stellwerk="BÜ Brunnengasse" Signalname="BÜ Brunnengasse" SignalTyp="14" BoundingR="1">
 <p X="-160.91" Y="726.52" Z="399.63"/>
 <phi/>
@@ -4050,7 +4050,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="402.657" pos="1">
-<Ereignis Er="1000027" Wert="248"/>
+<Ereignis Er="1000027" Wert="248" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Brunnengasse" Stellwerk="BÜ Brunnengasse" Signalname="BÜ Brunnengasse" SignalTyp="14" BoundingR="1">
 <p X="-160.91" Y="726.52" Z="399.63"/>
 <phi Z="3.141593"/>
@@ -4318,7 +4318,7 @@
 <g X="-118.8819" Y="710.174" Z="399.5174"/>
 <b X="-185.4523" Y="743.7563" Z="399.7121"/>
 <InfoNormRichtung vMax="38.8889" km="402.77">
-<Ereignis Er="1000027" Wert="251"/>
+<Ereignis Er="1000027" Wert="251" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Brunnengasse" Stellwerk="BÜ Brunnengasse" Signalname="BÜ Brunnengasse" SignalTyp="14" BoundingR="1">
 <p X="-159.02" Y="730.42" Z="399.63"/>
 <phi/>
@@ -4333,7 +4333,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="402.6954" pos="1">
-<Ereignis Er="1000027" Wert="250"/>
+<Ereignis Er="1000027" Wert="250" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Brunnengasse" Stellwerk="BÜ Brunnengasse" Signalname="BÜ Brunnengasse" SignalTyp="14" BoundingR="1">
 <p X="-159.02" Y="730.42" Z="399.63"/>
 <phi Z="3.141593"/>
@@ -4370,7 +4370,7 @@
 <g X="-275.1167" Y="788.9646" Z="399.9743"/>
 <b X="-362.0187" Y="832.593" Z="400.2282"/>
 <InfoNormRichtung vMax="38.8889" km="402.37">
-<Ereignis Er="1000027" Wert="272"/>
+<Ereignis Er="1000027" Wert="272" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Schlappengasse" Stellwerk="BÜ Schlappengasse" Signalname="BÜ Schlappengasse" SignalTyp="14" BoundingR="1">
 <p X="-339.37" Y="821.22" Z="400.16"/>
 <phi/>
@@ -4385,7 +4385,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="402.2728" pos="1">
-<Ereignis Er="1000027" Wert="271"/>
+<Ereignis Er="1000027" Wert="271" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Schlappengasse" Stellwerk="BÜ Schlappengasse" Signalname="BÜ Schlappengasse" SignalTyp="14" BoundingR="1">
 <p X="-339.37" Y="821.22" Z="400.16"/>
 <phi Z="3.141593"/>
@@ -4622,7 +4622,7 @@
 <g X="-1165.9399" Y="1247.4091" Z="402.5908"/>
 <b X="-1168.412" Y="1248.932" Z="402.5957"/>
 <InfoNormRichtung vMax="38.8889" km="401.5937">
-<Ereignis Er="1000027" Wert="260"/>
+<Ereignis Er="1000027" Wert="260" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Unterhausgasse" Stellwerk="BÜ Unterhausgasse" Signalname="BÜ Unterhausgasse" SignalTyp="14" BoundingR="1">
 <p X="-1167.84" Y="1248.58" Z="402.59"/>
 <phi/>
@@ -4637,7 +4637,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="401.5908" pos="1">
-<Ereignis Er="1000027" Wert="259"/>
+<Ereignis Er="1000027" Wert="259" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Unterhausgasse" Stellwerk="BÜ Unterhausgasse" Signalname="BÜ Unterhausgasse" SignalTyp="14" BoundingR="1">
 <p X="-1167.84" Y="1248.58" Z="402.59"/>
 <phi Z="3.141593"/>
@@ -4738,7 +4738,7 @@
 <g X="-1591.855" Y="1509.663" Z="402.7407"/>
 <b X="-1593.933" Y="1510.943" Z="402.7383"/>
 <InfoNormRichtung vMax="38.8889" km="401.0906">
-<Ereignis Er="1000027" Wert="266"/>
+<Ereignis Er="1000027" Wert="266" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Lohorn 1" Stellwerk="BÜ Lohorn 1" Signalname="BÜ Lohorn 1" SignalTyp="14" BoundingR="1">
 <p X="-1592.8" Y="1510.24" Z="402.74"/>
 <phi/>
@@ -4753,7 +4753,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="401.0881" pos="1">
-<Ereignis Er="1000027" Wert="265"/>
+<Ereignis Er="1000027" Wert="265" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Lohorn 1" Stellwerk="BÜ Lohorn 1" Signalname="BÜ Lohorn 1" SignalTyp="14" BoundingR="1">
 <p X="-1592.8" Y="1510.24" Z="402.74"/>
 <phi Z="3.141593"/>
@@ -4814,7 +4814,7 @@
 <g X="-1947.47" Y="1728.631" Z="402.25"/>
 <b X="-2025.984" Y="1776.976" Z="402.1416"/>
 <InfoNormRichtung vMax="38.8889" km="400.6705">
-<Ereignis Er="1000027" Wert="278"/>
+<Ereignis Er="1000027" Wert="278" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Lohorn 2" Stellwerk="BÜ Lohorn 2" Signalname="BÜ Lohorn 2" SignalTyp="14" BoundingR="1">
 <p X="-2000.98" Y="1761.58" Z="402.18"/>
 <phi/>
@@ -4829,7 +4829,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="400.5783" pos="1">
-<Ereignis Er="1000027" Wert="277"/>
+<Ereignis Er="1000027" Wert="277" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Lohorn 2" Stellwerk="BÜ Lohorn 2" Signalname="BÜ Lohorn 2" SignalTyp="14" BoundingR="1">
 <p X="-2000.98" Y="1761.58" Z="402.18"/>
 <phi Z="3.141593"/>
@@ -4874,7 +4874,7 @@
 <g X="-1168.037" Y="1244.0031" Z="402.5908"/>
 <b X="-1170.51" Y="1245.526" Z="402.5957"/>
 <InfoNormRichtung vMax="38.8889" km="401.5937">
-<Ereignis Er="1000027" Wert="262"/>
+<Ereignis Er="1000027" Wert="262" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Unterhausgasse" Stellwerk="BÜ Unterhausgasse" Signalname="BÜ Unterhausgasse" SignalTyp="14" BoundingR="1">
 <p X="-1169.95" Y="1245.1801" Z="402.59"/>
 <phi/>
@@ -4889,7 +4889,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="401.5908" pos="1">
-<Ereignis Er="1000027" Wert="261"/>
+<Ereignis Er="1000027" Wert="261" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Unterhausgasse" Stellwerk="BÜ Unterhausgasse" Signalname="BÜ Unterhausgasse" SignalTyp="14" BoundingR="1">
 <p X="-1169.95" Y="1245.1801" Z="402.59"/>
 <phi Z="3.141593"/>
@@ -4990,7 +4990,7 @@
 <g X="-1593.952" Y="1506.2581" Z="402.7407"/>
 <b X="-1596.03" Y="1507.537" Z="402.7383"/>
 <InfoNormRichtung vMax="38.8889" km="401.0906">
-<Ereignis Er="1000027" Wert="268"/>
+<Ereignis Er="1000027" Wert="268" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Lohorn 1" Stellwerk="BÜ Lohorn 1" Signalname="BÜ Lohorn 1" SignalTyp="14" BoundingR="1">
 <p X="-1594.5699" Y="1506.64" Z="402.74"/>
 <phi/>
@@ -5005,7 +5005,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="401.0881" pos="1">
-<Ereignis Er="1000027" Wert="267"/>
+<Ereignis Er="1000027" Wert="267" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Lohorn 1" Stellwerk="BÜ Lohorn 1" Signalname="BÜ Lohorn 1" SignalTyp="14" BoundingR="1">
 <p X="-1594.5699" Y="1506.64" Z="402.74"/>
 <phi Z="3.141593"/>
@@ -5066,7 +5066,7 @@
 <g X="-1949.567" Y="1725.225" Z="402.25"/>
 <b X="-2028.0811" Y="1773.5699" Z="402.1416"/>
 <InfoNormRichtung vMax="38.8889" km="400.6705">
-<Ereignis Er="1000027" Wert="280"/>
+<Ereignis Er="1000027" Wert="280" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Lohorn 2" Stellwerk="BÜ Lohorn 2" Signalname="BÜ Lohorn 2" SignalTyp="14" BoundingR="1">
 <p X="-2002.89" Y="1758.0601" Z="402.18"/>
 <phi/>
@@ -5081,7 +5081,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="400.5783" pos="1">
-<Ereignis Er="1000027" Wert="279"/>
+<Ereignis Er="1000027" Wert="279" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Lohorn 2" Stellwerk="BÜ Lohorn 2" Signalname="BÜ Lohorn 2" SignalTyp="14" BoundingR="1">
 <p X="-2002.89" Y="1758.0601" Z="402.18"/>
 <phi Z="3.141593"/>
@@ -5501,7 +5501,7 @@
 <g X="-3107.3931" Y="2268.8669" Z="400.7425"/>
 <b X="-3017.623" Y="2231.6011" Z="400.8568"/>
 <InfoNormRichtung vMax="38.8889" km="399.2382" pos="1">
-<Ereignis Er="1000027" Wert="290"/>
+<Ereignis Er="1000027" Wert="290" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ km 399,1693" Stellwerk="BÜ km 399,1693" Signalname="BÜ km 399,1693" SignalTyp="14" BoundingR="1">
 <p X="-3080.9099" Y="2257.8701" Z="400.78"/>
 <phi/>
@@ -5516,7 +5516,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="399.3354">
-<Ereignis Er="1000027" Wert="289"/>
+<Ereignis Er="1000027" Wert="289" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ km 399,1693" Stellwerk="BÜ km 399,1693" Signalname="BÜ km 399,1693" SignalTyp="14" BoundingR="1">
 <p X="-3080.9099" Y="2257.8701" Z="400.78"/>
 <phi Z="3.141593"/>
@@ -5561,7 +5561,7 @@
 <g X="-2748.312" Y="2119.803" Z="401.1997"/>
 <b X="-2658.542" Y="2082.5371" Z="401.314"/>
 <InfoNormRichtung vMax="38.8889" km="399.5136" pos="1">
-<Ereignis Er="1000027" Wert="284"/>
+<Ereignis Er="1000027" Wert="284" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ km 399,5136" Stellwerk="BÜ km 399,5136" Signalname="BÜ km 399,5136" SignalTyp="14" BoundingR="1">
 <p X="-2683.5701" Y="2092.9299" Z="401.28"/>
 <phi/>
@@ -5576,7 +5576,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="399.6108">
-<Ereignis Er="1000027" Wert="283"/>
+<Ereignis Er="1000027" Wert="283" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ km 399,5136" Stellwerk="BÜ km 399,5136" Signalname="BÜ km 399,5136" SignalTyp="14" BoundingR="1">
 <p X="-2683.5701" Y="2092.9299" Z="401.28"/>
 <phi Z="3.141593"/>
@@ -5676,7 +5676,7 @@
 <g X="-3108.927" Y="2265.1731" Z="400.7425"/>
 <b X="-3019.156" Y="2227.907" Z="400.8568"/>
 <InfoNormRichtung vMax="38.8889" km="399.2382" pos="1">
-<Ereignis Er="1000027" Wert="292"/>
+<Ereignis Er="1000027" Wert="292" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ km 399,1693" Stellwerk="BÜ km 399,1693" Signalname="BÜ km 399,1693" SignalTyp="14" BoundingR="1">
 <p X="-3081.9399" Y="2253.97" Z="400.78"/>
 <phi/>
@@ -5691,7 +5691,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="399.3354">
-<Ereignis Er="1000027" Wert="291"/>
+<Ereignis Er="1000027" Wert="291" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ km 399,1693" Stellwerk="BÜ km 399,1693" Signalname="BÜ km 399,1693" SignalTyp="14" BoundingR="1">
 <p X="-3081.9399" Y="2253.97" Z="400.78"/>
 <phi Z="3.141593"/>
@@ -5736,7 +5736,7 @@
 <g X="-2749.8459" Y="2116.1089" Z="401.1997"/>
 <b X="-2660.0759" Y="2078.843" Z="401.314"/>
 <InfoNormRichtung vMax="38.8889" km="399.5136" pos="1">
-<Ereignis Er="1000027" Wert="286"/>
+<Ereignis Er="1000027" Wert="286" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ km 399,5136" Stellwerk="BÜ km 399,5136" Signalname="BÜ km 399,5136" SignalTyp="14" BoundingR="1">
 <p X="-2683.3899" Y="2088.52" Z="401.28"/>
 <phi/>
@@ -5751,7 +5751,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="399.6108">
-<Ereignis Er="1000027" Wert="285"/>
+<Ereignis Er="1000027" Wert="285" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ km 399,5136" Stellwerk="BÜ km 399,5136" Signalname="BÜ km 399,5136" SignalTyp="14" BoundingR="1">
 <p X="-2683.3899" Y="2088.52" Z="401.28"/>
 <phi Z="3.141593"/>
@@ -5942,7 +5942,7 @@
 <InfoNormRichtung vMax="38.8889" km="405.5847" pos="1">
 <Ereignis Er="1000010" Beschr="Hegne Hp"/>
 <Ereignis Er="6" Beschr="Hegne Hp"/>
-<Ereignis Er="1000027" Wert="237"/>
+<Ereignis Er="1000027" Wert="237" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Nachtwaid" Stellwerk="BÜ Nachtwaid" Signalname="BÜ Nachtwaid" SignalTyp="14" BoundingR="1">
 <p X="2468.8899" Y="-370.8" Z="399.81"/>
 <phi/>
@@ -5957,7 +5957,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="405.5982">
-<Ereignis Er="1000027" Wert="236"/>
+<Ereignis Er="1000027" Wert="236" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Nachtwaid" Stellwerk="BÜ Nachtwaid" Signalname="BÜ Nachtwaid" SignalTyp="14" BoundingR="1">
 <p X="2468.8899" Y="-370.8" Z="399.81"/>
 <phi Z="3.141593"/>
@@ -6136,7 +6136,7 @@
 <g X="2455.4431" Y="-369.8199" Z="399.8074"/>
 <b X="2467.25" Y="-374.4445" Z="399.8099"/>
 <InfoNormRichtung vMax="38.8889" km="405.5802" pos="1">
-<Ereignis Er="1000027" Wert="239"/>
+<Ereignis Er="1000027" Wert="239" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Nachtwaid" Stellwerk="BÜ Nachtwaid" Signalname="BÜ Nachtwaid" SignalTyp="14" BoundingR="1">
 <p X="2466.5901" Y="-374.18" Z="399.81"/>
 <phi/>
@@ -6151,7 +6151,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="405.5929">
-<Ereignis Er="1000027" Wert="238"/>
+<Ereignis Er="1000027" Wert="238" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Nachtwaid" Stellwerk="BÜ Nachtwaid" Signalname="BÜ Nachtwaid" SignalTyp="14" BoundingR="1">
 <p X="2466.5901" Y="-374.18" Z="399.81"/>
 <phi Z="3.141593"/>
@@ -18199,11 +18199,17 @@
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht2.lod.ls3"/>
 </SignalFrame>
+<SignalFrame>
+<p X="-0.0001" Y="-4.75" Z="1"/>
+<phi X="1.500983"/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\Halbschrankenbehang_5m_rechts.lod.ls3"/>
+</SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="43"/>
-<MatrixEintrag Signalbild="85" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="171"/>
+<MatrixEintrag Signalbild="341" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="-0.0146" pos="1">
@@ -18237,11 +18243,17 @@
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht2.lod.ls3"/>
 </SignalFrame>
+<SignalFrame>
+<p X="0" Y="-4.75" Z="1"/>
+<phi X="1.500983"/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\Halbschrankenbehang_5m_rechts.lod.ls3"/>
+</SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="43"/>
-<MatrixEintrag Signalbild="85" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="171"/>
+<MatrixEintrag Signalbild="341" MatrixGeschw="-1"/>
 </Signal>
 </InfoGegenRichtung>
 <NachGegen Nr="1859"/>
@@ -27829,7 +27841,7 @@
 <g X="3415.3694" Y="-1437.8894" Z="398.8845"/>
 <b X="3410.157" Y="-1430.2419" Z="398.8865"/>
 <InfoNormRichtung vMax="38.8889" km="407.052">
-<Ereignis Er="1000027" Wert="221"/>
+<Ereignis Er="1000027" Wert="221" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedling 1" Stellwerk="BÜ Reichenau-Waldsiedling 1" Signalname="BÜ Reichenau-Waldsiedling 1" SignalTyp="14" BoundingR="1">
 <p X="3412.6399" Y="-1433.89" Z="398.89"/>
 <phi/>
@@ -27854,7 +27866,7 @@
 <g X="3412.0649" Y="-1440.142" Z="398.8845"/>
 <b X="3406.853" Y="-1432.495" Z="398.8865"/>
 <InfoNormRichtung vMax="38.8889" km="407.052">
-<Ereignis Er="1000027" Wert="219"/>
+<Ereignis Er="1000027" Wert="219" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedling 1" Stellwerk="BÜ Reichenau-Waldsiedling 1" Signalname="BÜ Reichenau-Waldsiedling 1" SignalTyp="14" BoundingR="1">
 <p X="3409.4099" Y="-1436.25" Z="398.89"/>
 <phi/>
@@ -27889,7 +27901,7 @@
 <g X="79.4195" Y="610.3086" Z="399.2998"/>
 <b X="42.6027" Y="628.8305" Z="399.2998"/>
 <InfoNormRichtung vMax="38.8889" km="402.9954">
-<Ereignis Er="1000027" Wert="243"/>
+<Ereignis Er="1000027" Wert="243" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hinnengasse" Stellwerk="BÜ Hinnengasse" Signalname="BÜ Hinnengasse" SignalTyp="14" BoundingR="1">
 <p X="71.92" Y="614.08" Z="399.3"/>
 <phi/>
@@ -27905,7 +27917,7 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
 <Ereignis Er="1000010" Beschr="Allensbach"/>
-<Ereignis Er="1000027" Wert="242"/>
+<Ereignis Er="1000027" Wert="242" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hinnengasse" Stellwerk="BÜ Hinnengasse" Signalname="BÜ Hinnengasse" SignalTyp="14" BoundingR="1">
 <p X="71.92" Y="614.08" Z="399.3"/>
 <phi Z="3.141593"/>
@@ -27926,7 +27938,7 @@
 <g X="80.9853" Y="604.4765" Z="399.2998"/>
 <b X="43.7685" Y="623.1996" Z="399.2998"/>
 <InfoNormRichtung vMax="38.8889" km="402.9998">
-<Ereignis Er="1000027" Wert="245"/>
+<Ereignis Er="1000027" Wert="245" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hinnengasse" Stellwerk="BÜ Hinnengasse" Signalname="BÜ Hinnengasse" SignalTyp="14" BoundingR="1">
 <p X="72.37" Y="608.81" Z="399.3"/>
 <phi/>
@@ -27942,7 +27954,7 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
 <Ereignis Er="1000007" Beschr="Allensbach"/>
-<Ereignis Er="1000027" Wert="244"/>
+<Ereignis Er="1000027" Wert="244" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hinnengasse" Stellwerk="BÜ Hinnengasse" Signalname="BÜ Hinnengasse" SignalTyp="14" BoundingR="1">
 <p X="72.37" Y="608.81" Z="399.3"/>
 <phi Z="3.141593"/>
@@ -28162,7 +28174,7 @@
 <g X="-334.1902" Y="814.1473" Z="400.1416"/>
 <b X="-349.3189" Y="821.7267" Z="400.1858"/>
 <InfoNormRichtung vMax="38.8889" km="402.3188">
-<Ereignis Er="1000027" Wert="274"/>
+<Ereignis Er="1000027" Wert="274" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Schlappengasse" Stellwerk="BÜ Schlappengasse" Signalname="BÜ Schlappengasse" SignalTyp="14" BoundingR="1">
 <p X="-341.32" Y="817.72" Z="400.16"/>
 <phi/>
@@ -28177,7 +28189,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
-<Ereignis Er="1000027" Wert="273"/>
+<Ereignis Er="1000027" Wert="273" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Schlappengasse" Stellwerk="BÜ Schlappengasse" Signalname="BÜ Schlappengasse" SignalTyp="14" BoundingR="1">
 <p X="-341.32" Y="817.72" Z="400.16"/>
 <phi Z="3.141593"/>
