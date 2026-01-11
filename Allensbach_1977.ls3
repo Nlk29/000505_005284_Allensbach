@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte Flags="4" BoundingR="598" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Kacheln\32_505500_5284500.ls3"/>
+<p X="500" Y="500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="708" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Kacheln\32_508500_5281500.ls3"/>
+<p X="3500" Y="-2500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="708" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Kacheln\32_509500_5281500.ls3"/>
+<p X="4500" Y="-2500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="708" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Kacheln\32_508500_5282500.ls3"/>
+<p X="3500" Y="-1500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="708" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Kacheln\32_506500_5283500.ls3"/>
+<p X="1500" Y="-500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="606" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Kacheln\32_507500_5283500.ls3"/>
+<p X="2500" Y="-500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="708" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Kacheln\32_508500_5283500.ls3"/>
+<p X="3500" Y="-500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="708" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Kacheln\32_504500_5284500.ls3"/>
+<p X="-500" Y="500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="708" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Kacheln\32_506500_5284500.ls3"/>
+<p X="1500" Y="500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="708" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Kacheln\32_502500_5285500.ls3"/>
+<p X="-2500" Y="1500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="614" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Kacheln\32_503500_5285500.ls3"/>
+<p X="-1500" Y="1500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="708" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Kacheln\32_504500_5285500.ls3"/>
+<p X="-500" Y="1500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="575" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Kacheln\32_501500_5286500.ls3"/>
+<p X="-3500" Y="2500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="708" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Kacheln\32_502500_5286500.ls3"/>
+<p X="-2500" Y="2500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="708" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Kacheln\32_509500_5282500.ls3"/>
+<p X="4500" Y="-1500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Ankerpunkt AnkerKat="2" Beschreibung="Esig C" Farbe="00FFFF00">
+<p X="4070.7839" Y="-2044.072" Z="398.7564"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="BÜ" Farbe="00FFFF00">
+<p X="3730.7771" Y="-1817.317" Z="398.8804"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="BÜ" Farbe="00FFFF00">
+<p X="3410.613" Y="-1434.338" Z="398.8845"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Hp" Farbe="00FFFF00">
+<p X="3456.207" Y="-1494.416" Z="398.6396"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Hp" Farbe="00FFFF00">
+<p X="3449.625" Y="-1499.454" Z="398.6735"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Durchlass" Farbe="00FFFF00">
+<p X="3208.3279" Y="-1137.6689" Z="398.79"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Hp" Farbe="00FFFF00">
+<p X="2492.1479" Y="-377.8261" Z="399.7724"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Hp" Farbe="00FFFF00">
+<p X="2488.678" Y="-385.1077" Z="400.2456"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="BÜ" Farbe="00FFFF00">
+<p X="1601.927" Y="-47.7662" Z="399.8846"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Brücke" Farbe="00FFFF00">
+<p X="555.6025" Y="365.5656" Z="398.4789"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Durchlass" Farbe="00FFFF00">
+<p X="32.4295" Y="631.6181"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Durchlass" Farbe="00FFFF00">
+<p X="-41.0992" Y="668.6716"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="BÜ" Farbe="00FFFF00">
+<p X="-159.8578" Y="728.3782"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="BÜ" Farbe="00FFFF00">
+<p X="-340.3085" Y="819.3527"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Durchlass" Farbe="00FFFF00">
+<p X="-614.4348" Y="956.9683"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Durchlass" Farbe="00FFFF00">
+<p X="-841.7725" Y="1071.048"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="BÜ" Farbe="00FFFF00">
+<p X="-1169.828" Y="1247.304"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="BÜ" Farbe="00FFFF00">
+<p X="-1593.4821" Y="1508.2209" Z="402.7394"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Durchlass" Farbe="00FFFF00">
+<p X="-2155.4351" Y="1853.9449" Z="402.402"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Durchlass" Farbe="00FFFF00">
+<p X="-2351.301" Y="1952.808" Z="402.1786"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="BÜ" Farbe="00FFFF00">
+<p X="-2683.4041" Y="2090.625" Z="401.5679"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="BÜ" Farbe="00FFFF00">
+<p X="-3081.3601" Y="2255.6609" Z="401.1168"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Durchlass" Farbe="00FFFF00">
+<p X="-3388.3569" Y="2383.04" Z="398.7893"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Wärterposten" Farbe="00FFFF00">
+<p X="3726.7419" Y="-1832.8101" Z="398.842"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Wärterposten" Farbe="00FFFF00">
+<p X="3409.5559" Y="-1399.625" Z="401.3716"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="BÜ" Farbe="00FFFF00">
+<p X="2995.624" Y="-825.62" Z="399.6328"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Wärterposten" Farbe="00FFFF00">
+<p X="2996.855" Y="-797.3066" Z="399.4334"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Durchlass" Farbe="00FFFF00">
+<p X="2876.7361" Y="-659.6881" Z="399.6374"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Haus Form unbekannt" Farbe="00FFFF00">
+<p X="2482.3091" Y="-394.2523" Z="398.8381"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Wärterposten" Farbe="00FFFF00">
+<p X="2485.48" Y="-367.7981" Z="399.1416"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Entwässerungsgraben" Farbe="00FFFF00">
+<p X="2361.9231" Y="-357.05" Z="396.9927"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Haus" Farbe="00FFFF00">
+<p X="1839.444" Y="-93.1567" Z="404.3956"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Wärterposten" Farbe="00FFFF00">
+<p X="1595.693" Y="-25.1677" Z="401.3824"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Haus unbekannt" Farbe="00FFFF00">
+<p X="1559.016" Y="-122.3892" Z="396.9531"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Entwässerungsgraben" Farbe="00FFFF00">
+<p X="1224.642" Y="94.075" Z="399.6743"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Stellwerk Aw?" Farbe="00FFFF00">
+<p X="704.8151" Y="302.7344" Z="399.2413"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Laderampe" Farbe="00FFFF00">
+<p X="457.6966" Y="433.481" Z="399.5691"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Güterschuppen" Farbe="00FFFF00">
+<p X="383.9353" Y="474.7547" Z="399.0382"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Haus" Farbe="00FFFF00">
+<p X="352.4547" Y="491.4796" Z="399.0626"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Mühlbach" Farbe="00FFFF00">
+<p X="220.0184" Y="513.3519" Z="396.5143"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Kannal" Farbe="00FFFF00">
+<p X="235.894" Y="529.4016" Z="398.6177"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Kanal" Farbe="00FFFF00">
+<p X="252.6033" Y="546.1825" Z="398.1738"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Haus?" Farbe="00FFFF00">
+<p X="329.7717" Y="500.8318" Z="399.1203"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Haus Form unbekannt" Farbe="00FFFF00">
+<p X="165.362" Y="578.0696" Z="399.0832"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Empfangsgebäude" Farbe="00FFFF00">
+<p X="126.6986" Y="597.9374" Z="399.3124"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Haus Form unbekannt" Farbe="00FFFF00">
+<p X="101.3284" Y="610.5262" Z="398.8532"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Haus Funktionm unbekannt" Farbe="00FFFF00">
+<p X="89.9413" Y="614.9485" Z="398.5599"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Bäckerei" Farbe="00FFFF00">
+<p X="26.6702" Y="647.0347" Z="396.925"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Kirche" Farbe="00FFFF00">
+<p X="-66.12" Y="725.8629" Z="399.5555"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Museum" Farbe="00FFFF00">
+<p X="-85.5741" Y="709.7914" Z="398.2071"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Rathaus" Farbe="00FFFF00">
+<p X="-23.5021" Y="676.3718" Z="397.2774"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Haus?" Farbe="00FFFF00">
+<p X="177.058" Y="573.5889" Z="398.966"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Gewächshaus" Farbe="00FFFF00">
+<p X="-849.9387" Y="1121.425" Z="403.7865"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Wärterposten" Farbe="00FFFF00">
+<p X="-1174.051" Y="1259.052" Z="402.8821"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Wärterposten?" Farbe="00FFFF00">
+<p X="-1982.651" Y="1773.532" Z="404.6178"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="BÜ?" Farbe="00FFFF00">
+<p X="-2001.922" Y="1759.762" Z="402.636"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Haus?" Farbe="00FFFF00">
+<p X="-1999.699" Y="1789.785" Z="403.651"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Weg?" Farbe="00FFFF00">
+<p X="-2006.587" Y="1751.277" Z="403.5125"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Wärterposten" Farbe="00FFFF00">
+<p X="-2672.126" Y="2074.0581" Z="401.0067"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="SbkVSig" Farbe="00FFFF00">
+<p X="2935.116" Y="-728.6202" Z="399.2494"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Sbk 6" Farbe="00FFFF00">
+<p X="2091.0391" Y="-226.8213" Z="399.6007"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="SbkVSig 5" Farbe="00FFFF00">
+<p X="1868.343" Y="-152.1376" Z="399.5466"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="SbkWVsig" Farbe="00FFFF00">
+<p X="2647.99" Y="-465.5257" Z="398.6289"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Sbk 5" Farbe="00FFFF00">
+<p X="2789.7549" Y="-573.8585" Z="398.9214"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="SbkVSig" Farbe="00FFFF00">
+<p X="-3578.2019" Y="2467.3779" Z="399.8446"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Esig A" Farbe="00FFFF00">
+<p X="-109.4888" Y="699.1498" Z="398.8622"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="EVSig" Farbe="00FFFF00">
+<p X="-716.4688" Y="1004.356" Z="401.5446"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="ASig C" Farbe="00FFFF00">
+<p X="734.4006" Y="276.717" Z="399.0421"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="ASig B" Farbe="00FFFF00">
+<p X="576.4308" Y="348.1743" Z="398.1134"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="ESig D" Farbe="00FFFF00">
+<p X="904.7487" Y="217.0852" Z="399.3512"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="EVSig" Farbe="00FFFF00">
+<p X="1770.574" Y="-105.7916" Z="399.4719"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="ASig E" Farbe="00FFFF00">
+<p X="333.2696" Y="474.7022" Z="398.6309"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="ASig F" Farbe="00FFFF00">
+<p X="-48.3564" Y="676.8621" Z="398.5409"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="BÜ" Farbe="00FFFF00">
+<p X="2467.8411" Y="-372.4622" Z="399.8139"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="EVsig C" Farbe="00FFFF00">
+<p X="3397.636" Y="-1423.616" Z="398.4993"/>
+<phi/>
+</Ankerpunkt>
+</Landschaft>
+</Zusi>

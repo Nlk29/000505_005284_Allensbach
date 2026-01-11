@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=3,32310795783997  kr=-0,000225070994929411  ue=0,0133988903835416	  l=3,32310795783997  kr=-0,000248822499997914  ue=0,0150574799627066	  l=3,32310795783997  kr=-0,000272573990514502  ue=0,0167160797864199	  l=3,32310795783997  kr=-0,00029632551013492  ue=0,0183746702969074	  l=3,32310795783997  kr=-0,000320077000651509  ue=0,020033260807395	  l=3,32310795783997  kr=-0,000343828491168097  ue=0,0216918606311083	  l=3,32310795783997  kr=-0,000367580010788515  ue=0,0233504492789507	  l=3,32310795783997  kr=-0,000391331501305103  ue=0,025009049102664	  l=3,32310795783997  kr=-0,000415083108237013  ue=0,0266676396131515	  l=3,62310290336609  kr=-0,000438834598753601  ue=0,0283262394368649	">
+<AutorEintrag AutorID="8" AutorName="Joerg Sanftleben" AutorEmail="joergsanftleben@aol.com"/>
+</Info>
+<Landschaft>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="1000" Vorlade="1" LODbit="15">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\lod\DKW_SignalKasten.lod1.ls3"/>
+<p X="0.0079" Y="-0.035" Z="0.0476"/>
+<phi Z="-0.004492"/>
+<sk/>
+</Verknuepfte>
+</Landschaft>
+</Zusi>

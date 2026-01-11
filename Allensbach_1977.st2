@@ -1,0 +1,3015 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Zusi>
+  <Info DateiTyp="Gleisplan" Version="A.1" MinVersion="A.1">
+    <AutorEintrag AutorID="0" AutorName="" AutorEmail="" AutorAufwand="0" AutorBeschreibung="" />
+  </Info>
+  <Gleisplan>
+    <HGBilder>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="Y:\Gleispläne\IVL\IVL Radolfzell - Reichenau\dbimmaps_dbag_20251226154206_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="Y:\Gleispläne\IVL\IVL Radolfzell - Reichenau\dbimmaps_dbag_20251226154306_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="Y:\Gleispläne\IVL\IVL Radolfzell - Reichenau\dbimmaps_dbag_20251226154344_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="Y:\Gleispläne\IVL\IVL Radolfzell - Reichenau\dbimmaps_dbag_20251226154408_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="Y:\Gleispläne\IVL\IVL Radolfzell - Reichenau\dbimmaps_dbag_20251226154433_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="Y:\Gleispläne\IVL\IVL Radolfzell - Reichenau\dbimmaps_dbag_20251226154513_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="Y:\Gleispläne\IVL\IVL Radolfzell - Reichenau\dbimmaps_dbag_20251226154542_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="Y:\Gleispläne\IVL\IVL Radolfzell - Reichenau\dbimmaps_dbag_20251226154621_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="Y:\Gleispläne\IVL\IVL Radolfzell - Reichenau\dbimmaps_dbag_20251229091607_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="Y:\Gleispläne\IVL\IVL Radolfzell - Reichenau\dbimmaps_dbag_20251229091642_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="Y:\Gleispläne\IVL\IVL Radolfzell - Reichenau\dbimmaps_dbag_20251229091959_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="Y:\Gleispläne\IVL\IVL Radolfzell - Reichenau\dbimmaps_dbag_20251229092051_georef.trf" />
+      </Bild>
+    </HGBilder>
+    <Lageplan>
+      <UTM UTM_WE="505" UTM_NS="5284" UTM_Zone="32" UTM_Zone2="T" />
+      <Huellkurve>
+        <PunktXYZ X="7539.18" Y="-4299" />
+        <PunktXYZ X="3361.593" Y="-3915.282" />
+        <PunktXYZ X="5071.401" Y="-299.13" />
+        <PunktXYZ X="9800.553" Y="-1473.481" />
+        <PunktXYZ X="11021.97" Y="-2506.988" />
+        <PunktXYZ X="9228.338" Y="-5369.862" />
+      </Huellkurve>
+      <DEM>
+        <Datei Dateiname="..\..\..\niklas\Desktop\Allensbach DGM\unified_t.dem" />
+      </DEM>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="6.629891E-05" WinkelAnf="-2.010556" WinkelLauf="-0.007377611">
+        <PunktWinkel X="4214.569" Y="-2111.267" W="2.701833" />
+        <PunktWinkel X="4114.054" Y="-2063.522" W="-0.4471372" />
+        <Punkt X="10635.82" Y="11536.83" />
+      </Kreisbogen>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="4216.497" Y="-2107.206" W="2.699923" />
+        <PunktWinkel X="4141.938" Y="-2071.953" W="5.841516" />
+      </Gerade>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="144.4878" R="-1867.063">
+        <PunktWinkel X="4141.938" Y="-2071.953" W="2.69992" />
+        <PunktWinkel X="4012.132" Y="-2008.516" W="5.802819" Ueberh="0.04188791" />
+      </Klothoide>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.0006583278" WinkelAnf="-2.060866" WinkelLauf="-0.1679473">
+        <PunktWinkel X="4012.131" Y="-2008.515" W="2.651523" Ueberh="-0.04188791" />
+        <PunktWinkel X="3798.162" Y="-1870.144" W="-0.658017" Ueberh="0.04188791" />
+        <Punkt X="4727.105" Y="-668.3013" />
+      </Kreisbogen>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="136.2266" R="-1592.762" KrAnf="-6.629893E-05">
+        <PunktWinkel X="4127.033" Y="-2069.745" W="2.694932" Ueberh="3.807874E-10" />
+        <PunktWinkel X="4005.032" Y="-2009.161" W="5.79376" Ueberh="0.04188791" />
+      </Klothoide>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.0006565988" WinkelAnf="-2.065302" WinkelLauf="-0.1640314">
+        <PunktWinkel X="4005.03" Y="-2009.161" W="2.647087" Ueberh="-0.04188791" />
+        <PunktWinkel X="3795.825" Y="-1873.134" W="-0.658537" Ueberh="0.04188791" />
+        <Punkt X="4727.841" Y="-668.6111" />
+      </Kreisbogen>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.0006776812" WinkelAnf="-2.228813" WinkelLauf="-0.2784429">
+        <PunktWinkel X="3798.163" Y="-1870.144" W="2.483576" Ueberh="-0.04188791" />
+        <PunktWinkel X="3512.016" Y="-1577.14" W="-0.9364594" Ueberh="0.04188791" />
+        <Punkt X="4700.576" Y="-702.6235" />
+      </Kreisbogen>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.000671141" WinkelAnf="-2.228826" WinkelLauf="-0.2764858">
+        <PunktWinkel X="3795.824" Y="-1873.134" W="2.483563" Ueberh="-0.04188791" />
+        <PunktWinkel X="3508.623" Y="-1579.618" W="-0.9345153" Ueberh="0.04188791" />
+        <Punkt X="4707.047" Y="-694.2476" />
+      </Kreisbogen>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="3444.73" Y="-1488.069" W="2.169044" />
+        <PunktWinkel X="2989.343" Y="-819.9229" W="5.310637" />
+      </Gerade>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="111.6509" R="1667.914">
+        <PunktWinkel X="3444.73" Y="-1488.069" W="-0.9725483" />
+        <PunktWinkel X="3508.634" Y="-1579.617" W="2.202515" Ueberh="-0.04188791" />
+      </Klothoide>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="3448.035" Y="-1485.816" W="2.169044" />
+        <PunktWinkel X="2992.648" Y="-817.6702" W="5.310637" />
+      </Gerade>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="111.5146" R="1439.19">
+        <PunktWinkel X="3448.035" Y="-1485.816" W="-0.9725483" />
+        <PunktWinkel X="3512.02" Y="-1577.138" W="2.207787" Ueberh="-0.04188791" />
+      </Klothoide>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="246.0428" R="904">
+        <PunktWinkel X="2992.648" Y="-817.6702" W="2.165053" />
+        <PunktWinkel X="2845.91" Y="-620.4257" W="5.442731" Ueberh="-0.06283185" />
+      </Klothoide>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="245.726" R="900">
+        <PunktWinkel X="2989.343" Y="-819.9229" W="2.165624" />
+        <PunktWinkel X="2842.654" Y="-623.038" W="5.443731" Ueberh="-0.06283185" />
+      </Klothoide>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.001111111" WinkelAnf="0.7363769" WinkelLauf="0.350289">
+        <PunktWinkel X="2842.659" Y="-623.0338" W="2.307173" Ueberh="0.06283185" />
+        <PunktWinkel X="2594.738" Y="-430.9088" W="-0.4841305" Ueberh="-0.06283185" />
+        <Punkt X="2175.843" Y="-1227.481" />
+      </Kreisbogen>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.001106195" WinkelAnf="0.7365434" WinkelLauf="0.350953">
+        <PunktWinkel X="2845.911" Y="-620.426" W="2.30734" Ueberh="0.06283185" />
+        <PunktWinkel X="2596.325" Y="-427.2097" W="-0.4832999" Ueberh="-0.06283185" />
+        <Punkt X="2176.233" Y="-1227.671" />
+      </Kreisbogen>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="853.766" Y="230.5479" W="-0.3584402" />
+        <PunktWinkel X="2384.31" Y="-342.8292" W="2.783153" />
+      </Gerade>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="869.8521" Y="228.7928" W="-0.3584404" />
+        <PunktWinkel X="2385.472" Y="-338.9937" W="2.783152" />
+      </Gerade>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="627.585" Y="329.4918" W="2.675482" />
+        <PunktWinkel X="600.2377" Y="343.2498" W="5.817074" />
+      </Gerade>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="187.7021" Y="555.8336" W="2.675483" />
+        <PunktWinkel X="-29.94702" Y="665.3289" W="5.817075" />
+      </Gerade>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="14.79619" R="-12400.18">
+        <PunktWinkel X="869.8521" Y="228.7928" W="2.781735" />
+        <PunktWinkel X="856.0047" Y="234.0059" W="5.922731" Ueberh="0.005033234" />
+      </Klothoide>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.000671141" WinkelAnf="-1.973761" WinkelLauf="-0.03166329">
+        <PunktWinkel X="755.2185" Y="273.7354" W="2.738628" Ueberh="-0.04188791" />
+        <PunktWinkel X="712.1192" Y="292.9202" W="-0.4346279" Ueberh="0.04188791" />
+        <Punkt X="1339.518" Y="1644.39" />
+      </Kreisbogen>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.0007220217" WinkelAnf="-1.966343" WinkelLauf="-0.03392669">
+        <PunktWinkel X="759.6238" Y="267.1732" W="2.746046" Ueberh="-0.04537856" />
+        <PunktWinkel X="716.5789" Y="286.0105" W="-0.4294735" Ueberh="0.04537856" />
+        <Punkt X="1293.282" Y="1545.232" />
+      </Kreisbogen>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="99.0529" R="1385">
+        <PunktWinkel X="627.585" Y="329.4918" W="-0.4663607" />
+        <PunktWinkel X="716.5797" Y="286.014" W="2.710991" Ueberh="-0.04537856" />
+      </Klothoide>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="84.1209" R="1490">
+        <PunktWinkel X="636.6121" Y="329.9952" W="-0.4658424" />
+        <PunktWinkel X="712.1189" Y="292.9203" W="2.703979" Ueberh="-0.04188791" />
+      </Klothoide>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="5E-05" WinkelAnf="-2.036907" WinkelLauf="-0.002989749">
+        <PunktWinkel X="-42.57219" Y="666.6419" W="2.675482" />
+        <PunktWinkel X="-95.94817" Y="693.5945" W="-0.4691003" />
+        <Punkt X="8945.732" Y="18533.1" />
+      </Kreisbogen>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-95.95801" Y="693.5993" W="2.672489" />
+        <PunktWinkel X="-284.1089" Y="788.9615" W="5.814082" />
+      </Gerade>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="5E-05" WinkelAnf="1.103176" WinkelLauf="0.00364913">
+        <PunktWinkel X="-284.1116" Y="788.9478" W="2.673972" />
+        <PunktWinkel X="-349.3189" Y="821.7267" W="-0.4639712" />
+        <Punkt X="-9299.38" Y="-17063.92" />
+      </Kreisbogen>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-349.3159" Y="821.7353" W="2.676333" />
+        <PunktWinkel X="-972.1299" Y="1134.398" W="5.817926" />
+      </Gerade>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="1.428571E-05" WinkelAnf="-2.036906" WinkelLauf="-0.0003575907">
+        <PunktWinkel X="-29.97797" Y="665.3169" W="2.675483" />
+        <PunktWinkel X="-52.33706" Y="676.5703" W="-0.4664672" />
+        <Punkt X="31429.04" Y="63197.98" />
+      </Kreisbogen>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-52.31152" Y="676.5916" W="2.67438" />
+        <PunktWinkel X="-252.0227" Y="777.3387" W="5.815973" />
+      </Gerade>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="5E-05" WinkelAnf="1.103584" WinkelLauf="0.0012927">
+        <PunktWinkel X="-252.0281" Y="777.3359" W="2.67438" />
+        <PunktWinkel X="-275.1188" Y="788.9656" W="-0.4659196" />
+        <Punkt X="-9260.01" Y="-17079.21" />
+      </Kreisbogen>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-275.1167" Y="788.9646" W="2.676313" />
+        <PunktWinkel X="-970.3331" Y="1137.992" W="5.817906" />
+      </Gerade>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="84.9348" R="-1571">
+        <PunktWinkel X="-970.333" Y="1137.992" W="2.675422" />
+        <PunktWinkel X="-1045.855" Y="1176.848" W="5.789983" Ueberh="0.03839725" />
+      </Klothoide>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="85.0516" R="-1575">
+        <PunktWinkel X="-972.13" Y="1134.398" W="2.675569" />
+        <PunktWinkel X="-1047.762" Y="1173.296" W="5.790161" Ueberh="0.03839725" />
+      </Klothoide>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.0006349206" WinkelAnf="-2.064572" WinkelLauf="-0.03194872">
+        <PunktWinkel X="-1047.763" Y="1173.296" W="2.647817" Ueberh="-0.03839725" />
+        <PunktWinkel X="-1091.683" Y="1197.849" W="-0.5257245" Ueberh="0.03839725" />
+        <Punkt X="-301.2852" Y="2560.162" />
+      </Kreisbogen>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.0006365372" WinkelAnf="-2.064181" WinkelLauf="-0.03193251">
+        <PunktWinkel X="-1045.856" Y="1176.847" W="2.648208" Ueberh="-0.03839725" />
+        <PunktWinkel X="-1089.652" Y="1201.308" W="-0.5253173" Ueberh="0.03839725" />
+        <Punkt X="-301.8149" Y="2560.482" />
+      </Kreisbogen>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-1162.331" Y="1245.187" W="2.589678" />
+        <PunktWinkel X="-2104.498" Y="1825.32" W="5.73127" />
+      </Gerade>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-1164.428" Y="1241.781" W="2.589678" />
+        <PunktWinkel X="-2106.595" Y="1821.914" W="5.73127" />
+      </Gerade>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="84.9012" R="1571">
+        <PunktWinkel X="-1162.331" Y="1245.187" W="-0.5521334" />
+        <PunktWinkel X="-1089.65" Y="1201.31" W="2.616481" Ueberh="-0.03839725" />
+      </Klothoide>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="84.9845" R="1575">
+        <PunktWinkel X="-1164.428" Y="1241.781" W="-0.552309" />
+        <PunktWinkel X="-1091.684" Y="1197.847" W="2.616263" Ueberh="-0.03839725" />
+      </Klothoide>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="90.7281" R="1448.5">
+        <PunktWinkel X="-2104.498" Y="1825.32" W="2.589678" />
+        <PunktWinkel X="-2182.244" Y="1872.079" W="5.762589" Ueberh="-0.04188791" />
+      </Klothoide>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="90.6545" R="1444.5">
+        <PunktWinkel X="-2106.595" Y="1821.914" W="2.589678" />
+        <PunktWinkel X="-2184.279" Y="1868.634" W="5.76265" Ueberh="-0.04188791" />
+      </Klothoide>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.0006922811" WinkelAnf="1.0512" WinkelLauf="0.09572355">
+        <PunktWinkel X="-2184.279" Y="1868.634" W="2.621996" Ueberh="0.04188791" />
+        <PunktWinkel X="-2307.403" Y="1931.445" W="-0.4238727" Ueberh="-0.04188791" />
+        <Punkt X="-2901.516" Y="614.7792" />
+      </Kreisbogen>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.0006903693" WinkelAnf="1.051175" WinkelLauf="0.09576474">
+        <PunktWinkel X="-2182.245" Y="1872.078" W="2.621971" Ueberh="0.04188791" />
+        <PunktWinkel X="-2305.763" Y="1935.092" W="-0.4238566" Ueberh="-0.04188791" />
+        <Punkt X="-2901.5" Y="614.7698" />
+      </Kreisbogen>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-3646.014" Y="2492.463" W="-0.393478" />
+        <PunktWinkel X="-2389.231" Y="1970.739" W="2.748115" />
+      </Gerade>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-3647.548" Y="2488.769" W="-0.3934781" />
+        <PunktWinkel X="-2390.765" Y="1967.045" W="2.748115" />
+      </Gerade>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="90.6493" R="-1444.5">
+        <PunktWinkel X="-2390.765" Y="1967.045" W="-0.3932173" />
+        <PunktWinkel X="-2307.405" Y="1931.439" W="2.716998" Ueberh="0.04188791" />
+      </Klothoide>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="90.766" R="-1448.5">
+        <PunktWinkel X="-2389.231" Y="1970.739" W="-0.3932118" />
+        <PunktWinkel X="-2305.763" Y="1935.089" W="2.71705" Ueberh="0.04188791" />
+      </Klothoide>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="228.6929" R="-1008.099">
+        <PunktWinkel X="2385.472" Y="-338.9937" W="-0.3584402" />
+        <PunktWinkel X="2596.324" Y="-427.209" W="2.669725" Ueberh="0.06283185" />
+      </Klothoide>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="228.2467" R="-1002.343">
+        <PunktWinkel X="2384.31" Y="-342.8292" W="-0.3584402" />
+        <PunktWinkel X="2594.738" Y="-430.902" W="2.669296" Ueberh="0.06283185" />
+      </Klothoide>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="274.8649" Y="511.9836" W="2.675483" />
+        <PunktWinkel X="211.9458" Y="543.637" W="5.817076" />
+      </Gerade>
+      <Weiche ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" Beschreibung="190 1:9 Rechts" Signalname="1">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="27.13872" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="1.570796" WinkelLauf="-0.1106572">
+            <PunktWinkel X="5.964413E-05" Y="-3.051759E-05" W="6.283185" />
+            <PunktWinkel X="20.98204" Y="-1.162127" W="3.030935" />
+            <Punkt Y="-190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="20.98199" Y="-1.16209" W="-0.1106574" />
+            <PunktWinkel X="27.03709" Y="-1.83488" W="3.030935" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="187.7021" Y="555.8336" W="-0.4661101" />
+        <PunktWinkel X="27.13872" W="3.141593" />
+        <PunktWinkel X="27.03909" Y="-1.83488" W="3.030936" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-9_Rechts_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="211.0322" Y="542.0427" W="-0.5767649" />
+        <PunktWinkel X="217.3811" Y="537.9124" W="2.564828" />
+      </Gerade>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="216.4677" Y="536.3177" W="2.675482" />
+        <PunktWinkel X="-42.58105" Y="666.6406" W="5.817075" />
+      </Gerade>
+      <Weiche ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" Beschreibung="190 1:9 Rechts" Signalname="2">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="27.13872" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="1.570796" WinkelLauf="-0.1106572">
+            <PunktWinkel X="5.964413E-05" Y="-3.051759E-05" W="6.283185" />
+            <PunktWinkel X="20.98204" Y="-1.162127" W="3.030935" />
+            <Punkt Y="-190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="20.98199" Y="-1.16209" W="-0.1106574" />
+            <PunktWinkel X="27.03709" Y="-1.83488" W="3.030935" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="240.7113" Y="524.1212" W="2.675483" />
+        <PunktWinkel X="27.13872" W="3.141593" />
+        <PunktWinkel X="27.03909" Y="-1.83488" W="3.030936" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-9_Rechts_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="507.4728" Y="400.0001" W="2.675482" />
+        <PunktWinkel X="404.2881" Y="451.9105" W="5.817075" />
+      </Gerade>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="478.7585" Y="419.4831" W="2.67548" />
+        <PunktWinkel X="437.048" Y="440.467" W="5.817073" />
+      </Gerade>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="341.7988" Y="478.3104" W="2.675483" />
+        <PunktWinkel X="299.1085" Y="499.7871" W="5.817075" />
+      </Gerade>
+      <Weiche ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" Beschreibung="190 1:9 Links" Signalname="3">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="27.13872" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="-1.570796" WinkelLauf="0.1106572">
+            <PunktWinkel X="5.964413E-05" Y="1.52588E-05" W="3.139165E-07" />
+            <PunktWinkel X="20.98204" Y="1.162112" W="-3.030935" />
+            <Punkt Y="190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="20.98199" Y="1.16209" W="0.1106574" />
+            <PunktWinkel X="27.03709" Y="1.83488" W="3.25225" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="274.8647" Y="511.9836" W="-0.4661101" />
+        <PunktWinkel X="27.13872" W="3.141593" />
+        <PunktWinkel X="27.03909" Y="1.83488" W="3.25225" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-9_Links_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="299.8441" Y="501.471" W="-0.355168" />
+        <PunktWinkel X="306.8744" Y="498.8635" W="2.786425" />
+      </Gerade>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="307.61" Y="500.5474" W="2.675482" />
+        <PunktWinkel X="288.8105" Y="510.0051" W="5.817075" />
+      </Gerade>
+      <Weiche ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" Beschreibung="190 1:9 Links" Signalname="4">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="27.13872" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="-1.570796" WinkelLauf="0.1106572">
+            <PunktWinkel X="5.964413E-05" Y="1.52588E-05" W="3.139165E-07" />
+            <PunktWinkel X="20.98204" Y="1.162112" W="-3.030935" />
+            <Punkt Y="190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="20.98199" Y="1.16209" W="0.1106574" />
+            <PunktWinkel X="27.03709" Y="1.83488" W="3.25225" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="331.8536" Y="488.3509" W="2.675483" />
+        <PunktWinkel X="27.13872" W="3.141593" />
+        <PunktWinkel X="27.03909" Y="1.83488" W="3.25225" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-9_Links_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="374.6021" Y="466.845" W="2.675486" />
+        <PunktWinkel X="331.8535" Y="488.3509" W="5.817079" />
+      </Gerade>
+      <Weiche ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" Beschreibung="DKW54 190 1:9 Links" Signalname="6">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="33.23108" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="-1.570796" WinkelLauf="0.1106572">
+            <PunktWinkel X="6.092436" Y="1.52588E-05" W="3.139165E-07" />
+            <PunktWinkel X="27.07442" Y="1.162112" W="-3.030935" />
+            <Punkt X="6.09237" Y="190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="33.12946" Y="1.83488" W="-3.030936" />
+            <PunktWinkel X="0.10162" Y="-1.83488" W="0.1106571" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="1.570796" WinkelLauf="0.1106572">
+            <PunktWinkel X="27.13878" Y="-3.051759E-05" W="3.141592" />
+            <PunktWinkel X="6.156793" Y="-1.162114" W="0.1106569" />
+            <Punkt X="27.13871" Y="-190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="15.61554" Y="-1.9" W="0.05549848" />
+            <PunktWinkel X="17.41554" Y="-1.8" W="3.197091" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+            <PunktWinkel X="2.875" W="2.899931" />
+            <PunktWinkel X="0.65625" Y="0.546875" W="6.041523" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+            <PunktWinkel X="2.875" W="-2.885167" />
+            <PunktWinkel X="0.6605985" Y="-0.5806122" W="0.256426" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+            <PunktWinkel X="33.10608" Y="1.8125" W="-2.794342" />
+            <PunktWinkel X="30.90338" Y="1.015308" W="0.3472506" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+            <PunktWinkel X="33.10608" Y="1.8125" W="2.973874" />
+            <PunktWinkel X="30.92723" Y="2.1814" W="6.115466" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="404.2881" Y="451.9105" W="2.675483" />
+        <PunktWinkel X="33.23108" W="3.141593" />
+        <PunktWinkel X="33.12946" Y="1.83488" W="3.25225" />
+        <PunktWinkel X="0.10162" Y="-1.83488" W="0.1106572" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\DKW54_190_1-9_Links-Links_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.005263158" WinkelAnf="1.104686" WinkelLauf="0.1106582">
+        <PunktWinkel X="437.048" Y="440.4669" W="2.675482" />
+        <PunktWinkel X="417.7819" Y="448.8585" W="-0.3554521" />
+        <Punkt X="351.6592" Y="270.7356" />
+      </Kreisbogen>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="417.7819" Y="448.8585" W="2.786134" />
+        <PunktWinkel X="405.022" Y="453.5953" W="5.927726" />
+      </Gerade>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="373.8682" Y="465.1602" W="2.785444" />
+        <PunktWinkel X="366.7781" Y="467.7978" W="5.927036" />
+      </Gerade>
+      <Weiche ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" Beschreibung="190 1:9 Links" Signalname="5">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="27.13872" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="-1.570796" WinkelLauf="0.1106572">
+            <PunktWinkel X="5.964413E-05" Y="1.52588E-05" W="3.139165E-07" />
+            <PunktWinkel X="20.98204" Y="1.162112" W="-3.030935" />
+            <Punkt Y="190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="20.98199" Y="1.16209" W="0.1106574" />
+            <PunktWinkel X="27.03709" Y="1.83488" W="3.25225" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="341.7988" Y="478.3104" W="-0.4661101" />
+        <PunktWinkel X="27.13872" W="3.141593" />
+        <PunktWinkel X="27.03909" Y="1.83488" W="3.25225" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-9_Links_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="636.6121" Y="329.9952" W="2.675482" />
+        <PunktWinkel X="571.3982" Y="362.8032" W="5.817075" />
+      </Gerade>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="542.6274" Y="379.3312" W="2.566155" />
+        <PunktWinkel X="536.2435" Y="383.4722" W="5.707748" />
+      </Gerade>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="605.571" Y="350.6488" W="2.675483" />
+        <PunktWinkel X="537.1589" Y="385.0657" W="5.817075" />
+      </Gerade>
+      <Weiche ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" Beschreibung="DKW54 190 1:9 Rechts" Signalname="8">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="33.23108" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="1.570796" WinkelLauf="-0.1106572">
+            <PunktWinkel X="6.092436" Y="-3.051759E-05" W="6.283185" />
+            <PunktWinkel X="27.07442" Y="-1.162127" W="3.030935" />
+            <Punkt X="6.09237" Y="-190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="33.12946" Y="-1.83488" W="3.030936" />
+            <PunktWinkel X="0.10162" Y="1.83488" W="6.172528" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="-1.570796" WinkelLauf="-0.1106572">
+            <PunktWinkel X="27.13878" Y="1.52588E-05" W="3.141593" />
+            <PunktWinkel X="6.156793" Y="1.162099" W="-0.1106568" />
+            <Punkt X="27.13871" Y="190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="15.61554" Y="-1.8" W="-0.05549848" />
+            <PunktWinkel X="17.41554" Y="-1.9" W="3.086094" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+            <PunktWinkel X="2.875" W="2.899931" />
+            <PunktWinkel X="0.65625" Y="0.546875" W="6.041523" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+            <PunktWinkel X="2.875" W="-2.885167" />
+            <PunktWinkel X="0.6605985" Y="-0.5806122" W="0.256426" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+            <PunktWinkel X="33.23108" W="2.895056" />
+            <PunktWinkel X="30.95939" Y="0.5716832" W="6.036649" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+            <PunktWinkel X="33.23108" W="-2.873159" />
+            <PunktWinkel X="31.10036" Y="-0.5861027" W="0.268434" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="507.4728" Y="400.0001" W="-0.4661092" />
+        <PunktWinkel X="33.23108" W="3.141593" />
+        <PunktWinkel X="33.12946" Y="-1.83488" W="3.030936" />
+        <PunktWinkel X="0.10162" Y="1.83488" W="-0.1106572" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\DKW54_190_1-9_Rechts_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.005263158" WinkelAnf="1.104685" WinkelLauf="-0.110655">
+        <PunktWinkel X="478.7584" Y="419.4831" W="5.817074" />
+        <PunktWinkel X="496.9795" Y="409.0156" W="2.564826" />
+        <Punkt X="393.3694" Y="249.7518" />
+      </Kreisbogen>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="496.9795" Y="409.0156" W="-0.5767651" />
+        <PunktWinkel X="508.3882" Y="401.5936" W="2.564828" />
+      </Gerade>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="541.712" Y="377.7377" W="2.675482" />
+        <PunktWinkel X="366.0425" Y="466.1139" W="5.817075" />
+      </Gerade>
+      <Weiche ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" Beschreibung="DKW54 190 1:9 Rechts" Signalname="9">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="33.23108" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="1.570796" WinkelLauf="-0.1106572">
+            <PunktWinkel X="6.092436" Y="-3.051759E-05" W="6.283185" />
+            <PunktWinkel X="27.07442" Y="-1.162127" W="3.030935" />
+            <Punkt X="6.09237" Y="-190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="33.12946" Y="-1.83488" W="3.030936" />
+            <PunktWinkel X="0.10162" Y="1.83488" W="6.172528" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="-1.570796" WinkelLauf="-0.1106572">
+            <PunktWinkel X="27.13878" Y="1.52588E-05" W="3.141593" />
+            <PunktWinkel X="6.156793" Y="1.162099" W="-0.1106568" />
+            <Punkt X="27.13871" Y="190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="15.61554" Y="-1.8" W="-0.05549848" />
+            <PunktWinkel X="17.41554" Y="-1.9" W="3.086094" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+            <PunktWinkel X="2.875" W="2.899931" />
+            <PunktWinkel X="0.65625" Y="0.546875" W="6.041523" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+            <PunktWinkel X="2.875" W="-2.885167" />
+            <PunktWinkel X="0.6605985" Y="-0.5806122" W="0.256426" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+            <PunktWinkel X="33.23108" W="2.895056" />
+            <PunktWinkel X="30.95939" Y="0.5716832" W="6.036649" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+            <PunktWinkel X="33.23108" W="-2.873159" />
+            <PunktWinkel X="31.10036" Y="-0.5861027" W="0.268434" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="571.3982" Y="362.8032" W="2.675483" />
+        <PunktWinkel X="33.23108" W="3.141593" />
+        <PunktWinkel X="33.12946" Y="-1.83488" W="3.030936" />
+        <PunktWinkel X="0.10162" Y="1.83488" W="-0.1106572" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\DKW54_190_1-9_Rechts_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="570.4827" Y="361.2097" W="-0.5755932" />
+        <PunktWinkel X="576.9077" Y="357.0406" W="2.566" />
+      </Gerade>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="278.605" Y="505.0576" W="2.675483" />
+        <PunktWinkel X="240.7113" Y="524.1212" W="5.817075" />
+      </Gerade>
+      <Weiche ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" Beschreibung="190 1:9 Rechts" Signalname="10">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="27.13872" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="1.570796" WinkelLauf="-0.1106572">
+            <PunktWinkel X="5.964413E-05" Y="-3.051759E-05" W="6.283185" />
+            <PunktWinkel X="20.98204" Y="-1.162127" W="3.030935" />
+            <Punkt Y="-190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="20.98199" Y="-1.16209" W="-0.1106574" />
+            <PunktWinkel X="27.03709" Y="-1.83488" W="3.030935" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="600.2377" Y="343.2498" W="2.675483" />
+        <PunktWinkel X="27.13872" W="3.141593" />
+        <PunktWinkel X="27.03909" Y="-1.83488" W="3.030936" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-9_Rechts_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="575.994" Y="355.4463" W="2.675482" />
+        <PunktWinkel X="302.8486" Y="492.861" W="5.817075" />
+      </Gerade>
+      <Weiche ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" Beschreibung="190 1:9 Rechts" Signalname="7">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="27.13872" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="1.570796" WinkelLauf="-0.1106572">
+            <PunktWinkel X="5.964413E-05" Y="-3.051759E-05" W="6.283185" />
+            <PunktWinkel X="20.98204" Y="-1.162127" W="3.030935" />
+            <Punkt Y="-190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="20.98199" Y="-1.16209" W="-0.1106574" />
+            <PunktWinkel X="27.03709" Y="-1.83488" W="3.030935" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="278.605" Y="505.0576" W="-0.4661101" />
+        <PunktWinkel X="27.13872" W="3.141593" />
+        <PunktWinkel X="27.03909" Y="-1.83488" W="3.030936" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-9_Rechts_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.005263158" WinkelAnf="-2.036906" WinkelLauf="-0.1106572">
+        <PunktWinkel X="331.5664" Y="473.376" W="2.675483" />
+        <PunktWinkel X="313.3449" Y="483.8437" W="-0.5767668" />
+        <Punkt X="416.9551" Y="643.1075" />
+      </Kreisbogen>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="313.3448" Y="483.8439" W="2.564818" />
+        <PunktWinkel X="301.9351" Y="491.2667" W="5.70641" />
+      </Gerade>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="29.82845" R="-4690.537">
+        <PunktWinkel X="853.766" Y="230.5479" W="2.78273" />
+        <PunktWinkel X="825.8488" Y="241.0535" W="5.921143" Ueberh="0.01339889" Hoehe="0.03196194" />
+      </Klothoide>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="331.5663" Y="473.3761" W="-0.4661116" />
+        <PunktWinkel X="679.8735" Y="298.1484" W="2.675481" />
+      </Gerade>
+      <Gerade st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="4215.642" Y="-2109.014" W="2.699926" km="408.2045" />
+        <PunktWinkel X="4141.083" Y="-2073.761" W="5.841518" km="408.2043" />
+      </Gerade>
+      <Klothoide st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="144.4878" R="-1867.063" Versatz="2">
+        <PunktWinkel X="4141.938" Y="-2071.953" W="2.69992" km="408.2043" />
+        <PunktWinkel X="4011.208" Y="-2010.29" W="5.802819" Ueberh="0.04188791" km="408.1598" />
+      </Klothoide>
+      <Kreisbogen st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.0006574622" WinkelAnf="-2.060866" WinkelLauf="-0.1679473">
+        <PunktWinkel X="4011.189" Y="-2010.28" W="2.651523" Ueberh="-0.04188791" km="408.1598" />
+        <PunktWinkel X="3796.938" Y="-1871.726" W="-0.658017" Ueberh="0.04188791" km="407.9143" />
+        <Punkt X="4727.105" Y="-668.3013" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.000676764" WinkelAnf="-2.228813" WinkelLauf="-0.2784429">
+        <PunktWinkel X="3796.939" Y="-1871.726" W="2.483576" Ueberh="-0.04188791" km="407.9143" />
+        <PunktWinkel X="3510.405" Y="-1578.325" W="-0.9364594" Ueberh="0.04188791" km="407.215" />
+        <Punkt X="4700.576" Y="-702.6235" />
+      </Kreisbogen>
+      <Klothoide st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="111.5146" R="1439.19" Versatz="2">
+        <PunktWinkel X="3448.035" Y="-1485.816" W="-0.9725483" km="407.11" />
+        <PunktWinkel X="3510.412" Y="-1578.328" W="2.207787" Ueberh="-0.04188791" km="407.215" />
+      </Klothoide>
+      <Gerade st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="3446.383" Y="-1486.942" W="2.169045" km="407.11" />
+        <PunktWinkel X="2990.996" Y="-818.7966" W="5.310637" km="406.3" />
+      </Gerade>
+      <Klothoide st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="246.0428" R="904" Versatz="-2">
+        <PunktWinkel X="2992.648" Y="-817.6702" W="2.165053" km="406.3" />
+        <PunktWinkel X="2844.42" Y="-621.7599" W="5.442731" Ueberh="-0.06283185" km="406.06" />
+      </Klothoide>
+      <Kreisbogen st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.001108648" WinkelAnf="0.7365434" WinkelLauf="0.3509531">
+        <PunktWinkel X="2844.429" Y="-621.7696" W="2.30734" Ueberh="0.06283185" km="406.06" />
+        <PunktWinkel X="2595.395" Y="-428.9807" W="-0.4832998" Ueberh="-0.06283185" km="405.74" />
+        <Punkt X="2176.233" Y="-1227.671" />
+      </Kreisbogen>
+      <Klothoide st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="228.6929" R="-1008.099" Versatz="-2">
+        <PunktWinkel X="2385.472" Y="-338.9937" W="-0.3584402" km="405.5" />
+        <PunktWinkel X="2595.415" Y="-428.9904" W="2.669725" Ueberh="0.06283185" km="405.74" />
+      </Klothoide>
+      <Gerade st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="869.1505" Y="226.9199" W="-0.3584404" km="403.88" />
+        <PunktWinkel X="2384.77" Y="-340.8665" W="2.783152" km="405.5" />
+      </Gerade>
+      <Klothoide st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="123.1378" R="-1490.001" Versatz="2">
+        <PunktWinkel X="869.8521" Y="228.7928" W="2.781735" km="403.88" />
+        <PunktWinkel X="754.4375" Y="271.8933" W="5.882006" Ueberh="0.04188791" km="403.765" />
+      </Klothoide>
+      <Kreisbogen st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.0006702413" WinkelAnf="-1.973761" WinkelLauf="-0.03166324">
+        <PunktWinkel X="754.4344" Y="271.8957" W="2.738628" Ueberh="-0.04188791" km="403.765" />
+        <PunktWinkel X="711.2773" Y="291.1062" W="-0.4346279" Ueberh="0.04188791" km="403.72" />
+        <Punkt X="1339.518" Y="1644.39" />
+      </Kreisbogen>
+      <Klothoide st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="84.1209" R="1490" Versatz="2">
+        <PunktWinkel X="636.6121" Y="329.9952" W="-0.4658423" km="403.63" />
+        <PunktWinkel X="711.2714" Y="291.1088" W="2.703979" Ueberh="-0.04188791" km="403.72" />
+      </Klothoide>
+      <Gerade st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="635.7137" Y="328.2083" W="2.675475" km="403.63" />
+        <PunktWinkel X="-30.8514" Y="663.5515" W="5.817068" km="402.87" />
+      </Gerade>
+      <Kreisbogen st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="1.428531E-05" WinkelAnf="-2.036906" WinkelLauf="-0.000357618">
+        <PunktWinkel X="-30.85924" Y="663.5729" W="2.675483" km="402.87" />
+        <PunktWinkel X="-53.22066" Y="674.8276" W="-0.4664672" km="402.845" />
+        <Punkt X="31429.04" Y="63197.98" />
+      </Kreisbogen>
+      <Gerade st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-53.2123" Y="674.8059" W="2.67438" km="402.845" />
+        <PunktWinkel X="-252.9235" Y="775.5531" W="5.815972" km="402.62" />
+      </Gerade>
+      <Kreisbogen st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="5.0005E-05" WinkelAnf="1.103584" WinkelLauf="0.001292765">
+        <PunktWinkel X="-252.9289" Y="775.5503" W="2.67438" km="402.62" />
+        <PunktWinkel X="-276.0185" Y="787.1794" W="-0.4659195" km="402.37" />
+        <Punkt X="-9260.01" Y="-17079.21" />
+      </Kreisbogen>
+      <Gerade st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-276.014" Y="787.1772" W="2.676313" km="402.37" />
+        <PunktWinkel X="-971.2305" Y="1136.205" W="5.817905" km="401.818" />
+      </Gerade>
+      <Klothoide st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="84.9348" R="-1571" Versatz="2">
+        <PunktWinkel X="-970.333" Y="1137.992" W="2.675422" km="401.818" />
+        <PunktWinkel X="-1046.802" Y="1175.087" W="5.789983" Ueberh="0.03839725" km="401.733" />
+      </Klothoide>
+      <Kreisbogen st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.0006357279" WinkelAnf="-2.064182" WinkelLauf="-0.03193254">
+        <PunktWinkel X="-1046.804" Y="1175.087" W="2.648207" Ueberh="-0.03839725" km="401.733" />
+        <PunktWinkel X="-1090.656" Y="1199.578" W="-0.5253182" Ueberh="0.03839725" km="401.683" />
+        <Punkt X="-301.8149" Y="2560.482" />
+      </Kreisbogen>
+      <Gerade st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-1163.379" Y="1243.484" W="2.589678" km="401.598" />
+        <PunktWinkel X="-2105.546" Y="1823.617" W="5.73127" km="400.485" />
+      </Gerade>
+      <Klothoide st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="90.7281" R="1448.5" Versatz="-2">
+        <PunktWinkel X="-2104.498" Y="1825.32" W="2.589678" km="400.485" />
+        <PunktWinkel X="-2183.239" Y="1870.344" W="5.762589" Ueberh="-0.04188791" km="400.39" />
+      </Klothoide>
+      <Kreisbogen st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.0006913239" WinkelAnf="1.051175" WinkelLauf="0.09576482">
+        <PunktWinkel X="-2183.238" Y="1870.342" W="2.621971" Ueberh="0.04188791" km="400.39" />
+        <PunktWinkel X="-2306.585" Y="1933.268" W="-0.4238565" Ueberh="-0.04188791" km="400.1515" />
+        <Punkt X="-2901.5" Y="614.7698" />
+      </Kreisbogen>
+      <Klothoide st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="84.9012" R="1571" Versatz="2">
+        <PunktWinkel X="-1162.331" Y="1245.187" W="-0.5521335" km="401.598" />
+        <PunktWinkel X="-1090.652" Y="1199.58" W="2.616481" Ueberh="-0.03839725" km="401.683" />
+      </Klothoide>
+      <Gerade st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-3646.781" Y="2490.616" W="-0.3934781" km="398.825" />
+        <PunktWinkel X="-2389.998" Y="1968.892" W="2.748115" km="399.789" />
+      </Gerade>
+      <Klothoide st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="90.766" R="-1448.5" Versatz="-2">
+        <PunktWinkel X="-2389.231" Y="1970.739" W="-0.3932119" km="399.789" />
+        <PunktWinkel X="-2306.587" Y="1933.267" W="2.71705" Ueberh="0.04188791" km="400.1515" />
+      </Klothoide>
+      <Gerade st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="4215.642" Y="-2109.014" W="-0.4416136" km="408.2045" />
+        <PunktWinkel X="4224.683" Y="-2113.288" W="2.699979" />
+      </Gerade>
+      <Gerade st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3646.781" Y="2490.616" W="2.748075" km="398.825" />
+        <PunktWinkel X="-3657.43" Y="2495.037" W="5.889668" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Esig C">
+        <PunktWinkel X="4070.784" Y="-2044.072" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3724.241" Y="-1825.02" W="0.87861" />
+        <PunktWinkel X="3732.813" Y="-1814.68" W="4.020203" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="BÜ">
+        <PunktWinkel X="3730.777" Y="-1817.317" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3724.241" Y="-1825.02" W="-2.262932" />
+        <PunktWinkel X="3718.504" Y="-1831.941" W="0.8786609" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.07452527" WinkelAnf="-0.6921896" WinkelLauf="-0.7994689">
+        <PunktWinkel X="3718.504" Y="-1831.941" W="4.020199" />
+        <PunktWinkel X="3709.235" Y="-1836.753" W="0.07913795" />
+        <Punkt X="3708.174" Y="-1823.377" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.07235897" WinkelAnf="1.649934" WinkelLauf="1.957139">
+        <PunktWinkel X="3709.234" Y="-1836.753" W="3.22073" />
+        <PunktWinkel X="3697.977" Y="-1856.733" W="2.036277" />
+        <Punkt X="3710.327" Y="-1850.53" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.000592189" WinkelAnf="6.72564" WinkelLauf="0.329676">
+        <PunktWinkel X="4088.613" Y="-2405.322" W="8.296436" />
+        <PunktWinkel X="3772.367" Y="-1950.223" W="5.484519" />
+        <Punkt X="2562.574" Y="-3128.332" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.003910461" WinkelAnf="-2.676112" WinkelLauf="0.3066502">
+        <PunktWinkel X="3697.977" Y="-1856.734" W="-1.105316" />
+        <PunktWinkel X="3743.286" Y="-1920.361" W="-3.940258" />
+        <Punkt X="3926.494" Y="-1741.951" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3743.286" Y="-1920.36" W="-0.7986643" />
+        <PunktWinkel X="3772.366" Y="-1950.222" W="2.342928" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3416.409" Y="-1431.123" W="-2.508775" />
+        <PunktWinkel X="3407.766" Y="-1437.462" W="0.6328182" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="BÜ">
+        <PunktWinkel X="3410.613" Y="-1434.338" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3423.212" Y="-1371.222" W="-1.58213" />
+        <PunktWinkel X="3422.85" Y="-1403.145" W="1.559463" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.06524655" WinkelAnf="-0.9380029" WinkelLauf="0.9266692">
+        <PunktWinkel X="3416.409" Y="-1431.123" W="0.6327934" />
+        <PunktWinkel X="3422.671" Y="-1418.938" W="-1.58213" />
+        <Punkt X="3407.345" Y="-1418.764" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3422.671" Y="-1418.938" W="1.55945" />
+        <PunktWinkel X="3422.85" Y="-1403.145" W="4.701043" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3493.346" Y="-1303.209" W="-2.633649" />
+        <PunktWinkel X="3439.976" Y="-1332.918" W="0.5079436" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3423.212" Y="-1371.222" W="1.559474" />
+        <PunktWinkel X="3423.329" Y="-1360.872" W="4.701067" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.03085038" WinkelAnf="3.130251" WinkelLauf="-1.051517">
+        <PunktWinkel X="3423.33" Y="-1360.872" W="7.84264" />
+        <PunktWinkel X="3439.976" Y="-1332.918" W="3.64953" />
+        <Punkt X="3455.742" Y="-1361.24" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3653.116" Y="-1616.457" W="-1.261779" />
+        <PunktWinkel X="3677.048" Y="-1691.422" W="1.879813" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.109464" WinkelAnf="5.590954" WinkelLauf="1.274944">
+        <PunktWinkel X="3732.813" Y="-1814.681" W="7.16175" />
+        <PunktWinkel X="3733.408" Y="-1803.823" W="5.295102" />
+        <Punkt X="3725.781" Y="-1808.85" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.002516225" WinkelAnf="-2.832582" WinkelLauf="0.2737022">
+        <PunktWinkel X="3677.048" Y="-1691.422" W="-1.261786" />
+        <PunktWinkel X="3723.81" Y="-1789.257" W="-4.129676" />
+        <Punkt X="4055.645" Y="-1570.56" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3723.809" Y="-1789.257" W="-0.9881271" />
+        <PunktWinkel X="3733.408" Y="-1803.823" W="2.153466" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3564.027" Y="-1473.895" W="-0.9678962" />
+        <PunktWinkel X="3621.508" Y="-1557.394" W="2.173697" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.00575123" WinkelAnf="0.3090109" WinkelLauf="0.2938879">
+        <PunktWinkel X="3653.116" Y="-1616.456" W="1.879807" />
+        <PunktWinkel X="3630.697" Y="-1570.742" W="-0.9678975" />
+        <Punkt X="3487.476" Y="-1669.335" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3630.697" Y="-1570.742" W="2.173708" />
+        <PunktWinkel X="3621.508" Y="-1557.394" W="5.315301" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.002257707" WinkelAnf="-2.538694" WinkelLauf="-0.4253072">
+        <PunktWinkel X="3564.027" Y="-1473.894" W="2.173695" />
+        <PunktWinkel X="3492.903" Y="-1300.987" W="-1.393205" />
+        <Punkt X="3928.864" Y="-1222.74" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3492.903" Y="-1300.987" W="1.748392" />
+        <PunktWinkel X="3464.595" Y="-1143.27" W="4.889985" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3375.979" Y="-1433.553" W="2.623111" />
+        <PunktWinkel X="3342.385" Y="-1414.386" W="5.764703" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.04796392" WinkelAnf="-0.9380009" WinkelLauf="-1.151266">
+        <PunktWinkel X="3407.766" Y="-1437.462" W="3.774388" />
+        <PunktWinkel X="3385.104" Y="-1438.759" W="-0.5184706" />
+        <Punkt X="3395.436" Y="-1420.65" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3385.104" Y="-1438.759" W="2.623127" />
+        <PunktWinkel X="3375.979" Y="-1433.553" W="5.764719" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3288.921" Y="-1410.21" W="-2.42671" />
+        <PunktWinkel X="3277.175" Y="-1420.406" W="0.714883" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3342.385" Y="-1414.386" W="2.623157" />
+        <PunktWinkel X="3328.269" Y="-1406.333" W="5.764749" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.02925447" WinkelAnf="1.052326" WinkelLauf="1.23338">
+        <PunktWinkel X="3328.27" Y="-1406.333" W="2.623122" />
+        <PunktWinkel X="3288.922" Y="-1410.21" W="0.7149096" />
+        <Punkt X="3311.33" Y="-1436.023" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3255.419" Y="-1436.144" W="-2.724403" />
+        <PunktWinkel X="3128.444" Y="-1492.42" W="0.4171895" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3277.175" Y="-1420.406" W="-2.426639" />
+        <PunktWinkel X="3268.951" Y="-1427.546" W="0.7149541" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01850055" WinkelAnf="-0.8558912" WinkelLauf="-0.297719">
+        <PunktWinkel X="3268.951" Y="-1427.546" W="3.856498" />
+        <PunktWinkel X="3255.419" Y="-1436.145" W="0.4171862" />
+        <Punkt X="3233.517" Y="-1386.728" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3321.889" Y="-1402.994" W="1.955314" />
+        <PunktWinkel X="3316.818" Y="-1390.463" W="5.096907" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01428571" WinkelAnf="0.6884269" WinkelLauf="0.3356771">
+        <PunktWinkel X="3308.923" Y="-1370.627" W="2.259223" />
+        <PunktWinkel X="3291.257" Y="-1355.303" W="-0.5466923" />
+        <Punkt X="3254.866" Y="-1415.1" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.04256663" WinkelAnf="-2.757065" WinkelLauf="-0.2744936">
+        <PunktWinkel X="3316.818" Y="-1390.463" W="1.955324" />
+        <PunktWinkel X="3315.244" Y="-1384.23" W="-1.460762" />
+        <Punkt X="3338.595" Y="-1381.65" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.04324646" WinkelAnf="0.1100339" WinkelLauf="0.578393">
+        <PunktWinkel X="3315.244" Y="-1384.23" W="1.68083" />
+        <PunktWinkel X="3310.118" Y="-1372.078" W="-0.8823695" />
+        <Punkt X="3292.261" Y="-1386.769" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3310.118" Y="-1372.079" W="2.258924" />
+        <PunktWinkel X="3308.924" Y="-1370.627" W="5.400517" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.002126252" WinkelAnf="1.024104" WinkelLauf="0.1230143">
+        <PunktWinkel X="3291.256" Y="-1355.302" W="2.5949" />
+        <PunktWinkel X="3240.111" Y="-1328.337" W="-0.423678" />
+        <Punkt X="3046.758" Y="-1757.065" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3408.972" Y="-1405.441" W="-1.318014" />
+        <PunktWinkel X="3413.762" Y="-1423.985" W="1.823578" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3413.762" Y="-1423.985" W="-0.8876402" />
+        <PunktWinkel X="3418.201" Y="-1429.439" W="2.253953" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="3415.514" Y="-1434.55" W="-0.9725415" />
+        <PunktWinkel X="3505.626" Y="-1566.761" W="2.169051" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="38.88889" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="3408.903" Y="-1439.056" W="-0.9725427" />
+        <PunktWinkel X="3499.015" Y="-1571.267" W="2.16905" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Hp">
+        <PunktWinkel X="3456.207" Y="-1494.416" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Hp">
+        <PunktWinkel X="3449.625" Y="-1499.454" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3732.917" Y="-1814.46" W="1.04741" />
+        <PunktWinkel X="3755.748" Y="-1774.896" W="4.189003" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3784.496" Y="-1746.958" W="0.6236875" />
+        <PunktWinkel X="3866.568" Y="-1687.908" W="3.76528" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01501868" WinkelAnf="2.618214" WinkelLauf="-0.4237338">
+        <PunktWinkel X="3755.748" Y="-1774.896" W="7.330603" />
+        <PunktWinkel X="3774.532" Y="-1754.127" W="3.765276" />
+        <Punkt X="3813.419" Y="-1808.175" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3770.73" Y="-1756.862" W="0.6236618" />
+        <PunktWinkel X="3784.496" Y="-1746.958" W="3.765254" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.008991195" WinkelAnf="3.982746" WinkelLauf="1.380426">
+        <PunktWinkel X="3735.232" Y="-1810.245" W="5.553542" />
+        <PunktWinkel X="3876.75" Y="-1815.828" W="3.792376" />
+        <Punkt X="3809.372" Y="-1727.34" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3876.75" Y="-1815.828" W="0.6507851" />
+        <PunktWinkel X="3959.284" Y="-1752.983" W="3.792378" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3344.758" Y="-1238.516" W="-0.9490706" />
+        <PunktWinkel X="3413.611" Y="-1334.61" W="2.192522" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.07110105" WinkelAnf="3.76332" WinkelLauf="1.711715">
+        <PunktWinkel X="3413.611" Y="-1334.61" W="5.334116" />
+        <PunktWinkel X="3434.76" Y="-1336.587" W="3.904239" />
+        <Punkt X="3425.044" Y="-1326.418" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.0183632" WinkelAnf="0.6217274" WinkelLauf="-0.524995">
+        <PunktWinkel X="3413.612" Y="-1334.61" W="5.334116" />
+        <PunktWinkel X="3423.547" Y="-1361.069" W="1.667529" />
+        <Punkt X="3369.345" Y="-1366.328" />
+      </Kreisbogen>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="101.0212" R="-1384.971" KrAnf="-0.0004507103">
+        <PunktWinkel X="853.766" Y="230.5479" W="2.78273" Ueberh="-0.02832624" Hoehe="0.03196194" />
+        <PunktWinkel X="759.624" Y="267.1725" W="5.887852" Ueberh="0.04537856" />
+      </Klothoide>
+      <Weiche ProfilName="Reichenau-Allensbach" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="DKW54 190 1:9 Links" Signalname="11">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="33.23108" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="-1.570796" WinkelLauf="0.1106572">
+            <PunktWinkel X="6.092436" Y="1.52588E-05" W="3.139165E-07" />
+            <PunktWinkel X="27.07442" Y="1.162112" W="-3.030935" />
+            <Punkt X="6.09237" Y="190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="33.12946" Y="1.83488" W="-3.030936" />
+            <PunktWinkel X="0.10162" Y="-1.83488" W="0.1106571" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="1.570796" WinkelLauf="0.1106572">
+            <PunktWinkel X="27.13878" Y="-3.051759E-05" W="3.141592" />
+            <PunktWinkel X="6.156793" Y="-1.162114" W="0.1106569" />
+            <Punkt X="27.13871" Y="-190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="15.61554" Y="-1.9" W="0.05549848" />
+            <PunktWinkel X="17.41554" Y="-1.8" W="3.197091" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+            <PunktWinkel X="2.875" W="2.899931" />
+            <PunktWinkel X="0.65625" Y="0.546875" W="6.041523" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+            <PunktWinkel X="2.875" W="-2.885167" />
+            <PunktWinkel X="0.6605985" Y="-0.5806122" W="0.256426" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+            <PunktWinkel X="33.10608" Y="1.8125" W="-2.794342" />
+            <PunktWinkel X="30.90338" Y="1.015308" W="0.3472506" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+            <PunktWinkel X="33.10608" Y="1.8125" W="2.973874" />
+            <PunktWinkel X="30.92723" Y="2.1814" W="6.115466" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="825.8488" Y="241.0535" W="2.779552" Ueberh="-0.01339889" Hoehe="0.0319619" />
+        <PunktWinkel X="33.23108" W="3.141593" />
+        <PunktWinkel X="33.12946" Y="1.83488" W="3.25225" />
+        <PunktWinkel X="0.10162" Y="-1.83488" W="0.1106572" />
+        <Biegung BiegeLaenge="3.323108" BiegeKruemmung="-0.000225071" BiegeUeberh="0.01339889" />
+        <Biegung BiegeWinkel="-0.0007479352" BiegeLaenge="3.323108" BiegeKruemmung="-0.0002488225" BiegeUeberh="0.01505748" />
+        <Biegung BiegeWinkel="-0.000826864" BiegeLaenge="3.323108" BiegeKruemmung="-0.000272574" BiegeUeberh="0.01671608" />
+        <Biegung BiegeWinkel="-0.0009057928" BiegeLaenge="3.323108" BiegeKruemmung="-0.0002963255" BiegeUeberh="0.01837467" />
+        <Biegung BiegeWinkel="-0.0009847217" BiegeLaenge="3.323108" BiegeKruemmung="-0.000320077" BiegeUeberh="0.02003326" />
+        <Biegung BiegeWinkel="-0.00106365" BiegeLaenge="3.323108" BiegeKruemmung="-0.0003438285" BiegeUeberh="0.02169186" />
+        <Biegung BiegeWinkel="-0.001142579" BiegeLaenge="3.323108" BiegeKruemmung="-0.00036758" BiegeUeberh="0.02335045" />
+        <Biegung BiegeWinkel="-0.001221508" BiegeLaenge="3.323108" BiegeKruemmung="-0.0003913315" BiegeUeberh="0.02500905" />
+        <Biegung BiegeWinkel="-0.001300437" BiegeLaenge="3.323108" BiegeKruemmung="-0.0004150831" BiegeUeberh="0.02666764" />
+        <Biegung BiegeWinkel="-0.001379366" BiegeLaenge="3.623103" BiegeKruemmung="-0.0004388346" BiegeUeberh="0.02832624" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\DKW54_190_1-9_Links-Links_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="27.77778" Oberbau="Holz K-Oberbau" L="70" R="436.2523">
+        <PunktWinkel X="679.8735" Y="298.1484" W="-0.4661233" />
+        <PunktWinkel X="743.2064" Y="268.3803" W="2.755698" Ueberh="-0.01308997" />
+      </Klothoide>
+      <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="27.77778" Oberbau="Holz K-Oberbau" kr="0.002292252" WinkelAnf="-1.95669" WinkelLauf="0.1235243">
+        <PunktWinkel X="743.2068" Y="268.3803" W="-0.3858936" Ueberh="0.01308997" />
+        <PunktWinkel X="794.2561" Y="251.2287" W="-3.403962" Ueberh="-0.01308997" Hoehe="0.08395109" />
+        <Punkt X="907.4066" Y="672.5516" />
+      </Kreisbogen>
+      <Gerade ProfilName="Reichenau-Allensbach" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="826.4037" Y="242.8054" W="-0.24937" Ueberh="0.01344951" Hoehe="0.007282036" />
+        <PunktWinkel X="830.0657" Y="241.8728" W="2.892223" Ueberh="-0.01396263" Hoehe="0.02617641" />
+      </Gerade>
+      <Klothoide ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="123.1378" R="-1490.001" KrAnf="-0.0002285587">
+        <PunktWinkel X="869.8521" Y="228.7928" W="2.781735" Ueberh="-0.01426504" />
+        <PunktWinkel X="755.2185" Y="273.7345" W="5.882006" Ueberh="0.04188791" />
+      </Klothoide>
+      <Weiche ProfilName="Reichenau-Allensbach" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="190 1:9 Links" Signalname="12">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="27.13872" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="-1.570796" WinkelLauf="0.1106572">
+            <PunktWinkel X="5.964413E-05" Y="1.52588E-05" W="3.139165E-07" />
+            <PunktWinkel X="20.98204" Y="1.162112" W="-3.030935" />
+            <Punkt Y="190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="20.98199" Y="1.16209" W="0.1106574" />
+            <PunktWinkel X="27.03709" Y="1.83488" W="3.25225" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="856.0047" Y="234.0059" W="2.781139" Ueberh="-0.005033234" />
+        <PunktWinkel X="27.13872" W="3.141593" />
+        <PunktWinkel X="27.03909" Y="1.83488" W="3.25225" />
+        <Biegung BiegeLaenge="2.713872" BiegeKruemmung="-8.803971E-05" BiegeUeberh="0.005033234" />
+        <Biegung BiegeWinkel="-0.0002389285" BiegeLaenge="2.713872" BiegeKruemmung="-0.0001028312" BiegeUeberh="0.00605899" />
+        <Biegung BiegeWinkel="-0.0002790707" BiegeLaenge="2.713872" BiegeKruemmung="-0.0001176227" BiegeUeberh="0.007084746" />
+        <Biegung BiegeWinkel="-0.0003192129" BiegeLaenge="2.713872" BiegeKruemmung="-0.0001324141" BiegeUeberh="0.008110503" />
+        <Biegung BiegeWinkel="-0.0003593549" BiegeLaenge="2.713872" BiegeKruemmung="-0.0001472056" BiegeUeberh="0.009136258" />
+        <Biegung BiegeWinkel="-0.0003994972" BiegeLaenge="2.713872" BiegeKruemmung="-0.0001619971" BiegeUeberh="0.01016201" />
+        <Biegung BiegeWinkel="-0.0004396394" BiegeLaenge="2.713872" BiegeKruemmung="-0.0001767885" BiegeUeberh="0.01118777" />
+        <Biegung BiegeWinkel="-0.0004797813" BiegeLaenge="2.713872" BiegeKruemmung="-0.00019158" BiegeUeberh="0.01221353" />
+        <Biegung BiegeWinkel="-0.0005199236" BiegeLaenge="2.713872" BiegeKruemmung="-0.0002063715" BiegeUeberh="0.01323928" />
+        <Biegung BiegeWinkel="-0.0005600658" BiegeLaenge="3.013873" BiegeKruemmung="-0.000221163" BiegeUeberh="0.01426504" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-9_Links_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2457.181" Y="-388.0135" W="0.9735492" />
+        <PunktWinkel X="2475.879" Y="-360.5206" W="4.115142" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2475.879" Y="-360.5206" W="0.9735703" />
+        <PunktWinkel X="2546.487" Y="-256.6961" W="4.115163" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2457.182" Y="-388.0136" W="-2.168034" />
+        <PunktWinkel X="2354.244" Y="-539.3732" W="0.9735588" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2462.381" Y="-395.67" W="-0.390287" />
+        <PunktWinkel X="2513.374" Y="-416.648" W="2.751306" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2529.033" Y="-419.0454" W="-0.01896057" />
+        <PunktWinkel X="2543.192" Y="-419.3139" W="3.122632" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.03245219" WinkelAnf="-1.961078" WinkelLauf="0.3713194">
+        <PunktWinkel X="2513.374" Y="-416.6481" W="-0.3902817" />
+        <PunktWinkel X="2524.513" Y="-418.9597" W="-3.160555" />
+        <Punkt X="2525.097" Y="-388.1507" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2524.513" Y="-418.9597" W="-0.0189631" />
+        <PunktWinkel X="2529.033" Y="-419.0454" W="3.12263" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2561.001" Y="-423.699" W="-0.4728959" />
+        <PunktWinkel X="2569.588" Y="-428.0922" W="2.668697" />
+      </Gerade>
+      <Klothoide st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" L="89" R="-789.6683">
+        <PunktWinkel X="2569.588" Y="-428.0925" W="-0.4729035" />
+        <PunktWinkel X="2648.034" Y="-470.1047" W="2.612336" />
+      </Klothoide>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.001266355" WinkelAnf="1.04154" WinkelLauf="-0.4218049">
+        <PunktWinkel X="2648.034" Y="-470.1052" W="5.753929" />
+        <PunktWinkel X="2892.152" Y="-693.0784" W="2.190531" />
+        <Punkt X="2249.337" Y="-1151.733" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2543.192" Y="-419.3139" W="-0.01903028" />
+        <PunktWinkel X="2543.559" Y="-419.3209" W="3.122562" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.02502626" WinkelAnf="1.551836" WinkelLauf="-0.4539379">
+        <PunktWinkel X="2543.559" Y="-419.3209" W="6.264225" />
+        <PunktWinkel X="2561.001" Y="-423.699" W="2.668694" />
+        <Punkt X="2542.801" Y="-459.2717" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3204.211" Y="-1140.236" W="0.5547951" />
+        <PunktWinkel X="3213.775" Y="-1134.309" W="3.696388" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Durchlass">
+        <PunktWinkel X="3208.328" Y="-1137.669" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3213.775" Y="-1134.309" W="0.5547598" />
+        <PunktWinkel X="3243.831" Y="-1115.684" W="3.696352" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3344.758" Y="-1238.516" W="2.192513" />
+        <PunktWinkel X="3258.905" Y="-1118.694" W="5.334106" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.08887161" WinkelAnf="0.6217234" WinkelLauf="1.503853">
+        <PunktWinkel X="3258.905" Y="-1118.694" W="2.19252" />
+        <PunktWinkel X="3243.831" Y="-1115.683" W="0.5547801" />
+        <Punkt X="3249.758" Y="-1125.248" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3204.211" Y="-1140.236" W="-2.58681" />
+        <PunktWinkel X="3032.539" Y="-1246.622" W="0.5547828" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2892.152" Y="-693.0781" W="-0.9681699" />
+        <PunktWinkel X="3405.297" Y="-1438.929" W="2.173423" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2403.26" Y="-358.3428" W="2.783466" />
+        <PunktWinkel X="1597.5" Y="-56.77455" W="5.925059" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2420.8" Y="-367.2667" W="-0.6094422" />
+        <PunktWinkel X="2437.34" Y="-378.8131" W="2.532151" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2403.26" Y="-358.3428" W="-0.358119" />
+        <PunktWinkel X="2405.19" Y="-359.0651" W="2.783474" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01421478" WinkelAnf="1.21267" WinkelLauf="-0.2513092">
+        <PunktWinkel X="2405.19" Y="-359.065" W="5.925059" />
+        <PunktWinkel X="2420.799" Y="-367.2667" W="2.532157" />
+        <Punkt X="2380.531" Y="-424.9511" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.1084542" WinkelAnf="-0.5972189" WinkelLauf="-1.583015">
+        <PunktWinkel X="2460.287" Y="-383.4491" W="4.11517" />
+        <PunktWinkel X="2447.384" Y="-385.8245" W="-0.6094375" />
+        <Punkt X="2452.662" Y="-378.264" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2447.384" Y="-385.8245" W="2.532163" />
+        <PunktWinkel X="2437.34" Y="-378.8131" W="5.673755" />
+      </Gerade>
+      <Klothoide st2Typ="2" ProfilName="" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="228.6929" R="-1008.099" KrAnf="-0.0004157399" Versatz="2">
+        <PunktWinkel X="2385.472" Y="-338.9937" W="-0.3584402" />
+        <PunktWinkel X="2597.233" Y="-425.4275" W="2.669725" />
+      </Klothoide>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.001103753" WinkelAnf="0.9778941" WinkelLauf="0.1096023">
+        <PunktWinkel X="2682.479" Y="-476.3051" W="2.548691" />
+        <PunktWinkel X="2597.254" Y="-425.4388" W="-0.4832999" />
+        <Punkt X="2176.233" Y="-1227.671" />
+      </Kreisbogen>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Hp">
+        <PunktWinkel X="2492.148" Y="-377.8261" />
+      </Punkt>
+      <Klothoide st2Typ="2" ProfilName="" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="228.2467" R="-1002.343" KrAnf="-0.0004180675" Versatz="-2">
+        <PunktWinkel X="2384.31" Y="-342.8292" W="-0.3584402" />
+        <PunktWinkel X="2593.828" Y="-432.683" W="2.669296" />
+      </Klothoide>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="0.001113586" WinkelAnf="0.9774709" WinkelLauf="0.109195">
+        <PunktWinkel X="2677.934" Y="-482.962" W="2.548267" />
+        <PunktWinkel X="2593.807" Y="-432.6793" W="-0.4841304" />
+        <Punkt X="2175.843" Y="-1227.481" />
+      </Kreisbogen>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Hp">
+        <PunktWinkel X="2488.678" Y="-385.1077" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1604.083" Y="-42.05032" W="-1.960617" />
+        <PunktWinkel X="1599.946" Y="-52.1197" W="1.180975" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="BÜ">
+        <PunktWinkel X="1601.927" Y="-47.76623" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1604.083" Y="-42.05032" W="1.166532" />
+        <PunktWinkel X="1647.634" Y="59.74516" W="4.308125" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1599.946" Y="-52.1197" W="-1.961849" />
+        <PunktWinkel X="1550.457" Y="-172.1552" W="1.179743" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="978.5269" Y="173.4345" W="2.808503" />
+        <PunktWinkel X="881.1799" Y="207.1147" W="5.950096" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="833.8664" Y="216.745" W="3.130923" />
+        <PunktWinkel X="771.8792" Y="217.4064" W="6.272516" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="881.1799" Y="207.1147" W="2.80851" />
+        <PunktWinkel X="872.9593" Y="209.9588" W="5.950102" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.008090886" WinkelAnf="1.237707" WinkelLauf="0.3224213">
+        <PunktWinkel X="872.9592" Y="209.9588" W="2.808503" />
+        <PunktWinkel X="833.8663" Y="216.745" W="-0.010668" />
+        <Punkt X="832.5479" Y="93.15623" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.0005406784" WinkelAnf="1.309541" WinkelLauf="-0.08606465">
+        <PunktWinkel X="550.2951" Y="281.4763" W="6.02193" />
+        <PunktWinkel X="702.1147" Y="233.7988" W="2.794273" />
+        <Punkt X="72.57394" Y="-1505.291" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.006736721" WinkelAnf="-1.581465" WinkelLauf="-0.3366513">
+        <PunktWinkel X="771.8792" Y="217.4064" W="3.130924" />
+        <PunktWinkel X="722.9368" Y="226.2616" W="-0.3473199" />
+        <Punkt X="773.4628" Y="365.8381" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="722.9369" Y="226.2616" W="2.794274" />
+        <PunktWinkel X="702.1149" Y="233.799" W="5.935867" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="562.7546" Y="379.946" W="-2.029765" />
+        <PunktWinkel X="548.5659" Y="351.2336" W="1.111828" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Brücke">
+        <PunktWinkel X="555.6025" Y="365.5656" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="548.5659" Y="351.2336" W="-2.029762" />
+        <PunktWinkel X="528.5153" Y="310.6586" W="1.111831" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="550.2955" Y="281.4764" W="2.880331" />
+        <PunktWinkel X="540.6349" Y="284.0594" W="6.021924" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.05282329" WinkelAnf="-1.832052" WinkelLauf="-1.764018">
+        <PunktWinkel X="540.6349" Y="284.0594" W="2.880337" />
+        <PunktWinkel X="528.5154" Y="310.6586" W="-2.025274" />
+        <Punkt X="545.5247" Y="302.348" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="495.2072" Y="304.6212" W="2.73459" />
+        <PunktWinkel X="463.4496" Y="318.311" W="5.876183" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.0518607" WinkelAnf="-0.4589676" WinkelLauf="-1.471147">
+        <PunktWinkel X="528.5153" Y="310.6586" W="4.253421" />
+        <PunktWinkel X="504.448" Y="301.1501" W="-0.3593181" />
+        <Punkt X="511.2284" Y="319.2011" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="504.448" Y="301.1502" W="2.782283" />
+        <PunktWinkel X="495.2072" Y="304.6212" W="5.923875" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="550.2955" Y="281.4764" W="2.880331" />
+        <PunktWinkel X="540.6349" Y="284.0594" W="6.021924" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01326074" WinkelAnf="-1.832052" WinkelLauf="-0.2367274">
+        <PunktWinkel X="540.6348" Y="284.0594" W="2.880337" />
+        <PunktWinkel X="524.0927" Y="290.6592" W="-0.4979831" />
+        <Punkt X="560.1129" Y="356.911" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="524.0927" Y="290.6592" W="2.643611" />
+        <PunktWinkel X="515.3073" Y="295.4357" W="5.785203" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.006269567" WinkelAnf="1.072814" WinkelLauf="0.1386648">
+        <PunktWinkel X="515.3072" Y="295.4358" W="2.64361" />
+        <PunktWinkel X="495.2072" Y="304.6212" W="-0.3593175" />
+        <Punkt X="439.1211" Y="155.3068" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.002096167" WinkelAnf="7.446981" WinkelLauf="0.2765062">
+        <PunktWinkel X="463.4496" Y="318.3109" W="9.017777" />
+        <PunktWinkel X="336.679" Y="353.2249" W="6.152691" />
+        <Punkt X="274.6016" Y="-119.7802" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="555.4026" Y="415.6745" W="2.710839" />
+        <PunktWinkel X="350.662" Y="509.7598" W="5.852431" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="562.7546" Y="379.946" W="1.111823" />
+        <PunktWinkel X="565.846" Y="386.2018" W="4.253416" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.04586192" WinkelAnf="-0.4589681" WinkelLauf="1.59901">
+        <PunktWinkel X="565.846" Y="386.2018" W="1.111828" />
+        <PunktWinkel X="555.4026" Y="415.6745" W="-0.4307545" />
+        <Punkt X="546.298" Y="395.8618" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="70.1688" Y="637.7014" W="-0.4647855" />
+        <PunktWinkel X="247.9101" Y="548.5778" W="2.676807" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.003178058" WinkelAnf="1.140043" WinkelLauf="0.1577578">
+        <PunktWinkel X="350.6619" Y="509.7598" W="2.710839" />
+        <PunktWinkel X="304.112" Y="526.8508" W="-0.2729955" />
+        <Punkt X="219.2749" Y="223.8457" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.003178058" WinkelAnf="-1.843792" WinkelLauf="-0.1917895">
+        <PunktWinkel X="304.1122" Y="526.8508" W="2.868597" />
+        <PunktWinkel X="247.9101" Y="548.5778" W="-0.4647852" />
+        <Punkt X="388.9493" Y="829.8558" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="339.6482" Y="576.575" W="-2.294568" />
+        <PunktWinkel X="315.3299" Y="549.0582" W="0.8470251" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01083625" WinkelAnf="2.41782" WinkelLauf="0.2785183">
+        <PunktWinkel X="315.3299" Y="549.0582" W="3.988616" />
+        <PunktWinkel X="301.1933" Y="527.6921" W="1.125542" />
+        <Punkt X="384.4786" Y="487.947" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="339.6482" Y="576.575" W="0.707265" />
+        <PunktWinkel X="359.4215" Y="593.4769" W="3.848858" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="377.8151" Y="612.1806" W="1.060053" />
+        <PunktWinkel X="383.7912" Y="622.8458" W="4.201645" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="359.4215" Y="593.4769" W="0.7072624" />
+        <PunktWinkel X="369.6235" Y="602.1974" W="3.848855" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.0271769" WinkelAnf="-0.8635317" WinkelLauf="0.3527854">
+        <PunktWinkel X="369.6235" Y="602.1973" W="0.7072646" />
+        <PunktWinkel X="377.8152" Y="612.1805" W="-2.081543" />
+        <Punkt X="345.7151" Y="630.1675" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="596.1288" Y="468.6046" W="-0.4141491" />
+        <PunktWinkel X="772.3159" Y="391.1575" W="2.727443" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01406362" WinkelAnf="1.156648" WinkelLauf="0.673665">
+        <PunktWinkel X="596.1289" Y="468.6046" W="2.727444" />
+        <PunktWinkel X="549.2687" Y="472.2348" W="0.2595167" />
+        <Punkt X="567.5153" Y="403.5104" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="549.2687" Y="472.2349" W="-2.849921" />
+        <PunktWinkel X="518.8428" Y="463.1" W="0.2916714" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.008287483" WinkelAnf="-1.279124" WinkelLauf="-0.5232623">
+        <PunktWinkel X="518.8428" Y="463.1" W="3.433265" />
+        <PunktWinkel X="456.45" Y="461.2251" W="-0.2315901" />
+        <Punkt X="484.1454" Y="578.6676" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="263.9275" Y="669.8795" W="-2.343297" />
+        <PunktWinkel X="179.2295" Y="582.968" W="0.7982962" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.09409357" WinkelAnf="2.395146" WinkelLauf="1.923042">
+        <PunktWinkel X="494.7907" Y="459.0598" W="3.965942" />
+        <PunktWinkel X="498.5108" Y="442.0306" W="2.747392" />
+        <Punkt X="502.5926" Y="451.8432" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="70.46414" Y="637.8278" W="0.847899" />
+        <PunktWinkel X="118.1506" Y="691.8814" W="3.989492" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.004325833" WinkelAnf="2.418695" WinkelLauf="-0.2127756">
+        <PunktWinkel X="118.1506" Y="691.8814" W="7.131084" />
+        <PunktWinkel X="154.3552" Y="725.0399" W="3.776716" />
+        <Punkt X="291.5026" Y="538.9489" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-27.66506" Y="702.5815" W="-0.6050891" />
+        <PunktWinkel X="24.03622" Y="666.8231" W="2.536504" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.004289877" WinkelAnf="-2.035582" WinkelLauf="-0.1403036">
+        <PunktWinkel X="70.1688" Y="637.7015" W="2.676807" />
+        <PunktWinkel X="42.05511" Y="654.3608" W="-0.6050892" />
+        <Punkt X="174.6546" Y="846.0798" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="42.0551" Y="654.3607" W="2.536506" />
+        <PunktWinkel X="24.03622" Y="666.8231" W="5.678099" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.03173254" WinkelAnf="-2.175886" WinkelLauf="-0.513855">
+        <PunktWinkel X="-27.66504" Y="702.5817" W="2.536503" />
+        <PunktWinkel X="-38.08981" Y="714.7401" W="-1.118945" />
+        <Punkt X="-9.739098" Y="728.4998" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.006137965" WinkelAnf="0.8692856" WinkelLauf="-0.4174343">
+        <PunktWinkel X="-82.03234" Y="773.2396" W="5.581675" />
+        <PunktWinkel X="-40.6069" Y="719.9261" W="2.022648" />
+        <Punkt X="-187.1767" Y="648.7899" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-40.60685" Y="719.9261" W="-1.118942" />
+        <PunktWinkel X="-38.08981" Y="714.74" W="2.02265" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="70.24159" Y="638.1096" W="-1.50242" />
+        <PunktWinkel X="71.73166" Y="616.3513" W="1.639172" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="71.73166" Y="616.3513" W="-1.486244" />
+        <PunktWinkel X="74.40035" Y="584.864" W="1.655349" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.005882353" WinkelAnf="-3.05704" WinkelLauf="0.6714063">
+        <PunktWinkel X="74.40041" Y="584.864" W="-1.486244" />
+        <PunktWinkel X="120.0987" Y="482.6031" W="-3.95643" />
+        <Punkt X="243.7931" Y="599.2208" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="120.0987" Y="482.6031" W="-0.814837" />
+        <PunktWinkel X="153.9097" Y="446.7404" W="2.326756" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="154.1888" Y="446.9852" W="0.7890433" />
+        <PunktWinkel X="228.9756" Y="522.3192" W="3.930636" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01102013" WinkelAnf="4.581894" WinkelLauf="-0.2105491">
+        <PunktWinkel X="336.6788" Y="353.2249" W="9.294283" />
+        <PunktWinkel X="318.1358" Y="357.6797" W="5.942141" />
+        <Punkt X="348.4868" Y="443.1964" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.003798148" WinkelAnf="-2.385633" WinkelLauf="0.473793">
+        <PunktWinkel X="153.9097" Y="446.7404" W="-0.8148367" />
+        <PunktWinkel X="257.4187" Y="379.2289" W="-3.482636" />
+        <Punkt X="345.4803" Y="627.3514" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="257.4188" Y="379.2288" W="-0.3410436" />
+        <PunktWinkel X="318.1359" Y="357.6796" W="2.800549" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="34.27888" Y="635.5901" W="-2.01519" />
+        <PunktWinkel X="29.88412" Y="626.3605" W="1.126403" />
+      </Gerade>
+      <Punkt ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Durchlass">
+        <PunktWinkel X="32.4295" Y="631.6181" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="70.97304" Y="629.0353" W="2.649704" />
+        <PunktWinkel X="41.29488" Y="644.9373" W="5.791297" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="34.27888" Y="635.5901" W="0.9239874" />
+        <PunktWinkel X="41.30828" Y="644.8983" W="4.06558" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="73.97907" Y="589.3597" W="-2.95349" />
+        <PunktWinkel X="26.40615" Y="580.304" W="0.1881029" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="29.88412" Y="626.3605" W="-2.015182" />
+        <PunktWinkel X="27.56147" Y="621.4825" W="1.126411" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-43.82156" Y="663.3522" W="1.095152" />
+        <PunktWinkel X="-38.92638" Y="672.8558" W="4.236745" />
+      </Gerade>
+      <Punkt ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Durchlass">
+        <PunktWinkel X="-41.0992" Y="668.6716" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-157.0557" Y="734.4703" W="-2.021659" />
+        <PunktWinkel X="-163.419" Y="721.3262" W="1.119934" />
+      </Gerade>
+      <Punkt ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="BÜ">
+        <PunktWinkel X="-159.8578" Y="728.3782" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-337.3513" Y="824.8533" W="-2.078156" />
+        <PunktWinkel X="-344.8614" Y="811.3434" W="1.063437" />
+      </Gerade>
+      <Punkt ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="BÜ">
+        <PunktWinkel X="-340.3085" Y="819.3527" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-612.0204" Y="962.0313" W="-2.024675" />
+        <PunktWinkel X="-618.0948" Y="949.5799" W="1.116917" />
+      </Gerade>
+      <Punkt ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Durchlass">
+        <PunktWinkel X="-614.4348" Y="956.9683" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-846.1432" Y="1062.537" W="1.100753" />
+        <PunktWinkel X="-839.2544" Y="1076.097" W="4.242345" />
+      </Gerade>
+      <Punkt ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Durchlass">
+        <PunktWinkel X="-841.7725" Y="1071.048" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-790.1426" Y="1036.113" W="-0.4660772" />
+        <PunktWinkel X="-618.1006" Y="949.5689" W="2.675515" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-618.1006" Y="949.5689" W="-0.4685055" />
+        <PunktWinkel X="-344.8267" Y="811.2685" W="2.673087" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="27.56147" Y="621.4825" W="2.709326" />
+        <PunktWinkel X="-168.917" Y="712.1312" W="5.850919" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-213.0659" Y="725.8923" W="-0.2823896" />
+        <PunktWinkel X="-184.1714" Y="717.5087" W="2.859203" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.08808652" WinkelAnf="-0.4508623" WinkelLauf="-1.402324">
+        <PunktWinkel X="-163.4191" Y="721.3262" W="4.261527" />
+        <PunktWinkel X="-176.8005" Y="715.3701" W="-0.28239" />
+        <Punkt X="-173.6371" Y="726.2729" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-176.8004" Y="715.3701" W="2.859208" />
+        <PunktWinkel X="-184.1714" Y="717.5087" W="6.0008" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-163.419" Y="721.3262" W="-2.113656" />
+        <PunktWinkel X="-172.7915" Y="705.7914" W="1.027937" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-173.9272" Y="703.1709" W="-1.84591" />
+        <PunktWinkel X="-179.6986" Y="682.7247" W="1.295682" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-344.8614" Y="811.3434" W="-2.103588" />
+        <PunktWinkel X="-373.517" Y="762.7477" W="1.038004" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-344.8562" Y="811.2621" W="-0.4737245" />
+        <PunktWinkel X="-289.3436" Y="782.803" W="2.667868" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-618.0948" Y="949.5799" W="-2.048408" />
+        <PunktWinkel X="-651.5016" Y="885.0356" W="1.093184" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-790.1426" Y="1036.113" W="2.675496" />
+        <PunktWinkel X="-824.5556" Y="1053.425" W="5.817088" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.005743808" WinkelAnf="1.104718" WinkelLauf="0.1343246">
+        <PunktWinkel X="-824.5557" Y="1053.425" W="2.675514" />
+        <PunktWinkel X="-846.0893" Y="1062.501" W="-0.3317538" />
+        <Punkt X="-902.7941" Y="897.8941" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1165.914" Y="1251.683" W="-2.126807" />
+        <PunktWinkel X="-1171.967" Y="1241.942" W="1.014785" />
+      </Gerade>
+      <Punkt ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="BÜ">
+        <PunktWinkel X="-1169.828" Y="1247.304" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1171.996" Y="1241.811" W="-0.5347096" />
+        <PunktWinkel X="-1094.135" Y="1195.697" W="2.606883" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-878.867" Y="1083.426" W="2.675907" />
+        <PunktWinkel X="-972.8995" Y="1130.682" W="5.8175" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-846.0893" Y="1062.501" W="-2.071101" />
+        <PunktWinkel X="-868.4618" Y="1021.578" W="1.070492" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-878.867" Y="1083.426" W="-0.4657908" />
+        <PunktWinkel X="-875.0892" Y="1081.527" W="2.675802" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.006613601" WinkelAnf="1.105114" WinkelLauf="-0.2298925">
+        <PunktWinkel X="-875.0894" Y="1081.527" W="5.817503" />
+        <PunktWinkel X="-846.0894" Y="1062.501" W="2.446018" />
+        <Punkt X="-942.9846" Y="946.4246" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.0006516792" WinkelAnf="-2.105501" WinkelLauf="0.06902169">
+        <PunktWinkel X="-1094.135" Y="1195.697" W="-0.5347046" />
+        <PunktWinkel X="-1001.215" Y="1144.911" W="-3.607275" />
+        <Punkt X="-312.1753" Y="2516.008" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1001.215" Y="1144.911" W="-0.465658" />
+        <PunktWinkel X="-972.8995" Y="1130.682" W="2.675935" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1171.967" Y="1241.942" W="-2.098003" />
+        <PunktWinkel X="-1216.605" Y="1165.267" W="1.04359" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1165.914" Y="1251.683" W="0.9217848" />
+        <PunktWinkel X="-1126.764" Y="1303.288" W="4.063377" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1589.211" Y="1517.543" W="-2.027799" />
+        <PunktWinkel X="-1596.161" Y="1503.409" W="1.113793" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1547.227" Y="1605.502" W="-2.01613" />
+        <PunktWinkel X="-1589.211" Y="1517.543" W="1.125462" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1596.273" Y="1503.49" W="-0.5579245" />
+        <PunktWinkel X="-1173.376" Y="1239.576" W="2.583668" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="BÜ">
+        <PunktWinkel X="-1593.482" Y="1508.221" />
+      </Punkt>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.07692308" WinkelAnf="-0.3541811" WinkelLauf="-1.480124">
+        <PunktWinkel X="-1592.677" Y="1501.067" W="4.358208" />
+        <PunktWinkel X="-1608.256" Y="1493.025" W="-0.2635089" />
+        <Punkt X="-1604.87" Y="1505.576" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1644.59" Y="1525.936" W="2.594541" />
+        <PunktWinkel X="-1963.472" Y="1720.153" W="5.736134" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.006236619" WinkelAnf="1.023743" WinkelLauf="-0.1324635">
+        <PunktWinkel X="-1644.59" Y="1525.936" W="5.736132" />
+        <PunktWinkel X="-1627.233" Y="1513.72" W="2.462076" />
+        <Punkt X="-1727.996" Y="1388.993" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.1060933" WinkelAnf="-0.4570378" WinkelLauf="-1.793275">
+        <PunktWinkel X="-1596.162" Y="1503.409" W="4.255351" />
+        <PunktWinkel X="-1610.543" Y="1500.236" W="-0.6795164" />
+        <Punkt X="-1604.62" Y="1507.568" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1610.543" Y="1500.236" W="2.462078" />
+        <PunktWinkel X="-1627.234" Y="1513.72" W="5.603671" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01141238" WinkelAnf="-1.834305" WinkelLauf="-0.2125271">
+        <PunktWinkel X="-1608.256" Y="1493.025" W="2.878084" />
+        <PunktWinkel X="-1625.588" Y="1499.742" W="-0.4760359" />
+        <Punkt X="-1585.433" Y="1577.624" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1963.472" Y="1720.153" W="2.641144" />
+        <PunktWinkel X="-1994.55" Y="1737.149" W="5.782737" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2015.934" Y="1730.118" W="-2.056182" />
+        <PunktWinkel X="-2047.036" Y="1671.154" W="1.085411" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.0649244" WinkelAnf="1.070352" WinkelLauf="1.585858">
+        <PunktWinkel X="-1994.55" Y="1737.149" W="2.641148" />
+        <PunktWinkel X="-2015.563" Y="1730.821" W="1.085414" />
+        <Punkt X="-2001.94" Y="1723.635" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2015.563" Y="1730.821" W="-2.056354" />
+        <PunktWinkel X="-2015.934" Y="1730.118" W="1.085238" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2025.202" Y="1756.391" W="2.40846" />
+        <PunktWinkel X="-2043.406" Y="1772.785" W="5.550053" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1994.55" Y="1737.149" W="2.64114" />
+        <PunktWinkel X="-2009.915" Y="1745.552" W="5.782733" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01238716" WinkelAnf="-2.071241" WinkelLauf="-0.2326581">
+        <PunktWinkel X="-2009.915" Y="1745.552" W="2.641148" />
+        <PunktWinkel X="-2025.202" Y="1756.391" W="-0.7331026" />
+        <Punkt X="-1971.18" Y="1816.381" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2059.193" Y="1784.441" W="2.587502" />
+        <PunktWinkel X="-2123.688" Y="1824.347" W="5.729095" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.009949075" WinkelAnf="0.8376898" WinkelLauf="0.1790257">
+        <PunktWinkel X="-2043.406" Y="1772.784" W="2.408486" />
+        <PunktWinkel X="-2057.781" Y="1783.568" W="-0.5540808" />
+        <Punkt X="-2110.667" Y="1698.094" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2057.781" Y="1783.568" W="2.587857" />
+        <PunktWinkel X="-2059.193" Y="1784.441" W="5.729449" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2152.975" Y="1858.552" W="-2.094398" />
+        <PunktWinkel X="-2158.419" Y="1849.123" W="1.047195" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Durchlass">
+        <PunktWinkel X="-2155.435" Y="1853.945" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2349.391" Y="1957.518" W="-1.951548" />
+        <PunktWinkel X="-2353.038" Y="1948.407" W="1.190045" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Durchlass">
+        <PunktWinkel X="-2351.301" Y="1952.808" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2683.759" Y="2097.455" W="-1.529227" />
+        <PunktWinkel X="-2683.261" Y="2085.481" W="1.612366" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2683.759" Y="2097.455" W="1.612356" />
+        <PunktWinkel X="-2687.268" Y="2181.839" W="4.753949" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2683.261" Y="2085.481" W="-1.529228" />
+        <PunktWinkel X="-2678.782" Y="1977.792" W="1.612364" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2780.535" Y="2119.809" W="2.749844" />
+        <PunktWinkel X="-3084.172" Y="2245.242" W="5.891436" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2735.958" Y="2094.376" W="-0.425442" />
+        <PunktWinkel X="-2709.38" Y="2082.333" W="2.716151" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01186126" WinkelAnf="4.286945" WinkelLauf="0.3260697">
+        <PunktWinkel X="-2709.38" Y="2082.333" W="5.857741" />
+        <PunktWinkel X="-2682.948" Y="2075.234" W="3.042218" />
+        <Punkt X="-2674.584" Y="2159.126" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2764.413" Y="2111.604" W="-0.5871743" />
+        <PunktWinkel X="-2753.388" Y="2104.267" W="2.554418" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.009176057" WinkelAnf="-1.996238" WinkelLauf="-0.1617682">
+        <PunktWinkel X="-2735.957" Y="2094.375" W="2.716151" />
+        <PunktWinkel X="-2751.358" Y="2102.916" W="-0.5872098" />
+        <Punkt X="-2690.979" Y="2193.64" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2751.358" Y="2102.916" W="2.554368" />
+        <PunktWinkel X="-2753.388" Y="2104.267" W="5.69596" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2780.535" Y="2119.809" W="-0.3917847" />
+        <PunktWinkel X="-2777.325" Y="2118.483" W="2.749808" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01333888" WinkelAnf="1.179048" WinkelLauf="-0.1954619">
+        <PunktWinkel X="-2777.325" Y="2118.484" W="5.891437" />
+        <PunktWinkel X="-2764.413" Y="2111.605" W="2.554382" />
+        <Punkt X="-2805.949" Y="2049.194" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2819.239" Y="2135.813" W="-1.857686" />
+        <PunktWinkel X="-2828.915" Y="2103.016" W="1.283906" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3078.907" Y="2265.538" W="-1.826935" />
+        <PunktWinkel X="-3082.937" Y="2250.15" W="1.314658" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3078.907" Y="2265.538" W="1.314688" />
+        <PunktWinkel X="-3062.493" Y="2328.221" W="4.456281" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3082.937" Y="2250.15" W="-1.826917" />
+        <PunktWinkel X="-3098.276" Y="2191.576" W="1.314676" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3005.518" Y="2154.564" W="2.904685" />
+        <PunktWinkel X="-3102.117" Y="2177.887" W="6.046278" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3005.518" Y="2154.564" W="-0.3403199" />
+        <PunktWinkel X="-2964.984" Y="2140.211" W="2.801273" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3112.385" Y="2180.224" W="2.872313" />
+        <PunktWinkel X="-3199.455" Y="2204.254" W="6.013906" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3098.276" Y="2191.576" W="-1.826942" />
+        <PunktWinkel X="-3099.27" Y="2187.78" W="1.314651" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.09404243" WinkelAnf="-0.2561193" WinkelLauf="-1.583964">
+        <PunktWinkel X="-3099.269" Y="2187.78" W="4.45627" />
+        <PunktWinkel X="-3112.385" Y="2180.224" W="-0.269287" />
+        <Punkt X="-3109.556" Y="2190.474" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3099.27" Y="2187.78" W="-1.826833" />
+        <PunktWinkel X="-3102.636" Y="2174.922" W="1.31476" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3124.549" Y="2160.303" W="-3.1187" />
+        <PunktWinkel X="-3191.938" Y="2158.76" W="0.02289239" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.05134501" WinkelAnf="-0.2560802" WinkelLauf="-1.291824">
+        <PunktWinkel X="-3102.636" Y="2174.922" W="4.456309" />
+        <PunktWinkel X="-3121.031" Y="2160.384" W="0.02289215" />
+        <Punkt X="-3121.477" Y="2179.855" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3121.031" Y="2160.384" W="-3.118557" />
+        <PunktWinkel X="-3124.549" Y="2160.303" W="0.02303544" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3102.636" Y="2174.922" W="-1.826885" />
+        <PunktWinkel X="-3109.463" Y="2148.849" W="1.314707" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3133.899" Y="2131.983" W="-3.1187" />
+        <PunktWinkel X="-3201.288" Y="2130.44" W="0.02289239" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.04444902" WinkelAnf="-0.256074" WinkelLauf="-1.29183">
+        <PunktWinkel X="-3109.463" Y="2148.849" W="4.456315" />
+        <PunktWinkel X="-3130.712" Y="2132.055" W="0.02289239" />
+        <Punkt X="-3131.227" Y="2154.547" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3130.712" Y="2132.056" W="-3.118692" />
+        <PunktWinkel X="-3133.899" Y="2131.983" W="0.02290097" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="BÜ">
+        <PunktWinkel X="-2683.404" Y="2090.625" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="BÜ">
+        <PunktWinkel X="-3081.36" Y="2255.661" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3386.146" Y="2388.747" W="-1.954328" />
+        <PunktWinkel X="-3390.301" Y="2378.45" W="1.187264" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Durchlass">
+        <PunktWinkel X="-3388.357" Y="2383.04" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3373.369" Y="2353.478" W="-0.8960854" />
+        <PunktWinkel X="-3290.822" Y="2250.288" W="2.245507" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.2143811" WinkelAnf="2.758069" WinkelLauf="1.058233">
+        <PunktWinkel X="-3390.302" Y="2378.449" W="4.328866" />
+        <PunktWinkel X="-3389.619" Y="2373.79" W="2.245506" />
+        <Punkt X="-3385.976" Y="2376.704" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3389.618" Y="2373.791" W="-0.8960964" />
+        <PunktWinkel X="-3373.369" Y="2353.478" W="2.245496" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.08476902" WinkelAnf="-2.466882" WinkelLauf="-1.07555">
+        <PunktWinkel X="-3373.369" Y="2353.478" W="2.245507" />
+        <PunktWinkel X="-3375.019" Y="2365.45" W="-1.971636" />
+        <Punkt X="-3364.157" Y="2360.847" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3375.019" Y="2365.45" W="1.169919" />
+        <PunktWinkel X="-3372.654" Y="2371.03" W="4.311512" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3386.146" Y="2388.747" W="0.8887154" />
+        <PunktWinkel X="-3364.444" Y="2415.47" W="4.030308" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01051513" WinkelAnf="5.601109" WinkelLauf="0.5145538">
+        <PunktWinkel X="-3364.444" Y="2415.47" W="7.171906" />
+        <PunktWinkel X="-3344.498" Y="2459.565" W="4.544867" />
+        <Punkt X="-3438.268" Y="2475.422" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-295.6914" Y="926.1087" W="-0.5869652" />
+        <PunktWinkel X="-166.0235" Y="839.8576" W="2.554627" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.004450011" WinkelAnf="0.8553829" WinkelLauf="0.1284489">
+        <PunktWinkel X="-143.0813" Y="822.3737" W="2.426179" />
+        <PunktWinkel X="-166.0236" Y="839.8577" W="-0.5869645" />
+        <Punkt X="-290.4808" Y="652.7512" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-82.0324" Y="773.2397" W="2.463912" />
+        <PunktWinkel X="-143.0812" Y="822.3737" W="5.605505" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-175.014" Y="798.5151" W="1.042765" />
+        <PunktWinkel X="-155.3026" Y="832.3094" W="4.184357" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-176.3278" Y="777.3674" W="-1.135404" />
+        <PunktWinkel X="-165.7178" Y="754.5582" W="2.006189" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-175.014" Y="798.5151" W="-2.098852" />
+        <PunktWinkel X="-175.3764" Y="797.8938" W="1.04274" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.0450931" WinkelAnf="2.613561" WinkelLauf="0.9634215">
+        <PunktWinkel X="-175.3763" Y="797.8938" W="4.184357" />
+        <PunktWinkel X="-176.3278" Y="777.3674" W="2.006186" />
+        <Punkt X="-156.2204" Y="786.7206" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.0025" WinkelAnf="1.248594" WinkelLauf="0.1348762">
+        <PunktWinkel X="-45.50961" Y="709.7239" W="2.81939" />
+        <PunktWinkel X="-97.67915" Y="723.3101" W="-0.1873261" />
+        <Punkt X="-172.1721" Y="330.3078" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-45.50978" Y="709.724" W="-0.3222072" />
+        <PunktWinkel X="-30.17424" Y="704.6044" W="2.819386" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-97.67929" Y="723.3101" W="2.954268" />
+        <PunktWinkel X="-121.3119" Y="727.7896" W="6.09586" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.02311404" WinkelAnf="-2.706203" WinkelLauf="0.9480816">
+        <PunktWinkel X="-165.7179" Y="754.5581" W="-1.135407" />
+        <PunktWinkel X="-134.5475" Y="730.2983" W="-3.328918" />
+        <Punkt X="-126.4904" Y="772.8052" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-134.5474" Y="730.2983" W="-0.1873187" />
+        <PunktWinkel X="-121.3119" Y="727.7896" W="2.954274" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-157.0557" Y="734.4703" W="1.119934" />
+        <PunktWinkel X="-154.4368" Y="739.8799" W="4.261526" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-337.3513" Y="824.8533" W="1.018648" />
+        <PunktWinkel X="-280.991" Y="916.3376" W="4.160241" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.001181939" WinkelAnf="0.983831" WinkelLauf="0.1572468">
+        <PunktWinkel X="-295.6912" Y="926.1088" W="2.554627" />
+        <PunktWinkel X="-411.7902" Y="990.7972" W="-0.4297186" />
+        <Punkt X="-764.2745" Y="221.6518" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.001546542" WinkelAnf="1.141078" WinkelLauf="0.1476171">
+        <PunktWinkel X="-411.7904" Y="990.7972" W="2.711874" />
+        <PunktWinkel X="-501.1771" Y="1024.026" W="-0.2821012" />
+        <Punkt X="-681.1751" Y="402.9806" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-619.6625" Y="1079.205" W="-0.4826289" />
+        <PunktWinkel X="-555.8156" Y="1045.752" W="2.658964" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-501.177" Y="1024.026" W="2.859569" />
+        <PunktWinkel X="-510.7818" Y="1026.809" W="6.001162" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.004861793" WinkelAnf="-1.852898" WinkelLauf="-0.200526">
+        <PunktWinkel X="-510.7819" Y="1026.81" W="2.859491" />
+        <PunktWinkel X="-548.9846" Y="1042.173" W="-0.4826277" />
+        <Punkt X="-453.5242" Y="1224.365" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-548.9844" Y="1042.173" W="2.658998" />
+        <PunktWinkel X="-555.8156" Y="1045.752" W="5.80059" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.002200779" WinkelAnf="1.088169" WinkelLauf="0.1350434">
+        <PunktWinkel X="-619.6622" Y="1079.205" W="2.658965" />
+        <PunktWinkel X="-675.77" Y="1103.932" W="-0.3475839" />
+        <Punkt X="-830.5458" Y="676.7208" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-806.8146" Y="1164.42" W="-0.4593886" />
+        <PunktWinkel X="-753.7466" Y="1138.168" W="2.682204" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-675.77" Y="1103.932" W="2.793937" />
+        <PunktWinkel X="-685.1719" Y="1107.339" W="5.93553" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.002251914" WinkelAnf="-1.91838" WinkelLauf="-0.1118026">
+        <PunktWinkel X="-685.1718" Y="1107.338" W="2.794009" />
+        <PunktWinkel X="-730.809" Y="1126.821" W="-0.4593862" />
+        <Punkt X="-533.9106" Y="1524.849" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-730.8091" Y="1126.822" W="2.682237" />
+        <PunktWinkel X="-753.7466" Y="1138.168" W="5.82383" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-806.8146" Y="1164.42" W="2.789633" />
+        <PunktWinkel X="-899.4569" Y="1198.443" W="5.931226" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.0004374531" WinkelAnf="4.36043" WinkelLauf="-0.07472532">
+        <PunktWinkel X="-899.4567" Y="1198.443" W="9.072819" />
+        <PunktWinkel X="-1057.456" Y="1263.264" W="5.856501" />
+        <Punkt X="-111.4007" Y="3344.271" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.002452641" WinkelAnf="4.285705" WinkelLauf="-0.2075135">
+        <PunktWinkel X="-1057.455" Y="1263.263" W="8.998095" />
+        <PunktWinkel X="-1130.305" Y="1305.991" W="5.648988" />
+        <Punkt X="-888.7164" Y="1634.432" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-952.4097" Y="1284.458" W="-2.046406" />
+        <PunktWinkel X="-980.4667" Y="1229.983" W="1.095187" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.008408947" WinkelAnf="5.813142" WinkelLauf="0.2967313">
+        <PunktWinkel X="-839.2543" Y="1076.097" W="7.383938" />
+        <PunktWinkel X="-828.1387" Y="1109.452" W="4.539077" />
+        <Punkt X="-945.2782" Y="1129.959" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.008949038" WinkelAnf="2.968281" WinkelLauf="-0.5326">
+        <PunktWinkel X="-828.1387" Y="1109.452" W="7.68067" />
+        <PunktWinkel X="-803.1082" Y="1162.673" W="4.006477" />
+        <Punkt X="-718.0689" Y="1090.182" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-781.7804" Y="1192.841" W="-2.07332" />
+        <PunktWinkel X="-799.3434" Y="1160.884" W="1.068273" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-612.0204" Y="962.0313" W="1.116915" />
+        <PunktWinkel X="-604.1999" Y="978.0618" W="4.258508" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-559.4936" Y="1047.696" W="-2.122436" />
+        <PunktWinkel X="-572.0759" Y="1027.249" W="1.019157" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.005639843" WinkelAnf="2.68771" WinkelLauf="-0.2148253">
+        <PunktWinkel X="-604.1998" Y="978.0618" W="7.400099" />
+        <PunktWinkel X="-583.9637" Y="1010.246" W="4.043681" />
+        <Punkt X="-444.8423" Y="900.3188" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.005639849" WinkelAnf="-0.6687077" WinkelLauf="0.1170742">
+        <PunktWinkel X="-583.9639" Y="1010.246" W="0.9020886" />
+        <PunktWinkel X="-572.0759" Y="1027.249" W="-2.12243" />
+        <Punkt X="-723.0852" Y="1120.173" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.003907582" WinkelAnf="4.078191" WinkelLauf="-0.1092445">
+        <PunktWinkel X="-1130.306" Y="1305.991" W="8.79058" />
+        <PunktWinkel X="-1151.878" Y="1323.753" W="5.539742" />
+        <Punkt X="-978.6691" Y="1512.141" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.00517171" WinkelAnf="7.110539" WinkelLauf="0.2930811">
+        <PunktWinkel X="-1151.878" Y="1323.753" W="8.681335" />
+        <PunktWinkel X="-1198.581" Y="1355.493" W="5.832824" />
+        <Punkt X="-1282.749" Y="1181.413" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1306.922" Y="1441.849" W="-0.7748557" />
+        <PunktWinkel X="-1270.071" Y="1405.767" W="2.366737" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1198.581" Y="1355.492" W="2.691222" />
+        <PunktWinkel X="-1207.584" Y="1359.845" W="5.832815" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.004785898" WinkelAnf="-2.021158" WinkelLauf="-0.324481">
+        <PunktWinkel X="-1207.584" Y="1359.845" W="2.691231" />
+        <PunktWinkel X="-1262.811" Y="1398.659" W="-0.7748426" />
+        <Punkt X="-1116.631" Y="1547.958" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1262.811" Y="1398.659" W="2.36678" />
+        <PunktWinkel X="-1270.071" Y="1405.767" W="5.508373" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1502.276" Y="1585.894" W="-0.5871512" />
+        <PunktWinkel X="-1419.045" Y="1530.509" W="2.554441" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.001501424" WinkelAnf="0.7959542" WinkelLauf="0.1876976">
+        <PunktWinkel X="-1306.922" Y="1441.849" W="2.36675" />
+        <PunktWinkel X="-1403.908" Y="1520.437" W="-0.5871445" />
+        <Punkt X="-1772.882" Y="965.9461" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1403.908" Y="1520.437" W="2.554476" />
+        <PunktWinkel X="-1419.045" Y="1530.509" W="5.696069" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1905.912" Y="1821.224" W="-0.5713543" />
+        <PunktWinkel X="-1796.111" Y="1750.635" W="2.570238" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.00244331" WinkelAnf="4.141035" WinkelLauf="0.259075">
+        <PunktWinkel X="-1796.112" Y="1750.636" W="5.711832" />
+        <PunktWinkel X="-1700.527" Y="1705.424" W="2.829314" />
+        <Punkt X="-1574.784" Y="2094.91" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.001452941" WinkelAnf="-2.157941" WinkelLauf="-0.1161274">
+        <PunktWinkel X="-1502.276" Y="1585.894" W="2.554448" />
+        <PunktWinkel X="-1566.099" Y="1633.932" W="-0.7032722" />
+        <Punkt X="-1120.99" Y="2158.888" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1700.526" Y="1705.423" W="-0.3122701" />
+        <PunktWinkel X="-1683.957" Y="1700.074" W="2.829323" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.002927372" WinkelAnf="1.258517" WinkelLauf="-0.3982576">
+        <PunktWinkel X="-1683.957" Y="1700.074" W="5.970906" />
+        <PunktWinkel X="-1566.099" Y="1633.931" W="2.431056" />
+        <Punkt X="-1788.907" Y="1374.992" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.004546019" WinkelAnf="-2.14215" WinkelLauf="-0.4265682">
+        <PunktWinkel X="-1905.912" Y="1821.224" W="2.570239" />
+        <PunktWinkel X="-1971.81" Y="1887.022" W="-0.9979218" />
+        <Punkt X="-1786.957" Y="2006.258" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.007810746" WinkelAnf="3.626269" WinkelLauf="0.2127816">
+        <PunktWinkel X="-1986.649" Y="1882.918" W="5.197065" />
+        <PunktWinkel X="-1971.497" Y="1860.34" W="2.268254" />
+        <Punkt X="-1873.366" Y="1942.569" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.005659232" WinkelAnf="3.839051" WinkelLauf="0.3027938">
+        <PunktWinkel X="-1971.497" Y="1860.34" W="5.409847" />
+        <PunktWinkel X="-1931.494" Y="1825.117" W="2.571048" />
+        <Punkt X="-1836.059" Y="1973.831" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.07031269" WinkelAnf="4.141844" WinkelLauf="1.341213">
+        <PunktWinkel X="-1931.494" Y="1825.117" W="5.71264" />
+        <PunktWinkel X="-1913.906" Y="1826.882" W="3.912261" />
+        <Punkt X="-1923.813" Y="1837.086" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3727.646" Y="-1828.452" W="-1.797539" />
+        <PunktWinkel X="3725.398" Y="-1838.196" W="1.344053" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3730.732" Y="-1831.058" W="-2.731363" />
+        <PunktWinkel X="3721.562" Y="-1835.046" W="0.4102296" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Wärterposten">
+        <PunktWinkel X="3726.742" Y="-1832.81" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3411.75" Y="-1394.313" W="-1.959546" />
+        <PunktWinkel X="3407.358" Y="-1405.036" W="1.182046" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3415.307" Y="-1399.48" W="-3.119819" />
+        <PunktWinkel X="3403.827" Y="-1399.73" W="0.02177349" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Wärterposten">
+        <PunktWinkel X="3409.556" Y="-1399.625" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3412.79" Y="-1395.448" W="1.080154" />
+        <PunktWinkel X="3416.544" Y="-1388.421" W="4.221747" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3418.542" Y="-1391.658" W="-3.065581" />
+        <PunktWinkel X="3410.611" Y="-1392.262" W="0.07601157" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3418.524" Y="-1391.598" W="1.631247" />
+        <PunktWinkel X="3418.191" Y="-1386.096" W="4.772839" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3416.032" Y="-1387.428" W="-0.5227455" />
+        <PunktWinkel X="3421.018" Y="-1390.301" W="2.618847" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3002.651" Y="-820.6765" W="-2.539368" />
+        <PunktWinkel X="2990.972" Y="-828.7047" W="0.6022243" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="BÜ">
+        <PunktWinkel X="2995.624" Y="-825.62" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2997.21" Y="-632.7862" W="-2.167603" />
+        <PunktWinkel X="2962.282" Y="-684.1917" W="0.9739892" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.1350801" WinkelAnf="2.544785" WinkelLauf="1.153386">
+        <PunktWinkel X="2962.282" Y="-684.1916" W="4.115582" />
+        <PunktWinkel X="2962.119" Y="-692.2631" W="2.127375" />
+        <Punkt X="2968.405" Y="-688.3522" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2962.119" Y="-692.2632" W="-1.014188" />
+        <PunktWinkel X="2973.845" Y="-711.1083" W="2.127405" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3010.084" Y="-803.1481" W="1.815475" />
+        <PunktWinkel X="3004.045" Y="-778.961" W="4.957068" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2973.845" Y="-711.1083" W="-1.014273" />
+        <PunktWinkel X="2978.423" Y="-718.4672" W="2.12732" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.004728269" WinkelAnf="0.5565791" WinkelLauf="-0.311891">
+        <PunktWinkel X="2978.424" Y="-718.4673" W="5.268968" />
+        <PunktWinkel X="3004.045" Y="-778.9611" W="1.815484" />
+        <Punkt X="2798.851" Y="-830.1962" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3002.651" Y="-820.6765" W="0.6021334" />
+        <PunktWinkel X="3003.728" Y="-819.9362" W="3.743726" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.0635159" WinkelAnf="-0.9685489" WinkelLauf="1.213228">
+        <PunktWinkel X="3003.728" Y="-819.9362" W="0.6022474" />
+        <PunktWinkel X="3010.084" Y="-803.148" W="-1.326117" />
+        <Punkt X="2994.809" Y="-806.962" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3010.084" Y="-803.1481" W="-1.326114" />
+        <PunktWinkel X="3017.121" Y="-831.332" W="1.815479" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3117.543" Y="-976.0168" W="2.187421" />
+        <PunktWinkel X="3022.083" Y="-841.3434" W="5.329014" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.03926836" WinkelAnf="-2.896919" WinkelLauf="0.3719535">
+        <PunktWinkel X="3017.121" Y="-831.332" W="-1.326123" />
+        <PunktWinkel X="3021.052" Y="-839.8898" W="-4.095762" />
+        <Punkt X="3041.828" Y="-825.1632" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3021.052" Y="-839.8897" W="-0.953895" />
+        <PunktWinkel X="3022.083" Y="-841.3434" W="2.187698" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3153.625" Y="-1187.676" W="2.038994" />
+        <PunktWinkel X="3144.496" Y="-1169.624" W="5.180586" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3125.834" Y="-1082.69" W="-1.396989" />
+        <PunktWinkel X="3137.423" Y="-1148.695" W="1.744604" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3144.496" Y="-1169.624" W="2.039449" />
+        <PunktWinkel X="3144.166" Y="-1168.972" W="5.181042" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01372793" WinkelAnf="-2.673368" WinkelLauf="-0.2944094">
+        <PunktWinkel X="3144.166" Y="-1168.973" W="2.039021" />
+        <PunktWinkel X="3137.423" Y="-1148.696" W="-1.396981" />
+        <Punkt X="3209.17" Y="-1136.098" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.0006666667" WinkelAnf="0.8507348" WinkelLauf="0.1088552">
+        <PunktWinkel X="3112.293" Y="-1059.224" W="2.421531" />
+        <PunktWinkel X="2983.931" Y="-958.4376" W="-0.6112064" />
+        <Punkt X="2123.147" Y="-2186.872" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.02531212" WinkelAnf="0.1738067" WinkelLauf="0.6769282">
+        <PunktWinkel X="3125.833" Y="-1082.69" W="1.744603" />
+        <PunktWinkel X="3112.974" Y="-1059.822" W="-0.7200614" />
+        <Punkt X="3086.922" Y="-1089.522" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3112.974" Y="-1059.822" W="2.42109" />
+        <PunktWinkel X="3112.293" Y="-1059.224" W="5.562683" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.05051609" WinkelAnf="-2.182003" WinkelLauf="-1.433407">
+        <PunktWinkel X="2983.931" Y="-958.4375" W="2.530386" />
+        <PunktWinkel X="2977.676" Y="-933.1932" W="-2.044614" />
+        <Punkt X="2995.291" Y="-942.2257" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01109978" WinkelAnf="-3.61541" WinkelLauf="-0.3064702">
+        <PunktWinkel X="2977.677" Y="-933.1934" W="1.096979" />
+        <PunktWinkel X="2993.814" Y="-910.9229" W="-2.351084" />
+        <Punkt X="3057.843" Y="-974.301" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.02357467" WinkelAnf="-0.7802872" WinkelLauf="0.5337063">
+        <PunktWinkel X="2993.813" Y="-910.9227" W="0.7905091" />
+        <PunktWinkel X="3004.802" Y="-891.4359" W="-1.817377" />
+        <Punkt X="2963.666" Y="-881.082" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.09527349" WinkelAnf="2.173021" WinkelLauf="1.390989">
+        <PunktWinkel X="2990.972" Y="-828.7047" W="3.743817" />
+        <PunktWinkel X="2987.344" Y="-841.6573" W="1.993214" />
+        <Punkt X="2996.918" Y="-837.3543" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.04806677" WinkelAnf="-0.2465809" WinkelLauf="0.6689981">
+        <PunktWinkel X="3004.802" Y="-891.4359" W="1.324215" />
+        <PunktWinkel X="3003.603" Y="-877.8287" W="-1.148379" />
+        <Punkt X="2984.627" Y="-886.3578" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3003.602" Y="-877.8287" W="1.993212" />
+        <PunktWinkel X="2987.344" Y="-841.6573" W="5.134804" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01045426" WinkelAnf="-1.401331" WinkelLauf="-0.4270527">
+        <PunktWinkel X="2996.49" Y="-908.1326" W="3.311058" />
+        <PunktWinkel X="2955.989" Y="-906.3469" W="-0.2575873" />
+        <Punkt X="2980.357" Y="-813.848" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2999.476" Y="-791.6844" W="-2.013582" />
+        <PunktWinkel X="2994.238" Y="-802.7307" W="1.128011" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3002.91" Y="-796.5525" W="-3.017975" />
+        <PunktWinkel X="2990.642" Y="-798.0768" W="0.1236176" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Wärterposten">
+        <PunktWinkel X="2996.855" Y="-797.3066" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3002.82" Y="-796.1545" W="1.680868" />
+        <PunktWinkel X="3002.162" Y="-790.2011" W="4.822461" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3004.903" Y="-794.2023" W="2.710469" />
+        <PunktWinkel X="2999.789" Y="-791.8499" W="5.852061" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2881.078" Y="-654.1247" W="-2.235114" />
+        <PunktWinkel X="2873.843" Y="-663.3641" W="0.9064788" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Durchlass">
+        <PunktWinkel X="2876.736" Y="-659.6881" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2873.843" Y="-663.3641" W="-2.235179" />
+        <PunktWinkel X="2800.384" Y="-757.1633" W="0.906414" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2881.078" Y="-654.1247" W="0.9063995" />
+        <PunktWinkel X="2900.526" Y="-629.2924" W="4.047992" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2905.329" Y="-628.9587" W="-0.7773339" />
+        <PunktWinkel X="2948.401" Y="-671.3413" W="2.364259" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.3085092" WinkelAnf="2.477203" WinkelLauf="-1.674089">
+        <PunktWinkel X="2900.526" Y="-629.2924" W="7.189592" />
+        <PunktWinkel X="2905.329" Y="-628.9587" W="2.37391" />
+        <Punkt X="2903.078" Y="-631.291" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.1882611" WinkelAnf="-0.5968071" WinkelLauf="-2.276247">
+        <PunktWinkel X="2962.281" Y="-684.1917" W="4.115582" />
+        <PunktWinkel X="2952.767" Y="-682.6158" W="-1.302258" />
+        <Punkt X="2957.888" Y="-681.2065" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.110555" WinkelAnf="0.793468" WinkelLauf="-0.5249291">
+        <PunktWinkel X="2948.401" Y="-671.3413" W="5.505857" />
+        <PunktWinkel X="2950.778" Y="-675.3888" W="1.839335" />
+        <Punkt X="2942.057" Y="-677.7887" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2950.778" Y="-675.3888" W="-1.302225" />
+        <PunktWinkel X="2952.767" Y="-682.6158" W="1.839367" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2482.456" Y="-386.0207" W="-1.575512" />
+        <PunktWinkel X="2482.383" Y="-401.4991" W="1.56608" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2475.765" Y="-398.3011" W="0.5531507" />
+        <PunktWinkel X="2489.853" Y="-389.6024" W="3.694743" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2489.82" Y="-389.5126" W="-0.8002898" />
+        <PunktWinkel X="2497.403" Y="-397.3249" W="2.341303" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2500.05" Y="-392.317" W="-2.95864" />
+        <PunktWinkel X="2487.845" Y="-394.5752" W="0.182953" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Haus Form unbekannt">
+        <PunktWinkel X="2482.309" Y="-394.2523" />
+      </Punkt>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.1038664" WinkelAnf="-1.96108" WinkelLauf="-0.9926657">
+        <PunktWinkel X="2462.38" Y="-395.67" W="2.751309" />
+        <PunktWinkel X="2456.584" Y="-388.5641" W="-1.382949" />
+        <Punkt X="2466.043" Y="-386.7662" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2481.222" Y="-372.2548" W="0.8248506" />
+        <PunktWinkel X="2489.328" Y="-363.4826" W="3.966443" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2484.344" Y="-361.9921" W="-1.390819" />
+        <PunktWinkel X="2486.491" Y="-373.7921" W="1.750774" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Wärterposten">
+        <PunktWinkel X="2485.48" Y="-367.7981" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2369.416" Y="-347.7967" W="-2.242748" />
+        <PunktWinkel X="2297.211" Y="-438.571" W="0.8988451" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.07032364" WinkelAnf="-0.6719493" WinkelLauf="-1.273392">
+        <PunktWinkel X="2297.212" Y="-438.571" W="4.04044" />
+        <PunktWinkel X="2280.881" Y="-442.9531" W="-0.3745449" />
+        <Punkt X="2286.083" Y="-429.7189" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2280.88" Y="-442.953" W="2.767048" />
+        <PunktWinkel X="2237.219" Y="-425.7899" W="5.908641" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.03382097" WinkelAnf="7.479437" WinkelLauf="0.7359942">
+        <PunktWinkel X="2237.219" Y="-425.7898" W="9.050233" />
+        <PunktWinkel X="2215.946" Y="-425.6505" W="6.644635" />
+        <Punkt X="2226.402" Y="-453.3076" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2215.946" Y="-425.6506" W="-2.780143" />
+        <PunktWinkel X="2164.121" Y="-445.2435" W="0.3614499" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Entwässerungsgraben">
+        <PunktWinkel X="2361.923" Y="-357.05" />
+      </Punkt>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.0734021" WinkelAnf="1.28783" WinkelLauf="1.802272">
+        <PunktWinkel X="2102.614" Y="-246.1203" W="2.858626" />
+        <PunktWinkel X="2085.205" Y="-258.5009" W="1.519306" />
+        <Punkt X="2098.81" Y="-259.2021" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2085.205" Y="-258.5009" W="-1.622298" />
+        <PunktWinkel X="2082.466" Y="-311.6373" W="1.519295" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1838.128" Y="-90.05865" W="-1.202588" />
+        <PunktWinkel X="1840.578" Y="-96.40891" W="1.939004" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1842.659" Y="-91.90297" W="-2.761016" />
+        <PunktWinkel X="1835.868" Y="-94.61993" W="0.3805763" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Haus">
+        <PunktWinkel X="1839.444" Y="-93.1567" />
+      </Punkt>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.009768412" WinkelAnf="4.537637" WinkelLauf="0.233466">
+        <PunktWinkel X="1624.164" Y="4.763144" W="6.108434" />
+        <PunktWinkel X="1647.969" Y="3.380414" W="3.200307" />
+        <Punkt X="1641.962" Y="105.5748" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01466664" WinkelAnf="1.629511" WinkelLauf="-0.6899089">
+        <PunktWinkel X="1647.969" Y="3.380395" W="6.3419" />
+        <PunktWinkel X="1692.205" Y="-9.639182" W="2.510398" />
+        <Punkt X="1651.97" Y="-64.68407" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1785.922" Y="-57.00911" W="2.717067" />
+        <PunktWinkel X="1723.707" Y="-28.88723" W="5.85866" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1692.205" Y="-9.639215" W="-0.6312082" />
+        <PunktWinkel X="1700.278" Y="-15.54031" W="2.510384" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.008471626" WinkelAnf="-2.201991" WinkelLauf="0.2066674">
+        <PunktWinkel X="1700.278" Y="-15.5403" W="-0.6311948" />
+        <PunktWinkel X="1721.315" Y="-27.806" W="-3.56612" />
+        <Punkt X="1769.935" Y="79.75698" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1721.315" Y="-27.80602" W="-0.4245105" />
+        <PunktWinkel X="1723.707" Y="-28.88723" W="2.717082" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1712.846" Y="-23.29032" W="-1.990978" />
+        <PunktWinkel X="1690.413" Y="-73.49953" W="1.150615" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1538.48" Y="35.06942" W="-0.3759071" />
+        <PunktWinkel X="1592.01" Y="13.94248" W="2.765686" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.006174417" WinkelAnf="-1.745548" WinkelLauf="-0.2011549">
+        <PunktWinkel X="1624.163" Y="4.76315" W="2.966841" />
+        <PunktWinkel X="1592.864" Y="13.60521" W="-0.3759066" />
+        <Punkt X="1652.322" Y="164.2551" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1592.864" Y="13.60517" W="2.765426" />
+        <PunktWinkel X="1592.01" Y="13.94248" W="5.907019" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1591.485" Y="-28.29102" W="0.6245673" />
+        <PunktWinkel X="1600.197" Y="-22.01115" W="3.76616" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1597.12" Y="-30.40401" W="1.826782" />
+        <PunktWinkel X="1594.391" Y="-19.97712" W="4.968374" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1594.448" Y="-19.9508" W="0.5102105" />
+        <PunktWinkel X="1601.623" Y="-15.93539" W="3.651803" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1600.114" Y="-21.98069" W="1.952622" />
+        <PunktWinkel X="1596.985" Y="-14.18795" W="5.094215" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Wärterposten">
+        <PunktWinkel X="1595.693" Y="-25.1677" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1575.579" Y="-26.93778" W="0.5549136" />
+        <PunktWinkel X="1587.046" Y="-19.82952" W="3.696506" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1582.664" Y="-29.72373" W="1.748925" />
+        <PunktWinkel X="1580.32" Y="-16.70424" W="4.890518" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1554.646" Y="-125.3117" W="0.6072672" />
+        <PunktWinkel X="1562.994" Y="-119.511" W="3.74886" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1560.13" Y="-127.3222" W="1.779911" />
+        <PunktWinkel X="1558.091" Y="-117.7138" W="4.921504" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Haus unbekannt">
+        <PunktWinkel X="1559.016" Y="-122.3892" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1226.273" Y="99.03873" W="-1.930809" />
+        <PunktWinkel X="1222.656" Y="89.42987" W="1.210783" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1222.656" Y="89.42987" W="-1.930785" />
+        <PunktWinkel X="1201.036" Y="31.98943" W="1.210808" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1226.273" Y="99.03873" W="1.210809" />
+        <PunktWinkel X="1261.786" Y="193.3908" W="4.352401" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Entwässerungsgraben">
+        <PunktWinkel X="1224.642" Y="94.075" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="978.5269" Y="173.4345" W="-0.380746" />
+        <PunktWinkel X="1080.203" Y="132.7358" W="2.760847" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="695.17" Y="309.8522" W="-0.6327653" />
+        <PunktWinkel X="714.1888" Y="295.9046" W="2.508827" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="716.4432" Y="299.2258" W="2.833668" />
+        <PunktWinkel X="693.1427" Y="306.6363" W="5.975261" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Stellwerk Aw?">
+        <PunktWinkel X="704.8151" Y="302.7344" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="417.1461" Y="453.913" W="-0.4705792" />
+        <PunktWinkel X="493.7775" Y="414.931" W="2.671014" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Laderampe">
+        <PunktWinkel X="457.6966" Y="433.481" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="382.3144" Y="482.4187" W="-1.36181" />
+        <PunktWinkel X="385.631" Y="466.7804" W="1.779783" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="376.3434" Y="471.7876" W="0.3736108" />
+        <PunktWinkel X="391.8642" Y="477.8721" W="3.515203" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Güterschuppen">
+        <PunktWinkel X="383.9353" Y="474.7547" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="350.4932" Y="498.9857" W="-1.303218" />
+        <PunktWinkel X="354.6878" Y="483.6854" W="1.838374" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="344.5831" Y="488.5208" W="0.3584152" />
+        <PunktWinkel X="360.0993" Y="494.3331" W="3.500008" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Haus">
+        <PunktWinkel X="352.4547" Y="491.4796" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="228.9756" Y="522.3192" W="0.7890441" />
+        <PunktWinkel X="242.8196" Y="536.2645" W="3.930637" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="242.8196" Y="536.2645" W="0.789816" />
+        <PunktWinkel X="289.7099" Y="583.571" W="3.931409" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01001535" WinkelAnf="-0.7809783" WinkelLauf="0.3524251">
+        <PunktWinkel X="289.7099" Y="583.571" W="0.789818" />
+        <PunktWinkel X="309.6136" Y="612.3688" W="-1.99935" />
+        <Punkt X="218.7962" Y="653.8606" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01001535" WinkelAnf="2.713039" WinkelLauf="-0.3063465">
+        <PunktWinkel X="309.6136" Y="612.3688" W="7.425428" />
+        <PunktWinkel X="326.3549" Y="637.8254" W="3.977489" />
+        <Punkt X="400.431" Y="570.8769" />
+      </Kreisbogen>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mühlbach">
+        <PunktWinkel X="220.0184" Y="513.3519" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Kannal">
+        <PunktWinkel X="235.894" Y="529.4016" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Kanal">
+        <PunktWinkel X="252.6033" Y="546.1825" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="324.2901" Y="501.0502" W="-0.0384813" />
+        <PunktWinkel X="335.2819" Y="500.627" W="3.103111" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="333.4199" Y="496.3837" W="2.248463" />
+        <PunktWinkel X="326.3691" Y="505.1445" W="5.390056" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Haus?">
+        <PunktWinkel X="329.7717" Y="500.8318" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="164.802" Y="583.7422" W="-1.481199" />
+        <PunktWinkel X="165.739" Y="573.3124" W="1.660394" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="170.2879" Y="580.8356" W="-2.630799" />
+        <PunktWinkel X="161.0342" Y="575.6498" W="0.5107939" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Haus Form unbekannt">
+        <PunktWinkel X="165.362" Y="578.0696" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="113.3899" Y="599.4584" W="-0.1111589" />
+        <PunktWinkel X="139.4326" Y="596.5515" W="3.030434" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="135.386" Y="588.4321" W="2.305496" />
+        <PunktWinkel X="117.8903" Y="607.7983" W="5.447089" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Empfangsgebäude">
+        <PunktWinkel X="126.6986" Y="597.9374" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="106.279" Y="613.2681" W="-2.646645" />
+        <PunktWinkel X="96.67288" Y="608.0831" W="0.4949473" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="102.0137" Y="605.3057" W="1.702447" />
+        <PunktWinkel X="100.5814" Y="616.1224" W="4.84404" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Haus Form unbekannt">
+        <PunktWinkel X="101.3284" Y="610.5262" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="98.24694" Y="612.7832" W="2.882926" />
+        <PunktWinkel X="80.48546" Y="617.4828" W="6.024519" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="96.68449" Y="609.4091" W="2.461808" />
+        <PunktWinkel X="82.32398" Y="621.0168" W="5.603401" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Haus Funktionm unbekannt">
+        <PunktWinkel X="89.9413" Y="614.9485" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="25.33142" Y="658.7426" W="-1.462862" />
+        <PunktWinkel X="27.55586" Y="638.2135" W="1.678731" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="15.46081" Y="648.3113" W="-0.1079944" />
+        <PunktWinkel X="36.53224" Y="646.0268" W="3.033598" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Bäckerei">
+        <PunktWinkel X="26.6702" Y="647.0347" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-79.82761" Y="721.4639" W="0.3027136" />
+        <PunktWinkel X="-51.38374" Y="730.3473" W="3.444306" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-77.29883" Y="735.0164" W="-0.6789343" />
+        <PunktWinkel X="-53.1527" Y="715.5329" W="2.462658" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Kirche">
+        <PunktWinkel X="-66.12" Y="725.8629" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-96.87025" Y="705.8824" W="0.333073" />
+        <PunktWinkel X="-73.92239" Y="713.8215" W="3.474666" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-76.41941" Y="701.5358" W="2.402343" />
+        <PunktWinkel X="-94.53083" Y="718.0483" W="5.543935" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Museum">
+        <PunktWinkel X="-85.5741" Y="709.7914" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-34.44646" Y="673.1773" W="0.2739144" />
+        <PunktWinkel X="-12.12162" Y="679.4501" W="3.415507" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-17.34404" Y="666.2373" W="2.11796" />
+        <PunktWinkel X="-29.61984" Y="686.3877" W="5.259552" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Rathaus">
+        <PunktWinkel X="-23.5021" Y="676.3718" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="177.2767" Y="576.638" W="-1.57063" />
+        <PunktWinkel X="177.2778" Y="570.0279" W="1.570963" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="173.9299" Y="571.2677" W="0.5669696" />
+        <PunktWinkel X="180.2907" Y="575.3176" W="3.708562" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Haus?">
+        <PunktWinkel X="177.058" Y="573.5889" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-180.543" Y="680.3113" W="-1.972184" />
+        <PunktWinkel X="-191.5507" Y="654.376" W="1.169409" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.0480456" WinkelAnf="-0.2751098" WinkelLauf="-0.1229227">
+        <PunktWinkel X="-179.6986" Y="682.7247" W="4.437279" />
+        <PunktWinkel X="-180.543" Y="680.3113" W="1.172764" />
+        <Punkt X="-199.7295" Y="688.3787" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.09346551" WinkelAnf="2.598734" WinkelLauf="0.2677481">
+        <PunktWinkel X="-172.7915" Y="705.7914" W="4.16953" />
+        <PunktWinkel X="-173.9273" Y="703.1708" W="1.295686" />
+        <Punkt X="-163.6305" Y="700.2644" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-870.0023" Y="1120.747" W="0.04467049" />
+        <PunktWinkel X="-829.9569" Y="1122.537" W="3.186263" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-835.486" Y="1107.7" W="2.376925" />
+        <PunktWinkel X="-864.6321" Y="1135.662" W="5.518517" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Gewächshaus">
+        <PunktWinkel X="-849.9387" Y="1121.425" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1153.919" Y="1268.019" W="-0.6589988" />
+        <PunktWinkel X="-1100.784" Y="1226.866" W="2.482594" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.004775755" WinkelAnf="0.9117891" WinkelLauf="-0.1208535">
+        <PunktWinkel X="-1100.784" Y="1226.866" W="5.624178" />
+        <PunktWinkel X="-1081.761" Y="1210.2" W="2.361732" />
+        <Punkt X="-1229.001" Y="1061.321" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-829.0083" Y="1103.726" W="2.785997" />
+        <PunktWinkel X="-1034.721" Y="1180.124" W="5.92759" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1081.761" Y="1210.2" W="-0.7798131" />
+        <PunktWinkel X="-1074.651" Y="1203.169" W="2.36178" />
+      </Gerade>
+      <Kreisbogen st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.01151266" WinkelAnf="-2.350657" WinkelLauf="0.424263">
+        <PunktWinkel X="-1074.651" Y="1203.169" W="-0.7798607" />
+        <PunktWinkel X="-1043.813" Y="1183.501" W="-3.49719" />
+        <Punkt X="-1013.572" Y="1264.928" />
+      </Kreisbogen>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1043.813" Y="1183.501" W="-0.3556271" />
+        <PunktWinkel X="-1034.721" Y="1180.124" W="2.785965" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1177.593" Y="1263.75" W="-0.9065267" />
+        <PunktWinkel X="-1169.981" Y="1254.028" W="2.235066" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1167.386" Y="1258.042" W="2.98256" />
+        <PunktWinkel X="-1180.018" Y="1260.068" W="6.124153" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Wärterposten">
+        <PunktWinkel X="-1174.051" Y="1259.052" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1974.719" Y="1778.089" W="-2.609023" />
+        <PunktWinkel X="-1990.646" Y="1768.702" W="0.5325698" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1982.405" Y="1763.051" W="1.601261" />
+        <PunktWinkel X="-1983.028" Y="1783.492" W="4.742854" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Wärterposten?">
+        <PunktWinkel X="-1982.651" Y="1773.532" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1999.33" Y="1764.611" W="-2.069199" />
+        <PunktWinkel X="-2004.542" Y="1755.034" W="1.072394" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="BÜ?">
+        <PunktWinkel X="-2001.922" Y="1759.762" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1999.33" Y="1764.611" W="1.072344" />
+        <PunktWinkel X="-1956.002" Y="1844.215" W="4.213937" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1985.896" Y="1789.033" W="-0.6605284" />
+        <PunktWinkel X="-1976.584" Y="1781.798" W="2.481064" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2004.922" Y="1789.172" W="0.128679" />
+        <PunktWinkel X="-1994.504" Y="1790.52" W="3.270272" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2001.703" Y="1794.732" W="-1.197331" />
+        <PunktWinkel X="-1997.799" Y="1784.769" W="1.944261" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Haus?">
+        <PunktWinkel X="-1999.699" Y="1789.785" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2004.542" Y="1755.034" W="-2.069298" />
+        <PunktWinkel X="-2009.758" Y="1745.452" W="1.072294" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Weg?">
+        <PunktWinkel X="-2006.587" Y="1751.277" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2667.526" Y="2077.756" W="-2.475108" />
+        <PunktWinkel X="-2676.699" Y="2070.541" W="0.666485" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2672.978" Y="2080.363" W="-1.453311" />
+        <PunktWinkel X="-2671.52" Y="2068.01" W="1.688281" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Wärterposten">
+        <PunktWinkel X="-2672.126" Y="2074.058" />
+      </Punkt>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2670.079" Y="2063.053" W="-2.283256" />
+        <PunktWinkel X="-2673.949" Y="2058.573" W="0.8583366" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2670.011" Y="2058.713" W="2.301765" />
+        <PunktWinkel X="-2673.909" Y="2063.06" W="5.443358" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2675.809" Y="2068.471" W="-2.237953" />
+        <PunktWinkel X="-2678.895" Y="2064.553" W="0.9036393" />
+      </Gerade>
+      <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2675.707" Y="2064.5" W="2.269332" />
+        <PunktWinkel X="-2679.01" Y="2068.433" W="5.410925" />
+      </Gerade>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="SbkVSig">
+        <PunktWinkel X="2935.116" Y="-728.6202" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Sbk 6">
+        <PunktWinkel X="2091.039" Y="-226.8213" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="SbkVSig 5">
+        <PunktWinkel X="1868.343" Y="-152.1376" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="SbkWVsig">
+        <PunktWinkel X="2647.99" Y="-465.5257" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Sbk 5">
+        <PunktWinkel X="2789.755" Y="-573.8585" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="SbkVSig">
+        <PunktWinkel X="-3578.202" Y="2467.378" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Esig A">
+        <PunktWinkel X="-109.4888" Y="699.1498" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="EVSig">
+        <PunktWinkel X="-716.4688" Y="1004.356" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="ASig C">
+        <PunktWinkel X="734.4006" Y="276.717" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="ASig B">
+        <PunktWinkel X="576.4308" Y="348.1743" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="ESig D">
+        <PunktWinkel X="904.7487" Y="217.0852" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="EVSig">
+        <PunktWinkel X="1770.574" Y="-105.7916" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="ASig E">
+        <PunktWinkel X="333.2696" Y="474.7022" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="ASig F">
+        <PunktWinkel X="-48.3564" Y="676.8621" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="BÜ">
+        <PunktWinkel X="2467.841" Y="-372.4622" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="EVsig C">
+        <PunktWinkel X="3397.636" Y="-1423.616" />
+      </Punkt>
+    </Lageplan>
+    <HoehenProfil ProfilName="4000" ProfilFarbe="FF0000FF" ProfilAbstandHorizontKm="2" ProfilGleisElementeZeichnen="1">
+      <StuetzPkt Y="401.38" Radius="5000" />
+      <StuetzPkt X="88.20608" Y="402.2266" Kategorie="1" />
+      <StuetzPkt X="100.9486" Y="402.3428" Kategorie="2" />
+      <StuetzPkt X="101" Y="402.35" Kategorie="3" Radius="12000" />
+      <StuetzPkt X="113.6912" Y="402.4443" Kategorie="1" />
+      <StuetzPkt X="264.8841" Y="403.5752" Kategorie="1" />
+      <StuetzPkt X="278.134" Y="403.665" Kategorie="2" />
+      <StuetzPkt X="291.384" Y="403.7373" Kategorie="2" />
+      <StuetzPkt X="304.6342" Y="403.793" Kategorie="2" />
+      <StuetzPkt X="317.8844" Y="403.8311" Kategorie="2" />
+      <StuetzPkt X="331.1346" Y="403.8506" Kategorie="2" />
+      <StuetzPkt X="344.3849" Y="403.8535" Kategorie="2" />
+      <StuetzPkt X="351" Y="404.22" Kategorie="3" Radius="10000" />
+      <StuetzPkt X="357.6351" Y="403.8389" Kategorie="2" />
+      <StuetzPkt X="370.8853" Y="403.8057" Kategorie="2" />
+      <StuetzPkt X="384.1355" Y="403.7559" Kategorie="2" />
+      <StuetzPkt X="397.3856" Y="403.6885" Kategorie="2" />
+      <StuetzPkt X="410.6356" Y="403.6025" Kategorie="2" />
+      <StuetzPkt X="423.8854" Y="403.5" Kategorie="2" />
+      <StuetzPkt X="437.1351" Y="403.3799" Kategorie="1" />
+      <StuetzPkt X="680.8879" Y="401.0049" Kategorie="1" />
+      <StuetzPkt X="684.1046" Y="400.9746" Kategorie="2" />
+      <StuetzPkt X="687.3212" Y="400.9463" Kategorie="2" />
+      <StuetzPkt X="690.5379" Y="400.9199" Kategorie="2" />
+      <StuetzPkt X="693.7546" Y="400.896" Kategorie="2" />
+      <StuetzPkt X="696.9713" Y="400.8745" Kategorie="2" />
+      <StuetzPkt X="700.1879" Y="400.8545" Kategorie="2" />
+      <StuetzPkt X="703.4047" Y="400.8364" Kategorie="2" />
+      <StuetzPkt X="705" Y="400.77" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="706.6214" Y="400.8203" Kategorie="2" />
+      <StuetzPkt X="709.8381" Y="400.8066" Kategorie="2" />
+      <StuetzPkt X="713.0549" Y="400.7949" Kategorie="2" />
+      <StuetzPkt X="716.2717" Y="400.7856" Kategorie="2" />
+      <StuetzPkt X="719.4884" Y="400.7778" Kategorie="2" />
+      <StuetzPkt X="722.7051" Y="400.7725" Kategorie="2" />
+      <StuetzPkt X="725.9219" Y="400.769" Kategorie="2" />
+      <StuetzPkt X="729.1387" Y="400.7676" Kategorie="1" />
+      <StuetzPkt X="915" Y="400.75" Radius="15000" />
+      <StuetzPkt X="1446" Y="400.68" Radius="10000" />
+      <StuetzPkt X="3653.822" Y="399.2997" Radius="5000" />
+      <StuetzPkt X="4442.771" Y="398.7983" Radius="5000" />
+      <StuetzPkt X="4877.44" Y="398.6803" Radius="5000" />
+      <StuetzPkt X="5478.35" Y="398.6584" Radius="5000" />
+    </HoehenProfil>
+    <HoehenProfil ProfilName="Reichenau-Allensbach" ProfilFarbe="FF00A400" ProfilAbstandHorizontKm="2" ProfilGleisElementeZeichnen="1">
+      <StuetzPkt X="7.791443" Y="398.6589" Radius="5000" />
+      <StuetzPkt X="11.39656" Y="398.6589" Radius="5000" />
+      <StuetzPkt X="1082.766" Y="398.8865" Radius="5000" />
+      <StuetzPkt X="2525.176" Y="399.8096" Kategorie="1" />
+      <StuetzPkt X="2526.701" Y="399.8108" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="2527.538" Y="399.8105" Kategorie="2" />
+      <StuetzPkt X="2529.9" Y="399.8101" Kategorie="1" />
+      <StuetzPkt X="4203.395" Y="399.3" Radius="5000" />
+      <StuetzPkt X="5243.932" Y="399.2998" Kategorie="1" />
+      <StuetzPkt X="5247.196" Y="399.3008" Kategorie="2" />
+      <StuetzPkt X="5250.444" Y="399.3" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="5250.46" Y="399.3042" Kategorie="2" />
+      <StuetzPkt X="5253.724" Y="399.3096" Kategorie="2" />
+      <StuetzPkt X="5256.988" Y="399.3169" Kategorie="1" />
+      <StuetzPkt X="6508.162" Y="402.584" Kategorie="1" />
+      <StuetzPkt X="6511.066" Y="402.5908" Kategorie="2" />
+      <StuetzPkt X="6513.867" Y="402.5992" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="6513.97" Y="402.5957" Kategorie="2" />
+      <StuetzPkt X="6516.875" Y="402.5991" Kategorie="2" />
+      <StuetzPkt X="6519.779" Y="402.6006" Kategorie="1" />
+      <StuetzPkt X="7006.368" Y="402.7412" Kategorie="1" />
+      <StuetzPkt X="7008.808" Y="402.7417" Kategorie="2" />
+      <StuetzPkt X="7010.246" Y="402.7422" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="7011.248" Y="402.7407" Kategorie="2" />
+      <StuetzPkt X="7013.688" Y="402.7383" Kategorie="1" />
+      <StuetzPkt X="9297.14" Y="400.0529" Radius="5000" />
+    </HoehenProfil>
+  </Gleisplan>
+</Zusi>

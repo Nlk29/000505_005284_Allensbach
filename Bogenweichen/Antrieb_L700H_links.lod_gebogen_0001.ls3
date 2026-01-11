@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=2,71387195587158  kr=-8,80397128639743E-5  ue=0,00503323413431644	  l=2,71387195587158  kr=-0,000102831203548703  ue=0,00605899002403021	  l=2,71387195587158  kr=-0,00011762270150939  ue=0,00708474591374397	  l=2,71387195587158  kr=-0,000132414104882628  ue=0,00811050273478031	  l=2,71387195587158  kr=-0,000147205602843314  ue=0,0091362576931715	  l=2,71387195587158  kr=-0,000161997100804001  ue=0,010162009857595	  l=2,71387195587158  kr=-0,000176788496901281  ue=0,0111877704039216	  l=2,71387195587158  kr=-0,000191579994861968  ue=0,0122135300189257	  l=2,71387195587158  kr=-0,000206371492822655  ue=0,013239280320704	  l=3,01387310028076  kr=-0,000221163005335256  ue=0,014265039935708	">
+<AutorEintrag AutorID="29" AutorName="Jens Strumberg" AutorEmail="jens.strumberg@t-online.de"/>
+</Info>
+<Landschaft>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="120" Vorlade="1" LODbit="8">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Antrieb_L700H_links.lod0.ls3"/>
+<p X="0" Y="-0.0001"/>
+<phi Z="-0.000098"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarAb="120" SichtbarBis="150" Vorlade="1" LODbit="6">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Antrieb_L700H_links.lod1.ls3"/>
+<p X="0" Y="-0.0001"/>
+<phi Z="-0.000098"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarAb="150" SichtbarBis="450" Vorlade="1" LODbit="1">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Antrieb_L700H_links.lod2.ls3"/>
+<p X="0" Y="-0.0001"/>
+<phi Z="-0.000098"/>
+<sk/>
+</Verknuepfte>
+<Ankerpunkt AnkerTyp="19" Beschreibung="Anbaupunkt Weichennummernschild" Farbe="00FFFF00">
+<p X="0.18" Y="1.8" Z="0.02"/>
+<phi/>
+<Datei Dateiname="Signals\Deutschland\Weichenbeschriftung\Weichenbeschriftung_Schild_Auswahl.signal.xml" NurInfo="1"/>
+</Ankerpunkt>
+</Landschaft>
+</Zusi>

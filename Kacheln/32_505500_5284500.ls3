@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte Flags="32" BoundingR="177" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_505875_5284125.ls3"/>
+<p X="375" Y="-375"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="177" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_505375_5284375.ls3"/>
+<p X="-125" Y="-125"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="167" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_505625_5284375.ls3"/>
+<p X="125" Y="-125"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="177" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_505875_5284375.ls3"/>
+<p X="375" Y="-125"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="165" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_505125_5284625.ls3"/>
+<p X="-375" Y="125"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="177" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_505375_5284625.ls3"/>
+<p X="-125" Y="125"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="768" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000394_005696_Hengstey\Objekte\Hengstey_03_Abzw_Hohensyburg\Hengstey03_Stw_Hohensyburg.lod.ls3"/>
+<p X="204.8152" Y="-197.2656" Z="399.7452"/>
+<phi Z="-2.027309"/>
+<sk/>
+</Verknuepfte>
+<lsb Dateiname="32_505500_5284500.lsb"/>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="295" MeshI="636">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Texturen\Weichenschwellen_Holz.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeshV="104" MeshI="168">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Texturen\Weiche_Holzschwellen_K-Oberbau.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Texturen\Weichenschwellen_Holz.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="6" MeterProTex="5" MeterProTex2="10" MeshV="1024" MeshI="1830">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Texturen\Weichenschwellen_Holz.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="6" MeterProTex="5" MeterProTex2="10" MeshV="910" MeshI="1914">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="6" MeshV="96" MeshI="144">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Texturen\Weiche_Holzschwellen_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeshV="50" MeshI="114">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="292" MeshI="735">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Holz_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeshV="471" MeshI="1113">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="36" MeshI="108">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="6" TypGF="3" MeterProTex="0.733" MeshV="24" MeshI="54">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\cess.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="7" TypGF="3" MeterProTex="5" MeshV="43" MeshI="123">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="613" MeshI="2136">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="6" TypGF="3" MeterProTex="0.733" MeshV="322" MeshI="858">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\cess.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="7" TypGF="3" MeterProTex="5" MeshV="141" MeshI="393">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" MeterProTex="1.3" MeterProTex2="10" MeshV="32" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Pflaster\Kopfsteinpflaster\kopfsteinpflaster_03.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" MeterProTex="2" MeterProTex2="10" MeshV="60" MeshI="144">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteig\38cm\38cm_Naturstein_Kopfsteinpflaster.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" MeterProTex="1.3" MeterProTex2="10" MeshV="32" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Pflaster\Kopfsteinpflaster\kopfsteinpflaster_03.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" MeterProTex="2" MeterProTex2="10" MeshV="60" MeshI="144">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteig\38cm\38cm_Naturstein_Kopfsteinpflaster.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

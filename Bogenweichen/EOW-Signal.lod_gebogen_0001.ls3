@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=2,71387195587158  kr=-8,80397128639743E-5  ue=0,00503323413431644	  l=2,71387195587158  kr=-0,000102831203548703  ue=0,00605899002403021	  l=2,71387195587158  kr=-0,00011762270150939  ue=0,00708474591374397	  l=2,71387195587158  kr=-0,000132414104882628  ue=0,00811050273478031	  l=2,71387195587158  kr=-0,000147205602843314  ue=0,0091362576931715	  l=2,71387195587158  kr=-0,000161997100804001  ue=0,010162009857595	  l=2,71387195587158  kr=-0,000176788496901281  ue=0,0111877704039216	  l=2,71387195587158  kr=-0,000191579994861968  ue=0,0122135300189257	  l=2,71387195587158  kr=-0,000206371492822655  ue=0,013239280320704	  l=3,01387310028076  kr=-0,000221163005335256  ue=0,014265039935708	">
+<AutorEintrag AutorID="33" AutorName="Alwin Meschede" AutorEmail="ameschede@gmx.de"/>
+</Info>
+<Landschaft>
+<Verknuepfte BoundingR="1" SichtbarBis="1000" Vorlade="1" LODbit="15">
+<Datei Dateiname="Signals\Deutschland\Optiken\Optik-weiss.ls3"/>
+<p X="-0.1201" Y="0.078" Z="0.5581"/>
+<phi Z="-0.000051"/>
+<sk X="-0.42" Y="-0.42" Z="-0.42"/>
+</Verknuepfte>
+<Verknuepfte BoundingR="1" SichtbarBis="1000" Vorlade="1" LODbit="15">
+<Datei Dateiname="Signals\Deutschland\Optiken\Optik-weiss.ls3"/>
+<p X="-0.1201" Y="-0.078" Z="0.5572"/>
+<phi Z="-0.000051"/>
+<sk X="-0.42" Y="-0.42" Z="-0.42"/>
+</Verknuepfte>
+<Verknuepfte BoundingR="1" SichtbarBis="1000" Vorlade="1" LODbit="15">
+<Datei Dateiname="Signals\Deutschland\Optiken\Optik-weiss.ls3"/>
+<p X="-0.1201" Y="-0.078" Z="0.7322"/>
+<phi Z="-0.000051"/>
+<sk X="-0.42" Y="-0.42" Z="-0.42"/>
+</Verknuepfte>
+<Verknuepfte BoundingR="1" SichtbarBis="100" Vorlade="1" LODbit="4">
+<Datei Dateiname="PERMANENTWAY\DEUTSCHLAND\1435MM\REGELOBERBAU\WEICHEN\ANTRIEBE\SIGNALE\EOW-Signal.lod1.ls3"/>
+<p X="-0.0001" Y="0" Z="-0.0124"/>
+<phi Z="-0.000062"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte BoundingR="1" SichtbarBis="1000" Vorlade="1" LODbit="15">
+<Datei Dateiname="Signals\Deutschland\Optiken\Optik-weiss.ls3"/>
+<p X="0.1198" Y="0.078" Z="0.5579"/>
+<phi Z="3.141521"/>
+<sk X="-0.42" Y="-0.42" Z="-0.42"/>
+</Verknuepfte>
+<Verknuepfte BoundingR="1" SichtbarBis="1000" Vorlade="1" LODbit="15">
+<Datei Dateiname="Signals\Deutschland\Optiken\Optik-weiss.ls3"/>
+<p X="0.1198" Y="-0.078" Z="0.557"/>
+<phi Z="3.141521"/>
+<sk X="-0.42" Y="-0.42" Z="-0.42"/>
+</Verknuepfte>
+<Verknuepfte BoundingR="1" SichtbarBis="1000" Vorlade="1" LODbit="15">
+<Datei Dateiname="Signals\Deutschland\Optiken\Optik-weiss.ls3"/>
+<p X="0.1198" Y="-0.078" Z="0.732"/>
+<phi Z="3.141521"/>
+<sk X="-0.42" Y="-0.42" Z="-0.42"/>
+</Verknuepfte>
+<Verknuepfte BoundingR="1" SichtbarAb="100" SichtbarBis="400" Vorlade="1" LODbit="3">
+<Datei Dateiname="PERMANENTWAY\DEUTSCHLAND\1435MM\REGELOBERBAU\WEICHEN\ANTRIEBE\SIGNALE\EOW-Signal.lod2.ls3"/>
+<p X="-0.0001" Y="0" Z="-0.0124"/>
+<phi Z="-0.000062"/>
+<sk/>
+</Verknuepfte>
+<Animation AniBeschreibung="Grundstellung">
+<AniNrs AniNr="2"/>
+<AniNrs AniNr="3"/>
+<AniNrs AniNr="5"/>
+<AniNrs AniNr="6"/>
+</Animation>
+<Animation AniBeschreibung="Umgestellt">
+<AniNrs AniNr="1"/>
+<AniNrs AniNr="2"/>
+<AniNrs AniNr="4"/>
+<AniNrs AniNr="5"/>
+</Animation>
+<VerknAnimation AniNr="1" AniGeschw="1">
+<AniPunkt AniDimmung="1">
+<p/>
+<q W="1"/>
+</AniPunkt>
+<AniPunkt AniZeit="1">
+<p/>
+<q W="1"/>
+</AniPunkt>
+</VerknAnimation>
+<VerknAnimation AniIndex="1" AniNr="2" AniGeschw="1">
+<AniPunkt AniDimmung="1">
+<p/>
+<q W="1"/>
+</AniPunkt>
+<AniPunkt AniZeit="1">
+<p/>
+<q W="1"/>
+</AniPunkt>
+</VerknAnimation>
+<VerknAnimation AniIndex="2" AniNr="3" AniGeschw="1">
+<AniPunkt AniDimmung="1">
+<p/>
+<q W="1"/>
+</AniPunkt>
+<AniPunkt AniZeit="1">
+<p/>
+<q W="1"/>
+</AniPunkt>
+</VerknAnimation>
+<VerknAnimation AniIndex="4" AniNr="4" AniGeschw="1">
+<AniPunkt AniDimmung="1">
+<p/>
+<q W="1"/>
+</AniPunkt>
+<AniPunkt AniZeit="1">
+<p/>
+<q W="1"/>
+</AniPunkt>
+</VerknAnimation>
+<VerknAnimation AniIndex="5" AniNr="5" AniGeschw="1">
+<AniPunkt AniDimmung="1">
+<p/>
+<q W="1"/>
+</AniPunkt>
+<AniPunkt AniZeit="1">
+<p/>
+<q W="1"/>
+</AniPunkt>
+</VerknAnimation>
+<VerknAnimation AniIndex="6" AniNr="6" AniGeschw="1">
+<AniPunkt AniDimmung="1">
+<p/>
+<q W="1"/>
+</AniPunkt>
+<AniPunkt AniZeit="1">
+<p/>
+<q W="1"/>
+</AniPunkt>
+</VerknAnimation>
+</Landschaft>
+</Zusi>

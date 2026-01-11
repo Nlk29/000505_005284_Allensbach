@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=2,71387195587158  kr=-8,80397128639743E-5  ue=0,00503323413431644	  l=2,71387195587158  kr=-0,000102831203548703  ue=0,00605899002403021	  l=2,71387195587158  kr=-0,00011762270150939  ue=0,00708474591374397	  l=2,71387195587158  kr=-0,000132414104882628  ue=0,00811050273478031	  l=2,71387195587158  kr=-0,000147205602843314  ue=0,0091362576931715	  l=2,71387195587158  kr=-0,000161997100804001  ue=0,010162009857595	  l=2,71387195587158  kr=-0,000176788496901281  ue=0,0111877704039216	  l=2,71387195587158  kr=-0,000191579994861968  ue=0,0122135300189257	  l=2,71387195587158  kr=-0,000206371492822655  ue=0,013239280320704	  l=3,01387310028076  kr=-0,000221163005335256  ue=0,014265039935708	">
+<AutorEintrag AutorID="9" AutorName="Elmar Gröne"/>
+</Info>
+<Landschaft>
+<lsb Dateiname="54_190_1-9_Links_Schienen_K-Oberbau_gebogen_0001.lsb"/>
+<SubSet Cd="FFFFFFFF" TypLs3="21" BeleuchtungTyp="2" MeterProTex="10" MeshV="103" MeshI="408">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\rail.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="22" BeleuchtungTyp="2" MeterProTex="10" MeshV="30" MeshI="114">
+<RenderFlags TexVoreinstellung="4"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Texturen\Weiche_Holzschwellen_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" BeleuchtungTyp="2" MeshV="58" MeshI="270">
+<RenderFlags TexVoreinstellung="4"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Texturen\Weiche_Holzschwellen_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="21" BeleuchtungTyp="2" MeterProTex="10" MeshV="253" MeshI="1188">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\rail.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="10" MeterProTex2="10" MeshV="179" MeshI="600">
+<RenderFlags TexVoreinstellung="4"/>
+<Textur TransparentFarbe="00FFFFFF">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Texturen\Weiche_Holzschwellen_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=2,71387195587158  kr=-8,80397128639743E-5  ue=0,00503323413431644	  l=2,71387195587158  kr=-0,000102831203548703  ue=0,00605899002403021	  l=2,71387195587158  kr=-0,00011762270150939  ue=0,00708474591374397	  l=2,71387195587158  kr=-0,000132414104882628  ue=0,00811050273478031	  l=2,71387195587158  kr=-0,000147205602843314  ue=0,0091362576931715	  l=2,71387195587158  kr=-0,000161997100804001  ue=0,010162009857595	  l=2,71387195587158  kr=-0,000176788496901281  ue=0,0111877704039216	  l=2,71387195587158  kr=-0,000191579994861968  ue=0,0122135300189257	  l=2,71387195587158  kr=-0,000206371492822655  ue=0,013239280320704	  l=3,01387310028076  kr=-0,000221163005335256  ue=0,014265039935708	">
+<AutorEintrag AutorID="8" AutorName="Joerg Sanftleben" AutorEmail="joergsanftleben@aol.com"/>
+</Info>
+<Landschaft>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="250" Vorlade="1" LODbit="12">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\lod\Laternenbock-li.lod1.ls3"/>
+<p X="0.0003" Y="-0.0001" Z="0.0117"/>
+<phi Z="-0.000141"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="250" Vorlade="1" LODbit="12">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\lod\Schotteaufschuettung.lod1.ls3"/>
+<p X="0.0253" Y="-0.0001" Z="0.0117"/>
+<phi Z="3.14145"/>
+<sk X="0.75"/>
+</Verknuepfte>
+<Ankerpunkt Beschreibung="Erstanker" Farbe="00FFFF00">
+<p/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt Farbe="00FFFF00">
+<p X="-0.2"/>
+<phi/>
+</Ankerpunkt>
+</Landschaft>
+</Zusi>
