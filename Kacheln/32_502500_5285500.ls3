@@ -14,6 +14,36 @@
 <phi/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\BUe_Holzbohlen_Drehkreuz\bue_bohlenweg1m_gleismitte.ls3"/>
+<p X="497.1223" Y="258.0434" Z="402.25"/>
+<phi Z="-0.543234"/>
+<sk X="3" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\BUe_Holzbohlen_Drehkreuz\bue_bohlenweg1m_gleismitte.ls3"/>
+<p X="499.0442" Y="261.5589" Z="402.25"/>
+<phi Z="-0.553051"/>
+<sk X="3" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\BUe_Holzbohlen_Drehkreuz\bue_bohlenweg1m_gleisabstand4m.ls3"/>
+<p X="497.0911" Y="258.0902" Z="402.25"/>
+<phi Z="-0.543234"/>
+<sk X="3" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\BUe_Holzbohlen_Drehkreuz\bue_bohlenweg1m_gleisrand.ls3"/>
+<p X="499.0442" Y="261.5589" Z="402.25"/>
+<phi X="-0.05236" Z="-0.553051"/>
+<sk X="3" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\BUe_Holzbohlen_Drehkreuz\bue_bohlenweg1m_gleisrand.ls3"/>
+<p X="497.1223" Y="258.0434" Z="402.25"/>
+<phi X="-0.05236" Z="2.598359"/>
+<sk X="3" Y="1" Z="1"/>
+</Verknuepfte>
 <lsb Dateiname="32_502500_5285500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="104" MeshI="300">
 <RenderFlags TexVoreinstellung="3"/>
@@ -34,6 +64,15 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\cess.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="11" MeshI="27">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
