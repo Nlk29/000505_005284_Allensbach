@@ -234,14 +234,10 @@
 <ReferenzElemente ReferenzNr="207" StrElement="508" RefTyp="5" Info="Auflösepunkt"/>
 <ReferenzElemente ReferenzNr="208" StrElement="508" StrNorm="1" RefTyp="2" Info="Register-Nr. 5013"/>
 <ReferenzElemente ReferenzNr="209" StrElement="508" RefTyp="2" Info="Register-Nr. 5013"/>
-<ReferenzElemente ReferenzNr="210" StrElement="2515" RefTyp="4" Info="Sicherungsanlage Bü km 407,780 (Master)"/>
-<ReferenzElemente ReferenzNr="211" StrElement="2515" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 407,780 (Slave)"/>
 <ReferenzElemente ReferenzNr="212" StrElement="60" RefTyp="4" Info="Bü km 407,780"/>
 <ReferenzElemente ReferenzNr="213" StrElement="60" StrNorm="1" RefTyp="4" Info="Bü km 407,780"/>
 <ReferenzElemente ReferenzNr="214" StrElement="86" RefTyp="4" Info="Bü km 407,780"/>
 <ReferenzElemente ReferenzNr="215" StrElement="86" StrNorm="1" RefTyp="4" Info="Bü km 407,780"/>
-<ReferenzElemente ReferenzNr="222" StrElement="2102" RefTyp="4" Info="Sicherungsanlage Bü km 406,390 (Master)"/>
-<ReferenzElemente ReferenzNr="223" StrElement="2102" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 406,390 (Slave)"/>
 <ReferenzElemente ReferenzNr="224" StrElement="116" RefTyp="4" Info="Bü km 406,390"/>
 <ReferenzElemente ReferenzNr="225" StrElement="116" StrNorm="1" RefTyp="4" Info="Bü km 406,390"/>
 <ReferenzElemente ReferenzNr="226" StrElement="133" RefTyp="4" Info="Bü km 406,390"/>
@@ -312,6 +308,19 @@
 <ReferenzElemente ReferenzNr="308" StrElement="363" StrNorm="1" RefTyp="4" Info="Bü km 400,671"/>
 <ReferenzElemente ReferenzNr="309" StrElement="384" RefTyp="4" Info="Bü km 400,671"/>
 <ReferenzElemente ReferenzNr="310" StrElement="384" StrNorm="1" RefTyp="4" Info="Bü km 400,671"/>
+<ReferenzElemente ReferenzNr="311" StrElement="2552" RefTyp="4" Info="Sicherungsanlage Bü km 407,974 (Master)"/>
+<ReferenzElemente ReferenzNr="312" StrElement="2552" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 407,974 (Slave)"/>
+<ReferenzElemente ReferenzNr="313" StrElement="28" RefTyp="4" Info="Bü km 407,974"/>
+<ReferenzElemente ReferenzNr="314" StrElement="28" StrNorm="1" RefTyp="4" Info="Bü km 407,974"/>
+<ReferenzElemente ReferenzNr="315" StrElement="51" RefTyp="4" Info="Bü km 407,974"/>
+<ReferenzElemente ReferenzNr="316" StrElement="51" StrNorm="1" RefTyp="4" Info="Bü km 407,974"/>
+<ReferenzElemente ReferenzNr="317" StrElement="333" RefTyp="4" Info="Signal: Allensbach Av"/>
+<ReferenzElemente ReferenzNr="318" StrElement="2126" RefTyp="4" Info="Signal: BÜ Hegne 2 BÜ Hegne 2"/>
+<ReferenzElemente ReferenzNr="319" StrElement="2541" StrNorm="1" RefTyp="4" Info="Signal: BÜ Hegne 2 BÜ Hegne 2"/>
+<ReferenzElemente ReferenzNr="320" StrElement="2552" RefTyp="3" Info="Weiche "/>
+<ReferenzElemente ReferenzNr="321" StrElement="2552" StrNorm="1" RefTyp="2" Info="Register-Nr. 5040"/>
+<ReferenzElemente ReferenzNr="322" StrElement="2552" RefTyp="2" Info="Register-Nr. 5040"/>
+<ReferenzElemente ReferenzNr="323" StrElement="2570" StrNorm="1" RefTyp="4" Info="Signal: BÜ Reichenau-Waldsiedlung 2 BÜ Reichenau-Waldsiedlung 2"/>
 <StrElement Nr="1" kr="-0.000066" spTrass="38.8889" Oberbau="Holz K-Oberbau">
 <g X="4214.5688" Y="-2111.2671" Z="398.6589"/>
 <b X="4213.2988" Y="-2110.6689" Z="398.6589"/>
@@ -565,8 +574,36 @@
 <StrElement Nr="28" Ueberh="0.0419" kr="-0.000658" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="3836.4629" Y="-1898.796" Z="398.7509"/>
 <b X="3823.5959" Y="-1889.379" Z="398.7543"/>
-<InfoNormRichtung vMax="38.8889" km="407.9603"/>
-<InfoGegenRichtung vMax="38.8889" km="407.9444" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="407.9603">
+<Ereignis Er="1000027" Wert="314"/>
+<Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 2" Stellwerk="BÜ Reichenau-Waldsiedlung 2" Signalname="BÜ Reichenau-Waldsiedlung 2" SignalTyp="14" BoundingR="1">
+<p X="3836.29" Y="-1898.67" Z="398.75"/>
+<phi/>
+<KoppelSignal ReferenzNr="311">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="38.8889" km="407.9444" pos="1">
+<Ereignis Er="1000027" Wert="313"/>
+<Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 2" Stellwerk="BÜ Reichenau-Waldsiedlung 2" Signalname="BÜ Reichenau-Waldsiedlung 2" SignalTyp="14" BoundingR="1">
+<p X="3836.29" Y="-1898.67" Z="398.75"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="311">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="29"/>
 <NachGegen Nr="27"/>
 </StrElement>
@@ -1475,8 +1512,36 @@
 <StrElement Nr="51" Ueberh="0.0419" kr="-0.000657" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="3845.99" Y="-1910.3311" Z="398.7479"/>
 <b X="3833.3059" Y="-1901.225" Z="398.7512"/>
-<InfoNormRichtung vMax="38.8889" km="407.9742"/>
-<InfoGegenRichtung vMax="38.8889" km="407.9586" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="407.9742">
+<Ereignis Er="1000027" Wert="316"/>
+<Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 2" Stellwerk="BÜ Reichenau-Waldsiedlung 2" Signalname="BÜ Reichenau-Waldsiedlung 2" SignalTyp="14" BoundingR="1">
+<p X="3834.0601" Y="-1901.77" Z="398.75"/>
+<phi/>
+<KoppelSignal ReferenzNr="311">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="38.8889" km="407.9586" pos="1">
+<Ereignis Er="1000027" Wert="315"/>
+<Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 2" Stellwerk="BÜ Reichenau-Waldsiedlung 2" Signalname="BÜ Reichenau-Waldsiedlung 2" SignalTyp="14" BoundingR="1">
+<p X="3834.0601" Y="-1901.77" Z="398.75"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="311">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="52"/>
 <NachGegen Nr="2493"/>
 </StrElement>
@@ -1547,36 +1612,8 @@
 <StrElement Nr="60" Ueberh="0.0419" kr="-0.000678" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="3736.969" Y="-1820.172" Z="398.7779"/>
 <b X="3725.0559" Y="-1809.7889" Z="398.7813"/>
-<InfoNormRichtung vMax="38.8889" km="407.7798">
-<Ereignis Er="1000027" Wert="213" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 2" Stellwerk="BÜ Reichenau-Waldsiedlung 2" Signalname="BÜ Reichenau-Waldsiedlung 2" SignalTyp="14" BoundingR="1">
-<p X="3731.9099" Y="-1815.77" Z="398.78"/>
-<phi/>
-<KoppelSignal ReferenzNr="210">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="407.764" pos="1">
-<Ereignis Er="1000027" Wert="212" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 2" Stellwerk="BÜ Reichenau-Waldsiedlung 2" Signalname="BÜ Reichenau-Waldsiedlung 2" SignalTyp="14" BoundingR="1">
-<p X="3731.9099" Y="-1815.77" Z="398.78"/>
-<phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="210">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
+<InfoNormRichtung vMax="38.8889" km="407.7798"/>
+<InfoGegenRichtung vMax="38.8889" km="407.764" pos="1"/>
 <NachNorm Nr="61"/>
 <NachGegen Nr="59"/>
 </StrElement>
@@ -1786,36 +1823,8 @@
 <StrElement Nr="86" Ueberh="0.0419" kr="-0.000671" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="3734.459" Y="-1823.04" Z="398.7779"/>
 <b X="3722.511" Y="-1812.634" Z="398.7813"/>
-<InfoNormRichtung vMax="38.8889" km="407.7798">
-<Ereignis Er="1000027" Wert="215" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 2" Stellwerk="BÜ Reichenau-Waldsiedlung 2" Signalname="BÜ Reichenau-Waldsiedlung 2" SignalTyp="14" BoundingR="1">
-<p X="3729.48" Y="-1818.7" Z="398.78"/>
-<phi/>
-<KoppelSignal ReferenzNr="210">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="407.7639" pos="1">
-<Ereignis Er="1000027" Wert="214" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 2" Stellwerk="BÜ Reichenau-Waldsiedlung 2" Signalname="BÜ Reichenau-Waldsiedlung 2" SignalTyp="14" BoundingR="1">
-<p X="3729.48" Y="-1818.7" Z="398.78"/>
-<phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="210">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
+<InfoNormRichtung vMax="38.8889" km="407.7798"/>
+<InfoGegenRichtung vMax="38.8889" km="407.7639" pos="1"/>
 <NachNorm Nr="87"/>
 <NachGegen Nr="85"/>
 </StrElement>
@@ -4490,7 +4499,89 @@
 <g X="-984.7921" Y="1140.771" Z="402.0428"/>
 <b X="-997.4445" Y="1147.162" Z="402.0796"/>
 <InfoNormRichtung vMax="38.8889" km="401.8037"/>
-<InfoGegenRichtung vMax="38.8889" km="401.7896" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="401.7896" pos="1">
+<Signal NameBetriebsstelle="Allensbach" Stellwerk="Allensbach Af" Signalname="Av" SignalTyp="6" BoundingR="10">
+<p X="-986.2349" Y="1137.9147" Z="401.5428"/>
+<phi Z="-0.467736"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSig\DB_egli_VSig-Mast.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSIG\DB_egli-VSig-Standard-3begr-Gas.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="3.2" Z="0.5"/>
+<phi/>
+<sk/>
+<Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="1.5"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne2.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
+<VsigBegriff VsigGeschw="-1"/>
+<VsigBegriff/>
+<VsigBegriff VsigGeschw="2.7778"/>
+<VsigBegriff VsigGeschw="5.5556"/>
+<VsigBegriff VsigGeschw="8.3333"/>
+<VsigBegriff VsigGeschw="11.1111"/>
+<VsigBegriff VsigGeschw="13.8889"/>
+<VsigBegriff VsigGeschw="16.6667"/>
+<VsigBegriff VsigGeschw="19.4444"/>
+<VsigBegriff VsigGeschw="22.2222"/>
+<VsigBegriff VsigGeschw="25"/>
+<VsigBegriff VsigGeschw="27.7778"/>
+<VsigBegriff VsigGeschw="30.5556"/>
+<VsigBegriff VsigGeschw="33.3333"/>
+<VsigBegriff VsigGeschw="36.1111"/>
+<VsigBegriff VsigGeschw="38.8889"/>
+<VsigBegriff VsigGeschw="41.6667"/>
+<VsigBegriff VsigGeschw="-2"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="57" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="334"/>
 <NachGegen Nr="332"/>
 </StrElement>
@@ -4536,10 +4627,9 @@
 </StrElement>
 <StrElement Nr="339" Ueberh="0.0384" kr="-0.000635" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-1062.49" Y="1181.325" Z="402.2712"/>
-<b X="-1077.13" Y="1189.509" Z="402.315"/>
-<InfoNormRichtung vMax="38.8889" km="401.7163"/>
-<InfoGegenRichtung vMax="38.8889" km="401.6996" pos="1"/>
-<NachNorm Nr="340"/>
+<b X="-1073.2784" Y="1187.337" Z="402.3035"/>
+<InfoGegenRichtung vMax="38.8889" km="401.704" pos="1"/>
+<NachNorm Nr="2549"/>
 <NachGegen Nr="338"/>
 </StrElement>
 <StrElement Nr="340" Ueberh="0.0384" kr="-0.000635" spTrass="38.8889" Anschluss="257" Oberbau="Holz K-Oberbau">
@@ -4548,7 +4638,7 @@
 <InfoNormRichtung vMax="38.8889" km="401.6997"/>
 <InfoGegenRichtung vMax="38.8889" km="401.6829" pos="1"/>
 <NachNorm Nr="397"/>
-<NachGegen Nr="339"/>
+<NachGegen Nr="2549"/>
 </StrElement>
 <StrElement Nr="341" Ueberh="0.0384" kr="-0.000637" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-1045.856" Y="1176.847" Z="402.2275"/>
@@ -4896,10 +4986,9 @@
 </StrElement>
 <StrElement Nr="370" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-1175.4561" Y="1248.571" Z="402.6006"/>
-<b X="-1242.942" Y="1290.125" Z="402.6235"/>
-<InfoNormRichtung vMax="38.8889" km="401.585"/>
-<InfoGegenRichtung vMax="38.8889" km="401.5057" pos="1"/>
-<NachNorm Nr="371"/>
+<b X="-1201.7421" Y="1264.7565" Z="402.6095"/>
+<InfoGegenRichtung vMax="38.8889" km="401.5541" pos="1"/>
+<NachNorm Nr="2551"/>
 <NachGegen Nr="369"/>
 </StrElement>
 <StrElement Nr="371" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
@@ -4908,7 +4997,7 @@
 <InfoNormRichtung vMax="38.8889" km="401.5052"/>
 <InfoGegenRichtung vMax="38.8889" km="401.4131" pos="1"/>
 <NachNorm Nr="372"/>
-<NachGegen Nr="370"/>
+<NachGegen Nr="2551"/>
 </StrElement>
 <StrElement Nr="372" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-1321.4561" Y="1338.47" Z="402.6501"/>
@@ -5144,10 +5233,30 @@
 </StrElement>
 <StrElement Nr="394" Ueberh="-0.016" kr="0.000265" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-1140.297" Y="1226.943" Z="402.5066"/>
-<b X="-1128.204" Y="1219.569" Z="402.4696"/>
-<InfoNormRichtung vMax="38.8889" km="401.6263" pos="1"/>
-<InfoGegenRichtung vMax="38.8889" km="401.6405"/>
-<NachNorm Nr="395"/>
+<b X="-1137.8643" Y="1225.4551" Z="402.4991"/>
+<InfoNormRichtung vMax="-1">
+<Signal SignalTyp="1" BoundingR="10">
+<p X="-1137.8643" Y="1225.4551" Z="402.4991"/>
+<phi Z="-0.548921"/>
+<SignalFrame>
+<p Y="-3.1" Z="2.4"/>
+<phi Z="-0.349066"/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="-3.1" Z="0.8"/>
+<phi Z="-0.349066"/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\K4_2.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="38.8889" km="401.6292"/>
+<NachNorm Nr="2550"/>
 <NachGegen Nr="393"/>
 </StrElement>
 <StrElement Nr="395" Ueberh="-0.0224" kr="0.00037" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
@@ -5156,7 +5265,7 @@
 <InfoNormRichtung vMax="38.8889" km="401.6405" pos="1"/>
 <InfoGegenRichtung vMax="38.8889" km="401.6547"/>
 <NachNorm Nr="396"/>
-<NachGegen Nr="394"/>
+<NachGegen Nr="2550"/>
 </StrElement>
 <StrElement Nr="396" Ueberh="-0.0288" kr="0.000476" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-1116.078" Y="1212.249" Z="402.4324"/>
@@ -11119,14 +11228,14 @@
 <NachGegen Nr="2487"/>
 </StrElement>
 <StrElement Nr="718" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3724.241" Y="-1825.02" Z="398.201"/>
+<g X="3724.241" Y="-1825.02" Z="398.4"/>
 <b X="3726.7905" Y="-1821.9446" Z="398.7"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.005" pos="1"/>
 <NachNorm Nr="2515"/>
 <NachGegen Nr="719"/>
 </StrElement>
 <StrElement Nr="719" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3724.241" Y="-1825.02" Z="398.201"/>
+<g X="3724.241" Y="-1825.02" Z="398.4"/>
 <b X="3718.5039" Y="-1831.941" Z="398.1103"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.009" pos="1"/>
@@ -11438,45 +11547,13 @@
 <NachNorm Nr="765"/>
 <NachGegen Nr="763"/>
 </StrElement>
-<StrElement Nr="765" kr="0.000592" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3908.4099" Y="-2108.3989" Z="398.0089"/>
-<b X="3897.8311" Y="-2094.5879" Z="398.0089"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0174" pos="1"/>
-<NachNorm Nr="766"/>
-<NachGegen Nr="764"/>
-</StrElement>
-<StrElement Nr="766" kr="0.000592" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3897.8311" Y="-2094.5879" Z="398.0089"/>
-<b X="3887.1111" Y="-2080.887" Z="398.0089"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0174" pos="1"/>
-<NachNorm Nr="767"/>
-<NachGegen Nr="765"/>
-</StrElement>
-<StrElement Nr="767" kr="0.000592" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3887.1111" Y="-2080.887" Z="398.0089"/>
-<b X="3876.25" Y="-2067.2971" Z="398.0089"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0174" pos="1"/>
-<NachNorm Nr="768"/>
-<NachGegen Nr="766"/>
-</StrElement>
-<StrElement Nr="768" kr="0.000592" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3876.25" Y="-2067.2971" Z="398.0089"/>
-<b X="3865.249" Y="-2053.8191" Z="398.0089"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0174" pos="1"/>
-<NachNorm Nr="769"/>
-<NachGegen Nr="767"/>
-</StrElement>
 <StrElement Nr="769" kr="0.000592" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3865.249" Y="-2053.8191" Z="398.0089"/>
 <b X="3854.1101" Y="-2040.4561" Z="398.0089"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0174" pos="1"/>
 <NachNorm Nr="770"/>
-<NachGegen Nr="768"/>
+<NachGegen Nr="2662"/>
 </StrElement>
 <StrElement Nr="770" kr="0.000592" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3854.1101" Y="-2040.4561" Z="398.0089"/>
@@ -11493,14 +11570,6 @@
 <InfoGegenRichtung vMax="27.7778" km="-0.0174" pos="1"/>
 <NachNorm Nr="772"/>
 <NachGegen Nr="770"/>
-</StrElement>
-<StrElement Nr="772" kr="0.000592" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3831.4221" Y="-2014.077" Z="398.0089"/>
-<b X="3819.875" Y="-2001.064" Z="398.0089"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0174" pos="1"/>
-<NachNorm Nr="773"/>
-<NachGegen Nr="771"/>
 </StrElement>
 <StrElement Nr="773" kr="0.000592" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3819.875" Y="-2001.064" Z="398.0089"/>
@@ -11536,101 +11605,101 @@
 </StrElement>
 <StrElement Nr="777" kr="0.00391" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3697.9771" Y="-1856.734" Z="398.67"/>
-<b X="3700.9851" Y="-1862.535" Z="398.75"/>
+<b X="3700.9851" Y="-1862.535" Z="398.67"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0065" pos="1"/>
 <NachNorm Nr="778"/>
 </StrElement>
 <StrElement Nr="778" kr="0.00391" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3700.9851" Y="-1862.535" Z="398.75"/>
-<b X="3704.1389" Y="-1868.2581" Z="398.669"/>
+<g X="3700.9851" Y="-1862.535" Z="398.67"/>
+<b X="3704.1389" Y="-1868.2581" Z="398.67"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0065" pos="1"/>
 <NachNorm Nr="779"/>
 <NachGegen Nr="777"/>
 </StrElement>
 <StrElement Nr="779" kr="0.00391" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3704.1389" Y="-1868.2581" Z="398.669"/>
-<b X="3707.439" Y="-1873.8979" Z="398.6446"/>
+<g X="3704.1389" Y="-1868.2581" Z="398.67"/>
+<b X="3707.439" Y="-1873.8979" Z="398.67"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0065" pos="1"/>
 <NachNorm Nr="780"/>
 <NachGegen Nr="778"/>
 </StrElement>
 <StrElement Nr="780" kr="0.00391" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3707.439" Y="-1873.8979" Z="398.6446"/>
-<b X="3710.8821" Y="-1879.452" Z="398.602"/>
+<g X="3707.439" Y="-1873.8979" Z="398.67"/>
+<b X="3710.8821" Y="-1879.452" Z="398.67"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0065" pos="1"/>
 <NachNorm Nr="781"/>
 <NachGegen Nr="779"/>
 </StrElement>
 <StrElement Nr="781" kr="0.00391" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3710.8821" Y="-1879.452" Z="398.602"/>
-<b X="3714.4661" Y="-1884.916" Z="398.3292"/>
+<g X="3710.8821" Y="-1879.452" Z="398.67"/>
+<b X="3714.4661" Y="-1884.916" Z="398.67"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0065" pos="1"/>
 <NachNorm Nr="782"/>
 <NachGegen Nr="780"/>
 </StrElement>
 <StrElement Nr="782" kr="0.00391" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3714.4661" Y="-1884.916" Z="398.3292"/>
-<b X="3718.188" Y="-1890.287" Z="398.1966"/>
+<g X="3714.4661" Y="-1884.916" Z="398.67"/>
+<b X="3718.188" Y="-1890.287" Z="398.67"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0065" pos="1"/>
 <NachNorm Nr="783"/>
 <NachGegen Nr="781"/>
 </StrElement>
 <StrElement Nr="783" kr="0.00391" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3718.188" Y="-1890.287" Z="398.1966"/>
-<b X="3722.0459" Y="-1895.561" Z="398.2424"/>
+<g X="3718.188" Y="-1890.287" Z="398.67"/>
+<b X="3722.0459" Y="-1895.561" Z="398.67"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0065" pos="1"/>
 <NachNorm Nr="784"/>
 <NachGegen Nr="782"/>
 </StrElement>
 <StrElement Nr="784" kr="0.00391" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3722.0459" Y="-1895.561" Z="398.2424"/>
-<b X="3726.0381" Y="-1900.735" Z="398.3439"/>
+<g X="3722.0459" Y="-1895.561" Z="398.67"/>
+<b X="3726.0381" Y="-1900.735" Z="398.67"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0065" pos="1"/>
 <NachNorm Nr="785"/>
 <NachGegen Nr="783"/>
 </StrElement>
 <StrElement Nr="785" kr="0.00391" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3726.0381" Y="-1900.735" Z="398.3439"/>
-<b X="3730.1609" Y="-1905.8051" Z="398.5393"/>
+<g X="3726.0381" Y="-1900.735" Z="398.67"/>
+<b X="3730.1609" Y="-1905.8051" Z="398.67"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0065" pos="1"/>
 <NachNorm Nr="786"/>
 <NachGegen Nr="784"/>
 </StrElement>
 <StrElement Nr="786" kr="0.00391" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3730.1609" Y="-1905.8051" Z="398.5393"/>
-<b X="3734.4109" Y="-1910.7679" Z="398.8121"/>
+<g X="3730.1609" Y="-1905.8051" Z="398.67"/>
+<b X="3734.4109" Y="-1910.7679" Z="398.67"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0065" pos="1"/>
 <NachNorm Nr="787"/>
 <NachGegen Nr="785"/>
 </StrElement>
 <StrElement Nr="787" kr="0.00391" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3734.4109" Y="-1910.7679" Z="398.8121"/>
-<b X="3738.7881" Y="-1915.621" Z="399.12"/>
+<g X="3734.4109" Y="-1910.7679" Z="398.67"/>
+<b X="3738.7881" Y="-1915.621" Z="398.67"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0065" pos="1"/>
 <NachNorm Nr="788"/>
 <NachGegen Nr="786"/>
 </StrElement>
 <StrElement Nr="788" kr="0.00391" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3738.7881" Y="-1915.621" Z="399.12"/>
-<b X="3743.2859" Y="-1920.361" Z="399.3087"/>
+<g X="3738.7881" Y="-1915.621" Z="398.67"/>
+<b X="3743.2859" Y="-1920.361" Z="398.67"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0065" pos="1"/>
 <NachNorm Nr="789"/>
 <NachGegen Nr="787"/>
 </StrElement>
 <StrElement Nr="789" spTrass="27.7778" Anschluss="257" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3743.2859" Y="-1920.36" Z="399.3086"/>
+<g X="3743.2859" Y="-1920.361" Z="398.67"/>
 <b X="3772.366" Y="-1950.222" Z="398.4384"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0417" pos="1"/>
@@ -11767,7 +11836,7 @@
 </StrElement>
 <StrElement Nr="819" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3653.116" Y="-1616.457" Z="402.0067"/>
-<b X="3677.0481" Y="-1691.422" Z="401.5305"/>
+<b X="3695.5681" Y="-1738.7968" Z="400.6685"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0787" pos="1"/>
 <NachNorm Nr="830"/>
@@ -11779,159 +11848,6 @@
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0012" pos="1"/>
 <NachNorm Nr="824"/>
-</StrElement>
-<StrElement Nr="824" kr="0.109464" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3734.7649" Y="-1810.506" Z="398.59"/>
-<b X="3734.9021" Y="-1809.35" Z="398.59"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0012" pos="1"/>
-<NachNorm Nr="825"/>
-</StrElement>
-<StrElement Nr="825" kr="0.109464" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3734.9021" Y="-1809.35" Z="398.59"/>
-<b X="3734.8921" Y="-1808.186" Z="398.59"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0012" pos="1"/>
-<NachNorm Nr="826"/>
-</StrElement>
-<StrElement Nr="826" kr="0.109464" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3734.8921" Y="-1808.186" Z="398.59"/>
-<b X="3734.7339" Y="-1807.033" Z="398.59"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0012" pos="1"/>
-<NachNorm Nr="827"/>
-</StrElement>
-<StrElement Nr="827" kr="0.109464" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3734.7339" Y="-1807.033" Z="398.59"/>
-<b X="3734.4299" Y="-1805.9091" Z="398.59"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0012" pos="1"/>
-<NachNorm Nr="828"/>
-</StrElement>
-<StrElement Nr="828" kr="0.109464" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3734.4299" Y="-1805.9091" Z="398.59"/>
-<b X="3733.9861" Y="-1804.833" Z="398.59"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0012" pos="1"/>
-<NachNorm Nr="829"/>
-</StrElement>
-<StrElement Nr="829" kr="0.109464" spTrass="27.7778" Anschluss="1" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3733.9861" Y="-1804.833" Z="398.59"/>
-<b X="3733.408" Y="-1803.823" Z="398.59"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0012" pos="1"/>
-<NachNorm Nr="843"/>
-</StrElement>
-<StrElement Nr="830" kr="0.002516" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3677.0481" Y="-1691.422" Z="401.5305"/>
-<b X="3679.677" Y="-1699.366" Z="401.4718"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0084" pos="1"/>
-<NachNorm Nr="831"/>
-<NachGegen Nr="819"/>
-</StrElement>
-<StrElement Nr="831" kr="0.002516" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3679.677" Y="-1699.366" Z="401.4718"/>
-<b X="3682.4709" Y="-1707.252" Z="401.4019"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0084" pos="1"/>
-<NachNorm Nr="832"/>
-<NachGegen Nr="830"/>
-</StrElement>
-<StrElement Nr="832" kr="0.002516" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3682.4709" Y="-1707.252" Z="401.4019"/>
-<b X="3685.4319" Y="-1715.078" Z="401.3235"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0084" pos="1"/>
-<NachNorm Nr="833"/>
-<NachGegen Nr="831"/>
-</StrElement>
-<StrElement Nr="833" kr="0.002516" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3685.4319" Y="-1715.078" Z="401.3235"/>
-<b X="3688.5559" Y="-1722.84" Z="401"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0084" pos="1"/>
-<NachNorm Nr="834"/>
-<NachGegen Nr="832"/>
-</StrElement>
-<StrElement Nr="834" kr="0.002516" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3688.5559" Y="-1722.84" Z="401"/>
-<b X="3691.844" Y="-1730.535" Z="400.8"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0084" pos="1"/>
-<NachNorm Nr="835"/>
-<NachGegen Nr="833"/>
-</StrElement>
-<StrElement Nr="835" kr="0.002516" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3691.844" Y="-1730.535" Z="400.8"/>
-<b X="3695.292" Y="-1738.158" Z="400.6"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0084" pos="1"/>
-<NachNorm Nr="836"/>
-<NachGegen Nr="834"/>
-</StrElement>
-<StrElement Nr="836" kr="0.002516" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3695.292" Y="-1738.158" Z="400.6"/>
-<b X="3698.8999" Y="-1745.707" Z="400.4"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0084" pos="1"/>
-<NachNorm Nr="837"/>
-<NachGegen Nr="835"/>
-</StrElement>
-<StrElement Nr="837" kr="0.002516" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3698.8999" Y="-1745.707" Z="400.4"/>
-<b X="3702.667" Y="-1753.179" Z="400.2"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0084" pos="1"/>
-<NachNorm Nr="838"/>
-<NachGegen Nr="836"/>
-</StrElement>
-<StrElement Nr="838" kr="0.002516" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3702.667" Y="-1753.179" Z="400.2"/>
-<b X="3706.5891" Y="-1760.569" Z="400"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0084" pos="1"/>
-<NachNorm Nr="839"/>
-<NachGegen Nr="837"/>
-</StrElement>
-<StrElement Nr="839" kr="0.002516" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3706.5891" Y="-1760.569" Z="400"/>
-<b X="3710.667" Y="-1767.876" Z="399.8"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0084" pos="1"/>
-<NachNorm Nr="840"/>
-<NachGegen Nr="838"/>
-</StrElement>
-<StrElement Nr="840" kr="0.002516" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3710.667" Y="-1767.876" Z="399.8"/>
-<b X="3714.897" Y="-1775.094" Z="399.6"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0084" pos="1"/>
-<NachNorm Nr="841"/>
-<NachGegen Nr="839"/>
-</StrElement>
-<StrElement Nr="841" kr="0.002516" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3714.897" Y="-1775.094" Z="399.6"/>
-<b X="3719.2791" Y="-1782.223" Z="399.4"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0084" pos="1"/>
-<NachNorm Nr="842"/>
-<NachGegen Nr="840"/>
-</StrElement>
-<StrElement Nr="842" kr="0.002516" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3719.2791" Y="-1782.223" Z="399.4"/>
-<b X="3723.8101" Y="-1789.257" Z="399.2"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0084" pos="1"/>
-<NachNorm Nr="843"/>
-<NachGegen Nr="841"/>
-</StrElement>
-<StrElement Nr="843" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3723.8091" Y="-1789.257" Z="399.2"/>
-<b X="3733.408" Y="-1803.823" Z="398.59"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0174" pos="1"/>
-<NachGegen Nr="842"/>
 </StrElement>
 <StrElement Nr="844" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3564.0271" Y="-1473.895" Z="403.2918"/>
@@ -12771,13 +12687,6 @@
 <InfoGegenRichtung vMax="38.8889" km="-0.08" pos="1"/>
 <NachGegen Nr="956"/>
 </StrElement>
-<StrElement Nr="958" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3734.6902" Y="-1812.2583" Z="398.59"/>
-<b X="3755.748" Y="-1774.896" Z="400.0872"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0457" pos="1"/>
-<NachNorm Nr="961"/>
-</StrElement>
 <StrElement Nr="959" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3784.4961" Y="-1746.958" Z="400.5656"/>
 <b X="3825.532" Y="-1717.433" Z="401.2968"/>
@@ -12792,147 +12701,6 @@
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0506" pos="1"/>
 <NachGegen Nr="959"/>
-</StrElement>
-<StrElement Nr="961" kr="-0.015019" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3755.748" Y="-1774.896" Z="400.0872"/>
-<b X="3757.3789" Y="-1772.219" Z="400.1035"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0031" pos="1"/>
-<NachNorm Nr="962"/>
-<NachGegen Nr="958"/>
-</StrElement>
-<StrElement Nr="962" kr="-0.015019" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3757.3789" Y="-1772.219" Z="400.1035"/>
-<b X="3759.1331" Y="-1769.621" Z="400.1215"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0031" pos="1"/>
-<NachNorm Nr="963"/>
-<NachGegen Nr="961"/>
-</StrElement>
-<StrElement Nr="963" kr="-0.015019" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3759.1331" Y="-1769.621" Z="400.1215"/>
-<b X="3761.0081" Y="-1767.109" Z="400.1223"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0031" pos="1"/>
-<NachNorm Nr="964"/>
-<NachGegen Nr="962"/>
-</StrElement>
-<StrElement Nr="964" kr="-0.015019" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3761.0081" Y="-1767.109" Z="400.1223"/>
-<b X="3762.999" Y="-1764.688" Z="400.14"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0031" pos="1"/>
-<NachNorm Nr="965"/>
-<NachGegen Nr="963"/>
-</StrElement>
-<StrElement Nr="965" kr="-0.015019" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3762.999" Y="-1764.688" Z="400.14"/>
-<b X="3765.1011" Y="-1762.363" Z="400.156"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0031" pos="1"/>
-<NachNorm Nr="966"/>
-<NachGegen Nr="964"/>
-</StrElement>
-<StrElement Nr="966" kr="-0.015019" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3765.1011" Y="-1762.363" Z="400.156"/>
-<b X="3767.311" Y="-1760.139" Z="400.1785"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0031" pos="1"/>
-<NachNorm Nr="967"/>
-<NachGegen Nr="965"/>
-</StrElement>
-<StrElement Nr="967" kr="-0.015019" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3767.311" Y="-1760.139" Z="400.1785"/>
-<b X="3769.623" Y="-1758.0229" Z="400.2164"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0031" pos="1"/>
-<NachNorm Nr="968"/>
-<NachGegen Nr="966"/>
-</StrElement>
-<StrElement Nr="968" kr="-0.015019" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3769.623" Y="-1758.0229" Z="400.2164"/>
-<b X="3772.031" Y="-1756.017" Z="400.2516"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0031" pos="1"/>
-<NachNorm Nr="969"/>
-<NachGegen Nr="967"/>
-</StrElement>
-<StrElement Nr="969" kr="-0.015019" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3772.031" Y="-1756.017" Z="400.2516"/>
-<b X="3774.532" Y="-1754.127" Z="400.3104"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0031" pos="1"/>
-<NachGegen Nr="968"/>
-</StrElement>
-<StrElement Nr="970" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3770.73" Y="-1756.8621" Z="400.2307"/>
-<b X="3784.4961" Y="-1746.958" Z="400.5656"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.017" pos="1"/>
-<NachNorm Nr="959"/>
-</StrElement>
-<StrElement Nr="971" kr="0.008991" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3735.2319" Y="-1810.245" Z="400.2698"/>
-<b X="3738.5591" Y="-1813.104" Z="400.4175"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0044" pos="1"/>
-<NachNorm Nr="972"/>
-</StrElement>
-<StrElement Nr="972" kr="0.008991" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3738.5591" Y="-1813.104" Z="400.4175"/>
-<b X="3741.9961" Y="-1815.829" Z="400.5247"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0044" pos="1"/>
-<NachNorm Nr="973"/>
-<NachGegen Nr="971"/>
-</StrElement>
-<StrElement Nr="973" kr="0.008991" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3741.9961" Y="-1815.829" Z="400.5247"/>
-<b X="3745.5371" Y="-1818.417" Z="400.7678"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0044" pos="1"/>
-<NachNorm Nr="974"/>
-<NachGegen Nr="972"/>
-</StrElement>
-<StrElement Nr="974" kr="0.008991" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3745.5371" Y="-1818.417" Z="400.7678"/>
-<b X="3749.178" Y="-1820.863" Z="401.1824"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0044" pos="1"/>
-<NachNorm Nr="975"/>
-<NachGegen Nr="973"/>
-</StrElement>
-<StrElement Nr="975" kr="0.008991" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3749.178" Y="-1820.863" Z="401.1824"/>
-<b X="3752.9131" Y="-1823.1639" Z="401.3304"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0044" pos="1"/>
-<NachNorm Nr="976"/>
-<NachGegen Nr="974"/>
-</StrElement>
-<StrElement Nr="976" kr="0.008991" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3752.9131" Y="-1823.1639" Z="401.3304"/>
-<b X="3756.7351" Y="-1825.316" Z="401.3882"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0044" pos="1"/>
-<NachNorm Nr="977"/>
-<NachGegen Nr="975"/>
-</StrElement>
-<StrElement Nr="977" kr="0.008991" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3756.7351" Y="-1825.316" Z="401.3882"/>
-<b X="3760.6389" Y="-1827.3149" Z="401.4045"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0044" pos="1"/>
-<NachNorm Nr="978"/>
-<NachGegen Nr="976"/>
-</StrElement>
-<StrElement Nr="978" kr="0.008991" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3760.6389" Y="-1827.3149" Z="401.4045"/>
-<b X="3764.6189" Y="-1829.1591" Z="401.3778"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0044" pos="1"/>
-<NachNorm Nr="979"/>
-<NachGegen Nr="977"/>
 </StrElement>
 <StrElement Nr="979" kr="0.008991" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3764.6189" Y="-1829.1591" Z="401.3778"/>
@@ -13150,21 +12918,6 @@
 <NachNorm Nr="1006"/>
 <NachGegen Nr="1004"/>
 </StrElement>
-<StrElement Nr="1006" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3876.75" Y="-1815.828" Z="403.7579"/>
-<b X="3918.0171" Y="-1784.406" Z="403.9184"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0519" pos="1"/>
-<NachNorm Nr="1007"/>
-<NachGegen Nr="1005"/>
-</StrElement>
-<StrElement Nr="1007" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3918.0171" Y="-1784.406" Z="403.9184"/>
-<b X="3959.2839" Y="-1752.983" Z="404.0807"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0519" pos="1"/>
-<NachGegen Nr="1006"/>
-</StrElement>
 <StrElement Nr="1008" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3344.7581" Y="-1238.516" Z="405.4488"/>
 <b X="3379.1851" Y="-1286.563" Z="405.1897"/>
@@ -13175,81 +12928,92 @@
 </StrElement>
 <StrElement Nr="1009" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3379.1851" Y="-1286.563" Z="405.1897"/>
-<b X="3413.6111" Y="-1334.61" Z="404.8282"/>
+<b X="3413.6111" Y="-1334.61" Z="404.95"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0591" pos="1"/>
 <NachNorm Nr="1026"/>
 <NachGegen Nr="1008"/>
 </StrElement>
-<StrElement Nr="1010" kr="0.071101" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3413.6111" Y="-1334.61" Z="404.8282"/>
-<b X="3414.551" Y="-1335.7841" Z="404.8152"/>
+<StrElement Nr="1010" kr="0.071101" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3413.6111" Y="-1334.61" Z="404.95"/>
+<b X="3414.551" Y="-1335.7841" Z="404.95"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0015" pos="1"/>
+<NachGegen Nr="1009"/>
 </StrElement>
-<StrElement Nr="1011" kr="0.071101" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3414.551" Y="-1335.7841" Z="404.8152"/>
-<b X="3415.6111" Y="-1336.85" Z="404.7965"/>
+<StrElement Nr="1011" kr="0.071101" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3414.551" Y="-1335.7841" Z="404.95"/>
+<b X="3415.6111" Y="-1336.85" Z="404.95"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0015" pos="1"/>
+<NachGegen Nr="1010"/>
 </StrElement>
-<StrElement Nr="1012" kr="0.071101" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3415.6111" Y="-1336.85" Z="404.7965"/>
-<b X="3416.7791" Y="-1337.798" Z="404.8182"/>
+<StrElement Nr="1012" kr="0.071101" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3415.6111" Y="-1336.85" Z="404.95"/>
+<b X="3416.7791" Y="-1337.798" Z="404.95"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0015" pos="1"/>
+<NachGegen Nr="1011"/>
 </StrElement>
-<StrElement Nr="1013" kr="0.071101" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3416.7791" Y="-1337.798" Z="404.8182"/>
-<b X="3418.042" Y="-1338.615" Z="404.8465"/>
+<StrElement Nr="1013" kr="0.071101" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3416.7791" Y="-1337.798" Z="404.95"/>
+<b X="3418.042" Y="-1338.615" Z="404.95"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0015" pos="1"/>
+<NachGegen Nr="1012"/>
 </StrElement>
-<StrElement Nr="1014" kr="0.071101" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3418.042" Y="-1338.615" Z="404.8465"/>
-<b X="3419.384" Y="-1339.293" Z="404.9094"/>
+<StrElement Nr="1014" kr="0.071101" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3418.042" Y="-1338.615" Z="404.95"/>
+<b X="3419.384" Y="-1339.293" Z="404.95"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0015" pos="1"/>
+<NachGegen Nr="1013"/>
 </StrElement>
-<StrElement Nr="1015" kr="0.071101" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3419.384" Y="-1339.293" Z="404.9094"/>
-<b X="3420.791" Y="-1339.824" Z="404.9789"/>
+<StrElement Nr="1015" kr="0.071101" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3419.384" Y="-1339.293" Z="404.95"/>
+<b X="3420.791" Y="-1339.824" Z="404.95"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0015" pos="1"/>
+<NachGegen Nr="1014"/>
 </StrElement>
-<StrElement Nr="1016" kr="0.071101" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3420.791" Y="-1339.824" Z="404.9789"/>
-<b X="3422.2471" Y="-1340.202" Z="405.0103"/>
+<StrElement Nr="1016" kr="0.071101" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3420.791" Y="-1339.824" Z="404.95"/>
+<b X="3422.2471" Y="-1340.202" Z="404.95"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0015" pos="1"/>
+<NachGegen Nr="1015"/>
 </StrElement>
-<StrElement Nr="1017" kr="0.071101" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3422.2471" Y="-1340.202" Z="405.0103"/>
-<b X="3423.7351" Y="-1340.421" Z="405.0606"/>
+<StrElement Nr="1017" kr="0.071101" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3422.2471" Y="-1340.202" Z="404.95"/>
+<b X="3423.7351" Y="-1340.421" Z="404.95"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0015" pos="1"/>
+<NachGegen Nr="1016"/>
 </StrElement>
-<StrElement Nr="1018" kr="0.071101" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3423.7351" Y="-1340.421" Z="405.0606"/>
-<b X="3425.238" Y="-1340.481" Z="405.0899"/>
+<StrElement Nr="1018" kr="0.071101" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3423.7351" Y="-1340.421" Z="404.95"/>
+<b X="3425.238" Y="-1340.481" Z="404.95"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0015" pos="1"/>
+<NachGegen Nr="1017"/>
 </StrElement>
-<StrElement Nr="1019" kr="0.071101" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3425.238" Y="-1340.481" Z="405.0899"/>
-<b X="3426.738" Y="-1340.38" Z="405.0382"/>
+<StrElement Nr="1019" kr="0.071101" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3425.238" Y="-1340.481" Z="404.95"/>
+<b X="3426.738" Y="-1340.38" Z="404.95"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0015" pos="1"/>
+<NachGegen Nr="1018"/>
 </StrElement>
-<StrElement Nr="1020" kr="0.071101" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3426.738" Y="-1340.38" Z="405.0382"/>
-<b X="3428.219" Y="-1340.119" Z="404.9977"/>
+<StrElement Nr="1020" kr="0.071101" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3426.738" Y="-1340.38" Z="405.32"/>
+<b X="3428.219" Y="-1340.119" Z="405.32"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0015" pos="1"/>
+<NachGegen Nr="1019"/>
 </StrElement>
 <StrElement Nr="1021" kr="0.071101" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3428.219" Y="-1340.119" Z="404.9977"/>
-<b X="3429.6641" Y="-1339.702" Z="405.0201"/>
+<g X="3428.219" Y="-1340.119" Z="405.32"/>
+<b X="3429.6641" Y="-1339.702" Z="405.32"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0015" pos="1"/>
 </StrElement>
@@ -14935,6 +14699,7 @@
 <b X="3258.905" Y="-1118.694" Z="404.4302"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0737" pos="1"/>
+<NachNorm Nr="1158"/>
 <NachGegen Nr="1156"/>
 </StrElement>
 <StrElement Nr="1158" kr="0.088872" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
@@ -14942,66 +14707,77 @@
 <b X="3258.0139" Y="-1117.603" Z="404.4384"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0014" pos="1"/>
+<NachNorm Nr="1159"/>
 </StrElement>
 <StrElement Nr="1159" kr="0.088872" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3258.0139" Y="-1117.603" Z="404.4384"/>
 <b X="3256.9929" Y="-1116.63" Z="404.4319"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0014" pos="1"/>
+<NachNorm Nr="1160"/>
 </StrElement>
 <StrElement Nr="1160" kr="0.088872" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3256.9929" Y="-1116.63" Z="404.4319"/>
 <b X="3255.8601" Y="-1115.7939" Z="404.4106"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0014" pos="1"/>
+<NachNorm Nr="1161"/>
 </StrElement>
 <StrElement Nr="1161" kr="0.088872" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3255.8601" Y="-1115.7939" Z="404.4106"/>
 <b X="3254.6299" Y="-1115.105" Z="404.3373"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0014" pos="1"/>
+<NachNorm Nr="1162"/>
 </StrElement>
 <StrElement Nr="1162" kr="0.088872" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3254.6299" Y="-1115.105" Z="404.3373"/>
 <b X="3253.324" Y="-1114.576" Z="404.2705"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0014" pos="1"/>
+<NachNorm Nr="1163"/>
 </StrElement>
 <StrElement Nr="1163" kr="0.088872" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3253.324" Y="-1114.576" Z="404.2705"/>
 <b X="3251.9619" Y="-1114.214" Z="404.2038"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0014" pos="1"/>
+<NachNorm Nr="1164"/>
 </StrElement>
 <StrElement Nr="1164" kr="0.088872" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3251.9619" Y="-1114.214" Z="404.2038"/>
 <b X="3250.5659" Y="-1114.025" Z="404.138"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0014" pos="1"/>
+<NachNorm Nr="1165"/>
 </StrElement>
 <StrElement Nr="1165" kr="0.088872" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3250.5659" Y="-1114.025" Z="404.138"/>
 <b X="3249.156" Y="-1114.012" Z="404.076"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0014" pos="1"/>
+<NachNorm Nr="1166"/>
 </StrElement>
 <StrElement Nr="1166" kr="0.088872" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3249.156" Y="-1114.012" Z="404.076"/>
 <b X="3247.7571" Y="-1114.175" Z="403.9742"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0014" pos="1"/>
+<NachNorm Nr="1167"/>
 </StrElement>
 <StrElement Nr="1167" kr="0.088872" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3247.7571" Y="-1114.175" Z="403.9742"/>
 <b X="3246.3879" Y="-1114.512" Z="403.7966"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0014" pos="1"/>
+<NachNorm Nr="1168"/>
 </StrElement>
 <StrElement Nr="1168" kr="0.088872" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3246.3879" Y="-1114.512" Z="403.7966"/>
 <b X="3245.073" Y="-1115.0179" Z="403.5608"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0014" pos="1"/>
+<NachNorm Nr="1169"/>
 </StrElement>
 <StrElement Nr="1169" kr="0.088872" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3245.073" Y="-1115.0179" Z="403.5608"/>
@@ -25955,89 +25731,7 @@
 <g X="-715.934" Y="1005.7839" Z="401.257"/>
 <b X="-794.183" Y="1045.066" Z="401.4856"/>
 <InfoNormRichtung vMax="38.8889" km="402.0179"/>
-<InfoGegenRichtung vMax="-1">
-<Signal NameBetriebsstelle="Allensbach" Stellwerk="Allensbach Af" Signalname="Av" SignalTyp="6" BoundingR="10">
-<p X="-717.3697" Y="1002.924" Z="400.757"/>
-<phi Z="-0.465258"/>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSig\DB_egli_VSig-Mast.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSIG\DB_egli-VSig-Standard-3begr-Gas.Lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="3.2" Z="0.5"/>
-<phi/>
-<sk/>
-<Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="1.5"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne2.ls3"/>
-</SignalFrame>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
-<VsigBegriff VsigGeschw="-1"/>
-<VsigBegriff/>
-<VsigBegriff VsigGeschw="2.7778"/>
-<VsigBegriff VsigGeschw="5.5556"/>
-<VsigBegriff VsigGeschw="8.3333"/>
-<VsigBegriff VsigGeschw="11.1111"/>
-<VsigBegriff VsigGeschw="13.8889"/>
-<VsigBegriff VsigGeschw="16.6667"/>
-<VsigBegriff VsigGeschw="19.4444"/>
-<VsigBegriff VsigGeschw="22.2222"/>
-<VsigBegriff VsigGeschw="25"/>
-<VsigBegriff VsigGeschw="27.7778"/>
-<VsigBegriff VsigGeschw="30.5556"/>
-<VsigBegriff VsigGeschw="33.3333"/>
-<VsigBegriff VsigGeschw="36.1111"/>
-<VsigBegriff VsigGeschw="38.8889"/>
-<VsigBegriff VsigGeschw="41.6667"/>
-<VsigBegriff VsigGeschw="-2"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="57" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
-<Ereignis Er="2000"/>
-</MatrixEintrag>
-</Signal>
-</InfoGegenRichtung>
+<InfoGegenRichtung vMax="-1"/>
 <NachNorm Nr="306"/>
 <NachGegen Nr="305"/>
 </StrElement>
@@ -27326,27 +27020,7 @@
 <StrElement Nr="2503" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-805.3043" Y="1050.649" Z="401.5181"/>
 <b X="-872.332" Y="1084.298" Z="401.714"/>
-<InfoGegenRichtung vMax="-1">
-<Signal SignalTyp="1" BoundingR="10">
-<p X="-805.3043" Y="1050.649" Z="401.5181"/>
-<phi Z="-0.465259"/>
-<SignalFrame>
-<p Y="-3.1" Z="2.4"/>
-<phi Z="-0.349066"/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="-3.1" Z="0.8"/>
-<phi Z="-0.349066"/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\K4_1.ls3"/>
-</SignalFrame>
-<HsigBegriff HsigGeschw="-1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
+<InfoGegenRichtung vMax="-1"/>
 <NachNorm Nr="2504"/>
 <NachGegen Nr="306"/>
 </StrElement>
@@ -27354,27 +27028,7 @@
 <g X="-872.332" Y="1084.298" Z="401.714"/>
 <b X="-883.1565" Y="1089.7321" Z="401.7456"/>
 <InfoNormRichtung vMax="38.8889" km="401.8718"/>
-<InfoGegenRichtung vMax="-1">
-<Signal SignalTyp="1" BoundingR="10">
-<p X="-872.332" Y="1084.298" Z="401.714"/>
-<phi Z="-0.465259"/>
-<SignalFrame>
-<p Y="-3.1" Z="2.4"/>
-<phi Z="-0.349066"/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="-3.1" Z="0.8"/>
-<phi Z="-0.349066"/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\K4_2.ls3"/>
-</SignalFrame>
-<HsigBegriff HsigGeschw="-1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
+<InfoGegenRichtung vMax="-1"/>
 <NachNorm Nr="307"/>
 <NachGegen Nr="2503"/>
 </StrElement>
@@ -27382,27 +27036,7 @@
 <g X="-939.3597" Y="1117.9469" Z="401.9099"/>
 <b X="-972.1299" Y="1134.3979" Z="402.0056"/>
 <InfoNormRichtung vMax="38.8889" km="401.8257"/>
-<InfoGegenRichtung vMax="-1">
-<Signal SignalTyp="1" BoundingR="10">
-<p X="-939.3597" Y="1117.9469" Z="401.9099"/>
-<phi Z="-0.465256"/>
-<SignalFrame>
-<p Y="-3.1" Z="2.4"/>
-<phi Z="-0.349066"/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="-3.1" Z="0.8"/>
-<phi Z="-0.349066"/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\K4_3.ls3"/>
-</SignalFrame>
-<HsigBegriff HsigGeschw="-1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
+<InfoGegenRichtung vMax="-1"/>
 <NachNorm Nr="332"/>
 <NachGegen Nr="307"/>
 </StrElement>
@@ -27566,50 +27200,6 @@
 </InfoGegenRichtung>
 <NachNorm Nr="315"/>
 <NachGegen Nr="2509"/>
-</StrElement>
-<StrElement Nr="2515" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3726.7905" Y="-1821.9446" Z="398.7"/>
-<b X="3728.386" Y="-1820.02" Z="398.7"/>
-<InfoGegenRichtung vMax="-1">
-<Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 2" Stellwerk="BÜ Reichenau-Waldsiedlung 2" Signalname="BÜ Reichenau-Waldsiedlung 2" SignalFlags="8" SignalTyp="4" BoundingR="10">
-<p X="3734.0896" Y="-1813.1404" Z="398.742"/>
-<phi Z="-2.26299"/>
-<KoppelSignal ReferenzNr="211">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<SignalFrame>
-<p Y="-3.55"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_rechts.Lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="3"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Aufschlaggabel.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="-3.55" Z="1"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m.Lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-1" Y="-3.55"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
-<HsigBegriff/>
-<HsigBegriff HsigGeschw="-1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="23"/>
-<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
-<NachNorm Nr="2531"/>
-<NachGegen Nr="718"/>
 </StrElement>
 <StrElement Nr="2516" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="3415.3694" Y="-1437.8894" Z="398.8845"/>
@@ -28024,65 +27614,6 @@
 <NachNorm Nr="1726"/>
 <NachGegen Nr="2529"/>
 </StrElement>
-<StrElement Nr="2531" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3728.386" Y="-1820.02" Z="398.7"/>
-<b X="3730.4272" Y="-1817.5579" Z="398.5934"/>
-<NachNorm Nr="2532"/>
-<NachGegen Nr="2515"/>
-</StrElement>
-<StrElement Nr="2532" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3730.4272" Y="-1817.5579" Z="398.5934"/>
-<b X="3730.865" Y="-1817.0095" Z="398.75"/>
-<NachNorm Nr="2534"/>
-<NachGegen Nr="2531"/>
-</StrElement>
-<StrElement Nr="2533" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3733.1223" Y="-1814.2054" Z="398.59"/>
-<b X="3734.6902" Y="-1812.2583" Z="398.59"/>
-<InfoNormRichtung vMax="27.7778">
-<Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 2" Stellwerk="BÜ Reichenau-Waldsiedlung 2" Signalname="BÜ Reichenau-Waldsiedlung 2" SignalTyp="4" BoundingR="10">
-<p X="3727.1104" Y="-1821.5587" Z="398.8"/>
-<phi Z="0.878602"/>
-<SignalFrame>
-<p Y="-3.55"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_rechts.Lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="3"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Aufschlaggabel.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="-3.55" Z="1"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m.Lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-1" Y="-3.55"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
-<HsigBegriff/>
-<HsigBegriff HsigGeschw="-1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="23"/>
-<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
-<NachNorm Nr="823"/>
-<NachGegen Nr="2534"/>
-</StrElement>
-<StrElement Nr="2534" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="3730.865" Y="-1817.0095" Z="398.75"/>
-<b X="3733.1223" Y="-1814.2054" Z="398.59"/>
-<NachNorm Nr="2533"/>
-<NachGegen Nr="2532"/>
-</StrElement>
 <StrElement Nr="2535" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="3414.7961" Y="-1432.3059" Z="398.8"/>
 <b X="3407.5388" Y="-1437.6285" Z="398.8"/>
@@ -28318,6 +27849,1185 @@
 <InfoNormRichtung vMax="27.7778"/>
 <NachGegen Nr="952"/>
 </StrElement>
+<StrElement Nr="2549" Ueberh="0.0384" kr="-0.000635" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="-1073.2784" Y="1187.337" Z="402.3035"/>
+<b X="-1077.13" Y="1189.509" Z="402.315"/>
+<InfoNormRichtung vMax="38.8889" km="401.7039"/>
+<InfoGegenRichtung vMax="-1">
+<Signal SignalTyp="1" BoundingR="10">
+<p X="-1073.2784" Y="1187.337" Z="402.3035"/>
+<phi Z="-0.513472"/>
+<SignalFrame>
+<p Y="-3.1" Z="2.4"/>
+<phi Z="-0.349066"/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="-3.1" Z="0.8"/>
+<phi Z="-0.349066"/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\K4_1.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="340"/>
+<NachGegen Nr="339"/>
+</StrElement>
+<StrElement Nr="2550" Ueberh="-0.016" kr="0.000265" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="-1137.8643" Y="1225.4551" Z="402.4991"/>
+<b X="-1128.204" Y="1219.569" Z="402.4696"/>
+<InfoNormRichtung vMax="38.8889" km="401.6292" pos="1"/>
+<NachNorm Nr="395"/>
+<NachGegen Nr="394"/>
+</StrElement>
+<StrElement Nr="2551" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="-1201.7421" Y="1264.7565" Z="402.6095"/>
+<b X="-1242.942" Y="1290.125" Z="402.6235"/>
+<InfoNormRichtung vMax="38.8889" km="401.5541"/>
+<InfoGegenRichtung vMax="-1">
+<Signal SignalTyp="1" BoundingR="10">
+<p X="-1201.7421" Y="1264.7565" Z="402.6095"/>
+<phi Z="-0.551914"/>
+<SignalFrame>
+<p Y="-3.1" Z="2.4"/>
+<phi Z="-0.349066"/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="-3.1" Z="0.8"/>
+<phi Z="-0.349066"/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\K4_3.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="371"/>
+<NachGegen Nr="370"/>
+</StrElement>
+<StrElement Nr="2552" spTrass="27.7778" Fkt="2">
+<g X="3838.6028" Y="-1895.4506" Z="398.5777"/>
+<b X="3835.3945" Y="-1899.9175" Z="398.7"/>
+<InfoNormRichtung vMax="-1" Reg="5040"/>
+<InfoGegenRichtung vMax="-1" Reg="5040">
+<Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 2" Stellwerk="BÜ Reichenau-Waldsiedlung 2" Signalname="BÜ Reichenau-Waldsiedlung 2" SignalFlags="8" SignalTyp="4" BoundingR="10">
+<p X="3831.603" Y="-1905.1967" Z="398.7117"/>
+<phi Z="0.947952"/>
+<KoppelSignal ReferenzNr="312">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<SignalFrame>
+<p Y="-3.55"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_rechts.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="3"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Aufschlaggabel.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="-3.55" Z="1"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-1" Y="-3.55"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff/>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="23"/>
+<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="2569"/>
+<NachGegen Nr="2575"/>
+<NachGegen Nr="2668"/>
+</StrElement>
+<StrElement Nr="2565" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="3831.4221" Y="-2014.077" Z="398.0089"/>
+<b X="3819.6487" Y="-1994.9752" Z="399.2016"/>
+<NachGegen Nr="771"/>
+</StrElement>
+<StrElement Nr="2569" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="3835.3945" Y="-1899.9175" Z="398.7"/>
+<b X="3834.8113" Y="-1900.7297" Z="398.6"/>
+<NachNorm Nr="2570"/>
+<NachGegen Nr="2552"/>
+</StrElement>
+<StrElement Nr="2570" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="3834.8113" Y="-1900.7297" Z="398.6"/>
+<b X="3831.603" Y="-1905.1967" Z="398.75"/>
+<InfoNormRichtung vMax="-1">
+<Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 2" Stellwerk="BÜ Reichenau-Waldsiedlung 2" Signalname="BÜ Reichenau-Waldsiedlung 2" SignalTyp="4" BoundingR="10">
+<p X="3838.6028" Y="-1895.4506" Z="398.5777"/>
+<phi Z="-2.193641"/>
+<SignalFrame>
+<p Y="-3.55"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_rechts.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="3"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Aufschlaggabel.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="-3.55" Z="1"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-1" Y="-3.55"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff/>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="23"/>
+<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<NachNorm Nr="2616"/>
+<NachGegen Nr="2569"/>
+</StrElement>
+<StrElement Nr="2616" kr="-0.010472" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3831.603" Y="-1905.1967" Z="398.75"/>
+<b X="3829.698" Y="-1907.6738" Z="398.8347"/>
+<NachNorm Nr="2617"/>
+<NachGegen Nr="2570"/>
+</StrElement>
+<StrElement Nr="2617" kr="-0.010472" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3829.698" Y="-1907.6738" Z="398.8347"/>
+<b X="3827.7129" Y="-1910.0874" Z="398.919"/>
+<NachNorm Nr="2618"/>
+<NachGegen Nr="2616"/>
+</StrElement>
+<StrElement Nr="2618" kr="-0.010472" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3827.7129" Y="-1910.0874" Z="398.919"/>
+<b X="3825.6499" Y="-1912.4347" Z="399.0028"/>
+<NachNorm Nr="2619"/>
+<NachGegen Nr="2617"/>
+</StrElement>
+<StrElement Nr="2619" kr="-0.010472" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3825.6499" Y="-1912.4347" Z="399.0028"/>
+<b X="3823.5112" Y="-1914.7133" Z="399.0861"/>
+<NachNorm Nr="2620"/>
+<NachGegen Nr="2618"/>
+</StrElement>
+<StrElement Nr="2620" kr="-0.010472" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3823.5112" Y="-1914.7133" Z="399.0861"/>
+<b X="3821.2991" Y="-1916.9207" Z="399.1689"/>
+<NachNorm Nr="2621"/>
+<NachGegen Nr="2619"/>
+</StrElement>
+<StrElement Nr="2621" kr="-0.010472" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3821.2991" Y="-1916.9207" Z="399.1689"/>
+<b X="3819.0159" Y="-1919.0544" Z="399.2512"/>
+<NachNorm Nr="2622"/>
+<NachGegen Nr="2620"/>
+</StrElement>
+<StrElement Nr="2622" kr="-0.010472" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3819.0159" Y="-1919.0544" Z="399.2512"/>
+<b X="3816.6641" Y="-1921.1123" Z="399.333"/>
+<NachNorm Nr="2623"/>
+<NachGegen Nr="2621"/>
+</StrElement>
+<StrElement Nr="2623" kr="-0.010472" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3816.6641" Y="-1921.1123" Z="399.333"/>
+<b X="3814.2461" Y="-1923.092" Z="399.4143"/>
+<NachNorm Nr="2624"/>
+<NachGegen Nr="2622"/>
+</StrElement>
+<StrElement Nr="2624" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3814.2461" Y="-1923.092" Z="399.4143"/>
+<b X="3813.8579" Y="-1923.433" Z="399.4277"/>
+<NachNorm Nr="2625"/>
+<NachGegen Nr="2623"/>
+</StrElement>
+<StrElement Nr="2625" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3813.8579" Y="-1923.433" Z="399.4277"/>
+<b X="3813.4817" Y="-1923.7871" Z="399.4412"/>
+<NachNorm Nr="2626"/>
+<NachGegen Nr="2624"/>
+</StrElement>
+<StrElement Nr="2626" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3813.4817" Y="-1923.7871" Z="399.4412"/>
+<b X="3813.1179" Y="-1924.1541" Z="399.4546"/>
+<NachNorm Nr="2627"/>
+<NachGegen Nr="2625"/>
+</StrElement>
+<StrElement Nr="2627" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3813.1179" Y="-1924.1541" Z="399.4546"/>
+<b X="3812.7671" Y="-1924.5333" Z="399.468"/>
+<NachNorm Nr="2628"/>
+<NachGegen Nr="2626"/>
+</StrElement>
+<StrElement Nr="2628" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3812.7671" Y="-1924.5333" Z="399.468"/>
+<b X="3812.4294" Y="-1924.9244" Z="399.4814"/>
+<NachNorm Nr="2629"/>
+<NachGegen Nr="2627"/>
+</StrElement>
+<StrElement Nr="2629" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3812.4294" Y="-1924.9244" Z="399.4814"/>
+<b X="3812.1055" Y="-1925.3269" Z="399.4949"/>
+<NachNorm Nr="2630"/>
+<NachGegen Nr="2628"/>
+</StrElement>
+<StrElement Nr="2630" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3812.1055" Y="-1925.3269" Z="399.4949"/>
+<b X="3811.7954" Y="-1925.7404" Z="399.5083"/>
+<NachNorm Nr="2631"/>
+<NachGegen Nr="2629"/>
+</StrElement>
+<StrElement Nr="2631" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3811.7954" Y="-1925.7404" Z="399.5083"/>
+<b X="3811.4998" Y="-1926.1642" Z="399.5217"/>
+<NachNorm Nr="2632"/>
+<NachGegen Nr="2630"/>
+</StrElement>
+<StrElement Nr="2632" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3811.4998" Y="-1926.1642" Z="399.5217"/>
+<b X="3811.219" Y="-1926.5979" Z="399.5351"/>
+<NachNorm Nr="2633"/>
+<NachGegen Nr="2631"/>
+</StrElement>
+<StrElement Nr="2633" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3811.219" Y="-1926.5979" Z="399.5351"/>
+<b X="3810.9534" Y="-1927.041" Z="399.5485"/>
+<NachNorm Nr="2634"/>
+<NachGegen Nr="2632"/>
+</StrElement>
+<StrElement Nr="2634" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3810.9534" Y="-1927.041" Z="399.5485"/>
+<b X="3810.7031" Y="-1927.493" Z="399.5619"/>
+<NachNorm Nr="2635"/>
+<NachGegen Nr="2633"/>
+</StrElement>
+<StrElement Nr="2635" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3810.7031" Y="-1927.493" Z="399.5619"/>
+<b X="3810.4685" Y="-1927.9535" Z="399.5753"/>
+<NachNorm Nr="2636"/>
+<NachGegen Nr="2634"/>
+</StrElement>
+<StrElement Nr="2636" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3810.4685" Y="-1927.9535" Z="399.5753"/>
+<b X="3810.25" Y="-1928.4216" Z="399.5887"/>
+<NachNorm Nr="2637"/>
+<NachGegen Nr="2635"/>
+</StrElement>
+<StrElement Nr="2637" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3810.25" Y="-1928.4216" Z="399.5887"/>
+<b X="3810.0476" Y="-1928.8971" Z="399.6021"/>
+<NachNorm Nr="2638"/>
+<NachGegen Nr="2636"/>
+</StrElement>
+<StrElement Nr="2638" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3810.0476" Y="-1928.8971" Z="399.6021"/>
+<b X="3809.8618" Y="-1929.3792" Z="399.6154"/>
+<NachNorm Nr="2639"/>
+<NachGegen Nr="2637"/>
+</StrElement>
+<StrElement Nr="2639" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3809.8618" Y="-1929.3792" Z="399.6154"/>
+<b X="3809.6926" Y="-1929.8674" Z="399.6287"/>
+<NachNorm Nr="2640"/>
+<NachGegen Nr="2638"/>
+</StrElement>
+<StrElement Nr="2640" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3809.6926" Y="-1929.8674" Z="399.6287"/>
+<b X="3809.5403" Y="-1930.3612" Z="399.6421"/>
+<NachNorm Nr="2641"/>
+<NachGegen Nr="2639"/>
+</StrElement>
+<StrElement Nr="2641" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3809.5403" Y="-1930.3612" Z="399.6421"/>
+<b X="3809.405" Y="-1930.8599" Z="399.6554"/>
+<NachNorm Nr="2642"/>
+<NachGegen Nr="2640"/>
+</StrElement>
+<StrElement Nr="2642" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3809.405" Y="-1930.8599" Z="399.6554"/>
+<b X="3809.2871" Y="-1931.3629" Z="399.6687"/>
+<NachNorm Nr="2643"/>
+<NachGegen Nr="2641"/>
+</StrElement>
+<StrElement Nr="2643" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3809.2871" Y="-1931.3629" Z="399.6687"/>
+<b X="3809.1865" Y="-1931.8698" Z="399.6821"/>
+<NachNorm Nr="2644"/>
+<NachGegen Nr="2642"/>
+</StrElement>
+<StrElement Nr="2644" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3809.1865" Y="-1931.8698" Z="399.6821"/>
+<b X="3809.1035" Y="-1932.3798" Z="399.6954"/>
+<NachNorm Nr="2645"/>
+<NachGegen Nr="2643"/>
+</StrElement>
+<StrElement Nr="2645" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3809.1035" Y="-1932.3798" Z="399.6954"/>
+<b X="3809.0381" Y="-1932.8923" Z="399.7087"/>
+<NachNorm Nr="2646"/>
+<NachGegen Nr="2644"/>
+</StrElement>
+<StrElement Nr="2646" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3809.0381" Y="-1932.8923" Z="399.7087"/>
+<b X="3808.9902" Y="-1933.4069" Z="399.7221"/>
+<NachNorm Nr="2647"/>
+<NachGegen Nr="2645"/>
+</StrElement>
+<StrElement Nr="2647" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3808.9902" Y="-1933.4069" Z="399.7221"/>
+<b X="3808.9602" Y="-1933.9227" Z="399.7354"/>
+<NachNorm Nr="2648"/>
+<NachGegen Nr="2646"/>
+</StrElement>
+<StrElement Nr="2648" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3808.9602" Y="-1933.9227" Z="399.7354"/>
+<b X="3808.948" Y="-1934.4393" Z="399.7487"/>
+<NachNorm Nr="2649"/>
+<NachGegen Nr="2647"/>
+</StrElement>
+<StrElement Nr="2649" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3808.948" Y="-1934.4393" Z="399.7487"/>
+<b X="3808.9536" Y="-1934.9561" Z="399.7621"/>
+<NachNorm Nr="2650"/>
+<NachGegen Nr="2648"/>
+</StrElement>
+<StrElement Nr="2650" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3808.9536" Y="-1934.9561" Z="399.7621"/>
+<b X="3808.9771" Y="-1935.4723" Z="399.7754"/>
+<NachNorm Nr="2651"/>
+<NachGegen Nr="2649"/>
+</StrElement>
+<StrElement Nr="2651" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3808.9771" Y="-1935.4723" Z="399.7754"/>
+<b X="3809.0183" Y="-1935.9873" Z="399.7887"/>
+<NachNorm Nr="2652"/>
+<NachGegen Nr="2650"/>
+</StrElement>
+<StrElement Nr="2652" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3809.0183" Y="-1935.9873" Z="399.7887"/>
+<b X="3809.0774" Y="-1936.5006" Z="399.802"/>
+<NachNorm Nr="2653"/>
+<NachGegen Nr="2651"/>
+</StrElement>
+<StrElement Nr="2653" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3809.0774" Y="-1936.5006" Z="399.802"/>
+<b X="3809.1541" Y="-1937.0116" Z="399.8153"/>
+<NachNorm Nr="2654"/>
+<NachGegen Nr="2652"/>
+</StrElement>
+<StrElement Nr="2654" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3809.1541" Y="-1937.0116" Z="399.8153"/>
+<b X="3809.2483" Y="-1937.5197" Z="399.8286"/>
+<NachNorm Nr="2655"/>
+<NachGegen Nr="2653"/>
+</StrElement>
+<StrElement Nr="2655" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3809.2483" Y="-1937.5197" Z="399.8286"/>
+<b X="3809.3599" Y="-1938.0242" Z="399.8419"/>
+<NachNorm Nr="2656"/>
+<NachGegen Nr="2654"/>
+</StrElement>
+<StrElement Nr="2656" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3809.3599" Y="-1938.0242" Z="399.8419"/>
+<b X="3809.4888" Y="-1938.5245" Z="399.8553"/>
+<NachNorm Nr="2657"/>
+<NachGegen Nr="2655"/>
+</StrElement>
+<StrElement Nr="2657" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3809.4888" Y="-1938.5245" Z="399.8553"/>
+<b X="3809.6348" Y="-1939.0201" Z="399.8686"/>
+<NachNorm Nr="2658"/>
+<NachGegen Nr="2656"/>
+</StrElement>
+<StrElement Nr="2658" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3809.6348" Y="-1939.0201" Z="399.8686"/>
+<b X="3809.7979" Y="-1939.5105" Z="399.8819"/>
+<NachNorm Nr="2659"/>
+<NachGegen Nr="2657"/>
+</StrElement>
+<StrElement Nr="2659" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3809.7979" Y="-1939.5105" Z="399.8819"/>
+<b X="3809.9778" Y="-1939.9949" Z="399.8952"/>
+<NachNorm Nr="2660"/>
+<NachGegen Nr="2658"/>
+</StrElement>
+<StrElement Nr="2660" kr="0.066667" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3809.9778" Y="-1939.9949" Z="399.8952"/>
+<b X="3810.1743" Y="-1940.4728" Z="399.9085"/>
+<NachNorm Nr="2661"/>
+<NachGegen Nr="2659"/>
+</StrElement>
+<StrElement Nr="2661" kr="0.066667" spTrass="27.7778" Anschluss="257" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3810.1743" Y="-1940.4728" Z="399.9085"/>
+<b X="3810.3872" Y="-1940.9436" Z="399.9218"/>
+<NachNorm Nr="2662"/>
+<NachGegen Nr="2660"/>
+</StrElement>
+<StrElement Nr="2662" kr="0.000592" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3853.1406" Y="-2022.9631" Z="398.6801"/>
+<b X="3810.3872" Y="-1940.9436" Z="399.9218"/>
+<InfoNormRichtung vMax="27.7778"/>
+<NachNorm Nr="769"/>
+<NachGegen Nr="2663"/>
+</StrElement>
+<StrElement Nr="2663" kr="0.00147" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3853.1406" Y="-2022.9631" Z="398.6801"/>
+<b X="3864.8469" Y="-2043.6277" Z="398.3894"/>
+<NachNorm Nr="2664"/>
+<NachGegen Nr="2662"/>
+</StrElement>
+<StrElement Nr="2664" kr="0.00147" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3864.8469" Y="-2043.6277" Z="398.3894"/>
+<b X="3877.2673" Y="-2063.8711" Z="398.127"/>
+<NachNorm Nr="2665"/>
+<NachGegen Nr="2663"/>
+</StrElement>
+<StrElement Nr="2665" kr="0.00147" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3877.2673" Y="-2063.8711" Z="398.127"/>
+<b X="3890.3867" Y="-2083.6687" Z="397.8927"/>
+<NachNorm Nr="2666"/>
+<NachGegen Nr="2664"/>
+</StrElement>
+<StrElement Nr="2666" kr="0.00147" spTrass="27.7778" Anschluss="257" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3890.3867" Y="-2083.6687" Z="397.8927"/>
+<b X="3904.189" Y="-2102.9963" Z="397.6867"/>
+<NachNorm Nr="2667"/>
+<NachGegen Nr="2665"/>
+</StrElement>
+<StrElement Nr="2667" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="3908.4099" Y="-2108.3989" Z="398.0089"/>
+<b X="3904.189" Y="-2102.9963" Z="397.6867"/>
+<NachGegen Nr="764"/>
+</StrElement>
+<StrElement Nr="2668" kr="0.083333" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3838.6028" Y="-1895.4506" Z="398.5777"/>
+<b X="3838.8352" Y="-1895.1021" Z="398.5777"/>
+<NachNorm Nr="2669"/>
+<NachGegen Nr="2552"/>
+</StrElement>
+<StrElement Nr="2669" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3838.8352" Y="-1895.1021" Z="398.5777"/>
+<b X="3839.0554" Y="-1894.7456" Z="398.5777"/>
+<NachNorm Nr="2670"/>
+<NachGegen Nr="2668"/>
+</StrElement>
+<StrElement Nr="2670" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3839.0554" Y="-1894.7456" Z="398.5777"/>
+<b X="3839.2629" Y="-1894.3818" Z="398.5777"/>
+<NachNorm Nr="2671"/>
+<NachGegen Nr="2669"/>
+</StrElement>
+<StrElement Nr="2671" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3839.2629" Y="-1894.3818" Z="398.5777"/>
+<b X="3839.4578" Y="-1894.011" Z="398.5777"/>
+<NachNorm Nr="2672"/>
+<NachGegen Nr="2670"/>
+</StrElement>
+<StrElement Nr="2672" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3839.4578" Y="-1894.011" Z="398.5777"/>
+<b X="3839.6394" Y="-1893.6335" Z="398.5777"/>
+<NachNorm Nr="2673"/>
+<NachGegen Nr="2671"/>
+</StrElement>
+<StrElement Nr="2673" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3839.6394" Y="-1893.6335" Z="398.5777"/>
+<b X="3839.8079" Y="-1893.25" Z="398.5777"/>
+<NachNorm Nr="2674"/>
+<NachGegen Nr="2672"/>
+</StrElement>
+<StrElement Nr="2674" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3839.8079" Y="-1893.25" Z="398.5777"/>
+<b X="3839.9629" Y="-1892.8608" Z="398.5777"/>
+<NachNorm Nr="2675"/>
+<NachGegen Nr="2673"/>
+</StrElement>
+<StrElement Nr="2675" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3839.9629" Y="-1892.8608" Z="398.5777"/>
+<b X="3840.1042" Y="-1892.4666" Z="398.5777"/>
+<NachNorm Nr="2676"/>
+<NachGegen Nr="2674"/>
+</StrElement>
+<StrElement Nr="2676" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.1042" Y="-1892.4666" Z="398.5777"/>
+<b X="3840.2317" Y="-1892.0675" Z="398.5777"/>
+<NachNorm Nr="2677"/>
+<NachGegen Nr="2675"/>
+</StrElement>
+<StrElement Nr="2677" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.2317" Y="-1892.0675" Z="398.5777"/>
+<b X="3840.3452" Y="-1891.6643" Z="398.5777"/>
+<NachNorm Nr="2678"/>
+<NachGegen Nr="2676"/>
+</StrElement>
+<StrElement Nr="2678" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.3452" Y="-1891.6643" Z="398.5777"/>
+<b X="3840.4446" Y="-1891.2574" Z="398.5777"/>
+<NachNorm Nr="2679"/>
+<NachGegen Nr="2677"/>
+</StrElement>
+<StrElement Nr="2679" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.4446" Y="-1891.2574" Z="398.5777"/>
+<b X="3840.5298" Y="-1890.8473" Z="398.5777"/>
+<NachNorm Nr="2680"/>
+<NachGegen Nr="2678"/>
+</StrElement>
+<StrElement Nr="2680" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.5298" Y="-1890.8473" Z="398.5777"/>
+<b X="3840.6006" Y="-1890.4344" Z="398.5777"/>
+<NachNorm Nr="2681"/>
+<NachGegen Nr="2679"/>
+</StrElement>
+<StrElement Nr="2681" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.6006" Y="-1890.4344" Z="398.5777"/>
+<b X="3840.657" Y="-1890.0194" Z="398.5777"/>
+<NachNorm Nr="2682"/>
+<NachGegen Nr="2680"/>
+</StrElement>
+<StrElement Nr="2682" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.657" Y="-1890.0194" Z="398.5777"/>
+<b X="3840.699" Y="-1889.6027" Z="398.5777"/>
+<NachNorm Nr="2683"/>
+<NachGegen Nr="2681"/>
+</StrElement>
+<StrElement Nr="2683" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.699" Y="-1889.6027" Z="398.5777"/>
+<b X="3840.7263" Y="-1889.1847" Z="398.5777"/>
+<NachNorm Nr="2684"/>
+<NachGegen Nr="2682"/>
+</StrElement>
+<StrElement Nr="2684" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.7263" Y="-1889.1847" Z="398.5777"/>
+<b X="3840.739" Y="-1888.766" Z="398.5777"/>
+<NachNorm Nr="2685"/>
+<NachGegen Nr="2683"/>
+</StrElement>
+<StrElement Nr="2685" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.739" Y="-1888.766" Z="398.5777"/>
+<b X="3840.7371" Y="-1888.3472" Z="398.5777"/>
+<NachNorm Nr="2686"/>
+<NachGegen Nr="2684"/>
+</StrElement>
+<StrElement Nr="2686" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.7371" Y="-1888.3472" Z="398.5777"/>
+<b X="3840.7205" Y="-1887.9286" Z="398.5777"/>
+<NachNorm Nr="2687"/>
+<NachGegen Nr="2685"/>
+</StrElement>
+<StrElement Nr="2687" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.7205" Y="-1887.9286" Z="398.5777"/>
+<b X="3840.6892" Y="-1887.5109" Z="398.5777"/>
+<NachNorm Nr="2688"/>
+<NachGegen Nr="2686"/>
+</StrElement>
+<StrElement Nr="2688" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.6892" Y="-1887.5109" Z="398.5777"/>
+<b X="3840.6433" Y="-1887.0945" Z="398.5777"/>
+<NachNorm Nr="2689"/>
+<NachGegen Nr="2687"/>
+</StrElement>
+<StrElement Nr="2689" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.6433" Y="-1887.0945" Z="398.5777"/>
+<b X="3840.583" Y="-1886.6799" Z="398.5777"/>
+<NachNorm Nr="2690"/>
+<NachGegen Nr="2688"/>
+</StrElement>
+<StrElement Nr="2690" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.583" Y="-1886.6799" Z="398.5777"/>
+<b X="3840.5083" Y="-1886.2678" Z="398.5777"/>
+<NachNorm Nr="2691"/>
+<NachGegen Nr="2689"/>
+</StrElement>
+<StrElement Nr="2691" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.5083" Y="-1886.2678" Z="398.5777"/>
+<b X="3840.4192" Y="-1885.8585" Z="398.5777"/>
+<NachNorm Nr="2692"/>
+<NachGegen Nr="2690"/>
+</StrElement>
+<StrElement Nr="2692" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.4192" Y="-1885.8585" Z="398.5777"/>
+<b X="3840.3159" Y="-1885.4526" Z="398.5777"/>
+<NachNorm Nr="2693"/>
+<NachGegen Nr="2691"/>
+</StrElement>
+<StrElement Nr="2693" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.3159" Y="-1885.4526" Z="398.5777"/>
+<b X="3840.1985" Y="-1885.0505" Z="398.5777"/>
+<NachNorm Nr="2694"/>
+<NachGegen Nr="2692"/>
+</StrElement>
+<StrElement Nr="2694" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.1985" Y="-1885.0505" Z="398.5777"/>
+<b X="3840.0671" Y="-1884.6528" Z="398.5777"/>
+<NachNorm Nr="2695"/>
+<NachGegen Nr="2693"/>
+</StrElement>
+<StrElement Nr="2695" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3840.0671" Y="-1884.6528" Z="398.5777"/>
+<b X="3839.9219" Y="-1884.2599" Z="398.5777"/>
+<NachNorm Nr="2696"/>
+<NachGegen Nr="2694"/>
+</StrElement>
+<StrElement Nr="2696" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3839.9219" Y="-1884.2599" Z="398.5777"/>
+<b X="3839.7629" Y="-1883.8723" Z="398.5777"/>
+<NachNorm Nr="2697"/>
+<NachGegen Nr="2695"/>
+</StrElement>
+<StrElement Nr="2697" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3839.7629" Y="-1883.8723" Z="398.5777"/>
+<b X="3839.5906" Y="-1883.4905" Z="398.5777"/>
+<NachNorm Nr="2698"/>
+<NachGegen Nr="2696"/>
+</StrElement>
+<StrElement Nr="2698" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3839.5906" Y="-1883.4905" Z="398.5777"/>
+<b X="3839.405" Y="-1883.115" Z="398.5777"/>
+<NachNorm Nr="2699"/>
+<NachGegen Nr="2697"/>
+</StrElement>
+<StrElement Nr="2699" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3839.405" Y="-1883.115" Z="398.5777"/>
+<b X="3839.2065" Y="-1882.7462" Z="398.5777"/>
+<NachNorm Nr="2700"/>
+<NachGegen Nr="2698"/>
+</StrElement>
+<StrElement Nr="2700" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3839.2065" Y="-1882.7462" Z="398.5777"/>
+<b X="3838.9954" Y="-1882.3845" Z="398.5777"/>
+<NachNorm Nr="2701"/>
+<NachGegen Nr="2699"/>
+</StrElement>
+<StrElement Nr="2701" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3838.9954" Y="-1882.3845" Z="398.5777"/>
+<b X="3838.7717" Y="-1882.0304" Z="398.5777"/>
+<NachNorm Nr="2702"/>
+<NachGegen Nr="2700"/>
+</StrElement>
+<StrElement Nr="2702" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3838.7717" Y="-1882.0304" Z="398.5777"/>
+<b X="3838.5359" Y="-1881.6842" Z="398.5777"/>
+<NachNorm Nr="2703"/>
+<NachGegen Nr="2701"/>
+</StrElement>
+<StrElement Nr="2703" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3838.5359" Y="-1881.6842" Z="398.5777"/>
+<b X="3838.2881" Y="-1881.3464" Z="398.5777"/>
+<NachNorm Nr="2704"/>
+<NachGegen Nr="2702"/>
+</StrElement>
+<StrElement Nr="2704" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3838.2881" Y="-1881.3464" Z="398.5777"/>
+<b X="3838.0286" Y="-1881.0176" Z="398.5777"/>
+<NachNorm Nr="2705"/>
+<NachGegen Nr="2703"/>
+</StrElement>
+<StrElement Nr="2705" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3838.0286" Y="-1881.0176" Z="398.5777"/>
+<b X="3837.7578" Y="-1880.698" Z="398.5777"/>
+<NachNorm Nr="2706"/>
+<NachGegen Nr="2704"/>
+</StrElement>
+<StrElement Nr="2706" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3837.7578" Y="-1880.698" Z="398.5777"/>
+<b X="3837.4761" Y="-1880.3881" Z="398.5777"/>
+<NachNorm Nr="2707"/>
+<NachGegen Nr="2705"/>
+</StrElement>
+<StrElement Nr="2707" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3837.4761" Y="-1880.3881" Z="398.5777"/>
+<b X="3837.1836" Y="-1880.0881" Z="398.5777"/>
+<NachNorm Nr="2708"/>
+<NachGegen Nr="2706"/>
+</StrElement>
+<StrElement Nr="2708" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3837.1836" Y="-1880.0881" Z="398.5777"/>
+<b X="3836.8809" Y="-1879.7986" Z="398.5777"/>
+<NachNorm Nr="2709"/>
+<NachGegen Nr="2707"/>
+</StrElement>
+<StrElement Nr="2709" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3836.8809" Y="-1879.7986" Z="398.5777"/>
+<b X="3836.5681" Y="-1879.5198" Z="398.5777"/>
+<NachNorm Nr="2710"/>
+<NachGegen Nr="2708"/>
+</StrElement>
+<StrElement Nr="2710" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3836.5681" Y="-1879.5198" Z="398.5777"/>
+<b X="3836.2458" Y="-1879.2521" Z="398.5777"/>
+<NachNorm Nr="2711"/>
+<NachGegen Nr="2709"/>
+</StrElement>
+<StrElement Nr="2711" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3836.2458" Y="-1879.2521" Z="398.5777"/>
+<b X="3835.9146" Y="-1878.9958" Z="398.5777"/>
+<NachNorm Nr="2712"/>
+<NachGegen Nr="2710"/>
+</StrElement>
+<StrElement Nr="2712" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3835.9146" Y="-1878.9958" Z="398.5777"/>
+<b X="3835.5745" Y="-1878.7513" Z="398.5777"/>
+<NachNorm Nr="2713"/>
+<NachGegen Nr="2711"/>
+</StrElement>
+<StrElement Nr="2713" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3835.5745" Y="-1878.7513" Z="398.5777"/>
+<b X="3835.2261" Y="-1878.5188" Z="398.5777"/>
+<NachNorm Nr="2714"/>
+<NachGegen Nr="2712"/>
+</StrElement>
+<StrElement Nr="2714" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3835.2261" Y="-1878.5188" Z="398.5777"/>
+<b X="3834.8699" Y="-1878.2986" Z="398.5777"/>
+<NachNorm Nr="2715"/>
+<NachGegen Nr="2713"/>
+</StrElement>
+<StrElement Nr="2715" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3834.8699" Y="-1878.2986" Z="398.5777"/>
+<b X="3834.5061" Y="-1878.0909" Z="398.5777"/>
+<NachNorm Nr="2716"/>
+<NachGegen Nr="2714"/>
+</StrElement>
+<StrElement Nr="2716" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3834.5061" Y="-1878.0909" Z="398.5777"/>
+<b X="3834.1353" Y="-1877.8961" Z="398.5777"/>
+<NachNorm Nr="2717"/>
+<NachGegen Nr="2715"/>
+</StrElement>
+<StrElement Nr="2717" kr="0.083333" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3834.1353" Y="-1877.8961" Z="398.5777"/>
+<b X="3833.7578" Y="-1877.7144" Z="398.5777"/>
+<NachNorm Nr="2718"/>
+<NachGegen Nr="2716"/>
+</StrElement>
+<StrElement Nr="2718" kr="-0.002967" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3833.7578" Y="-1877.7144" Z="398.5777"/>
+<b X="3823.9114" Y="-1872.5662" Z="398.9"/>
+<NachNorm Nr="2719"/>
+<NachGegen Nr="2717"/>
+</StrElement>
+<StrElement Nr="2719" kr="-0.002967" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3823.9114" Y="-1872.5662" Z="398.9"/>
+<b X="3814.24" Y="-1867.0962" Z="399.2"/>
+<NachNorm Nr="2720"/>
+<NachGegen Nr="2718"/>
+</StrElement>
+<StrElement Nr="2720" kr="-0.002967" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3814.24" Y="-1867.0962" Z="399.2"/>
+<b X="3804.7542" Y="-1861.3104" Z="399.5"/>
+<NachNorm Nr="2721"/>
+<NachGegen Nr="2719"/>
+</StrElement>
+<StrElement Nr="2721" kr="-0.002967" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3804.7542" Y="-1861.3104" Z="399.5"/>
+<b X="3795.4641" Y="-1855.2151" Z="399.8"/>
+<NachNorm Nr="2722"/>
+<NachGegen Nr="2720"/>
+</StrElement>
+<StrElement Nr="2722" kr="-0.002967" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3795.4641" Y="-1855.2151" Z="399.8"/>
+<b X="3786.3801" Y="-1848.8169" Z="400.1"/>
+<NachNorm Nr="2723"/>
+<NachGegen Nr="2721"/>
+</StrElement>
+<StrElement Nr="2723" kr="-0.002967" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3786.3801" Y="-1848.8169" Z="400.1"/>
+<b X="3777.512" Y="-1842.1227" Z="400.3"/>
+<NachNorm Nr="2724"/>
+<NachGegen Nr="2722"/>
+</StrElement>
+<StrElement Nr="2724" kr="-0.002967" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3777.512" Y="-1842.1227" Z="400.3"/>
+<b X="3768.8694" Y="-1835.1398" Z="400.1571"/>
+<NachNorm Nr="2725"/>
+<NachGegen Nr="2723"/>
+</StrElement>
+<StrElement Nr="2725" kr="-0.002967" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3768.8694" Y="-1835.1398" Z="400.1571"/>
+<b X="3760.4617" Y="-1827.8757" Z="400.1915"/>
+<NachNorm Nr="2726"/>
+<NachGegen Nr="2724"/>
+</StrElement>
+<StrElement Nr="2726" kr="-0.002967" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3760.4617" Y="-1827.8757" Z="400.1915"/>
+<b X="3752.2979" Y="-1820.3385" Z="400.242"/>
+<NachNorm Nr="2727"/>
+<NachGegen Nr="2725"/>
+</StrElement>
+<StrElement Nr="2727" kr="-0.004014" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3752.2979" Y="-1820.3385" Z="400.242"/>
+<b X="3746.3674" Y="-1814.484" Z="400.0556"/>
+<NachNorm Nr="2728"/>
+<NachGegen Nr="2726"/>
+</StrElement>
+<StrElement Nr="2728" kr="-0.004014" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3746.3674" Y="-1814.484" Z="400.0556"/>
+<b X="3740.6362" Y="-1808.4344" Z="400.179"/>
+<NachNorm Nr="2729"/>
+<NachGegen Nr="2727"/>
+</StrElement>
+<StrElement Nr="2729" kr="-0.004014" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3740.6362" Y="-1808.4344" Z="400.179"/>
+<b X="3735.1106" Y="-1802.1965" Z="400.3169"/>
+<NachNorm Nr="2730"/>
+<NachGegen Nr="2728"/>
+</StrElement>
+<StrElement Nr="2730" kr="-0.004014" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3735.1106" Y="-1802.1965" Z="400.3169"/>
+<b X="3729.7966" Y="-1795.7773" Z="400.1906"/>
+<NachNorm Nr="2731"/>
+<NachGegen Nr="2729"/>
+</StrElement>
+<StrElement Nr="2731" kr="-0.004014" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3729.7966" Y="-1795.7773" Z="400.1906"/>
+<b X="3724.7004" Y="-1789.184" Z="400.241"/>
+<NachNorm Nr="2732"/>
+<NachGegen Nr="2730"/>
+</StrElement>
+<StrElement Nr="2732" kr="-0.004014" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3724.7004" Y="-1789.184" Z="400.241"/>
+<b X="3719.8276" Y="-1782.4238" Z="400.5989"/>
+<NachNorm Nr="2733"/>
+<NachGegen Nr="2731"/>
+</StrElement>
+<StrElement Nr="2733" kr="-0.004014" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3719.8276" Y="-1782.4238" Z="400.5989"/>
+<b X="3715.1836" Y="-1775.5045" Z="400.3737"/>
+<NachNorm Nr="2734"/>
+<NachGegen Nr="2732"/>
+</StrElement>
+<StrElement Nr="2734" kr="-0.004014" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3715.1836" Y="-1775.5045" Z="400.3737"/>
+<b X="3710.7734" Y="-1768.4337" Z="400.2496"/>
+<NachNorm Nr="2735"/>
+<NachGegen Nr="2733"/>
+</StrElement>
+<StrElement Nr="2735" kr="-0.004014" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3710.7734" Y="-1768.4337" Z="400.2496"/>
+<b X="3706.6023" Y="-1761.2195" Z="400.408"/>
+<NachNorm Nr="2736"/>
+<NachGegen Nr="2734"/>
+</StrElement>
+<StrElement Nr="2736" kr="-0.004014" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3706.6023" Y="-1761.2195" Z="400.408"/>
+<b X="3702.6748" Y="-1753.8698" Z="400.5854"/>
+<NachNorm Nr="2737"/>
+<NachGegen Nr="2735"/>
+</StrElement>
+<StrElement Nr="2737" kr="-0.004014" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3702.6748" Y="-1753.8698" Z="400.5854"/>
+<b X="3698.9954" Y="-1746.3927" Z="400.7099"/>
+<NachNorm Nr="2738"/>
+<NachGegen Nr="2736"/>
+</StrElement>
+<StrElement Nr="2738" kr="-0.004014" spTrass="27.7778" Anschluss="257" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3698.9954" Y="-1746.3927" Z="400.7099"/>
+<b X="3695.5681" Y="-1738.7968" Z="400.6685"/>
+<NachNorm Nr="819"/>
+<NachGegen Nr="2737"/>
+</StrElement>
+<StrElement Nr="2751" spTrass="27.7778" Fkt="2">
+<g X="3842.5361" Y="-1893.1156" Z="398.5777"/>
+<b X="3843.4502" Y="-1893.3215" Z="398.5777"/>
+<NachNorm Nr="2752"/>
+</StrElement>
+<StrElement Nr="2752" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3843.4502" Y="-1893.3215" Z="398.5777"/>
+<b X="3852.844" Y="-1895.1033" Z="398.5777"/>
+<NachNorm Nr="2753"/>
+<NachGegen Nr="2751"/>
+</StrElement>
+<StrElement Nr="2753" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3852.844" Y="-1895.1033" Z="398.5777"/>
+<b X="3862.2932" Y="-1896.5632" Z="398.5777"/>
+<NachNorm Nr="2754"/>
+<NachGegen Nr="2752"/>
+</StrElement>
+<StrElement Nr="2754" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3862.2932" Y="-1896.5632" Z="398.5777"/>
+<b X="3871.7869" Y="-1897.6997" Z="398.5777"/>
+<NachNorm Nr="2755"/>
+<NachGegen Nr="2753"/>
+</StrElement>
+<StrElement Nr="2755" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3871.7869" Y="-1897.6997" Z="398.5777"/>
+<b X="3881.3137" Y="-1898.5114" Z="398.5777"/>
+<NachNorm Nr="2756"/>
+<NachGegen Nr="2754"/>
+</StrElement>
+<StrElement Nr="2756" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3881.3137" Y="-1898.5114" Z="398.5777"/>
+<b X="3890.8628" Y="-1898.9973" Z="398.5777"/>
+<NachNorm Nr="2757"/>
+<NachGegen Nr="2755"/>
+</StrElement>
+<StrElement Nr="2757" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3890.8628" Y="-1898.9973" Z="398.5777"/>
+<b X="3900.4229" Y="-1899.157" Z="398.5777"/>
+<NachNorm Nr="2758"/>
+<NachGegen Nr="2756"/>
+</StrElement>
+<StrElement Nr="2758" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3900.4229" Y="-1899.157" Z="398.5777"/>
+<b X="3909.9827" Y="-1898.9901" Z="398.5777"/>
+<NachNorm Nr="2759"/>
+<NachGegen Nr="2757"/>
+</StrElement>
+<StrElement Nr="2759" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3909.9827" Y="-1898.9901" Z="398.5777"/>
+<b X="3919.5313" Y="-1898.4969" Z="398.5777"/>
+<NachNorm Nr="2760"/>
+<NachGegen Nr="2758"/>
+</StrElement>
+<StrElement Nr="2760" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3919.5313" Y="-1898.4969" Z="398.5777"/>
+<b X="3929.0574" Y="-1897.6781" Z="398.5777"/>
+<NachNorm Nr="2761"/>
+<NachGegen Nr="2759"/>
+</StrElement>
+<StrElement Nr="2761" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3929.0574" Y="-1897.6781" Z="398.5777"/>
+<b X="3938.55" Y="-1896.5344" Z="398.5777"/>
+<NachNorm Nr="2762"/>
+<NachGegen Nr="2760"/>
+</StrElement>
+<StrElement Nr="2762" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3938.55" Y="-1896.5344" Z="398.5777"/>
+<b X="3947.9983" Y="-1895.0673" Z="398.5777"/>
+<NachNorm Nr="2763"/>
+<NachGegen Nr="2761"/>
+</StrElement>
+<StrElement Nr="2763" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3947.9983" Y="-1895.0673" Z="398.5777"/>
+<b X="3957.3909" Y="-1893.2784" Z="398.5777"/>
+<NachNorm Nr="2764"/>
+<NachGegen Nr="2762"/>
+</StrElement>
+<StrElement Nr="2764" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3957.3909" Y="-1893.2784" Z="398.5777"/>
+<b X="3966.7168" Y="-1891.17" Z="398.5777"/>
+<NachNorm Nr="2765"/>
+<NachGegen Nr="2763"/>
+</StrElement>
+<StrElement Nr="2765" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3966.7168" Y="-1891.17" Z="398.5777"/>
+<b X="3975.9653" Y="-1888.7445" Z="398.5777"/>
+<NachNorm Nr="2766"/>
+<NachGegen Nr="2764"/>
+</StrElement>
+<StrElement Nr="2766" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3975.9653" Y="-1888.7445" Z="398.5777"/>
+<b X="3985.1257" Y="-1886.0046" Z="398.5777"/>
+<NachNorm Nr="2767"/>
+<NachGegen Nr="2765"/>
+</StrElement>
+<StrElement Nr="2767" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3985.1257" Y="-1886.0046" Z="398.5777"/>
+<b X="3994.1873" Y="-1882.9536" Z="398.5777"/>
+<NachNorm Nr="2768"/>
+<NachGegen Nr="2766"/>
+</StrElement>
+<StrElement Nr="2768" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="3994.1873" Y="-1882.9536" Z="398.5777"/>
+<b X="4003.1394" Y="-1879.595" Z="398.5777"/>
+<NachNorm Nr="2769"/>
+<NachGegen Nr="2767"/>
+</StrElement>
+<StrElement Nr="2769" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="4003.1394" Y="-1879.595" Z="398.5777"/>
+<b X="4011.9717" Y="-1875.9327" Z="398.5777"/>
+<NachNorm Nr="2770"/>
+<NachGegen Nr="2768"/>
+</StrElement>
+<StrElement Nr="2770" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="4011.9717" Y="-1875.9327" Z="398.5777"/>
+<b X="4020.6738" Y="-1871.9711" Z="398.5777"/>
+<NachNorm Nr="2771"/>
+<NachGegen Nr="2769"/>
+</StrElement>
+<StrElement Nr="2771" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="4020.6738" Y="-1871.9711" Z="398.5777"/>
+<b X="4029.2356" Y="-1867.7147" Z="398.5777"/>
+<NachNorm Nr="2772"/>
+<NachGegen Nr="2770"/>
+</StrElement>
+<StrElement Nr="2772" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="4029.2356" Y="-1867.7147" Z="398.5777"/>
+<b X="4037.647" Y="-1863.1686" Z="398.5777"/>
+<NachNorm Nr="2773"/>
+<NachGegen Nr="2771"/>
+</StrElement>
+<StrElement Nr="2773" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="4037.647" Y="-1863.1686" Z="398.5777"/>
+<b X="4045.8982" Y="-1858.3379" Z="398.5777"/>
+<NachNorm Nr="2774"/>
+<NachGegen Nr="2772"/>
+</StrElement>
+<StrElement Nr="2774" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="4045.8982" Y="-1858.3379" Z="398.5777"/>
+<b X="4053.9797" Y="-1853.2283" Z="398.5777"/>
+<NachNorm Nr="2775"/>
+<NachGegen Nr="2773"/>
+</StrElement>
+<StrElement Nr="2775" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="4053.9797" Y="-1853.2283" Z="398.5777"/>
+<b X="4061.8821" Y="-1847.8457" Z="398.5777"/>
+<NachNorm Nr="2776"/>
+<NachGegen Nr="2774"/>
+</StrElement>
+<StrElement Nr="2776" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="4061.8821" Y="-1847.8457" Z="398.5777"/>
+<b X="4069.5962" Y="-1842.1964" Z="398.5777"/>
+<NachNorm Nr="2777"/>
+<NachGegen Nr="2775"/>
+</StrElement>
+<StrElement Nr="2777" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="4069.5962" Y="-1842.1964" Z="398.5777"/>
+<b X="4077.1128" Y="-1836.2871" Z="398.5777"/>
+<NachNorm Nr="2778"/>
+<NachGegen Nr="2776"/>
+</StrElement>
+<StrElement Nr="2778" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="4077.1128" Y="-1836.2871" Z="398.5777"/>
+<b X="4084.4233" Y="-1830.1246" Z="398.5777"/>
+<NachNorm Nr="2779"/>
+<NachGegen Nr="2777"/>
+</StrElement>
+<StrElement Nr="2779" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="4084.4233" Y="-1830.1246" Z="398.5777"/>
+<b X="4091.5193" Y="-1823.7162" Z="398.5777"/>
+<NachNorm Nr="2780"/>
+<NachGegen Nr="2778"/>
+</StrElement>
+<StrElement Nr="2780" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="4091.5193" Y="-1823.7162" Z="398.5777"/>
+<b X="4098.3921" Y="-1817.0692" Z="398.5777"/>
+<NachNorm Nr="2781"/>
+<NachGegen Nr="2779"/>
+</StrElement>
+<StrElement Nr="2781" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="4098.3921" Y="-1817.0692" Z="398.5777"/>
+<b X="4105.0342" Y="-1810.1914" Z="398.5777"/>
+<NachNorm Nr="2782"/>
+<NachGegen Nr="2780"/>
+</StrElement>
+<StrElement Nr="2782" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="4105.0342" Y="-1810.1914" Z="398.5777"/>
+<b X="4111.4375" Y="-1803.0909" Z="398.5777"/>
+<NachNorm Nr="2783"/>
+<NachGegen Nr="2781"/>
+</StrElement>
+<StrElement Nr="2783" kr="0.003571" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="4111.4375" Y="-1803.0909" Z="398.5777"/>
+<b X="4117.5947" Y="-1795.776" Z="398.5777"/>
+<NachNorm Nr="2784"/>
+<NachGegen Nr="2782"/>
+</StrElement>
+<StrElement Nr="2799" spTrass="27.7778" Fkt="2">
+<g X="4016.3601" Y="-1649.0009" Z="406.5687"/>
+<b X="4001.1938" Y="-1655.8619" Z="406.3655"/>
+</StrElement>
+<StrElement Nr="2800" spTrass="27.7778" Fkt="2">
+<g X="3843.366" Y="-1883.5931" Z="398.5744"/>
+<b X="3862.3" Y="-1798.8087" Z="403.1121"/>
+<NachNorm Nr="2816"/>
+</StrElement>
+<StrElement Nr="2801" spTrass="27.7778" Fkt="2">
+<g X="3883.093" Y="-1768.8822" Z="403.3214"/>
+<b X="3934.4846" Y="-1724.522" Z="404.7254"/>
+<NachNorm Nr="2802"/>
+</StrElement>
+<StrElement Nr="2802" spTrass="27.7778" Fkt="2">
+<g X="3934.4846" Y="-1724.522" Z="404.7254"/>
+<b X="3948.7798" Y="-1712.1758" Z="405.1983"/>
+<NachNorm Nr="2803"/>
+</StrElement>
+<StrElement Nr="2803" spTrass="27.7778" Fkt="2">
+<g X="3948.7798" Y="-1712.1758" Z="405.1983"/>
+<b X="3972.3845" Y="-1673.7533" Z="405.9316"/>
+<NachNorm Nr="2804"/>
+</StrElement>
+<StrElement Nr="2804" spTrass="27.7778" Fkt="2">
+<g X="3972.3845" Y="-1673.7533" Z="405.9316"/>
+<b X="3973.8445" Y="-1665.1227" Z="405.9531"/>
+<NachNorm Nr="2805"/>
+</StrElement>
+<StrElement Nr="2805" spTrass="27.7778" Fkt="2">
+<g X="3973.8445" Y="-1665.1227" Z="405.9531"/>
+<b X="3971.6472" Y="-1658.9054" Z="405.9725"/>
+<NachNorm Nr="2806"/>
+</StrElement>
+<StrElement Nr="2806" spTrass="27.7778" Fkt="2">
+<g X="3971.6472" Y="-1658.9054" Z="405.9725"/>
+<b X="3964.3159" Y="-1652.5253" Z="406.0236"/>
+<NachNorm Nr="2807"/>
+</StrElement>
+<StrElement Nr="2807" spTrass="27.7778" Fkt="2">
+<g X="3964.3159" Y="-1652.5253" Z="406.0236"/>
+<b X="3950.4688" Y="-1645.1821" Z="406.1743"/>
+<NachNorm Nr="2808"/>
+</StrElement>
+<StrElement Nr="2808" spTrass="27.7778" Fkt="2">
+<g X="3950.4688" Y="-1645.1821" Z="406.1743"/>
+<b X="3942.1414" Y="-1639.6265" Z="406.2462"/>
+<NachNorm Nr="2809"/>
+</StrElement>
+<StrElement Nr="2809" spTrass="27.7778" Fkt="2">
+<g X="3942.1414" Y="-1639.6265" Z="406.2462"/>
+<b X="3938.5896" Y="-1633.8756" Z="406.3101"/>
+<NachNorm Nr="2810"/>
+</StrElement>
+<StrElement Nr="2810" spTrass="27.7778" Fkt="2">
+<g X="3938.5896" Y="-1633.8756" Z="406.3101"/>
+<b X="3938.2271" Y="-1615.3651" Z="406.5499"/>
+<NachNorm Nr="2811"/>
+</StrElement>
+<StrElement Nr="2811" spTrass="27.7778" Fkt="2">
+<g X="3938.2271" Y="-1615.3651" Z="406.5499"/>
+<b X="3945.8677" Y="-1506.9286" Z="408.5637"/>
+</StrElement>
+<StrElement Nr="2816" spTrass="27.7778" Fkt="2">
+<g X="3862.3" Y="-1798.8087" Z="403.1121"/>
+<b X="3863.7639" Y="-1793.2881" Z="403.1054"/>
+<NachNorm Nr="2817"/>
+</StrElement>
+<StrElement Nr="2817" spTrass="27.7778" Fkt="2">
+<g X="3863.7639" Y="-1793.2881" Z="403.1054"/>
+<b X="3866.8767" Y="-1785.7252" Z="403.1425"/>
+<NachNorm Nr="2818"/>
+</StrElement>
+<StrElement Nr="2818" spTrass="27.7778" Fkt="2">
+<g X="3866.8767" Y="-1785.7252" Z="403.1425"/>
+<b X="3870.5029" Y="-1781.0552" Z="403.2176"/>
+<NachNorm Nr="2819"/>
+</StrElement>
+<StrElement Nr="2819" spTrass="27.7778" Fkt="2">
+<g X="3870.5029" Y="-1781.0552" Z="403.2176"/>
+<b X="3882.9031" Y="-1768.9152" Z="403.3151"/>
+<NachNorm Nr="2801"/>
+</StrElement>
 <Fahrstrasse FahrstrName="Reichenau (Baden) C\ -&gt; Reichenau (Baden) Gleis 1" FahrstrTyp="TypZug" Laenge="859.071">
 <FahrstrStart Ref="196">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
@@ -28446,6 +29156,21 @@
 <FahrstrWeiche Ref="106" FahrstrWeichenlage="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
+<FahrstrSignal Ref="231" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="298" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="224" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="303" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="315" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="12">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
@@ -28502,6 +29227,21 @@
 <FahrstrWeiche Ref="118" FahrstrWeichenlage="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
+<FahrstrSignal Ref="233" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="296" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="226" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="301" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="313" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="12" FahrstrSignalErsatzsignal="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
@@ -28525,6 +29265,27 @@
 <FahrstrTeilaufloesung Ref="169">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrTeilaufloesung>
+<FahrstrSignal Ref="249" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="274" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="262" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="268" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="310" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="285" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="291" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="15">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
@@ -28554,6 +29315,27 @@
 <FahrstrTeilaufloesung Ref="172">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrTeilaufloesung>
+<FahrstrSignal Ref="251" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="272" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="260" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="266" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="308" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="283" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="289" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="143">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
@@ -28586,6 +29368,27 @@
 <FahrstrAufloesung Ref="181">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
+<FahrstrSignal Ref="290" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="284" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="307" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="265" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="259" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="271" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="250" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 </Fahrstrasse>
 <Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Allensbach A" FahrstrTyp="TypZug" Laenge="3935.4685">
 <FahrstrStart Ref="206">
@@ -28603,6 +29406,27 @@
 <FahrstrAufloesung Ref="181">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
+<FahrstrSignal Ref="292" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="286" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="309" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="267" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="261" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="273" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="248" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 </Fahrstrasse>
 <Fahrstrasse FahrstrName="Allensbach E -&gt; Allensbach Gleis 2" FahrstrTyp="TypZug" Laenge="428.9966">
 <FahrstrStart Ref="98">
@@ -28638,6 +29462,9 @@
 <FahrstrWeiche Ref="31" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
+<FahrstrSignal Ref="245" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="98" FahrstrSignalErsatzsignal="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
@@ -28685,6 +29512,9 @@
 <FahrstrWeiche Ref="27" FahrstrWeichenlage="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
+<FahrstrSignal Ref="243" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="98" FahrstrSignalZeile="5">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
@@ -28762,6 +29592,9 @@
 <FahrstrWeiche Ref="27" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
+<FahrstrSignal Ref="243" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="145">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
@@ -28898,6 +29731,9 @@
 <FahrstrWeiche Ref="31" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
+<FahrstrSignal Ref="245" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="145" FahrstrSignalErsatzsignal="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
@@ -28954,13 +29790,16 @@
 <FahrstrWeiche Ref="91" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
+<FahrstrSignal Ref="244" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="149">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrVSignal Ref="161" FahrstrSignalSpalte="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
-<FahrstrVSignal Ref="148">
+<FahrstrVSignal Ref="317">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
@@ -29013,13 +29852,16 @@
 <FahrstrWeiche Ref="95" FahrstrWeichenlage="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
+<FahrstrSignal Ref="244" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="149" FahrstrSignalZeile="5">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrVSignal Ref="161" FahrstrSignalSpalte="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
-<FahrstrVSignal Ref="148" FahrstrSignalSpalte="5">
+<FahrstrVSignal Ref="317" FahrstrSignalSpalte="5">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
@@ -29051,6 +29893,21 @@
 <FahrstrWeiche Ref="118" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
+<FahrstrSignal Ref="233" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="296" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="226" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="301" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="313" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="153" FahrstrSignalErsatzsignal="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
@@ -29092,6 +29949,21 @@
 <FahrstrWeiche Ref="106" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
+<FahrstrSignal Ref="231" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="298" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="224" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="303" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="315" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="158" FahrstrSignalZeile="5">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
@@ -29145,6 +30017,21 @@
 <FahrstrWeiche Ref="118" FahrstrWeichenlage="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
+<FahrstrSignal Ref="233" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="296" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="226" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="301" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="313" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="158" FahrstrSignalErsatzsignal="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
@@ -29257,6 +30144,9 @@
 <FahrstrWeiche Ref="31" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
+<FahrstrSignal Ref="245" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="199" FahrstrSignalErsatzsignal="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
@@ -29331,6 +30221,9 @@
 <FahrstrWeiche Ref="27" FahrstrWeichenlage="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
+<FahrstrSignal Ref="243" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="199">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
@@ -29396,6 +30289,9 @@
 <FahrstrWeiche Ref="79" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
+<FahrstrSignal Ref="242" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="202" FahrstrSignalErsatzsignal="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
@@ -29473,11 +30369,14 @@
 <FahrstrWeiche Ref="91" FahrstrWeichenlage="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
+<FahrstrSignal Ref="242" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="202">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Allensbach A\ -&gt; Allensbach B" FahrstrTyp="TypZug" Laenge="771.1319">
+<Fahrstrasse FahrstrName="Allensbach A\ -&gt; Allensbach B" FahrstrTyp="TypZug" Laenge="771.1318">
 <FahrstrStart Ref="202">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -29532,6 +30431,9 @@
 <FahrstrWeiche Ref="95" FahrstrWeichenlage="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
+<FahrstrSignal Ref="242" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="202">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
