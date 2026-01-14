@@ -2,6 +2,120 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="-410.0632" Y="-207.6088" Z="406.9337"/>
+<phi Z="1.133919"/>
+<sk X="1.5" Y="1.5" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="-346.646" Y="-166.5291" Z="407.9494"/>
+<phi Z="-0.419698"/>
+<sk X="1.2" Y="1.5" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="-444.7149" Y="-248.789" Z="406.4292"/>
+<phi Z="0.419697"/>
+<sk X="1.5" Y="1.5" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="-402.3115" Y="-126.7988" Z="408.7545"/>
+<phi Z="-0.99402"/>
+<sk X="1.5" Y="1.5" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="-451.6736" Y="-67.3755" Z="409.4276"/>
+<phi Z="1.919317"/>
+<sk X="1.5" Y="1.5" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="-381.4976" Y="-65.1024" Z="409.5242"/>
+<phi Z="1.313088"/>
+<sk X="1.5" Y="1.5" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="-311.792" Y="-93.12" Z="409.8508"/>
+<phi Z="-5.119814"/>
+<sk X="1.5" Y="1.5" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="24" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="-219.8984" Y="-120.053" Z="410.4222"/>
+<phi Z="1.170734"/>
+<sk X="1.5" Y="1.7" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="-279.1025" Y="-163.811" Z="408.5472"/>
+<phi Z="1.148645"/>
+<sk X="1.5" Y="1.5" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="-211.6509" Y="-195.0732" Z="408.0714"/>
+<phi Z="1.143736"/>
+<sk X="1.5" Y="1.5" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="-172.273" Y="-240.0265" Z="407.5513"/>
+<phi Z="-0.42706"/>
+<sk X="1.5" Y="1.5" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="-113.1147" Y="-218.247" Z="408.6625"/>
+<phi Z="1.136373"/>
+<sk X="1.5" Y="1.5" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="-64.2954" Y="-266.615" Z="409.0814"/>
+<phi Z="1.033289"/>
+<sk X="1.5" Y="1.5" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="24" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="-120.002" Y="-294.9426" Z="407.3598"/>
+<phi Z="1.10692"/>
+<sk X="1.5" Y="1.7" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="-44.3691" Y="-323.8179" Z="408.7702"/>
+<phi Z="-0.429515"/>
+<sk X="1.5" Y="1.5" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="-155.5283" Y="-336.1176" Z="407.4802"/>
+<phi Z="1.033289"/>
+<sk X="1.5" Y="1.5" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="-87.7402" Y="-388.1353" Z="408.1839"/>
+<phi Z="-1.023472"/>
+<sk X="1.5" Y="1.5" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="-167.3179" Y="-402.0968" Z="407.3829"/>
+<phi Z="1.413717"/>
+<sk X="1.5" Y="1.5" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\1_Bahnhof\Waerterbude.lod.ls3"/>
+<p X="-147.584" Y="-83.2456" Z="411.6236"/>
+<phi Z="1.141282"/>
+<sk X="1.5" Y="3" Z="1.5"/>
+</Verknuepfte>
 <lsb Dateiname="32_509500_5282500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="9" MeshI="21">
 <RenderFlags TexVoreinstellung="1"/>
@@ -13,15 +127,6 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\cess.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="2" MeshV="35" MeshI="99">
-<RenderFlags TexVoreinstellung="3"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
-</Textur>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="2" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="9" MeshI="21">
@@ -42,28 +147,136 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="31" MeshI="87">
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="4" MeterProTex2="5" MeshV="300" MeshI="894">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="2" MeshV="35" MeshI="99">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7" MeshI="15">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="66">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="92" MeshI="243">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="13" MeshI="33">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="22" MeshI="60">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="19" MeshI="51">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="23" MeshI="63">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="37" MeshI="105">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="4" MeshV="18" MeshI="48">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="4" MeshV="36" MeshI="102">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="4" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="4" MeshV="18" MeshI="48">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="13" MeshI="33">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m_oMstr.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="46" MeshI="132">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="14" MeshI="36">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="9" MeshI="21">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="17" MeshI="45">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\Water\water01.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
