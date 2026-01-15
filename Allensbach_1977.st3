@@ -234,93 +234,93 @@
 <ReferenzElemente ReferenzNr="207" StrElement="508" RefTyp="5" Info="Auflösepunkt"/>
 <ReferenzElemente ReferenzNr="208" StrElement="508" StrNorm="1" RefTyp="2" Info="Register-Nr. 5013"/>
 <ReferenzElemente ReferenzNr="209" StrElement="508" RefTyp="2" Info="Register-Nr. 5013"/>
-<ReferenzElemente ReferenzNr="212" StrElement="60" RefTyp="4" Info="Bü km 407,780"/>
-<ReferenzElemente ReferenzNr="213" StrElement="60" StrNorm="1" RefTyp="4" Info="Bü km 407,780"/>
-<ReferenzElemente ReferenzNr="214" StrElement="86" RefTyp="4" Info="Bü km 407,780"/>
-<ReferenzElemente ReferenzNr="215" StrElement="86" StrNorm="1" RefTyp="4" Info="Bü km 407,780"/>
-<ReferenzElemente ReferenzNr="224" StrElement="116" RefTyp="4" Info="Bü km 406,390"/>
-<ReferenzElemente ReferenzNr="225" StrElement="116" StrNorm="1" RefTyp="4" Info="Bü km 406,390"/>
-<ReferenzElemente ReferenzNr="226" StrElement="133" RefTyp="4" Info="Bü km 406,390"/>
-<ReferenzElemente ReferenzNr="227" StrElement="133" StrNorm="1" RefTyp="4" Info="Bü km 406,390"/>
-<ReferenzElemente ReferenzNr="228" StrElement="1248" RefTyp="4" Info="Sicherungsanlage Bü km 404,642 (Master)"/>
-<ReferenzElemente ReferenzNr="229" StrElement="1248" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 404,642 (Slave)"/>
-<ReferenzElemente ReferenzNr="230" StrElement="239" RefTyp="4" Info="Bü km 404,642"/>
-<ReferenzElemente ReferenzNr="231" StrElement="239" StrNorm="1" RefTyp="4" Info="Bü km 404,642"/>
-<ReferenzElemente ReferenzNr="232" StrElement="257" RefTyp="4" Info="Bü km 404,642"/>
-<ReferenzElemente ReferenzNr="233" StrElement="257" StrNorm="1" RefTyp="4" Info="Bü km 404,642"/>
-<ReferenzElemente ReferenzNr="240" StrElement="1497" RefTyp="4" Info="Sicherungsanlage Bü km 403,000 (Master)"/>
-<ReferenzElemente ReferenzNr="241" StrElement="1497" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 403,000 (Slave)"/>
-<ReferenzElemente ReferenzNr="242" StrElement="2519" RefTyp="4" Info="Bü km 403,000"/>
-<ReferenzElemente ReferenzNr="243" StrElement="2519" StrNorm="1" RefTyp="4" Info="Bü km 403,000"/>
-<ReferenzElemente ReferenzNr="244" StrElement="2520" RefTyp="4" Info="Bü km 403,000"/>
-<ReferenzElemente ReferenzNr="245" StrElement="2520" StrNorm="1" RefTyp="4" Info="Bü km 403,000"/>
-<ReferenzElemente ReferenzNr="246" StrElement="1553" RefTyp="4" Info="Sicherungsanlage Bü km 402,770 (Master)"/>
-<ReferenzElemente ReferenzNr="247" StrElement="1553" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 402,770 (Slave)"/>
-<ReferenzElemente ReferenzNr="248" StrElement="297" RefTyp="4" Info="Bü km 402,770"/>
-<ReferenzElemente ReferenzNr="249" StrElement="297" StrNorm="1" RefTyp="4" Info="Bü km 402,770"/>
-<ReferenzElemente ReferenzNr="250" StrElement="315" RefTyp="4" Info="Bü km 402,770"/>
-<ReferenzElemente ReferenzNr="251" StrElement="315" StrNorm="1" RefTyp="4" Info="Bü km 402,770"/>
-<ReferenzElemente ReferenzNr="257" StrElement="1591" RefTyp="4" Info="Sicherungsanlage Bü km 401,594 (Master)"/>
-<ReferenzElemente ReferenzNr="258" StrElement="1591" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 401,594 (Slave)"/>
-<ReferenzElemente ReferenzNr="259" StrElement="346" RefTyp="4" Info="Bü km 401,594"/>
-<ReferenzElemente ReferenzNr="260" StrElement="346" StrNorm="1" RefTyp="4" Info="Bü km 401,594"/>
-<ReferenzElemente ReferenzNr="261" StrElement="367" RefTyp="4" Info="Bü km 401,594"/>
-<ReferenzElemente ReferenzNr="262" StrElement="367" StrNorm="1" RefTyp="4" Info="Bü km 401,594"/>
-<ReferenzElemente ReferenzNr="263" StrElement="2527" RefTyp="4" Info="Sicherungsanlage Bü km 401,091 (Master)"/>
-<ReferenzElemente ReferenzNr="264" StrElement="2527" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 401,091 (Slave)"/>
-<ReferenzElemente ReferenzNr="265" StrElement="357" RefTyp="4" Info="Bü km 401,091"/>
-<ReferenzElemente ReferenzNr="266" StrElement="357" StrNorm="1" RefTyp="4" Info="Bü km 401,091"/>
-<ReferenzElemente ReferenzNr="267" StrElement="378" RefTyp="4" Info="Bü km 401,091"/>
-<ReferenzElemente ReferenzNr="268" StrElement="378" StrNorm="1" RefTyp="4" Info="Bü km 401,091"/>
-<ReferenzElemente ReferenzNr="269" StrElement="1554" RefTyp="4" Info="Sicherungsanlage Bü km 402,319 (Master)"/>
-<ReferenzElemente ReferenzNr="270" StrElement="1554" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 402,319 (Slave)"/>
-<ReferenzElemente ReferenzNr="271" StrElement="318" RefTyp="4" Info="Bü km 402,319"/>
-<ReferenzElemente ReferenzNr="272" StrElement="318" StrNorm="1" RefTyp="4" Info="Bü km 402,319"/>
-<ReferenzElemente ReferenzNr="273" StrElement="2528" RefTyp="4" Info="Bü km 402,319"/>
-<ReferenzElemente ReferenzNr="274" StrElement="2528" StrNorm="1" RefTyp="4" Info="Bü km 402,319"/>
-<ReferenzElemente ReferenzNr="281" StrElement="1695" RefTyp="4" Info="Sicherungsanlage Bü km 399,514 (Master)"/>
-<ReferenzElemente ReferenzNr="282" StrElement="1695" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 399,514 (Slave)"/>
-<ReferenzElemente ReferenzNr="283" StrElement="438" RefTyp="4" Info="Bü km 399,514"/>
-<ReferenzElemente ReferenzNr="284" StrElement="438" StrNorm="1" RefTyp="4" Info="Bü km 399,514"/>
-<ReferenzElemente ReferenzNr="285" StrElement="452" RefTyp="4" Info="Bü km 399,514"/>
-<ReferenzElemente ReferenzNr="286" StrElement="452" StrNorm="1" RefTyp="4" Info="Bü km 399,514"/>
-<ReferenzElemente ReferenzNr="287" StrElement="2530" RefTyp="4" Info="Sicherungsanlage Bü km 399,238 (Master)"/>
-<ReferenzElemente ReferenzNr="288" StrElement="2530" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 399,238 (Slave)"/>
-<ReferenzElemente ReferenzNr="289" StrElement="434" RefTyp="4" Info="Bü km 399,238"/>
-<ReferenzElemente ReferenzNr="290" StrElement="434" StrNorm="1" RefTyp="4" Info="Bü km 399,238"/>
-<ReferenzElemente ReferenzNr="291" StrElement="448" RefTyp="4" Info="Bü km 399,238"/>
-<ReferenzElemente ReferenzNr="292" StrElement="448" StrNorm="1" RefTyp="4" Info="Bü km 399,238"/>
-<ReferenzElemente ReferenzNr="293" StrElement="2542" RefTyp="4" Info="Sicherungsanlage Bü km 405,580 (Master)"/>
-<ReferenzElemente ReferenzNr="294" StrElement="2542" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 405,580 (Slave)"/>
-<ReferenzElemente ReferenzNr="295" StrElement="474" RefTyp="4" Info="Bü km 405,580"/>
-<ReferenzElemente ReferenzNr="296" StrElement="474" StrNorm="1" RefTyp="4" Info="Bü km 405,580"/>
-<ReferenzElemente ReferenzNr="297" StrElement="494" RefTyp="4" Info="Bü km 405,580"/>
-<ReferenzElemente ReferenzNr="298" StrElement="494" StrNorm="1" RefTyp="4" Info="Bü km 405,580"/>
-<ReferenzElemente ReferenzNr="299" StrElement="2535" RefTyp="4" Info="Sicherungsanlage Bü km 407,052 (Master)"/>
-<ReferenzElemente ReferenzNr="300" StrElement="2535" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 407,052 (Slave)"/>
-<ReferenzElemente ReferenzNr="301" StrElement="2516" RefTyp="4" Info="Bü km 407,052"/>
-<ReferenzElemente ReferenzNr="302" StrElement="2516" StrNorm="1" RefTyp="4" Info="Bü km 407,052"/>
-<ReferenzElemente ReferenzNr="303" StrElement="2517" RefTyp="4" Info="Bü km 407,052"/>
-<ReferenzElemente ReferenzNr="304" StrElement="2517" StrNorm="1" RefTyp="4" Info="Bü km 407,052"/>
-<ReferenzElemente ReferenzNr="305" StrElement="2467" RefTyp="4" Info="Sicherungsanlage Bü km 400,671 (Master)"/>
-<ReferenzElemente ReferenzNr="306" StrElement="2467" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 400,671 (Slave)"/>
-<ReferenzElemente ReferenzNr="307" StrElement="363" RefTyp="4" Info="Bü km 400,671"/>
-<ReferenzElemente ReferenzNr="308" StrElement="363" StrNorm="1" RefTyp="4" Info="Bü km 400,671"/>
-<ReferenzElemente ReferenzNr="309" StrElement="384" RefTyp="4" Info="Bü km 400,671"/>
-<ReferenzElemente ReferenzNr="310" StrElement="384" StrNorm="1" RefTyp="4" Info="Bü km 400,671"/>
 <ReferenzElemente ReferenzNr="317" StrElement="333" RefTyp="4" Info="Signal: Allensbach Av"/>
-<ReferenzElemente ReferenzNr="318" StrElement="2126" RefTyp="4" Info="Signal: BÜ Hegne 2 BÜ Hegne 2"/>
-<ReferenzElemente ReferenzNr="319" StrElement="2541" StrNorm="1" RefTyp="4" Info="Signal: BÜ Hegne 2 BÜ Hegne 2"/>
 <ReferenzElemente ReferenzNr="320" StrElement="2552" RefTyp="3" Info="Weiche "/>
 <ReferenzElemente ReferenzNr="321" StrElement="2552" StrNorm="1" RefTyp="2" Info="Register-Nr. 5040"/>
 <ReferenzElemente ReferenzNr="322" StrElement="2552" RefTyp="2" Info="Register-Nr. 5040"/>
-<ReferenzElemente ReferenzNr="323" StrElement="2570" StrNorm="1" RefTyp="4" Info="Signal: BÜ Reichenau-Waldsiedlung 2 BÜ Reichenau-Waldsiedlung 2"/>
-<ReferenzElemente ReferenzNr="324" StrElement="3059" RefTyp="4" Info="Sicherungsanlage Bü km 407,974 (Master)"/>
-<ReferenzElemente ReferenzNr="325" StrElement="3059" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 407,974 (Slave)"/>
-<ReferenzElemente ReferenzNr="326" StrElement="27" RefTyp="4" Info="Bü km 407,974"/>
-<ReferenzElemente ReferenzNr="327" StrElement="27" StrNorm="1" RefTyp="4" Info="Bü km 407,974"/>
-<ReferenzElemente ReferenzNr="328" StrElement="51" RefTyp="4" Info="Bü km 407,974"/>
-<ReferenzElemente ReferenzNr="329" StrElement="51" StrNorm="1" RefTyp="4" Info="Bü km 407,974"/>
+<ReferenzElemente ReferenzNr="323" StrElement="3059" RefTyp="4" Info="Sicherungsanlage Bü km 407,974 (Master)"/>
+<ReferenzElemente ReferenzNr="324" StrElement="3059" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 407,974 (Slave)"/>
+<ReferenzElemente ReferenzNr="325" StrElement="27" RefTyp="4" Info="Bü km 407,974"/>
+<ReferenzElemente ReferenzNr="326" StrElement="27" StrNorm="1" RefTyp="4" Info="Bü km 407,974"/>
+<ReferenzElemente ReferenzNr="327" StrElement="51" RefTyp="4" Info="Bü km 407,974"/>
+<ReferenzElemente ReferenzNr="328" StrElement="51" StrNorm="1" RefTyp="4" Info="Bü km 407,974"/>
+<ReferenzElemente ReferenzNr="329" StrElement="2535" RefTyp="4" Info="Sicherungsanlage Bü km 0,000 (Master)"/>
+<ReferenzElemente ReferenzNr="330" StrElement="2535" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 0,000 (Slave)"/>
+<ReferenzElemente ReferenzNr="331" StrElement="2516" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="332" StrElement="2516" StrNorm="1" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="333" StrElement="2517" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="334" StrElement="2517" StrNorm="1" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="335" StrElement="2540" RefTyp="4" Info="Sicherungsanlage Bü km 406,310 (Master)"/>
+<ReferenzElemente ReferenzNr="336" StrElement="2540" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 406,310 (Slave)"/>
+<ReferenzElemente ReferenzNr="337" StrElement="3088" RefTyp="4" Info="Bü km 406,310"/>
+<ReferenzElemente ReferenzNr="338" StrElement="3088" StrNorm="1" RefTyp="4" Info="Bü km 406,310"/>
+<ReferenzElemente ReferenzNr="339" StrElement="3104" RefTyp="4" Info="Bü km 406,310"/>
+<ReferenzElemente ReferenzNr="340" StrElement="3104" StrNorm="1" RefTyp="4" Info="Bü km 406,310"/>
+<ReferenzElemente ReferenzNr="341" StrElement="2542" RefTyp="4" Info="Sicherungsanlage Bü km 405,580 (Master)"/>
+<ReferenzElemente ReferenzNr="342" StrElement="2542" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 405,580 (Slave)"/>
+<ReferenzElemente ReferenzNr="343" StrElement="474" RefTyp="4" Info="Bü km 405,580"/>
+<ReferenzElemente ReferenzNr="344" StrElement="474" StrNorm="1" RefTyp="4" Info="Bü km 405,580"/>
+<ReferenzElemente ReferenzNr="345" StrElement="494" RefTyp="4" Info="Bü km 405,580"/>
+<ReferenzElemente ReferenzNr="346" StrElement="494" StrNorm="1" RefTyp="4" Info="Bü km 405,580"/>
+<ReferenzElemente ReferenzNr="347" StrElement="1248" RefTyp="4" Info="Sicherungsanlage Bü km 0,000 (Master)"/>
+<ReferenzElemente ReferenzNr="348" StrElement="1248" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 0,000 (Slave)"/>
+<ReferenzElemente ReferenzNr="349" StrElement="3105" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="350" StrElement="3105" StrNorm="1" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="351" StrElement="3107" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="352" StrElement="3107" StrNorm="1" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="353" StrElement="1497" RefTyp="4" Info="Sicherungsanlage Bü km 403,000 (Master)"/>
+<ReferenzElemente ReferenzNr="354" StrElement="1497" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 403,000 (Slave)"/>
+<ReferenzElemente ReferenzNr="355" StrElement="2519" RefTyp="4" Info="Bü km 403,000"/>
+<ReferenzElemente ReferenzNr="356" StrElement="2519" StrNorm="1" RefTyp="4" Info="Bü km 403,000"/>
+<ReferenzElemente ReferenzNr="357" StrElement="2520" RefTyp="4" Info="Bü km 403,000"/>
+<ReferenzElemente ReferenzNr="358" StrElement="2520" StrNorm="1" RefTyp="4" Info="Bü km 403,000"/>
+<ReferenzElemente ReferenzNr="359" StrElement="1553" RefTyp="4" Info="Sicherungsanlage Bü km 402,727 (Master)"/>
+<ReferenzElemente ReferenzNr="360" StrElement="1553" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 402,727 (Slave)"/>
+<ReferenzElemente ReferenzNr="361" StrElement="297" RefTyp="4" Info="Bü km 402,727"/>
+<ReferenzElemente ReferenzNr="362" StrElement="297" StrNorm="1" RefTyp="4" Info="Bü km 402,727"/>
+<ReferenzElemente ReferenzNr="363" StrElement="3109" RefTyp="4" Info="Bü km 402,727"/>
+<ReferenzElemente ReferenzNr="364" StrElement="3109" StrNorm="1" RefTyp="4" Info="Bü km 402,727"/>
+<ReferenzElemente ReferenzNr="365" StrElement="1554" RefTyp="4" Info="Sicherungsanlage Bü km 402,319 (Master)"/>
+<ReferenzElemente ReferenzNr="366" StrElement="1554" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 402,319 (Slave)"/>
+<ReferenzElemente ReferenzNr="367" StrElement="2528" RefTyp="4" Info="Bü km 402,319"/>
+<ReferenzElemente ReferenzNr="368" StrElement="2528" StrNorm="1" RefTyp="4" Info="Bü km 402,319"/>
+<ReferenzElemente ReferenzNr="369" StrElement="3111" RefTyp="4" Info="Bü km 402,319"/>
+<ReferenzElemente ReferenzNr="370" StrElement="3111" StrNorm="1" RefTyp="4" Info="Bü km 402,319"/>
+<ReferenzElemente ReferenzNr="371" StrElement="1591" RefTyp="4" Info="Sicherungsanlage Bü km 401,594 (Master)"/>
+<ReferenzElemente ReferenzNr="372" StrElement="1591" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 401,594 (Slave)"/>
+<ReferenzElemente ReferenzNr="373" StrElement="346" RefTyp="4" Info="Bü km 401,594"/>
+<ReferenzElemente ReferenzNr="374" StrElement="346" StrNorm="1" RefTyp="4" Info="Bü km 401,594"/>
+<ReferenzElemente ReferenzNr="375" StrElement="367" RefTyp="4" Info="Bü km 401,594"/>
+<ReferenzElemente ReferenzNr="376" StrElement="367" StrNorm="1" RefTyp="4" Info="Bü km 401,594"/>
+<ReferenzElemente ReferenzNr="377" StrElement="2527" RefTyp="4" Info="Sicherungsanlage Bü km 0,000 (Master)"/>
+<ReferenzElemente ReferenzNr="378" StrElement="2527" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 0,000 (Slave)"/>
+<ReferenzElemente ReferenzNr="379" StrElement="357" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="380" StrElement="357" StrNorm="1" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="381" StrElement="378" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="382" StrElement="378" StrNorm="1" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="383" StrElement="1616" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="384" StrElement="1616" StrNorm="1" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="385" StrElement="2467" RefTyp="4" Info="Sicherungsanlage Bü km 0,000 (Master)"/>
+<ReferenzElemente ReferenzNr="386" StrElement="2467" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 0,000 (Slave)"/>
+<ReferenzElemente ReferenzNr="387" StrElement="3114" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="388" StrElement="3114" StrNorm="1" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="389" StrElement="3116" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="390" StrElement="3116" StrNorm="1" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="391" StrElement="1695" RefTyp="4" Info="Sicherungsanlage Bü km 0,000 (Master)"/>
+<ReferenzElemente ReferenzNr="392" StrElement="1695" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 0,000 (Slave)"/>
+<ReferenzElemente ReferenzNr="393" StrElement="3117" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="394" StrElement="3117" StrNorm="1" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="395" StrElement="3119" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="396" StrElement="3119" StrNorm="1" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="397" StrElement="2530" RefTyp="4" Info="Sicherungsanlage Bü km 0,000 (Master)"/>
+<ReferenzElemente ReferenzNr="398" StrElement="2530" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 0,000 (Slave)"/>
+<ReferenzElemente ReferenzNr="399" StrElement="3121" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="400" StrElement="3121" StrNorm="1" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="401" StrElement="3122" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="402" StrElement="3122" StrNorm="1" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="403" StrElement="620" RefTyp="3" Info="Weiche "/>
+<ReferenzElemente ReferenzNr="404" StrElement="620" StrNorm="1" RefTyp="2" Info="Register-Nr. 5020"/>
+<ReferenzElemente ReferenzNr="405" StrElement="620" RefTyp="2" Info="Register-Nr. 5020"/>
 <StrElement Nr="1" kr="-0.000066" spTrass="38.8889" Oberbau="Holz K-Oberbau">
 <g X="4214.5688" Y="-2111.2671" Z="398.6589"/>
 <b X="4213.2988" Y="-2110.6689" Z="398.6589"/>
@@ -567,11 +567,11 @@
 <g X="3849.427" Y="-1908.077" Z="398.7475"/>
 <b X="3836.4629" Y="-1898.796" Z="398.7509"/>
 <InfoNormRichtung vMax="38.8889" km="407.9757">
-<Ereignis Er="1000027" Wert="327" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="326" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 1" Stellwerk="BÜ Reichenau-Waldsiedlung 1" Signalname="BÜ Reichenau-Waldsiedlung 1" SignalTyp="14" BoundingR="1">
 <p X="3836.6899" Y="-1898.96" Z="398.75"/>
 <phi/>
-<KoppelSignal ReferenzNr="324">
+<KoppelSignal ReferenzNr="323">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -582,11 +582,11 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="407.9597" pos="1">
-<Ereignis Er="1000027" Wert="326" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="325" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 1" Stellwerk="BÜ Reichenau-Waldsiedlung 1" Signalname="BÜ Reichenau-Waldsiedlung 1" SignalTyp="14" BoundingR="1">
 <p X="3836.6899" Y="-1898.96" Z="398.75"/>
 <phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="324">
+<KoppelSignal ReferenzNr="323">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -1513,11 +1513,11 @@
 <g X="3845.99" Y="-1910.3311" Z="398.7479"/>
 <b X="3833.3059" Y="-1901.225" Z="398.7512"/>
 <InfoNormRichtung vMax="38.8889" km="407.9742">
-<Ereignis Er="1000027" Wert="329" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="328" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 1" Stellwerk="BÜ Reichenau-Waldsiedlung 1" Signalname="BÜ Reichenau-Waldsiedlung 1" SignalTyp="14" BoundingR="1">
 <p X="3834.52" Y="-1902.1" Z="398.75"/>
 <phi/>
-<KoppelSignal ReferenzNr="324">
+<KoppelSignal ReferenzNr="323">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -1528,11 +1528,11 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="407.9586" pos="1">
-<Ereignis Er="1000027" Wert="328" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="327" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 1" Stellwerk="BÜ Reichenau-Waldsiedlung 1" Signalname="BÜ Reichenau-Waldsiedlung 1" SignalTyp="14" BoundingR="1">
 <p X="3834.52" Y="-1902.1" Z="398.75"/>
 <phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="324">
+<KoppelSignal ReferenzNr="323">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -2006,7 +2006,7 @@
 <b X="3400.4919" Y="-1423.163" Z="398.8938"/>
 <InfoGegenRichtung vMax="38.8889" km="407.0313" pos="1"/>
 <NachNorm Nr="2488"/>
-<NachGegen Nr="3089"/>
+<NachGegen Nr="2517"/>
 </StrElement>
 <StrElement Nr="109" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="3394.1311" Y="-1413.8311" Z="398.901"/>
@@ -2085,21 +2085,7 @@
 <StrElement Nr="116" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="3039.9419" Y="-894.1614" Z="399.3034"/>
 <b X="2995.0269" Y="-828.2622" Z="399.3544"/>
-<InfoGegenRichtung vMax="38.8889" km="406.3102" pos="1">
-<Ereignis Er="1000027" Wert="224" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Hegne 2" Stellwerk="BÜ Hegne 2" Signalname="BÜ Hegne 2" SignalTyp="14" BoundingR="1">
-<p X="2993.9399" Y="-826.67" Z="399.36"/>
-<phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="222">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
+<InfoGegenRichtung vMax="38.8889" km="406.3102" pos="1"/>
 <NachNorm Nr="3088"/>
 <NachGegen Nr="115"/>
 </StrElement>
@@ -2241,38 +2227,9 @@
 </StrElement>
 <StrElement Nr="133" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="3043.2471" Y="-891.9086" Z="399.3034"/>
-<b X="2992.6479" Y="-817.6702" Z="399.3609"/>
-<InfoNormRichtung vMax="38.8889" km="406.39">
-<Ereignis Er="1000027" Wert="227" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Hegne 2" Stellwerk="BÜ Hegne 2" Signalname="BÜ Hegne 2" SignalTyp="14" BoundingR="1">
-<p X="2997.23" Y="-824.4" Z="399.36"/>
-<phi/>
-<KoppelSignal ReferenzNr="222">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="406.3001" pos="1">
-<Ereignis Er="1000027" Wert="226" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Hegne 2" Stellwerk="BÜ Hegne 2" Signalname="BÜ Hegne 2" SignalTyp="14" BoundingR="1">
-<p X="2997.23" Y="-824.4" Z="399.36"/>
-<phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="222">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
-<NachNorm Nr="141"/>
+<b X="2998.1912" Y="-825.803" Z="399.3546"/>
+<InfoGegenRichtung vMax="38.8889" km="406.31" pos="1"/>
+<NachNorm Nr="3104"/>
 <NachGegen Nr="132"/>
 </StrElement>
 <StrElement Nr="134" Ueberh="-0.003" kr="0.00005" spTrass="38.8889" Oberbau="Holz K-Oberbau">
@@ -2343,7 +2300,7 @@
 <InfoNormRichtung vMax="38.8889" km="406.3"/>
 <InfoGegenRichtung vMax="38.8889" km="406.2877" pos="1"/>
 <NachNorm Nr="142"/>
-<NachGegen Nr="133"/>
+<NachGegen Nr="3104"/>
 </StrElement>
 <StrElement Nr="142" Ueberh="-0.0047" kr="0.000083" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="2985.759" Y="-807.4779" Z="399.3688"/>
@@ -3248,38 +3205,9 @@
 </StrElement>
 <StrElement Nr="239" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="1574.022" Y="-39.2766" Z="399.5205"/>
-<b X="1664.054" Y="-73.0047" Z="399.5498"/>
-<InfoNormRichtung vMax="38.8889" km="404.6342" pos="1">
-<Ereignis Er="1000027" Wert="231" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Hegne 1" Stellwerk="BÜ Hegne 1" Signalname="BÜ Hegne 1" SignalTyp="14" BoundingR="1">
-<p X="1601.0601" Y="-49.41" Z="399.53"/>
-<phi/>
-<KoppelSignal ReferenzNr="228">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="404.7303">
-<Ereignis Er="1000027" Wert="230" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Hegne 1" Stellwerk="BÜ Hegne 1" Signalname="BÜ Hegne 1" SignalTyp="14" BoundingR="1">
-<p X="1601.0601" Y="-49.41" Z="399.53"/>
-<phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="228">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
-<NachNorm Nr="240"/>
+<b X="1592.7509" Y="-46.2929" Z="399.5266"/>
+<InfoGegenRichtung vMax="38.8889" km="404.6541"/>
+<NachNorm Nr="3107"/>
 <NachGegen Nr="238"/>
 </StrElement>
 <StrElement Nr="240" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
@@ -3288,7 +3216,7 @@
 <InfoNormRichtung vMax="38.8889" km="404.7304" pos="1"/>
 <InfoGegenRichtung vMax="38.8889" km="404.8265"/>
 <NachNorm Nr="241"/>
-<NachGegen Nr="239"/>
+<NachGegen Nr="3108"/>
 </StrElement>
 <StrElement Nr="241" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="1754.0861" Y="-106.7327" Z="399.5791"/>
@@ -3472,38 +3400,9 @@
 </StrElement>
 <StrElement Nr="257" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="1583.085" Y="-38.4008" Z="399.523"/>
-<b X="1672.239" Y="-71.8" Z="399.552"/>
-<InfoNormRichtung vMax="38.8889" km="404.6424" pos="1">
-<Ereignis Er="1000027" Wert="233" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Hegne 1" Stellwerk="BÜ Hegne 1" Signalname="BÜ Hegne 1" SignalTyp="14" BoundingR="1">
-<p X="1602.58" Y="-45.7" Z="399.53"/>
-<phi/>
-<KoppelSignal ReferenzNr="228">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="404.7376">
-<Ereignis Er="1000027" Wert="232" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Hegne 1" Stellwerk="BÜ Hegne 1" Signalname="BÜ Hegne 1" SignalTyp="14" BoundingR="1">
-<p X="1602.58" Y="-45.7" Z="399.53"/>
-<phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="228">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
-<NachNorm Nr="258"/>
+<b X="1597.1316" Y="-43.663" Z="399.5276"/>
+<InfoGegenRichtung vMax="38.8889" km="404.6574"/>
+<NachNorm Nr="3105"/>
 <NachGegen Nr="256"/>
 </StrElement>
 <StrElement Nr="258" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
@@ -3512,7 +3411,7 @@
 <InfoNormRichtung vMax="38.8889" km="404.7376" pos="1"/>
 <InfoGegenRichtung vMax="38.8889" km="404.8329"/>
 <NachNorm Nr="259"/>
-<NachGegen Nr="257"/>
+<NachGegen Nr="3106"/>
 </StrElement>
 <StrElement Nr="259" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="1761.3929" Y="-105.1992" Z="399.581"/>
@@ -4001,11 +3900,11 @@
 <g X="-158.675" Y="725.3867" Z="399.6281"/>
 <b X="-221.3919" Y="757.1741" Z="399.8116"/>
 <InfoNormRichtung vMax="38.8889" km="402.7274">
-<Ereignis Er="1000027" Wert="249" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="362" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Brunnengasse" Stellwerk="BÜ Brunnengasse" Signalname="BÜ Brunnengasse" SignalTyp="14" BoundingR="1">
 <p X="-160.91" Y="726.52" Z="399.63"/>
 <phi/>
-<KoppelSignal ReferenzNr="246">
+<KoppelSignal ReferenzNr="359">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -4016,11 +3915,11 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="402.657" pos="1">
-<Ereignis Er="1000027" Wert="248" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="361" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Brunnengasse" Stellwerk="BÜ Brunnengasse" Signalname="BÜ Brunnengasse" SignalTyp="14" BoundingR="1">
 <p X="-160.91" Y="726.52" Z="399.63"/>
 <phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="246">
+<KoppelSignal ReferenzNr="359">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -4282,38 +4181,9 @@
 </StrElement>
 <StrElement Nr="315" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-118.8819" Y="710.174" Z="399.5174"/>
-<b X="-185.4523" Y="743.7563" Z="399.7121"/>
-<InfoNormRichtung vMax="38.8889" km="402.77">
-<Ereignis Er="1000027" Wert="251" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Brunnengasse" Stellwerk="BÜ Brunnengasse" Signalname="BÜ Brunnengasse" SignalTyp="14" BoundingR="1">
-<p X="-159.02" Y="730.42" Z="399.63"/>
-<phi/>
-<KoppelSignal ReferenzNr="246">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="402.6954" pos="1">
-<Ereignis Er="1000027" Wert="250" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Brunnengasse" Stellwerk="BÜ Brunnengasse" Signalname="BÜ Brunnengasse" SignalTyp="14" BoundingR="1">
-<p X="-159.02" Y="730.42" Z="399.63"/>
-<phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="246">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
-<NachNorm Nr="316"/>
+<b X="-154.5949" Y="728.1899" Z="399.6219"/>
+<InfoGegenRichtung vMax="38.8889" km="402.73" pos="1"/>
+<NachNorm Nr="3109"/>
 <NachGegen Nr="2514"/>
 </StrElement>
 <StrElement Nr="316" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
@@ -4322,7 +4192,7 @@
 <InfoNormRichtung vMax="38.8889" km="402.695"/>
 <InfoGegenRichtung vMax="38.8889" km="402.6205" pos="1"/>
 <NachNorm Nr="317"/>
-<NachGegen Nr="315"/>
+<NachGegen Nr="3110"/>
 </StrElement>
 <StrElement Nr="317" kr="0.00005" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-252.0281" Y="777.3359" Z="399.9068"/>
@@ -4334,38 +4204,9 @@
 </StrElement>
 <StrElement Nr="318" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-275.1167" Y="788.9646" Z="399.9743"/>
-<b X="-362.0187" Y="832.593" Z="400.2282"/>
-<InfoNormRichtung vMax="38.8889" km="402.37">
-<Ereignis Er="1000027" Wert="272" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Schlappengasse" Stellwerk="BÜ Schlappengasse" Signalname="BÜ Schlappengasse" SignalTyp="14" BoundingR="1">
-<p X="-339.37" Y="821.22" Z="400.16"/>
-<phi/>
-<KoppelSignal ReferenzNr="269">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="402.2728" pos="1">
-<Ereignis Er="1000027" Wert="271" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Schlappengasse" Stellwerk="BÜ Schlappengasse" Signalname="BÜ Schlappengasse" SignalTyp="14" BoundingR="1">
-<p X="-339.37" Y="821.22" Z="400.16"/>
-<phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="269">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
-<NachNorm Nr="319"/>
+<b X="-337.6752" Y="820.3716" Z="400.1571"/>
+<InfoGegenRichtung vMax="38.8889" km="402.3" pos="1"/>
+<NachNorm Nr="3111"/>
 <NachGegen Nr="317"/>
 </StrElement>
 <StrElement Nr="319" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
@@ -4374,7 +4215,7 @@
 <InfoNormRichtung vMax="38.8889" km="402.301"/>
 <InfoGegenRichtung vMax="38.8889" km="402.2038" pos="1"/>
 <NachNorm Nr="320"/>
-<NachGegen Nr="318"/>
+<NachGegen Nr="3112"/>
 </StrElement>
 <StrElement Nr="320" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-448.9208" Y="876.2214" Z="400.4821"/>
@@ -4669,11 +4510,11 @@
 <g X="-1165.9399" Y="1247.4091" Z="402.5908"/>
 <b X="-1168.412" Y="1248.932" Z="402.5957"/>
 <InfoNormRichtung vMax="38.8889" km="401.5937">
-<Ereignis Er="1000027" Wert="260" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="374" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Unterhausgasse" Stellwerk="BÜ Unterhausgasse" Signalname="BÜ Unterhausgasse" SignalTyp="14" BoundingR="1">
 <p X="-1167.84" Y="1248.58" Z="402.59"/>
 <phi/>
-<KoppelSignal ReferenzNr="257">
+<KoppelSignal ReferenzNr="371">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -4684,11 +4525,11 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="401.5908" pos="1">
-<Ereignis Er="1000027" Wert="259" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="373" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Unterhausgasse" Stellwerk="BÜ Unterhausgasse" Signalname="BÜ Unterhausgasse" SignalTyp="14" BoundingR="1">
 <p X="-1167.84" Y="1248.58" Z="402.59"/>
 <phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="257">
+<KoppelSignal ReferenzNr="371">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -4785,11 +4626,11 @@
 <g X="-1591.855" Y="1509.663" Z="402.7407"/>
 <b X="-1593.933" Y="1510.943" Z="402.7383"/>
 <InfoNormRichtung vMax="38.8889" km="401.0906">
-<Ereignis Er="1000027" Wert="266" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="380" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Lohorn 1" Stellwerk="BÜ Lohorn 1" Signalname="BÜ Lohorn 1" SignalTyp="14" BoundingR="1">
 <p X="-1592.8" Y="1510.24" Z="402.74"/>
 <phi/>
-<KoppelSignal ReferenzNr="263">
+<KoppelSignal ReferenzNr="377">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -4800,11 +4641,11 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="401.0881" pos="1">
-<Ereignis Er="1000027" Wert="265" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="379" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Lohorn 1" Stellwerk="BÜ Lohorn 1" Signalname="BÜ Lohorn 1" SignalTyp="14" BoundingR="1">
 <p X="-1592.8" Y="1510.24" Z="402.74"/>
 <phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="263">
+<KoppelSignal ReferenzNr="377">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -4859,38 +4700,9 @@
 </StrElement>
 <StrElement Nr="363" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-1947.47" Y="1728.631" Z="402.25"/>
-<b X="-2025.984" Y="1776.976" Z="402.1416"/>
-<InfoNormRichtung vMax="38.8889" km="400.6705">
-<Ereignis Er="1000027" Wert="308" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Lohorn 2" Stellwerk="BÜ Lohorn 2" Signalname="BÜ Lohorn 2" SignalTyp="14" BoundingR="1">
-<p X="-2000.98" Y="1761.58" Z="402.18"/>
-<phi/>
-<KoppelSignal ReferenzNr="305">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="400.5783" pos="1">
-<Ereignis Er="1000027" Wert="307" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Lohorn 2" Stellwerk="BÜ Lohorn 2" Signalname="BÜ Lohorn 2" SignalTyp="14" BoundingR="1">
-<p X="-2000.98" Y="1761.58" Z="402.18"/>
-<phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="305">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
-<NachNorm Nr="364"/>
+<b X="-1998.5612" Y="1760.0903" Z="402.1795"/>
+<InfoGegenRichtung vMax="38.8889" km="400.6105" pos="1"/>
+<NachNorm Nr="3116"/>
 <NachGegen Nr="362"/>
 </StrElement>
 <StrElement Nr="364" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
@@ -4899,7 +4711,7 @@
 <InfoNormRichtung vMax="38.8889" km="400.5777"/>
 <InfoGegenRichtung vMax="38.8889" km="400.4855" pos="1"/>
 <NachNorm Nr="398"/>
-<NachGegen Nr="363"/>
+<NachGegen Nr="3115"/>
 </StrElement>
 <StrElement Nr="365" spTrass="38.8889" Oberbau="Holz K-Oberbau">
 <g X="-1164.428" Y="1241.781" Z="402.5805"/>
@@ -4921,11 +4733,11 @@
 <g X="-1168.037" Y="1244.0031" Z="402.5908"/>
 <b X="-1170.51" Y="1245.526" Z="402.5957"/>
 <InfoNormRichtung vMax="38.8889" km="401.5937">
-<Ereignis Er="1000027" Wert="262" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="376" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Unterhausgasse" Stellwerk="BÜ Unterhausgasse" Signalname="BÜ Unterhausgasse" SignalTyp="14" BoundingR="1">
 <p X="-1169.95" Y="1245.1801" Z="402.59"/>
 <phi/>
-<KoppelSignal ReferenzNr="257">
+<KoppelSignal ReferenzNr="371">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -4936,11 +4748,11 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="401.5908" pos="1">
-<Ereignis Er="1000027" Wert="261" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="375" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Unterhausgasse" Stellwerk="BÜ Unterhausgasse" Signalname="BÜ Unterhausgasse" SignalTyp="14" BoundingR="1">
 <p X="-1169.95" Y="1245.1801" Z="402.59"/>
 <phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="257">
+<KoppelSignal ReferenzNr="371">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -5036,11 +4848,11 @@
 <g X="-1593.952" Y="1506.2581" Z="402.7407"/>
 <b X="-1596.03" Y="1507.537" Z="402.7383"/>
 <InfoNormRichtung vMax="38.8889" km="401.0906">
-<Ereignis Er="1000027" Wert="268" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="382" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Lohorn 1" Stellwerk="BÜ Lohorn 1" Signalname="BÜ Lohorn 1" SignalTyp="14" BoundingR="1">
 <p X="-1594.5699" Y="1506.64" Z="402.74"/>
 <phi/>
-<KoppelSignal ReferenzNr="263">
+<KoppelSignal ReferenzNr="377">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -5051,11 +4863,11 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="401.0881" pos="1">
-<Ereignis Er="1000027" Wert="267" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="381" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Lohorn 1" Stellwerk="BÜ Lohorn 1" Signalname="BÜ Lohorn 1" SignalTyp="14" BoundingR="1">
 <p X="-1594.5699" Y="1506.64" Z="402.74"/>
 <phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="263">
+<KoppelSignal ReferenzNr="377">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -5110,38 +4922,9 @@
 </StrElement>
 <StrElement Nr="384" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-1949.567" Y="1725.225" Z="402.25"/>
-<b X="-2028.0811" Y="1773.5699" Z="402.1416"/>
-<InfoNormRichtung vMax="38.8889" km="400.6705">
-<Ereignis Er="1000027" Wert="310" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Lohorn 2" Stellwerk="BÜ Lohorn 2" Signalname="BÜ Lohorn 2" SignalTyp="14" BoundingR="1">
-<p X="-2002.89" Y="1758.0601" Z="402.18"/>
-<phi/>
-<KoppelSignal ReferenzNr="305">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="400.5783" pos="1">
-<Ereignis Er="1000027" Wert="309" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Lohorn 2" Stellwerk="BÜ Lohorn 2" Signalname="BÜ Lohorn 2" SignalTyp="14" BoundingR="1">
-<p X="-2002.89" Y="1758.0601" Z="402.18"/>
-<phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="305">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
-<NachNorm Nr="385"/>
+<b X="-2000.6582" Y="1756.6843" Z="402.1795"/>
+<InfoGegenRichtung vMax="38.8889" km="400.6105" pos="1"/>
+<NachNorm Nr="3114"/>
 <NachGegen Nr="383"/>
 </StrElement>
 <StrElement Nr="385" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
@@ -5150,7 +4933,7 @@
 <InfoNormRichtung vMax="38.8889" km="400.5777"/>
 <InfoGegenRichtung vMax="38.8889" km="400.4855" pos="1"/>
 <NachNorm Nr="404"/>
-<NachGegen Nr="384"/>
+<NachGegen Nr="3113"/>
 </StrElement>
 <StrElement Nr="386" Ueberh="-0.0032" kr="0.000053" spTrass="38.8889" Oberbau="Holz K-Oberbau">
 <g X="-1162.3311" Y="1245.187" Z="402.5805"/>
@@ -5565,38 +5348,9 @@
 </StrElement>
 <StrElement Nr="434" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-3107.3931" Y="2268.8669" Z="400.7425"/>
-<b X="-3017.623" Y="2231.6011" Z="400.8568"/>
-<InfoNormRichtung vMax="38.8889" km="399.2382" pos="1">
-<Ereignis Er="1000027" Wert="290" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ km 399,1693" Stellwerk="BÜ km 399,1693" Signalname="BÜ km 399,1693" SignalTyp="14" BoundingR="1">
-<p X="-3080.9099" Y="2257.8701" Z="400.78"/>
-<phi/>
-<KoppelSignal ReferenzNr="287">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="399.3354">
-<Ereignis Er="1000027" Wert="289" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ km 399,1693" Stellwerk="BÜ km 399,1693" Signalname="BÜ km 399,1693" SignalTyp="14" BoundingR="1">
-<p X="-3080.9099" Y="2257.8701" Z="400.78"/>
-<phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="287">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
-<NachNorm Nr="435"/>
+<b X="-3084.3035" Y="2259.282" Z="400.7719"/>
+<InfoGegenRichtung vMax="38.8889" km="399.2632"/>
+<NachNorm Nr="3121"/>
 <NachGegen Nr="433"/>
 </StrElement>
 <StrElement Nr="435" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
@@ -5605,7 +5359,7 @@
 <InfoNormRichtung vMax="38.8889" km="399.307" pos="1"/>
 <InfoGegenRichtung vMax="38.8889" km="399.4042"/>
 <NachNorm Nr="436"/>
-<NachGegen Nr="434"/>
+<NachGegen Nr="3124"/>
 </StrElement>
 <StrElement Nr="436" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-2927.8521" Y="2194.335" Z="400.9711"/>
@@ -5625,38 +5379,9 @@
 </StrElement>
 <StrElement Nr="438" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-2748.312" Y="2119.803" Z="401.1997"/>
-<b X="-2658.542" Y="2082.5371" Z="401.314"/>
-<InfoNormRichtung vMax="38.8889" km="399.5136" pos="1">
-<Ereignis Er="1000027" Wert="284" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ km 399,5136" Stellwerk="BÜ km 399,5136" Signalname="BÜ km 399,5136" SignalTyp="14" BoundingR="1">
-<p X="-2683.5701" Y="2092.9299" Z="401.28"/>
-<phi/>
-<KoppelSignal ReferenzNr="281">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="399.6108">
-<Ereignis Er="1000027" Wert="283" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ km 399,5136" Stellwerk="BÜ km 399,5136" Signalname="BÜ km 399,5136" SignalTyp="14" BoundingR="1">
-<p X="-2683.5701" Y="2092.9299" Z="401.28"/>
-<phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="281">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
-<NachNorm Nr="439"/>
+<b X="-2685.5085" Y="2093.7317" Z="401.2797"/>
+<InfoGegenRichtung vMax="38.8889" km="399.5816"/>
+<NachNorm Nr="3119"/>
 <NachGegen Nr="437"/>
 </StrElement>
 <StrElement Nr="439" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
@@ -5665,7 +5390,7 @@
 <InfoNormRichtung vMax="38.8889" km="399.5824" pos="1"/>
 <InfoGegenRichtung vMax="38.8889" km="399.6796"/>
 <NachNorm Nr="440"/>
-<NachGegen Nr="438"/>
+<NachGegen Nr="3120"/>
 </StrElement>
 <StrElement Nr="440" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-2568.771" Y="2045.271" Z="401.4283"/>
@@ -5740,38 +5465,9 @@
 </StrElement>
 <StrElement Nr="448" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-3108.927" Y="2265.1731" Z="400.7425"/>
-<b X="-3019.156" Y="2227.907" Z="400.8568"/>
-<InfoNormRichtung vMax="38.8889" km="399.2382" pos="1">
-<Ereignis Er="1000027" Wert="292" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ km 399,1693" Stellwerk="BÜ km 399,1693" Signalname="BÜ km 399,1693" SignalTyp="14" BoundingR="1">
-<p X="-3081.9399" Y="2253.97" Z="400.78"/>
-<phi/>
-<KoppelSignal ReferenzNr="287">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="399.3354">
-<Ereignis Er="1000027" Wert="291" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ km 399,1693" Stellwerk="BÜ km 399,1693" Signalname="BÜ km 399,1693" SignalTyp="14" BoundingR="1">
-<p X="-3081.9399" Y="2253.97" Z="400.78"/>
-<phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="287">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
-<NachNorm Nr="449"/>
+<b X="-3085.8374" Y="2255.5881" Z="400.7719"/>
+<InfoGegenRichtung vMax="38.8889" km="399.2632"/>
+<NachNorm Nr="3122"/>
 <NachGegen Nr="447"/>
 </StrElement>
 <StrElement Nr="449" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
@@ -5780,7 +5476,7 @@
 <InfoNormRichtung vMax="38.8889" km="399.307" pos="1"/>
 <InfoGegenRichtung vMax="38.8889" km="399.4042"/>
 <NachNorm Nr="450"/>
-<NachGegen Nr="448"/>
+<NachGegen Nr="3123"/>
 </StrElement>
 <StrElement Nr="450" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-2929.386" Y="2190.6411" Z="400.9711"/>
@@ -5800,38 +5496,9 @@
 </StrElement>
 <StrElement Nr="452" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-2749.8459" Y="2116.1089" Z="401.1997"/>
-<b X="-2660.0759" Y="2078.843" Z="401.314"/>
-<InfoNormRichtung vMax="38.8889" km="399.5136" pos="1">
-<Ereignis Er="1000027" Wert="286" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ km 399,5136" Stellwerk="BÜ km 399,5136" Signalname="BÜ km 399,5136" SignalTyp="14" BoundingR="1">
-<p X="-2683.3899" Y="2088.52" Z="401.28"/>
-<phi/>
-<KoppelSignal ReferenzNr="281">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="399.6108">
-<Ereignis Er="1000027" Wert="285" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ km 399,5136" Stellwerk="BÜ km 399,5136" Signalname="BÜ km 399,5136" SignalTyp="14" BoundingR="1">
-<p X="-2683.3899" Y="2088.52" Z="401.28"/>
-<phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="281">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
-<NachNorm Nr="453"/>
+<b X="-2685.1953" Y="2089.2708" Z="401.282"/>
+<InfoGegenRichtung vMax="38.8889" km="399.5836"/>
+<NachNorm Nr="3117"/>
 <NachGegen Nr="451"/>
 </StrElement>
 <StrElement Nr="453" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
@@ -5840,7 +5507,7 @@
 <InfoNormRichtung vMax="38.8889" km="399.5824" pos="1"/>
 <InfoGegenRichtung vMax="38.8889" km="399.6796"/>
 <NachNorm Nr="454"/>
-<NachGegen Nr="452"/>
+<NachGegen Nr="3118"/>
 </StrElement>
 <StrElement Nr="454" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="-2570.3049" Y="2041.577" Z="401.4283"/>
@@ -6008,11 +5675,11 @@
 <InfoNormRichtung vMax="38.8889" km="405.5847" pos="1">
 <Ereignis Er="1000010" Beschr="Hegne Hp"/>
 <Ereignis Er="6" Beschr="Hegne Hp"/>
-<Ereignis Er="1000027" Wert="296" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="344" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Nachtwaid" Stellwerk="BÜ Nachtwaid" Signalname="BÜ Nachtwaid" SignalTyp="14" BoundingR="1">
 <p X="2468.8899" Y="-370.8" Z="399.81"/>
 <phi/>
-<KoppelSignal ReferenzNr="293">
+<KoppelSignal ReferenzNr="341">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -6023,11 +5690,11 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="405.5982">
-<Ereignis Er="1000027" Wert="295" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="343" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Nachtwaid" Stellwerk="BÜ Nachtwaid" Signalname="BÜ Nachtwaid" SignalTyp="14" BoundingR="1">
 <p X="2468.8899" Y="-370.8" Z="399.81"/>
 <phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="293">
+<KoppelSignal ReferenzNr="341">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -6202,11 +5869,11 @@
 <g X="2455.4431" Y="-369.8199" Z="399.8074"/>
 <b X="2467.25" Y="-374.4445" Z="399.8099"/>
 <InfoNormRichtung vMax="38.8889" km="405.5802" pos="1">
-<Ereignis Er="1000027" Wert="298" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="346" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Nachtwaid" Stellwerk="BÜ Nachtwaid" Signalname="BÜ Nachtwaid" SignalTyp="14" BoundingR="1">
 <p X="2466.5901" Y="-374.18" Z="399.81"/>
 <phi/>
-<KoppelSignal ReferenzNr="293">
+<KoppelSignal ReferenzNr="341">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -6217,11 +5884,11 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="405.5929">
-<Ereignis Er="1000027" Wert="297" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="345" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Nachtwaid" Stellwerk="BÜ Nachtwaid" Signalname="BÜ Nachtwaid" SignalTyp="14" BoundingR="1">
 <p X="2466.5901" Y="-374.18" Z="399.81"/>
 <phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="293">
+<KoppelSignal ReferenzNr="341">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -8822,13 +8489,12 @@
 <NachNorm Nr="651"/>
 <NachGegen Nr="285"/>
 </StrElement>
-<StrElement Nr="620" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="620" spTrass="38.8889" Oberbau="Holz K-Oberbau">
 <g X="542.6274" Y="379.3312" Z="399.2999"/>
 <b X="536.2435" Y="383.4722" Z="399.2999"/>
 <InfoNormRichtung vMax="38.8889" km="403.5219"/>
 <InfoGegenRichtung vMax="38.8889" km="403.5143" pos="1"/>
 <NachNorm Nr="624"/>
-<NachGegen Nr="2533"/>
 <NachGegen Nr="653"/>
 </StrElement>
 <StrElement Nr="621" spTrass="38.8889" Oberbau="Holz K-Oberbau">
@@ -14145,9 +13811,9 @@
 </StrElement>
 <StrElement Nr="1098" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="2511.1831" Y="-308.6083" Z="400.2641"/>
-<b X="2546.4871" Y="-256.6961" Z="404.9117"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0628" pos="1"/>
+<b X="2549.8547" Y="-251.7437" Z="405.9145"/>
+<InfoGegenRichtung vMax="27.7778" km="-0.0618" pos="1"/>
+<NachNorm Nr="3125"/>
 <NachGegen Nr="1097"/>
 </StrElement>
 <StrElement Nr="1099" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
@@ -14160,7 +13826,7 @@
 </StrElement>
 <StrElement Nr="1100" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="2405.7129" Y="-463.6934" Z="397.8611"/>
-<b X="2354.2439" Y="-539.3732" Z="397.7076"/>
+<b X="2338.2297" Y="-562.9203" Z="397.6598"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0915" pos="1"/>
 <NachGegen Nr="1099"/>
@@ -15255,11 +14921,11 @@
 <NachGegen Nr="1246"/>
 </StrElement>
 <StrElement Nr="1248" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="1604.083" Y="-42.0503" Z="399.9685"/>
-<b X="1599.946" Y="-52.1197" Z="399.797"/>
+<g X="1604.0793" Y="-42.0502" Z="399.9676"/>
+<b X="1599.9424" Y="-52.1196" Z="399.7961"/>
 <InfoNormRichtung vMax="27.7778">
 <Signal NameBetriebsstelle="BÜ Hegne 1" Stellwerk="BÜ Hegne 1" Signalname="BÜ Hegne 1" SignalTyp="4" BoundingR="10">
-<p X="1603.7029" Y="-42.9753" Z="399.9685"/>
+<p X="1604.0793" Y="-42.0502" Z="399.9676"/>
 <phi Z="-1.960617"/>
 <SignalFrame>
 <p Y="-3.55"/>
@@ -15294,9 +14960,9 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="-0.0109" pos="1">
 <Signal NameBetriebsstelle="BÜ Hegne 1" Stellwerk="BÜ Hegne 1" Signalname="BÜ Hegne 1" SignalFlags="8" SignalTyp="4" BoundingR="10">
-<p X="1599.756" Y="-52.5822" Z="399.797"/>
-<phi Z="1.180975"/>
-<KoppelSignal ReferenzNr="229">
+<p X="1599.9424" Y="-52.1196" Z="399.7961"/>
+<phi Z="1.180976"/>
+<KoppelSignal ReferenzNr="348">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <SignalFrame>
@@ -17160,8 +16826,8 @@
 <b X="72.8271" Y="603.4265" Z="399.4"/>
 <InfoNormRichtung vMax="-1">
 <Signal NameBetriebsstelle="BÜ Hinnengasse" Stellwerk="BÜ Hinnengasse" Signalname="BÜ Hinnengasse" SignalTyp="4" BoundingR="10">
-<p X="72.4127" Y="617.6878" Z="399.4"/>
-<phi Z="-2.042035"/>
+<p X="72.7317" Y="618.0833" Z="399.4"/>
+<phi Z="-2.094395"/>
 <SignalFrame>
 <p Y="-4.25"/>
 <phi/>
@@ -17195,9 +16861,9 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="-0.0129" pos="1">
 <Signal NameBetriebsstelle="BÜ Hinnengasse" Stellwerk="BÜ Hinnengasse" Signalname="BÜ Hinnengasse" SignalFlags="8" SignalTyp="4" BoundingR="10">
-<p X="73.461" Y="604.7861" Z="399.4"/>
-<phi Z="1.134464"/>
-<KoppelSignal ReferenzNr="241">
+<p X="72.8271" Y="603.4265" Z="399.4"/>
+<phi Z="1.22173"/>
+<KoppelSignal ReferenzNr="354">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <SignalFrame>
@@ -17668,8 +17334,8 @@
 <b X="-163.419" Y="721.3262" Z="399.7"/>
 <InfoNormRichtung vMax="27.7778">
 <Signal NameBetriebsstelle="BÜ Brunnengasse" Stellwerk="BÜ Brunnengasse" Signalname="BÜ Brunnengasse" SignalTyp="4" BoundingR="10">
-<p X="-157.7094" Y="733.1203" Z="399.7"/>
-<phi Z="-2.094395"/>
+<p X="-157.0557" Y="734.4703" Z="399.7"/>
+<phi Z="-2.021659"/>
 <SignalFrame>
 <p Y="-4.75"/>
 <phi/>
@@ -17694,24 +17360,18 @@
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht2.lod.ls3"/>
 </SignalFrame>
-<SignalFrame>
-<p X="-0.0001" Y="-4.75" Z="1"/>
-<phi X="1.500983"/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\Halbschrankenbehang_5m_rechts.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="171"/>
-<MatrixEintrag Signalbild="341" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="43"/>
+<MatrixEintrag Signalbild="85" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="-0.0146" pos="1">
 <Signal NameBetriebsstelle="BÜ Brunnengasse" Stellwerk="BÜ Brunnengasse" Signalname="BÜ Brunnengasse" SignalFlags="8" SignalTyp="4" BoundingR="10">
-<p X="-162.3295" Y="723.5762" Z="399.7"/>
-<phi Z="1.047198"/>
-<KoppelSignal ReferenzNr="247">
+<p X="-163.419" Y="721.3262" Z="399.7"/>
+<phi Z="1.119934"/>
+<KoppelSignal ReferenzNr="360">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <SignalFrame>
@@ -17738,17 +17398,11 @@
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht2.lod.ls3"/>
 </SignalFrame>
-<SignalFrame>
-<p Y="-4.75" Z="1"/>
-<phi X="1.500983"/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\Halbschrankenbehang_5m_rechts.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="171"/>
-<MatrixEintrag Signalbild="341" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="43"/>
+<MatrixEintrag Signalbild="85" MatrixGeschw="-1"/>
 </Signal>
 </InfoGegenRichtung>
 <NachGegen Nr="1859"/>
@@ -17801,7 +17455,7 @@
 <Signal NameBetriebsstelle="BÜ Schlappengasse" Stellwerk="BÜ Schlappengasse" Signalname="BÜ Schlappengasse" SignalFlags="8" SignalTyp="4" BoundingR="10">
 <p X="-343.1817" Y="814.3649" Z="400.2127"/>
 <phi Z="1.063439"/>
-<KoppelSignal ReferenzNr="270">
+<KoppelSignal ReferenzNr="366">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <SignalFrame>
@@ -18104,75 +17758,87 @@
 <b X="-1171.967" Y="1241.942" Z="402.5"/>
 <InfoNormRichtung vMax="27.7778">
 <Signal NameBetriebsstelle="BÜ Unterhausgasse" Stellwerk="BÜ Unterhausgasse" Signalname="BÜ Unterhausgasse" SignalTyp="4" BoundingR="10">
-<p X="-1165.9139" Y="1251.683" Z="402.6559"/>
-<phi Z="-2.126807"/>
+<p X="-1165.6334" Y="1252.1344" Z="402.5"/>
+<phi Z="-2.126808"/>
 <SignalFrame>
-<p Y="-3.55"/>
+<p Y="-2.5"/>
 <phi/>
 <sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_rechts.Lod.ls3"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\Antrieb-Rechteckform.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="3"/>
-<phi/>
+<p Y="-2.5" Z="1"/>
+<phi X="1.500983"/>
 <sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Aufschlaggabel.lod.ls3"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\Halbschrankenbaum_5m.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="-3.55" Z="1"/>
+<p X="-1" Y="-2.5"/>
 <phi/>
 <sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m.Lod.ls3"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht1.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-1" Y="-3.55"/>
+<p X="-1" Y="2.5"/>
 <phi/>
 <sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht2.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="0.36" Y="-2.5" Z="1"/>
+<phi X="1.500983"/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\Halbschrankenbehang_5m_rechts.lod.ls3"/>
 </SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="23"/>
-<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="171"/>
+<MatrixEintrag Signalbild="341" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="-0.0115" pos="1">
 <Signal NameBetriebsstelle="BÜ Unterhausgasse" Stellwerk="BÜ Unterhausgasse" Signalname="BÜ Unterhausgasse" SignalFlags="8" SignalTyp="4" BoundingR="10">
-<p X="-1171.967" Y="1241.942" Z="402.508"/>
+<p X="-1171.967" Y="1241.942" Z="402.5"/>
 <phi Z="1.014785"/>
-<KoppelSignal ReferenzNr="258">
+<KoppelSignal ReferenzNr="372">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <SignalFrame>
-<p Y="-3.55"/>
+<p Y="-2.5"/>
 <phi/>
 <sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_rechts.Lod.ls3"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\Antrieb-Rechteckform.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="3"/>
-<phi/>
+<p Y="-2.5" Z="1"/>
+<phi X="1.500983"/>
 <sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Aufschlaggabel.lod.ls3"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\Halbschrankenbaum_5m.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="-3.55" Z="1"/>
+<p X="-1" Y="-2.5"/>
 <phi/>
 <sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m.Lod.ls3"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht1.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-1" Y="-3.55"/>
+<p X="-1" Y="2.5"/>
 <phi/>
 <sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht2.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="0.36" Y="-2.5" Z="1"/>
+<phi X="1.500983"/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\Halbschrankenbehang_5m_rechts.lod.ls3"/>
 </SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="23"/>
-<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="171"/>
+<MatrixEintrag Signalbild="341" MatrixGeschw="-1"/>
 </Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="1612"/>
@@ -18364,8 +18030,36 @@
 <StrElement Nr="1616" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="-1596.2729" Y="1503.49" Z="402.4976"/>
 <b X="-1511.694" Y="1450.707" Z="400.9886"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0997" pos="1"/>
+<InfoNormRichtung vMax="27.7778">
+<Ereignis Er="1000027" Wert="384" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ Lohorn 1" Stellwerk="BÜ Lohorn 1" Signalname="BÜ Lohorn 1" SignalTyp="14" BoundingR="1">
+<p X="-1596.16" Y="1503.42" Z="402.5"/>
+<phi/>
+<KoppelSignal ReferenzNr="377">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="27.7778" km="-0.0997" pos="1">
+<Ereignis Er="1000027" Wert="383" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ Lohorn 1" Stellwerk="BÜ Lohorn 1" Signalname="BÜ Lohorn 1" SignalTyp="14" BoundingR="1">
+<p X="-1596.16" Y="1503.42" Z="402.5"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="377">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="1617"/>
 </StrElement>
 <StrElement Nr="1617" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
@@ -18905,27 +18599,27 @@
 <InfoNormRichtung vMax="27.7778">
 <Signal NameBetriebsstelle="BÜ km 399,5136" Stellwerk="BÜ km 399,5136" Signalname="BÜ km 399,5136" SignalTyp="4" BoundingR="10">
 <p X="-2683.759" Y="2097.4551" Z="401.0901"/>
-<phi Z="-2.007129"/>
+<phi Z="-1.919862"/>
 <SignalFrame>
-<p Y="-3.55"/>
+<p Y="-2.25"/>
 <phi/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_rechts.Lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="3"/>
+<p Y="2.25"/>
 <phi/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Aufschlaggabel.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="-3.55" Z="1"/>
+<p Y="-2.25" Z="1"/>
 <phi/>
 <sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m.Lod.ls3"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-4m.Lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-1" Y="-3.55"/>
+<p X="-1" Y="-2.25"/>
 <phi/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
@@ -18939,31 +18633,31 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="-0.012" pos="1">
 <Signal NameBetriebsstelle="BÜ km 399,5136" Stellwerk="BÜ km 399,5136" Signalname="BÜ km 399,5136" SignalFlags="8" SignalTyp="4" BoundingR="10">
-<p X="-2683.603" Y="2084.5415" Z="401.6439"/>
+<p X="-2683.261" Y="2085.481" Z="401.6439"/>
 <phi Z="1.22173"/>
-<KoppelSignal ReferenzNr="282">
+<KoppelSignal ReferenzNr="392">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <SignalFrame>
-<p Y="-3.55"/>
+<p Y="-2.25"/>
 <phi/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_rechts.Lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="3"/>
+<p Y="2.25"/>
 <phi/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Aufschlaggabel.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="-3.55" Z="1"/>
+<p Y="-2.25" Z="1"/>
 <phi/>
 <sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m.Lod.ls3"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-4m.Lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-1" Y="-3.55"/>
+<p X="-1" Y="-2.25"/>
 <phi/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
@@ -21988,6 +21682,7 @@
 <b X="2962.282" Y="-684.1917" Z="399.9102"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0621" pos="1"/>
+<NachGegen Nr="3100"/>
 </StrElement>
 <StrElement Nr="2104" kr="0.13508" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="2962.282" Y="-684.1916" Z="399.9102"/>
@@ -22152,44 +21847,7 @@
 <g X="3001.0029" Y="-821.8094" Z="399.25"/>
 <b X="3003.728" Y="-819.9362" Z="399.4"/>
 <InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0013" pos="1">
-<Signal NameBetriebsstelle="BÜ Hegne 2" Stellwerk="BÜ Hegne 2" Signalname="BÜ Hegne 2" SignalFlags="8" SignalTyp="4" BoundingR="10">
-<p X="2991.3838" Y="-828.4215" Z="399.3"/>
-<phi Z="0.602224"/>
-<KoppelSignal ReferenzNr="223">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<SignalFrame>
-<p Y="-2.25"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_rechts.Lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="2.25"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Aufschlaggabel.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="-2.25" Z="1"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-4m.Lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-1" Y="-2.25"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
-<HsigBegriff/>
-<HsigBegriff HsigGeschw="-1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="23"/>
-<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
+<InfoGegenRichtung vMax="27.7778" km="-0.0013" pos="1"/>
 <NachGegen Nr="2539"/>
 </StrElement>
 <StrElement Nr="2127" kr="0.063516" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
@@ -24591,7 +24249,7 @@
 <Signal NameBetriebsstelle="BÜ Lohorn 2" Stellwerk="BÜ Lohorn 2" Signalname="BÜ Lohorn 2" SignalFlags="8" SignalTyp="4" BoundingR="10">
 <p X="-2004.542" Y="1755.0341" Z="402.1"/>
 <phi Z="1.072394"/>
-<KoppelSignal ReferenzNr="306">
+<KoppelSignal ReferenzNr="386">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <SignalFrame>
@@ -27130,11 +26788,11 @@
 <g X="3415.3694" Y="-1437.8894" Z="398.8845"/>
 <b X="3410.157" Y="-1430.2419" Z="398.8865"/>
 <InfoNormRichtung vMax="38.8889" km="407.052">
-<Ereignis Er="1000027" Wert="302" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="332" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 2" Stellwerk="BÜ Reichenau-Waldsiedlung 2" Signalname="BÜ Reichenau-Waldsiedlung 2" SignalTyp="14" BoundingR="1">
 <p X="3412.6399" Y="-1433.89" Z="398.89"/>
 <phi/>
-<KoppelSignal ReferenzNr="299">
+<KoppelSignal ReferenzNr="329">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -27147,11 +26805,11 @@
 <InfoGegenRichtung vMax="-1">
 <Ereignis Er="1000010" Beschr="Reichenau (Baden)-Waldsiedlung Hp"/>
 <Ereignis Er="6" Beschr="Reichenau (Baden)-Waldsiedlung Hp"/>
-<Ereignis Er="1000027" Wert="301" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="331" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 2" Stellwerk="BÜ Reichenau-Waldsiedlung 2" Signalname="BÜ Reichenau-Waldsiedlung 2" SignalTyp="14" BoundingR="1">
 <p X="3412.6399" Y="-1433.89" Z="398.89"/>
 <phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="299">
+<KoppelSignal ReferenzNr="329">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -27166,15 +26824,30 @@
 </StrElement>
 <StrElement Nr="2517" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="3412.0649" Y="-1440.142" Z="398.8845"/>
-<b X="3408.2634" Y="-1434.5643" Z="398.886"/>
+<b X="3406.853" Y="-1432.495" Z="398.8865"/>
+<InfoNormRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="334" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 2" Stellwerk="BÜ Reichenau-Waldsiedlung 2" Signalname="BÜ Reichenau-Waldsiedlung 2" SignalTyp="14" BoundingR="1">
+<p X="3409.4099" Y="-1436.25" Z="398.89"/>
+<phi/>
+<KoppelSignal ReferenzNr="329">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
 <Ereignis Er="1000007" Beschr="Reichenau (Baden)-Waldsiedlung Hp"/>
 <Ereignis Er="6" Beschr="Reichenau (Baden)-Waldsiedlung Hp"/>
-<Ereignis Er="1000027" Wert="303" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="333" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 2" Stellwerk="BÜ Reichenau-Waldsiedlung 2" Signalname="BÜ Reichenau-Waldsiedlung 2" SignalTyp="14" BoundingR="1">
 <p X="3409.4099" Y="-1436.25" Z="398.89"/>
 <phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="299">
+<KoppelSignal ReferenzNr="329">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -27184,7 +26857,7 @@
 <MatrixEintrag MatrixGeschw="-1"/>
 </Signal>
 </InfoGegenRichtung>
-<NachNorm Nr="3089"/>
+<NachNorm Nr="108"/>
 <NachGegen Nr="107"/>
 </StrElement>
 <StrElement Nr="2518" Ueberh="0.0262" kr="-0.000416" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
@@ -27201,11 +26874,11 @@
 <g X="79.4195" Y="610.3086" Z="399.2998"/>
 <b X="42.6027" Y="628.8305" Z="399.2998"/>
 <InfoNormRichtung vMax="38.8889" km="402.9954">
-<Ereignis Er="1000027" Wert="243" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="356" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hinnengasse" Stellwerk="BÜ Hinnengasse" Signalname="BÜ Hinnengasse" SignalTyp="14" BoundingR="1">
 <p X="71.92" Y="614.08" Z="399.3"/>
 <phi/>
-<KoppelSignal ReferenzNr="240">
+<KoppelSignal ReferenzNr="353">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -27217,11 +26890,11 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
 <Ereignis Er="1000010" Beschr="Allensbach"/>
-<Ereignis Er="1000027" Wert="242" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="355" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hinnengasse" Stellwerk="BÜ Hinnengasse" Signalname="BÜ Hinnengasse" SignalTyp="14" BoundingR="1">
 <p X="71.92" Y="614.08" Z="399.3"/>
 <phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="240">
+<KoppelSignal ReferenzNr="353">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -27238,11 +26911,11 @@
 <g X="80.9853" Y="604.4765" Z="399.2998"/>
 <b X="43.7685" Y="623.1996" Z="399.2998"/>
 <InfoNormRichtung vMax="38.8889" km="402.9998">
-<Ereignis Er="1000027" Wert="245" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="358" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hinnengasse" Stellwerk="BÜ Hinnengasse" Signalname="BÜ Hinnengasse" SignalTyp="14" BoundingR="1">
 <p X="72.37" Y="608.81" Z="399.3"/>
 <phi/>
-<KoppelSignal ReferenzNr="240">
+<KoppelSignal ReferenzNr="353">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -27254,11 +26927,11 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
 <Ereignis Er="1000007" Beschr="Allensbach"/>
-<Ereignis Er="1000027" Wert="244" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="357" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hinnengasse" Stellwerk="BÜ Hinnengasse" Signalname="BÜ Hinnengasse" SignalTyp="14" BoundingR="1">
 <p X="72.37" Y="608.81" Z="399.3"/>
 <phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="240">
+<KoppelSignal ReferenzNr="353">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -27306,8 +26979,8 @@
 <b X="-1596.161" Y="1503.4091" Z="402.65"/>
 <InfoNormRichtung vMax="27.7778">
 <Signal NameBetriebsstelle="BÜ Lohorn 1" Stellwerk="BÜ Lohorn 1" Signalname="BÜ Lohorn 1" SignalTyp="4" BoundingR="10">
-<p X="-1591.4144" Y="1513.0621" Z="403.0608"/>
-<phi Z="-2.027795"/>
+<p X="-1591.4144" Y="1513.0621" Z="402.65"/>
+<phi Z="-2.027796"/>
 <SignalFrame>
 <p Y="-2.5"/>
 <phi/>
@@ -27347,9 +27020,9 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
 <Signal NameBetriebsstelle="BÜ Lohorn 1" Stellwerk="BÜ Lohorn 1" Signalname="BÜ Lohorn 1" SignalFlags="8" SignalTyp="4" BoundingR="10">
-<p X="-1596.161" Y="1503.4091" Z="402.5016"/>
-<phi Z="1.113798"/>
-<KoppelSignal ReferenzNr="264">
+<p X="-1596.161" Y="1503.4091" Z="402.65"/>
+<phi Z="1.113797"/>
+<KoppelSignal ReferenzNr="378">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <SignalFrame>
@@ -27395,11 +27068,11 @@
 <g X="-334.1902" Y="814.1473" Z="400.1416"/>
 <b X="-349.3189" Y="821.7267" Z="400.1858"/>
 <InfoNormRichtung vMax="38.8889" km="402.3188">
-<Ereignis Er="1000027" Wert="274" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="368" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Schlappengasse" Stellwerk="BÜ Schlappengasse" Signalname="BÜ Schlappengasse" SignalTyp="14" BoundingR="1">
 <p X="-341.32" Y="817.72" Z="400.16"/>
 <phi/>
-<KoppelSignal ReferenzNr="269">
+<KoppelSignal ReferenzNr="365">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -27410,11 +27083,11 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
-<Ereignis Er="1000027" Wert="273" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="367" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Schlappengasse" Stellwerk="BÜ Schlappengasse" Signalname="BÜ Schlappengasse" SignalTyp="14" BoundingR="1">
 <p X="-341.32" Y="817.72" Z="400.16"/>
 <phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="269">
+<KoppelSignal ReferenzNr="365">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -27481,7 +27154,7 @@
 <Signal NameBetriebsstelle="BÜ km 399,1693" Stellwerk="BÜ km 399,1693" Signalname="BÜ km 399,1693" SignalFlags="8" SignalTyp="4" BoundingR="10">
 <p X="-3082.937" Y="2250.1499" Z="400.978"/>
 <phi Z="1.314638"/>
-<KoppelSignal ReferenzNr="288">
+<KoppelSignal ReferenzNr="398">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <SignalFrame>
@@ -27529,7 +27202,7 @@
 <b X="3407.5388" Y="-1437.6285" Z="398.8"/>
 <InfoNormRichtung vMax="-1">
 <Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 2" Stellwerk="BÜ Reichenau-Waldsiedlung 2" Signalname="BÜ Reichenau-Waldsiedlung 2" SignalTyp="4" BoundingR="10">
-<p X="3415.1992" Y="-1432.0103" Z="398.8"/>
+<p X="3414.7961" Y="-1432.3059" Z="398.8"/>
 <phi Z="-2.50879"/>
 <SignalFrame>
 <p Y="-2.25"/>
@@ -27564,9 +27237,9 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
 <Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 2" Stellwerk="BÜ Reichenau-Waldsiedlung 2" Signalname="BÜ Reichenau-Waldsiedlung 2" SignalFlags="8" SignalTyp="4" BoundingR="10">
-<p X="3406.7324" Y="-1438.2198" Z="398.8"/>
+<p X="3407.5388" Y="-1437.6285" Z="398.8"/>
 <phi Z="0.632802"/>
-<KoppelSignal ReferenzNr="300">
+<KoppelSignal ReferenzNr="330">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <SignalFrame>
@@ -27617,16 +27290,10 @@
 <StrElement Nr="2540" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="2998.5308" Y="-823.5089" Z="399.25"/>
 <b X="2992.3501" Y="-827.7573" Z="399.25"/>
-<NachNorm Nr="2541"/>
-<NachGegen Nr="2539"/>
-</StrElement>
-<StrElement Nr="2541" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="2992.3501" Y="-827.7573" Z="399.25"/>
-<b X="2990.29" Y="-829.1735" Z="399.25"/>
-<InfoNormRichtung vMax="27.7778">
+<InfoNormRichtung vMax="-1">
 <Signal NameBetriebsstelle="BÜ Hegne 2" Stellwerk="BÜ Hegne 2" Signalname="BÜ Hegne 2" SignalTyp="4" BoundingR="10">
-<p X="3000.179" Y="-822.3757" Z="399.3"/>
-<phi Z="-2.539369"/>
+<p X="2998.5308" Y="-823.5089" Z="399.25"/>
+<phi Z="-2.539392"/>
 <SignalFrame>
 <p Y="-2.25"/>
 <phi/>
@@ -27658,35 +27325,33 @@
 <MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<NachGegen Nr="2540"/>
-</StrElement>
-<StrElement Nr="2542" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="2462.8042" Y="-379.7453" Z="399.6"/>
-<b X="2472.926" Y="-364.8624" Z="399.8"/>
-<InfoNormRichtung vMax="-1">
-<Signal NameBetriebsstelle="BÜ Nachtwaid" Stellwerk="BÜ Nachtwaid" Signalname="BÜ Nachtwaid" SignalTyp="4" BoundingR="10">
-<p X="2462.8042" Y="-379.7453" Z="399.6"/>
-<phi Z="0.973553"/>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="BÜ Hegne 2" Stellwerk="BÜ Hegne 2" Signalname="BÜ Hegne 2" SignalFlags="8" SignalTyp="4" BoundingR="10">
+<p X="2992.3501" Y="-827.7573" Z="399.25"/>
+<phi Z="0.6022"/>
+<KoppelSignal ReferenzNr="336">
+<Datei NurInfo="1"/>
+</KoppelSignal>
 <SignalFrame>
-<p Y="-5.25"/>
+<p Y="-2.25"/>
 <phi/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_rechts.Lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="5.25"/>
+<p Y="2.25"/>
 <phi/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Aufschlaggabel.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="-5.25" Z="1"/>
+<p Y="-2.25" Z="1"/>
 <phi/>
 <sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m.Lod.ls3"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-4m.Lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-1" Y="-4.75"/>
+<p X="-1" Y="-2.25"/>
 <phi/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
@@ -27697,34 +27362,49 @@
 <MatrixEintrag Signalbild="23"/>
 <MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
 </Signal>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="-1">
-<Signal NameBetriebsstelle="BÜ Nachtwaid" Stellwerk="BÜ Nachtwaid" Signalname="BÜ Nachtwaid" SignalFlags="8" SignalTyp="4" BoundingR="10">
-<p X="2472.926" Y="-364.8624" Z="399.8"/>
-<phi Z="-2.16804"/>
-<KoppelSignal ReferenzNr="294">
-<Datei NurInfo="1"/>
-</KoppelSignal>
+</InfoGegenRichtung>
+<NachNorm Nr="2541"/>
+<NachGegen Nr="2539"/>
+</StrElement>
+<StrElement Nr="2541" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="2992.3501" Y="-827.7573" Z="399.25"/>
+<b X="2990.29" Y="-829.1735" Z="399.25"/>
+<InfoNormRichtung vMax="27.7778"/>
+<NachGegen Nr="2540"/>
+</StrElement>
+<StrElement Nr="2542" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="2462.8042" Y="-379.7453" Z="399.6"/>
+<b X="2472.926" Y="-364.8624" Z="399.8"/>
+<InfoNormRichtung vMax="-1">
+<Signal NameBetriebsstelle="BÜ Nachtwaid" Stellwerk="BÜ Nachtwaid" Signalname="BÜ Nachtwaid" SignalTyp="4" BoundingR="10">
+<p X="2462.8042" Y="-379.7453" Z="399.6"/>
+<phi Z="0.973553"/>
 <SignalFrame>
-<p Y="-5.25"/>
+<p Y="-5.75"/>
 <phi/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_rechts.Lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="5.25"/>
-<phi/>
+<p Y="5.75"/>
+<phi Z="-3.141593"/>
 <sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Aufschlaggabel.lod.ls3"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="-5.25" Z="1"/>
+<p Y="-5.75" Z="1"/>
 <phi/>
 <sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m.Lod.ls3"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-5m-bew.Lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-1" Y="-4.75"/>
+<p Y="5.75" Z="1"/>
+<phi Z="-3.141593"/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-5m-bew.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-1" Y="-5.75"/>
 <phi/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
@@ -27732,8 +27412,52 @@
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="23"/>
-<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="87"/>
+<MatrixEintrag Signalbild="107" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="BÜ Nachtwaid" Stellwerk="BÜ Nachtwaid" Signalname="BÜ Nachtwaid" SignalFlags="8" SignalTyp="4" BoundingR="10">
+<p X="2472.926" Y="-364.8624" Z="399.8"/>
+<phi Z="-2.16804"/>
+<KoppelSignal ReferenzNr="342">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<SignalFrame>
+<p Y="-5.75"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_rechts.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="5.75"/>
+<phi Z="-3.141593"/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="-5.75" Z="1"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-5m-bew.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="5.75" Z="1"/>
+<phi Z="-3.141593"/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-5m-bew.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-1" Y="-5.75"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff/>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="87"/>
+<MatrixEintrag Signalbild="107" MatrixGeschw="-1"/>
 </Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="2524"/>
@@ -27820,8 +27544,8 @@
 <StrElement Nr="2552" spTrass="27.7778" Fkt="2">
 <g X="3838.6028" Y="-1895.4506" Z="398.5777"/>
 <b X="3835.3945" Y="-1899.9175" Z="398.7"/>
-<InfoNormRichtung vMax="-1" Reg="5040"/>
-<InfoGegenRichtung vMax="-1" Reg="5040"/>
+<InfoNormRichtung vMax="-1"/>
+<InfoGegenRichtung vMax="-1"/>
 <NachNorm Nr="2569"/>
 <NachGegen Nr="2668"/>
 </StrElement>
@@ -30072,8 +29796,8 @@
 <b X="3838.917" Y="-1895.746" Z="398.5789"/>
 <InfoNormRichtung vMax="-1">
 <Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 1" Stellwerk="BÜ Reichenau-Waldsiedlung 1" Signalname="BÜ Reichenau-Waldsiedlung 1" SignalTyp="4" BoundingR="10">
-<p X="3831.7954" Y="-1905.3292" Z="398.7497"/>
-<phi Z="0.965207"/>
+<p X="3832.1243" Y="-1905.5568" Z="398.7497"/>
+<phi Z="0.965208"/>
 <SignalFrame>
 <p Y="-4.25"/>
 <phi/>
@@ -30107,9 +29831,9 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
 <Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 1" Stellwerk="BÜ Reichenau-Waldsiedlung 1" Signalname="BÜ Reichenau-Waldsiedlung 1" SignalFlags="8" SignalTyp="4" BoundingR="10">
-<p X="3838.5059" Y="-1895.4615" Z="398.5789"/>
+<p X="3838.917" Y="-1895.746" Z="398.5789"/>
 <phi Z="-2.176385"/>
-<KoppelSignal ReferenzNr="325">
+<KoppelSignal ReferenzNr="324">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <SignalFrame>
@@ -30237,6 +29961,7 @@
 <StrElement Nr="3078" spTrass="27.7778" Fkt="2">
 <g X="3611.5403" Y="-1219.5985" Z="416.3422"/>
 <b X="3578.3008" Y="-1239.1924" Z="416.4453"/>
+<NachNorm Nr="3079"/>
 </StrElement>
 <StrElement Nr="3079" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="3578.3008" Y="-1239.1924" Z="416.4453"/>
@@ -30253,20 +29978,22 @@
 <b X="3496.4668" Y="-1275.4501" Z="411.6845"/>
 <NachGegen Nr="3080"/>
 </StrElement>
-<StrElement Nr="3083" spTrass="27.7778" Fkt="2">
+<StrElement Nr="3083" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="2999.9958" Y="-593.7297" Z="406.4075"/>
 <b X="3031.1785" Y="-617.3817" Z="406.3144"/>
 <NachNorm Nr="3084"/>
+<NachGegen Nr="3098"/>
 </StrElement>
 <StrElement Nr="3084" spTrass="27.7778" Fkt="2">
 <g X="3031.1785" Y="-617.3817" Z="406.3144"/>
 <b X="3071.8433" Y="-643.5853" Z="406.3866"/>
 <NachNorm Nr="3085"/>
 </StrElement>
-<StrElement Nr="3085" spTrass="27.7778" Fkt="2">
+<StrElement Nr="3085" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="3071.8433" Y="-643.5853" Z="406.3866"/>
 <b X="3290.884" Y="-775.946" Z="410.8289"/>
 <NachNorm Nr="3086"/>
+<NachGegen Nr="3084"/>
 </StrElement>
 <StrElement Nr="3086" spTrass="27.7778" Fkt="2">
 <g X="3290.884" Y="-775.946" Z="410.8289"/>
@@ -30281,11 +30008,11 @@
 <g X="2995.0269" Y="-828.2622" Z="399.3544"/>
 <b X="2989.343" Y="-819.9229" Z="399.3609"/>
 <InfoNormRichtung vMax="38.8889" km="406.3103">
-<Ereignis Er="1000027" Wert="225" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Ereignis Er="1000027" Wert="338" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hegne 2" Stellwerk="BÜ Hegne 2" Signalname="BÜ Hegne 2" SignalTyp="14" BoundingR="1">
 <p X="2993.9399" Y="-826.67" Z="399.36"/>
 <phi/>
-<KoppelSignal ReferenzNr="222">
+<KoppelSignal ReferenzNr="335">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -30295,29 +30022,23 @@
 <MatrixEintrag MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="337" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ Hegne 2" Stellwerk="BÜ Hegne 2" Signalname="BÜ Hegne 2" SignalTyp="14" BoundingR="1">
+<p X="2993.9399" Y="-826.67" Z="399.36"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="335">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="161"/>
 <NachGegen Nr="116"/>
-</StrElement>
-<StrElement Nr="3089" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
-<g X="3408.2634" Y="-1434.5643" Z="398.886"/>
-<b X="3406.853" Y="-1432.495" Z="398.8865"/>
-<InfoNormRichtung vMax="38.8889" km="407.0453">
-<Ereignis Er="1000027" Wert="304" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
-<Signal NameBetriebsstelle="BÜ Reichenau-Waldsiedlung 2" Stellwerk="BÜ Reichenau-Waldsiedlung 2" Signalname="BÜ Reichenau-Waldsiedlung 2" SignalTyp="14" BoundingR="1">
-<p X="3409.4099" Y="-1436.25" Z="398.89"/>
-<phi/>
-<KoppelSignal ReferenzNr="299">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
-<NachNorm Nr="108"/>
-<NachGegen Nr="2517"/>
 </StrElement>
 <StrElement Nr="3090" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="2823" Y="-710.2637" Z="396.4637"/>
@@ -30336,6 +30057,505 @@
 <InfoNormRichtung vMax="27.7778"/>
 <NachNorm Nr="2150"/>
 <NachGegen Nr="3092"/>
+</StrElement>
+<StrElement Nr="3094" spTrass="27.7778" Fkt="2">
+<g X="2252.0918" Y="-40.5836" Z="406.9227"/>
+<b X="2300.7517" Y="-70.2454" Z="405.8744"/>
+</StrElement>
+<StrElement Nr="3095" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="2300.7517" Y="-70.2454" Z="405.8744"/>
+<b X="2759.4346" Y="-398.1244" Z="406.0878"/>
+<NachNorm Nr="3096"/>
+<NachGegen Nr="3094"/>
+</StrElement>
+<StrElement Nr="3096" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="2759.4346" Y="-398.1244" Z="406.0878"/>
+<b X="2856.8572" Y="-472.8956" Z="406.4881"/>
+<NachGegen Nr="3095"/>
+</StrElement>
+<StrElement Nr="3097" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="2856.8572" Y="-472.8956" Z="406.4881"/>
+<b X="2967" Y="-568" Z="406.4236"/>
+<NachNorm Nr="3098"/>
+<NachGegen Nr="3096"/>
+</StrElement>
+<StrElement Nr="3098" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="2967" Y="-568" Z="406.4236"/>
+<b X="2999.9958" Y="-593.7297" Z="406.4075"/>
+<NachNorm Nr="3083"/>
+<NachGegen Nr="3097"/>
+</StrElement>
+<StrElement Nr="3100" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="2997.21" Y="-632.7862" Z="403.3933"/>
+<b X="3013.9873" Y="-608.0938" Z="406.3611"/>
+<NachNorm Nr="3103"/>
+<NachGegen Nr="2103"/>
+</StrElement>
+<StrElement Nr="3104" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="2998.1912" Y="-825.803" Z="399.3546"/>
+<b X="2992.6479" Y="-817.6702" Z="399.3609"/>
+<InfoNormRichtung vMax="38.8889" km="406.31">
+<Ereignis Er="1000027" Wert="340" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ Hegne 2" Stellwerk="BÜ Hegne 2" Signalname="BÜ Hegne 2" SignalTyp="14" BoundingR="1">
+<p X="2997.23" Y="-824.4" Z="399.36"/>
+<phi/>
+<KoppelSignal ReferenzNr="335">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="339" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ Hegne 2" Stellwerk="BÜ Hegne 2" Signalname="BÜ Hegne 2" SignalTyp="14" BoundingR="1">
+<p X="2997.23" Y="-824.4" Z="399.36"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="335">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="141"/>
+<NachGegen Nr="133"/>
+</StrElement>
+<StrElement Nr="3105" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="1597.1316" Y="-43.663" Z="399.5276"/>
+<b X="1606.4961" Y="-47.1712" Z="399.5306"/>
+<InfoNormRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="350" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ Hegne 1" Stellwerk="BÜ Hegne 1" Signalname="BÜ Hegne 1" SignalTyp="14" BoundingR="1">
+<p X="1602.58" Y="-45.7" Z="399.53"/>
+<phi/>
+<KoppelSignal ReferenzNr="347">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="349" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ Hegne 1" Stellwerk="BÜ Hegne 1" Signalname="BÜ Hegne 1" SignalTyp="14" BoundingR="1">
+<p X="1602.58" Y="-45.7" Z="399.53"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="347">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="3106"/>
+<NachGegen Nr="257"/>
+</StrElement>
+<StrElement Nr="3106" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="1606.4961" Y="-47.1712" Z="399.5306"/>
+<b X="1672.239" Y="-71.8" Z="399.552"/>
+<InfoNormRichtung vMax="38.8889" km="404.6674" pos="1"/>
+<NachNorm Nr="258"/>
+<NachGegen Nr="3105"/>
+</StrElement>
+<StrElement Nr="3107" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="1592.7509" Y="-46.2929" Z="399.5266"/>
+<b X="1606.7975" Y="-51.5551" Z="399.5312"/>
+<InfoNormRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="352" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ Hegne 1" Stellwerk="BÜ Hegne 1" Signalname="BÜ Hegne 1" SignalTyp="14" BoundingR="1">
+<p X="1601.0601" Y="-49.4" Z="399.53"/>
+<phi/>
+<KoppelSignal ReferenzNr="347">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="351" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ Hegne 1" Stellwerk="BÜ Hegne 1" Signalname="BÜ Hegne 1" SignalTyp="14" BoundingR="1">
+<p X="1601.0601" Y="-49.4" Z="399.53"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="347">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="3108"/>
+<NachGegen Nr="239"/>
+</StrElement>
+<StrElement Nr="3108" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="1606.7975" Y="-51.5551" Z="399.5312"/>
+<b X="1664.054" Y="-73.0047" Z="399.5498"/>
+<InfoNormRichtung vMax="38.8889" km="404.6692" pos="1"/>
+<NachNorm Nr="240"/>
+<NachGegen Nr="3107"/>
+</StrElement>
+<StrElement Nr="3109" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="-154.5949" Y="728.1899" Z="399.6219"/>
+<b X="-163.5231" Y="732.6938" Z="399.648"/>
+<InfoNormRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="364" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ Brunnengasse" Stellwerk="BÜ Brunnengasse" Signalname="BÜ Brunnengasse" SignalTyp="14" BoundingR="1">
+<p X="-159.02" Y="730.42" Z="399.63"/>
+<phi/>
+<KoppelSignal ReferenzNr="359">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="363" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ Brunnengasse" Stellwerk="BÜ Brunnengasse" Signalname="BÜ Brunnengasse" SignalTyp="14" BoundingR="1">
+<p X="-159.02" Y="730.42" Z="399.63"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="359">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="3110"/>
+<NachGegen Nr="315"/>
+</StrElement>
+<StrElement Nr="3110" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="-163.5231" Y="732.6938" Z="399.648"/>
+<b X="-185.4523" Y="743.7563" Z="399.7121"/>
+<InfoNormRichtung vMax="38.8889" km="402.72"/>
+<NachNorm Nr="316"/>
+<NachGegen Nr="3109"/>
+</StrElement>
+<StrElement Nr="3111" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="-337.6752" Y="820.3716" Z="400.1571"/>
+<b X="-341.25" Y="822.1663" Z="400.1675"/>
+<InfoNormRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="370" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ Schlappengasse" Stellwerk="BÜ Schlappengasse" Signalname="BÜ Schlappengasse" SignalTyp="14" BoundingR="1">
+<p X="-339.37" Y="821.22" Z="400.16"/>
+<phi/>
+<KoppelSignal ReferenzNr="365">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="369" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ Schlappengasse" Stellwerk="BÜ Schlappengasse" Signalname="BÜ Schlappengasse" SignalTyp="14" BoundingR="1">
+<p X="-339.37" Y="821.22" Z="400.16"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="365">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="3112"/>
+<NachGegen Nr="318"/>
+</StrElement>
+<StrElement Nr="3112" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="-341.25" Y="822.1663" Z="400.1675"/>
+<b X="-362.0187" Y="832.593" Z="400.2282"/>
+<InfoNormRichtung vMax="38.8889" km="402.296"/>
+<NachNorm Nr="319"/>
+<NachGegen Nr="3111"/>
+</StrElement>
+<StrElement Nr="3113" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="-2004.9158" Y="1759.3059" Z="402.1736"/>
+<b X="-2028.0811" Y="1773.5699" Z="402.1416"/>
+<InfoNormRichtung vMax="38.8889" km="400.6055"/>
+<NachNorm Nr="385"/>
+<NachGegen Nr="3114"/>
+</StrElement>
+<StrElement Nr="3114" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="-2000.6582" Y="1756.6843" Z="402.1795"/>
+<b X="-2004.9158" Y="1759.3059" Z="402.1736"/>
+<InfoNormRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="388" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ Lohorn 2" Stellwerk="BÜ Lohorn 2" Signalname="BÜ Lohorn 2" SignalTyp="14" BoundingR="1">
+<p X="-2002.89" Y="1758.0601" Z="402.18"/>
+<phi/>
+<KoppelSignal ReferenzNr="385">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="387" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ Lohorn 2" Stellwerk="BÜ Lohorn 2" Signalname="BÜ Lohorn 2" SignalTyp="14" BoundingR="1">
+<p X="-2002.89" Y="1758.0601" Z="402.18"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="385">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="3113"/>
+<NachGegen Nr="384"/>
+</StrElement>
+<StrElement Nr="3115" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="-2002.8187" Y="1762.7119" Z="402.1736"/>
+<b X="-2025.984" Y="1776.976" Z="402.1416"/>
+<InfoNormRichtung vMax="38.8889" km="400.6055"/>
+<NachNorm Nr="364"/>
+<NachGegen Nr="3116"/>
+</StrElement>
+<StrElement Nr="3116" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="-1998.5612" Y="1760.0903" Z="402.1795"/>
+<b X="-2002.8187" Y="1762.7119" Z="402.1736"/>
+<InfoNormRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="390" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ Lohorn 2" Stellwerk="BÜ Lohorn 2" Signalname="BÜ Lohorn 2" SignalTyp="14" BoundingR="1">
+<p X="-2000.98" Y="1761.58" Z="402.18"/>
+<phi/>
+<KoppelSignal ReferenzNr="385">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="389" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ Lohorn 2" Stellwerk="BÜ Lohorn 2" Signalname="BÜ Lohorn 2" SignalTyp="14" BoundingR="1">
+<p X="-2000.98" Y="1761.58" Z="402.18"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="385">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="3115"/>
+<NachGegen Nr="363"/>
+</StrElement>
+<StrElement Nr="3117" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="-2685.1953" Y="2089.2708" Z="401.282"/>
+<b X="-2681.501" Y="2087.7371" Z="401.2867"/>
+<InfoNormRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="394" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ km 399,5136" Stellwerk="BÜ km 399,5136" Signalname="BÜ km 399,5136" SignalTyp="14" BoundingR="1">
+<p X="-2683.3899" Y="2088.52" Z="401.28"/>
+<phi/>
+<KoppelSignal ReferenzNr="391">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="393" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ km 399,5136" Stellwerk="BÜ km 399,5136" Signalname="BÜ km 399,5136" SignalTyp="14" BoundingR="1">
+<p X="-2683.3899" Y="2088.52" Z="401.28"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="391">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="3118"/>
+<NachGegen Nr="452"/>
+</StrElement>
+<StrElement Nr="3118" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="-2681.501" Y="2087.7371" Z="401.2867"/>
+<b X="-2660.0759" Y="2078.843" Z="401.314"/>
+<InfoNormRichtung vMax="38.8889" km="399.5876" pos="1"/>
+<NachNorm Nr="453"/>
+<NachGegen Nr="3117"/>
+</StrElement>
+<StrElement Nr="3119" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="-2685.5085" Y="2093.7317" Z="401.2797"/>
+<b X="-2681.8142" Y="2092.198" Z="401.2844"/>
+<InfoNormRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="396" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ km 399,5136" Stellwerk="BÜ km 399,5136" Signalname="BÜ km 399,5136" SignalTyp="14" BoundingR="1">
+<p X="-2683.5701" Y="2092.9299" Z="401.28"/>
+<phi/>
+<KoppelSignal ReferenzNr="391">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="395" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ km 399,5136" Stellwerk="BÜ km 399,5136" Signalname="BÜ km 399,5136" SignalTyp="14" BoundingR="1">
+<p X="-2683.5701" Y="2092.9299" Z="401.28"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="391">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="3120"/>
+<NachGegen Nr="438"/>
+</StrElement>
+<StrElement Nr="3120" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="-2681.8142" Y="2092.198" Z="401.2844"/>
+<b X="-2658.542" Y="2082.5371" Z="401.314"/>
+<InfoNormRichtung vMax="38.8889" km="399.5856" pos="1"/>
+<NachNorm Nr="439"/>
+<NachGegen Nr="3119"/>
+</StrElement>
+<StrElement Nr="3121" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="-3084.3035" Y="2259.282" Z="400.7719"/>
+<b X="-3076.9148" Y="2256.2148" Z="400.7813"/>
+<InfoNormRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="400" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ km 399,1693" Stellwerk="BÜ km 399,1693" Signalname="BÜ km 399,1693" SignalTyp="14" BoundingR="1">
+<p X="-3080.9099" Y="2257.8701" Z="400.78"/>
+<phi/>
+<KoppelSignal ReferenzNr="397">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="399" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ km 399,1693" Stellwerk="BÜ km 399,1693" Signalname="BÜ km 399,1693" SignalTyp="14" BoundingR="1">
+<p X="-3080.9099" Y="2257.8701" Z="400.78"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="397">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="3124"/>
+<NachGegen Nr="434"/>
+</StrElement>
+<StrElement Nr="3122" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="-3085.8374" Y="2255.5881" Z="400.7719"/>
+<b X="-3078.4487" Y="2252.521" Z="400.7813"/>
+<InfoNormRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="402" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ km 399,1693" Stellwerk="BÜ km 399,1693" Signalname="BÜ km 399,1693" SignalTyp="14" BoundingR="1">
+<p X="-3081.9399" Y="2253.97" Z="400.78"/>
+<phi/>
+<KoppelSignal ReferenzNr="397">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Ereignis Er="1000027" Wert="401" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
+<Signal NameBetriebsstelle="BÜ km 399,1693" Stellwerk="BÜ km 399,1693" Signalname="BÜ km 399,1693" SignalTyp="14" BoundingR="1">
+<p X="-3081.9399" Y="2253.97" Z="400.78"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="397">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="3123"/>
+<NachGegen Nr="448"/>
+</StrElement>
+<StrElement Nr="3123" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="-3078.4487" Y="2252.521" Z="400.7813"/>
+<b X="-3019.156" Y="2227.907" Z="400.8568"/>
+<InfoNormRichtung vMax="38.8889" km="399.2712" pos="1"/>
+<NachNorm Nr="449"/>
+<NachGegen Nr="3122"/>
+</StrElement>
+<StrElement Nr="3124" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="-3076.9148" Y="2256.2148" Z="400.7813"/>
+<b X="-3017.623" Y="2231.6011" Z="400.8568"/>
+<InfoNormRichtung vMax="38.8889" km="399.2712" pos="1"/>
+<NachNorm Nr="435"/>
+<NachGegen Nr="3121"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Reichenau (Baden) C\ -&gt; Reichenau (Baden) Gleis 1" FahrstrTyp="TypZug" Laenge="859.071">
 <FahrstrStart Ref="196">
@@ -30465,19 +30685,19 @@
 <FahrstrWeiche Ref="106" FahrstrWeichenlage="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="231" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="352" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="298" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="346" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="224" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="337" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="303" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="333" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="315" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="327" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="12">
@@ -30536,19 +30756,19 @@
 <FahrstrWeiche Ref="118" FahrstrWeichenlage="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="233" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="350" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="296" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="344" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="226" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="339" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="301" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="331" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="313" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="325" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="12" FahrstrSignalErsatzsignal="1">
@@ -30574,25 +30794,25 @@
 <FahrstrTeilaufloesung Ref="169">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrTeilaufloesung>
-<FahrstrSignal Ref="249" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="362" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="274" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="368" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="262" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="376" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="268" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="382" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="310" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="388" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="285" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="393" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="291" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="401" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="15">
@@ -30624,25 +30844,25 @@
 <FahrstrTeilaufloesung Ref="172">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrTeilaufloesung>
-<FahrstrSignal Ref="251" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="364" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="272" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="370" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="260" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="374" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="266" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="380" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="308" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="390" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="283" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="395" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="289" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="399" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="143">
@@ -30677,29 +30897,29 @@
 <FahrstrAufloesung Ref="181">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
-<FahrstrSignal Ref="290" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="400" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="284" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="396" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="307" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="389" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="265" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="379" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="259" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="373" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="271" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="369" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="250" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="363" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Allensbach A" FahrstrTyp="TypZug" Laenge="3935.4685">
+<Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Allensbach A" FahrstrTyp="TypZug" Laenge="3935.4688">
 <FahrstrStart Ref="206">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -30715,25 +30935,25 @@
 <FahrstrAufloesung Ref="181">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
-<FahrstrSignal Ref="292" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="402" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="286" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="394" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="309" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="387" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="267" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="381" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="261" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="375" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="273" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="367" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="248" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="361" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
@@ -30771,7 +30991,7 @@
 <FahrstrWeiche Ref="31" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="245" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="358" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="98" FahrstrSignalErsatzsignal="1">
@@ -30821,7 +31041,7 @@
 <FahrstrWeiche Ref="27" FahrstrWeichenlage="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="243" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="356" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="98" FahrstrSignalZeile="5">
@@ -30901,7 +31121,7 @@
 <FahrstrWeiche Ref="27" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="243" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="356" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="145">
@@ -31040,7 +31260,7 @@
 <FahrstrWeiche Ref="31" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="245" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="358" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="145" FahrstrSignalErsatzsignal="1">
@@ -31099,7 +31319,7 @@
 <FahrstrWeiche Ref="91" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="244" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="357" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="149">
@@ -31161,7 +31381,7 @@
 <FahrstrWeiche Ref="95" FahrstrWeichenlage="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="244" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="357" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="149" FahrstrSignalZeile="5">
@@ -31202,19 +31422,19 @@
 <FahrstrWeiche Ref="118" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="233" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="350" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="296" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="344" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="226" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="339" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="301" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="331" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="313" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="325" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="153" FahrstrSignalErsatzsignal="1">
@@ -31258,19 +31478,19 @@
 <FahrstrWeiche Ref="106" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="231" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="352" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="298" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="346" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="224" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="337" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="303" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="333" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="315" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="327" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="158" FahrstrSignalZeile="5">
@@ -31283,7 +31503,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Allensbach B -&gt; Reichenau (Baden) C\" FahrstrTyp="TypZug" Laenge="4368.499">
+<Fahrstrasse FahrstrName="Allensbach B -&gt; Reichenau (Baden) C\" FahrstrTyp="TypZug" Laenge="4368.4995">
 <FahrstrStart Ref="158">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -31326,19 +31546,19 @@
 <FahrstrWeiche Ref="118" FahrstrWeichenlage="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="233" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="350" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="296" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="344" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="226" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="339" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="301" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="331" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="313" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="325" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="158" FahrstrSignalErsatzsignal="1">
@@ -31453,7 +31673,7 @@
 <FahrstrWeiche Ref="31" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="245" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="358" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="199" FahrstrSignalErsatzsignal="1">
@@ -31530,7 +31750,7 @@
 <FahrstrWeiche Ref="27" FahrstrWeichenlage="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="243" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="356" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="199">
@@ -31598,7 +31818,7 @@
 <FahrstrWeiche Ref="79" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="242" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="355" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="202" FahrstrSignalErsatzsignal="1">
@@ -31678,7 +31898,7 @@
 <FahrstrWeiche Ref="91" FahrstrWeichenlage="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="242" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="355" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="202">
@@ -31740,7 +31960,7 @@
 <FahrstrWeiche Ref="95" FahrstrWeichenlage="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="242" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="355" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="202">

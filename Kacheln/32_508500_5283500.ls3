@@ -116,6 +116,930 @@
 <phi Z="2.305687"/>
 <sk X="0.9036" Y="0.9036" Z="0.9036"/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-509.3582" Y="-76.7824" Z="407.1699"/>
+<phi Z="0.007874"/>
+<sk X="1.0475" Y="1.0475" Z="1.0475"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-496.689" Y="-85.6378" Z="407.6911"/>
+<phi Z="-0.899238"/>
+<sk X="0.9982" Y="0.9982" Z="0.9982"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-485.1123" Y="-94.3602" Z="407.6662"/>
+<phi Z="-2.082882"/>
+<sk X="0.8371" Y="0.8371" Z="0.8371"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-471.187" Y="-108.6203" Z="407.0959"/>
+<phi Z="0.81702"/>
+<sk X="1.1402" Y="1.1402" Z="1.1402"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-461.6355" Y="-115.8665" Z="406.9216"/>
+<phi Z="0.772707"/>
+<sk X="1.0242" Y="1.0242" Z="1.0242"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-457.3882" Y="-119.2833" Z="406.3319"/>
+<phi Z="-2.10184"/>
+<sk X="0.8775" Y="0.8775" Z="0.8775"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-440.8848" Y="-127.0442" Z="407.0858"/>
+<phi Z="-0.056844"/>
+<sk X="1.1587" Y="1.1587" Z="1.1587"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-440.646" Y="-130.6019" Z="406.3621"/>
+<phi Z="-1.801328"/>
+<sk X="1.2842" Y="1.2842" Z="1.2842"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-432.165" Y="-133.5473" Z="406.9416"/>
+<phi Z="-2.008404"/>
+<sk X="1.0804" Y="1.0804" Z="1.0804"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-424.0923" Y="-142.5888" Z="406.4373"/>
+<phi Z="-1.86888"/>
+<sk X="0.9228" Y="0.9228" Z="0.9228"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-410.1809" Y="-141.519" Z="415.1349"/>
+<phi Z="0.278301"/>
+<sk X="0.9136" Y="0.9136" Z="0.9136"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-403.4604" Y="-154.3393" Z="406.6342"/>
+<phi Z="-1.908394"/>
+<sk X="0.8455" Y="0.8455" Z="0.8455"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-394.6704" Y="-154.0398" Z="407.1553"/>
+<phi Z="-0.444455"/>
+<sk X="0.9539" Y="0.9539" Z="0.9539"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-375.8159" Y="-171.0962" Z="407.434"/>
+<phi Z="-0.54847"/>
+<sk X="1.23" Y="1.23" Z="1.23"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-367.1826" Y="-171.2023" Z="407.3733"/>
+<phi Z="0.190208"/>
+<sk X="0.8747" Y="0.8747" Z="0.8747"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-362.2324" Y="-174.0841" Z="407.4759"/>
+<phi Z="0.164298"/>
+<sk X="1.0665" Y="1.0665" Z="1.0665"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-352.1365" Y="-179.6608" Z="407.5847"/>
+<phi Z="-1.726675"/>
+<sk X="1.0962" Y="1.0962" Z="1.0962"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-345.8013" Y="-184.726" Z="407.617"/>
+<phi Z="-0.27356"/>
+<sk X="1.0965" Y="1.0965" Z="1.0965"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-320.9973" Y="-196.9301" Z="411.0657"/>
+<phi Z="-1.314254"/>
+<sk X="0.724" Y="0.724" Z="0.724"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-316.1172" Y="-204.5562" Z="407.9387"/>
+<phi Z="-1.864042"/>
+<sk X="1.094" Y="1.094" Z="1.094"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-308.5669" Y="-210.9555" Z="408.0217"/>
+<phi Z="-1.771681"/>
+<sk X="1.1864" Y="1.1864" Z="1.1864"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-292.7292" Y="-219.7047" Z="408.6024"/>
+<phi Z="-1.561136"/>
+<sk X="0.9169" Y="0.9169" Z="0.9169"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-281.1489" Y="-223.6401" Z="409.0053"/>
+<phi Z="-1.669515"/>
+<sk X="0.8363" Y="0.8363" Z="0.8363"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-278.1694" Y="-229.4353" Z="408.8757"/>
+<phi Z="-0.324867"/>
+<sk X="0.7072" Y="0.7072" Z="0.7072"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-262.4722" Y="-237.3908" Z="409.4407"/>
+<phi Z="0.372867"/>
+<sk X="1.0403" Y="1.0403" Z="1.0403"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-258.4385" Y="-241.1571" Z="409.479"/>
+<phi Z="0.793247"/>
+<sk X="1.1699" Y="1.1699" Z="1.1699"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-244.4456" Y="-241.532" Z="410.0088"/>
+<phi Z="-0.448449"/>
+<sk X="1.144" Y="1.144" Z="1.144"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-235.0737" Y="-249.9674" Z="410.0835"/>
+<phi Z="0.552282"/>
+<sk X="0.9008" Y="0.9008" Z="0.9008"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-227.4077" Y="-252.5152" Z="409.9887"/>
+<phi Z="-0.229013"/>
+<sk X="0.9336" Y="0.9336" Z="0.9336"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-225.4033" Y="-262.0597" Z="410.1688"/>
+<phi Z="-1.056496"/>
+<sk X="0.942" Y="0.942" Z="0.942"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-214.0588" Y="-264.1215" Z="410.0445"/>
+<phi Z="-0.968799"/>
+<sk X="1.0222" Y="1.0222" Z="1.0222"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-203.3069" Y="-269.8703" Z="410.073"/>
+<phi Z="-1.458802"/>
+<sk X="1.1936" Y="1.1936" Z="1.1936"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-194.8774" Y="-270.9654" Z="411.5102"/>
+<phi Z="0.16572"/>
+<sk X="1.0129" Y="1.0129" Z="1.0129"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-183.49" Y="-280.4781" Z="409.9973"/>
+<phi Z="-0.198566"/>
+<sk X="1.0268" Y="1.0268" Z="1.0268"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-177.5371" Y="-285.3458" Z="410.2116"/>
+<phi Z="-0.135311"/>
+<sk X="0.8107" Y="0.8107" Z="0.8107"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-167.0652" Y="-291.8835" Z="410.8258"/>
+<phi Z="-1.027642"/>
+<sk X="1.2961" Y="1.2961" Z="1.2961"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-166.1958" Y="-295.0338" Z="411.0988"/>
+<phi Z="-0.84846"/>
+<sk X="0.8851" Y="0.8851" Z="0.8851"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-153.0044" Y="-302.3391" Z="411.4998"/>
+<phi Z="-0.891538"/>
+<sk X="0.7521" Y="0.7521" Z="0.7521"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-150.4478" Y="-308.9108" Z="411.6667"/>
+<phi Z="-1.310712"/>
+<sk X="0.7832" Y="0.7832" Z="0.7832"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-135.3528" Y="-313.5677" Z="412.1577"/>
+<phi Z="-1.175102"/>
+<sk X="0.8535" Y="0.8535" Z="0.8535"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-132.9688" Y="-316.2783" Z="412.3379"/>
+<phi Z="0.101219"/>
+<sk X="1.1413" Y="1.1413" Z="1.1413"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-118.8042" Y="-332.4969" Z="412.9684"/>
+<phi Z="-2.079438"/>
+<sk X="1.1481" Y="1.1481" Z="1.1481"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-108.2817" Y="-330.7317" Z="413.0051"/>
+<phi Z="-0.499506"/>
+<sk X="1.1951" Y="1.1951" Z="1.1951"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-95.8689" Y="-342.0437" Z="413.2207"/>
+<phi Z="-0.185511"/>
+<sk X="0.9069" Y="0.9069" Z="0.9069"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-91.5591" Y="-346.0642" Z="413.1815"/>
+<phi Z="0.429646"/>
+<sk X="1.0075" Y="1.0075" Z="1.0075"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-79.9983" Y="-355.2662" Z="413.6853"/>
+<phi Z="-0.352835"/>
+<sk X="0.9981" Y="0.9981" Z="0.9981"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-71.3643" Y="-364.5085" Z="413.9112"/>
+<phi Z="0.449351"/>
+<sk X="0.7847" Y="0.7847" Z="0.7847"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-60.2847" Y="-372.4335" Z="414.304"/>
+<phi Z="-0.189524"/>
+<sk X="0.9152" Y="0.9152" Z="0.9152"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-50.656" Y="-372.0958" Z="416.0829"/>
+<phi Z="-0.557865"/>
+<sk X="1.1104" Y="1.1104" Z="1.1104"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-37.8459" Y="-382.3523" Z="414.9495"/>
+<phi Z="-0.681549"/>
+<sk X="1.1706" Y="1.1706" Z="1.1706"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-27.5625" Y="-385.1105" Z="415.0392"/>
+<phi Z="2.984393"/>
+<sk X="1.0905" Y="1.0905" Z="1.0905"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-45.4646" Y="-380.0802" Z="414.827"/>
+<phi Z="1.873595"/>
+<sk X="0.9686" Y="0.9686" Z="0.9686"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-55.1223" Y="-366.7299" Z="425.278"/>
+<phi Z="1.86613"/>
+<sk X="1.1463" Y="1.1463" Z="1.1463"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-65.498" Y="-360.823" Z="415.4255"/>
+<phi Z="1.171596"/>
+<sk X="1.0352" Y="1.0352" Z="1.0352"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-69.8154" Y="-361.0273" Z="413.6735"/>
+<phi Z="1.483453"/>
+<sk X="0.8314" Y="0.8314" Z="0.8314"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-78.896" Y="-350.3095" Z="416.438"/>
+<phi Z="2.033317"/>
+<sk X="0.8674" Y="0.8674" Z="0.8674"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-86.4331" Y="-348.4882" Z="413.1567"/>
+<phi Z="1.695573"/>
+<sk X="1.0517" Y="1.0517" Z="1.0517"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-89.7729" Y="-342.5997" Z="416.1058"/>
+<phi Z="2.859151"/>
+<sk X="1.0955" Y="1.0955" Z="1.0955"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-102.6516" Y="-335.1829" Z="413.2208"/>
+<phi Z="1.374129"/>
+<sk X="0.8275" Y="0.8275" Z="0.8275"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-110.9812" Y="-337.059" Z="413.1965"/>
+<phi Z="3.319945"/>
+<sk X="0.9457" Y="0.9457" Z="0.9457"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-120.3992" Y="-322.4666" Z="412.6531"/>
+<phi Z="2.856613"/>
+<sk X="0.7067" Y="0.7067" Z="0.7067"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-133.1538" Y="-321.1093" Z="412.555"/>
+<phi Z="2.527228"/>
+<sk X="0.9528" Y="0.9528" Z="0.9528"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-137.2756" Y="-321.6994" Z="412.528"/>
+<phi Z="3.989969"/>
+<sk X="1.2764" Y="1.2764" Z="1.2764"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-147.0366" Y="-312.4069" Z="411.8583"/>
+<phi Z="3.643185"/>
+<sk X="0.7721" Y="0.7721" Z="0.7721"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-151.8882" Y="-301.0951" Z="411.4595"/>
+<phi Z="2.584005"/>
+<sk X="0.976" Y="0.976" Z="0.976"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-165.0798" Y="-294.3363" Z="411.0488"/>
+<phi Z="2.626113"/>
+<sk X="0.8426" Y="0.8426" Z="0.8426"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-167.1638" Y="-289.6096" Z="411.348"/>
+<phi Z="4.08469"/>
+<sk X="0.9096" Y="0.9096" Z="0.9096"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-180.2163" Y="-289.8139" Z="410.5685"/>
+<phi Z="2.186891"/>
+<sk X="1.2493" Y="1.2493" Z="1.2493"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-189.3613" Y="-278.66" Z="410.2164"/>
+<phi Z="4.099038"/>
+<sk X="1.2585" Y="1.2585" Z="1.2585"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-198.2397" Y="-276.7415" Z="410.5118"/>
+<phi Z="3.791671"/>
+<sk X="0.9352" Y="0.9352" Z="0.9352"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-206.3733" Y="-271.5852" Z="410.3596"/>
+<phi Z="2.388949"/>
+<sk X="0.8434" Y="0.8434" Z="0.8434"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-211.3" Y="-264.7741" Z="409.9706"/>
+<phi Z="2.541059"/>
+<sk X="1.1146" Y="1.1146" Z="1.1146"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-223.2207" Y="-255.7731" Z="409.9715"/>
+<phi Z="4.033573"/>
+<sk X="0.8875" Y="0.8875" Z="0.8875"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-234.0222" Y="-254.3226" Z="410.081"/>
+<phi Z="1.42905"/>
+<sk X="0.9849" Y="0.9849" Z="0.9849"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-238.3967" Y="-252.2824" Z="410.1329"/>
+<phi Z="2.272322"/>
+<sk X="0.7283" Y="0.7283" Z="0.7283"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-247.1877" Y="-248.164" Z="409.8141"/>
+<phi Z="3.080623"/>
+<sk X="1.1396" Y="1.1396" Z="1.1396"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-249.833" Y="-240.0266" Z="409.8357"/>
+<phi Z="1.669188"/>
+<sk X="0.8807" Y="0.8807" Z="0.8807"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-261.542" Y="-237.5685" Z="409.4878"/>
+<phi Z="1.765221"/>
+<sk X="1.0305" Y="1.0305" Z="1.0305"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-268.1394" Y="-227.3534" Z="413.1262"/>
+<phi Z="3.789042"/>
+<sk X="0.8492" Y="0.8492" Z="0.8492"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-282.9341" Y="-223.4546" Z="408.9163"/>
+<phi Z="3.577564"/>
+<sk X="0.9803" Y="0.9803" Z="0.9803"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-289.772" Y="-218.3275" Z="408.8245"/>
+<phi Z="2.353699"/>
+<sk X="1.1402" Y="1.1402" Z="1.1402"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-301.0469" Y="-215.6458" Z="408.9441"/>
+<phi Z="2.744144"/>
+<sk X="0.6951" Y="0.6951" Z="0.6951"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-308.8955" Y="-204.3004" Z="409.8498"/>
+<phi Z="3.422719"/>
+<sk X="1.0752" Y="1.0752" Z="1.0752"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-316.803" Y="-199.7622" Z="409.443"/>
+<phi Z="1.804035"/>
+<sk X="0.927" Y="0.927" Z="0.927"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-323.1628" Y="-201.9731" Z="408.4927"/>
+<phi Z="1.64591"/>
+<sk X="0.8025" Y="0.8025" Z="0.8025"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-337.5583" Y="-193.9676" Z="407.553"/>
+<phi Z="3.56936"/>
+<sk X="0.9364" Y="0.9364" Z="0.9364"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-340.4727" Y="-190.2155" Z="407.6037"/>
+<phi Z="3.60945"/>
+<sk X="0.8602" Y="0.8602" Z="0.8602"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-351.2991" Y="-184.7662" Z="407.3781"/>
+<phi Z="3.055476"/>
+<sk X="0.8545" Y="0.8545" Z="0.8545"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-356.9941" Y="-176.6698" Z="407.5795"/>
+<phi Z="4.15551"/>
+<sk X="1.0384" Y="1.0384" Z="1.0384"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-370.553" Y="-173.4824" Z="407.5332"/>
+<phi Z="1.499722"/>
+<sk X="0.8961" Y="0.8961" Z="0.8961"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-374.5957" Y="-164.9501" Z="408.9113"/>
+<phi Z="3.347779"/>
+<sk X="0.992" Y="0.992" Z="0.992"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-383.4243" Y="-163.4073" Z="406.9686"/>
+<phi Z="1.335787"/>
+<sk X="1.2719" Y="1.2719" Z="1.2719"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-390.9229" Y="-156.3764" Z="407.1577"/>
+<phi Z="1.64065"/>
+<sk X="0.853" Y="0.853" Z="0.853"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-402.8813" Y="-147.2193" Z="409.1267"/>
+<phi Z="1.362898"/>
+<sk X="1.0507" Y="1.0507" Z="1.0507"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-410.8745" Y="-143.6162" Z="406.9982"/>
+<phi Z="1.234188"/>
+<sk X="0.7931" Y="0.7931" Z="0.7931"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-416.4565" Y="-138.1925" Z="412.2712"/>
+<phi Z="1.242383"/>
+<sk X="0.8726" Y="0.8726" Z="0.8726"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-429.0435" Y="-131.04" Z="408.9117"/>
+<phi Z="1.165388"/>
+<sk X="0.936" Y="0.936" Z="0.936"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-436.8074" Y="-133.0045" Z="406.3694"/>
+<phi Z="2.872111"/>
+<sk X="1.1108" Y="1.1108" Z="1.1108"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-440.9734" Y="-125.5861" Z="407.2217"/>
+<phi Z="1.824217"/>
+<sk X="1.2702" Y="1.2702" Z="1.2702"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-454.6665" Y="-119.9519" Z="406.8256"/>
+<phi Z="2.336164"/>
+<sk X="1.0845" Y="1.0845" Z="1.0845"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-457.6865" Y="-113.8685" Z="407.5018"/>
+<phi Z="3.186467"/>
+<sk X="0.8613" Y="0.8613" Z="0.8613"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-469.7764" Y="-111.6653" Z="406.8619"/>
+<phi Z="3.845656"/>
+<sk X="1.0714" Y="1.0714" Z="1.0714"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-475.7383" Y="-101.6737" Z="407.4138"/>
+<phi Z="2.898462"/>
+<sk X="0.9144" Y="0.9144" Z="0.9144"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-487.1494" Y="-98.042" Z="406.364"/>
+<phi Z="2.115473"/>
+<sk X="0.8199" Y="0.8199" Z="0.8199"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-492.3013" Y="-87.9144" Z="407.8992"/>
+<phi Z="1.385686"/>
+<sk X="0.8372" Y="0.8372" Z="0.8372"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-496.3875" Y="-86.1521" Z="407.6638"/>
+<phi Z="3.180866"/>
+<sk X="1.212" Y="1.212" Z="1.212"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="190.5449" Y="-495.4667" Z="421.9016"/>
+<phi Z="2.944453"/>
+<sk X="0.8755" Y="0.8755" Z="0.8755"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="183.0593" Y="-493.8667" Z="421.9178"/>
+<phi Z="3.645103"/>
+<sk X="0.8908" Y="0.8908" Z="0.8908"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="173.1816" Y="-492.4714" Z="421.7315"/>
+<phi Z="3.513322"/>
+<sk X="0.9531" Y="0.9531" Z="0.9531"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="163.0464" Y="-489.6919" Z="422.6346"/>
+<phi Z="4.473242"/>
+<sk X="0.9631" Y="0.9631" Z="0.9631"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="149.9355" Y="-489.3578" Z="420.9492"/>
+<phi Z="4.319172"/>
+<sk X="1.2203" Y="1.2203" Z="1.2203"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="139.1582" Y="-484.4392" Z="424.5033"/>
+<phi Z="3.856058"/>
+<sk X="0.904" Y="0.904" Z="0.904"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="126.0015" Y="-479.6274" Z="421.7976"/>
+<phi Z="3.908803"/>
+<sk X="1.1745" Y="1.1745" Z="1.1745"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="117.9814" Y="-482.1477" Z="418.972"/>
+<phi Z="3.854558"/>
+<sk X="0.9169" Y="0.9169" Z="0.9169"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="101.3997" Y="-474.7137" Z="419.193"/>
+<phi Z="1.3373"/>
+<sk X="1.2596" Y="1.2596" Z="1.2596"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="93.0435" Y="-468.0404" Z="419.7323"/>
+<phi Z="3.549969"/>
+<sk X="1.0888" Y="1.0888" Z="1.0888"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="79.7886" Y="-462.931" Z="418.7103"/>
+<phi Z="1.948183"/>
+<sk X="1.1387" Y="1.1387" Z="1.1387"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="75.6038" Y="-458.7704" Z="418.937"/>
+<phi Z="1.799004"/>
+<sk X="0.9273" Y="0.9273" Z="0.9273"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="60.3208" Y="-449.5036" Z="419.3856"/>
+<phi Z="2.98081"/>
+<sk X="0.9377" Y="0.9377" Z="0.9377"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="58.9658" Y="-447.2144" Z="419.5861"/>
+<phi Z="1.248668"/>
+<sk X="1.0947" Y="1.0947" Z="1.0947"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="42.99" Y="-438.8734" Z="418.1396"/>
+<phi Z="1.942636"/>
+<sk X="1.0797" Y="1.0797" Z="1.0797"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="34.5664" Y="-426.9444" Z="418.624"/>
+<phi Z="1.78263"/>
+<sk X="1.2402" Y="1.2402" Z="1.2402"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="26.8789" Y="-424.0835" Z="417.8952"/>
+<phi Z="2.250265"/>
+<sk X="1.1653" Y="1.1653" Z="1.1653"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="14.2791" Y="-405.8664" Z="417.1558"/>
+<phi Z="2.073911"/>
+<sk X="0.9142" Y="0.9142" Z="0.9142"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="4.1592" Y="-402.5086" Z="416.5996"/>
+<phi Z="0.859748"/>
+<sk X="0.9537" Y="0.9537" Z="0.9537"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-9.0938" Y="-391.1988" Z="416.1123"/>
+<phi Z="3.141107"/>
+<sk X="0.8582" Y="0.8582" Z="0.8582"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-8.5129" Y="-392.336" Z="416.1338"/>
+<phi Z="-0.049408"/>
+<sk X="0.9306" Y="0.9306" Z="0.9306"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="12.0137" Y="-404.7508" Z="417.0519"/>
+<phi Z="-0.933953"/>
+<sk X="1.2489" Y="1.2489" Z="1.2489"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="15.4414" Y="-414.6889" Z="417.0124"/>
+<phi Z="-1.183968"/>
+<sk X="1.0654" Y="1.0654" Z="1.0654"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="24.0015" Y="-421.9123" Z="417.5624"/>
+<phi Z="0.716352"/>
+<sk X="1.0822" Y="1.0822" Z="1.0822"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="32.2932" Y="-432.1267" Z="417.9683"/>
+<phi Z="-1.130246"/>
+<sk X="1.1414" Y="1.1414" Z="1.1414"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="38.6565" Y="-432.643" Z="418.3655"/>
+<phi Z="-1.614508"/>
+<sk X="0.7812" Y="0.7812" Z="0.7812"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="47.4172" Y="-446.5642" Z="418.3956"/>
+<phi Z="-1.911429"/>
+<sk X="1.2131" Y="1.2131" Z="1.2131"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="51.4973" Y="-442.5512" Z="419.1807"/>
+<phi Z="-0.087274"/>
+<sk X="1.0862" Y="1.0862" Z="1.0862"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="62.394" Y="-448.9957" Z="419.7526"/>
+<phi Z="-1.246014"/>
+<sk X="1.0893" Y="1.0893" Z="1.0893"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="65.644" Y="-457.4831" Z="417.5381"/>
+<phi Z="0.672041"/>
+<sk X="0.94" Y="0.94" Z="0.94"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="80.5771" Y="-458.9618" Z="419.2598"/>
+<phi Z="-1.52626"/>
+<sk X="1.012" Y="1.012" Z="1.012"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="84.0896" Y="-464.9652" Z="419.1156"/>
+<phi Z="-0.095133"/>
+<sk X="0.8995" Y="0.8995" Z="0.8995"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="98.5334" Y="-474.5621" Z="419.028"/>
+<phi Z="-0.81985"/>
+<sk X="0.8691" Y="0.8691" Z="0.8691"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="108.0967" Y="-480.6081" Z="417.9638"/>
+<phi Z="0.293638"/>
+<sk X="0.9493" Y="0.9493" Z="0.9493"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="115.1692" Y="-479.6645" Z="419.0337"/>
+<phi Z="-1.88608"/>
+<sk X="0.8071" Y="0.8071" Z="0.8071"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="122.689" Y="-484.0728" Z="419.2492"/>
+<phi Z="-0.780457"/>
+<sk X="0.7632" Y="0.7632" Z="0.7632"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="135.6311" Y="-491.0664" Z="419.5753"/>
+<phi Z="-0.850421"/>
+<sk X="0.7931" Y="0.7931" Z="0.7931"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="143.6711" Y="-485.6059" Z="425.9488"/>
+<phi Z="-1.28174"/>
+<sk X="1.0174" Y="1.0174" Z="1.0174"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="151.2551" Y="-492.3391" Z="420.378"/>
+<phi Z="0.507795"/>
+<sk X="1.2279" Y="1.2279" Z="1.2279"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="166.1572" Y="-495.1944" Z="420.5242"/>
+<phi Z="-0.926732"/>
+<sk X="0.8527" Y="0.8527" Z="0.8527"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="175.2251" Y="-494.8976" Z="421.1091"/>
+<phi Z="0.915058"/>
+<sk X="1.1079" Y="1.1079" Z="1.1079"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="181.8086" Y="-495.9178" Z="421.1644"/>
+<phi Z="-0.905466"/>
+<sk X="1.287" Y="1.287" Z="1.287"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-8.5212" Y="-326.8372" Z="415.8998"/>
+<phi Z="-0.415759"/>
+<sk X="1.278" Y="1.278" Z="1.278"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-7.6313" Y="-359.401" Z="415.8428"/>
+<phi Z="-2.527439"/>
+<sk X="1.2359" Y="1.2359" Z="1.2359"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-3.5911" Y="-366.0532" Z="416.1293"/>
+<phi Z="-2.057324"/>
+<sk X="1.0333" Y="1.0333" Z="1.0333"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-3.5671" Y="-368.6635" Z="416.1319"/>
+<phi Z="2.559831"/>
+<sk X="0.9236" Y="0.9236" Z="0.9236"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-6.677" Y="-332.9453" Z="416.0239"/>
+<phi Z="0.081496"/>
+<sk X="0.9478" Y="0.9478" Z="0.9478"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-1.7295" Y="-321.5341" Z="419.6744"/>
+<phi Z="2.915028"/>
+<sk X="0.909" Y="0.909" Z="0.909"/>
+</Verknuepfte>
 <lsb Dateiname="32_508500_5283500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="20" MeshI="48">
 <RenderFlags TexVoreinstellung="3"/>
@@ -268,6 +1192,108 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment_verlauf.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\Brachland-1.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\potato-field.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\soil02.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="9" MeshI="21">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="32" MeshI="90">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="66">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="9" MeshI="21">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="15" MeshI="39">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="1" MeterProTex="100" MeterProTex2="10" MeshV="225" MeshI="663">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\forest\Wald_oben.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="15" MeterProTex="30" MeterProTex2="10" MeshV="128" MeshI="378">
+<RenderFlags TexVoreinstellung="2"/>
+<Textur>
+<Datei Dateiname="Terrain\General\forest\Wald_rand.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="1" MeterProTex="100" MeterProTex2="10" MeshV="79" MeshI="219">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\forest\Wald_oben.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="15" MeterProTex="30" MeterProTex2="10" MeshV="48" MeshI="132">
+<RenderFlags TexVoreinstellung="2"/>
+<Textur>
+<Datei Dateiname="Terrain\General\forest\Wald_rand.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

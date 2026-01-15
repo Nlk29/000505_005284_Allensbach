@@ -1478,6 +1478,12 @@
 <phi Z="1.69516"/>
 <sk X="1.0013" Y="1.0013" Z="1.0013"/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="196.0095" Y="498.1054" Z="420.4129"/>
+<phi Z="-0.117637"/>
+<sk X="0.7381" Y="0.7381" Z="0.7381"/>
+</Verknuepfte>
 <lsb Dateiname="32_508500_5282500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="233" MeshI="687">
 <RenderFlags TexVoreinstellung="3"/>
