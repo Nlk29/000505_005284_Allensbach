@@ -728,7 +728,7 @@
 <phi Z="-0.133438"/>
 <sk X="1.099" Y="1.099" Z="1.099"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4560" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
 <p X="-172.3271" Y="65.5173" Z="417.4491"/>
 <phi Z="0.319386"/>
