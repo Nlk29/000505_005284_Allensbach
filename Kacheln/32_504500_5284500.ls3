@@ -26,6 +26,300 @@
 <phi/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\06_10_15_WHaeuser_Leostr_5_15\06_10_WHaus_Leostr_9.lod.ls3"/>
+<p X="471.317" Y="221.1886" Z="398.1187"/>
+<phi Z="0.397608"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\AHM_Haeuser_Innenhafen\08_Geschenke2\AHM_Innenhafen_Geschenke2_Kebbel.lod.ls3"/>
+<p X="469.8229" Y="212.2451" Z="397.961"/>
+<phi Z="0.859029"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005641_Herzogenrath\Objekte\City\Bahnhofstr16-18\Bahnhofstr16-18.lod.ls3"/>
+<p X="489.9041" Y="206.2516" Z="397.4892"/>
+<phi Z="2.557453"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000474_005303_Aulfingen\ObjekteLeipferdingen\08_Wohnhaus\08_Leipferdingen_EFH.lod.ls3"/>
+<p X="461.3958" Y="243.9167" Z="400.2957"/>
+<phi Z="-2.25311"/>
+<sk X="1.2" Y="1.2" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000474_005303_Aulfingen\ObjekteAulfingen\14_Bauernhaus\14_Bauernhaus.lod.ls3"/>
+<p X="497.7641" Y="252.9565" Z="401.8671"/>
+<phi Z="-2.120575"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000480_005694_Messinghausen\Objekte_Beringhausen\Beringhausen07_Wohnhaeuser\Beringhausen07_WHaus114.lod.ls3"/>
+<p X="456.4486" Y="275.836" Z="402.5151"/>
+<phi Z="2.45936"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000480_005694_Messinghausen\Objekte_Beringhausen\Beringhausen07_Wohnhaeuser\Beringhausen07_WHaus114.lod.ls3"/>
+<p X="422.1237" Y="286.3376" Z="402.604"/>
+<phi Z="7.14966"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000480_005694_Messinghausen\Objekte_Beringhausen\Beringhausen07_Wohnhaeuser\Beringhausen07_WHaus124.lod.ls3"/>
+<p X="402.3853" Y="303.4036" Z="403.1579"/>
+<phi Z="7.176686"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000480_005694_Messinghausen\Objekte_Beringhausen\Beringhausen07_Wohnhaeuser\Beringhausen07_WHaus66.lod.ls3"/>
+<p X="386.8079" Y="315.931" Z="404.1028"/>
+<phi Z="7.176686"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000480_005694_Messinghausen\Objekte_Beringhausen\Beringhausen07_Wohnhaeuser\Beringhausen07_WHaus28.lod.ls3"/>
+<p X="371.2304" Y="328.4583" Z="402.9584"/>
+<phi Z="2.464297"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000480_005694_Messinghausen\Objekte_Beringhausen\Beringhausen07_Wohnhaeuser\Beringhausen07_WHaus28.lod.ls3"/>
+<p X="360.6268" Y="339.8794" Z="403.8466"/>
+<phi Z="0.931568"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000460_005690_Bestwig\Objekte\Bestwig_23_Bahnhofstr\Bestwig_23_GH_Anbau.lod.ls3"/>
+<p X="373.7563" Y="356.4695" Z="406.9163"/>
+<phi Z="-0.589009"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000460_005690_Bestwig\Objekte\Bestwig_23_Bahnhofstr\Bestwig_23_GH_Anbau.lod.ls3"/>
+<p X="392.5813" Y="348.1863" Z="407.4498"/>
+<phi Z="4.285368"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000460_005690_Bestwig\Objekte\Bestwig_23_Bahnhofstr\Bestwig_23_GH_Anbau.lod.ls3"/>
+<p X="410.7384" Y="340.5477" Z="406.8414"/>
+<phi Z="4.285368"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000480_005694_Messinghausen\Objekte_Beringhausen\Beringhausen07_Wohnhaeuser\Beringhausen07_WHaus66.lod.ls3"/>
+<p X="425.9753" Y="333.2124" Z="407.0183"/>
+<phi Z="4.384871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000480_005694_Messinghausen\Objekte_Beringhausen\Beringhausen07_Wohnhaeuser\Beringhausen07_WHaus114.lod.ls3"/>
+<p X="441.1109" Y="328.5847" Z="406.8495"/>
+<phi Z="4.426595"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000434_005696_Arnsberg\Objekte\Arnsberg_15_WH_km_200_649\Arnsberg_15_WH_1.lod.ls3"/>
+<p X="460.6293" Y="323.078" Z="407.0094"/>
+<phi Z="1.235915"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000480_005694_Messinghausen\Objekte_Beringhausen\Beringhausen07_Wohnhaeuser\Beringhausen07_WHaus28.lod.ls3"/>
+<p X="477.6733" Y="314.3529" Z="405.8271"/>
+<phi Z="-1.897293"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000480_005694_Messinghausen\Objekte_Beringhausen\Beringhausen07_Wohnhaeuser\Beringhausen07_WHaus66.lod.ls3"/>
+<p X="466.2999" Y="291.4304" Z="404.1124"/>
+<phi Z="2.629017"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000480_005694_Messinghausen\Objekte_Beringhausen\Beringhausen07_Wohnhaeuser\Beringhausen07_WHaus124.lod.ls3"/>
+<p X="441.2003" Y="266.2574" Z="402.5118"/>
+<phi Z="-2.380351"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000486_005697_Bredelar\Objekte\Bredelar10_Sauerlandstr_2\Bredelar10_WHaus_3.lod.ls3"/>
+<p X="412.9142" Y="262.1397" Z="401.1034"/>
+<phi Z="0.895845"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000486_005697_Bredelar\Objekte\Bredelar10_Sauerlandstr_2\Bredelar10_WHaus_3.lod.ls3"/>
+<p X="378.1924" Y="288.2526" Z="402.331"/>
+<phi Z="0.957204"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005686_Kassel_Hbf\Objekte\Kassel_Hbf_16_Wohnhaeuser\Du-H7-5.lod.ls3"/>
+<p X="347.5313" Y="312.9009" Z="403.1897"/>
+<phi Z="-2.292381"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005686_Kassel_Hbf\Objekte\Kassel_Hbf_16_Wohnhaeuser\Du-H7-5.lod.ls3"/>
+<p X="352.9925" Y="294.5263" Z="402.6958"/>
+<phi Z="-0.694586"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_36_Leostr_53\04_35_Whaus_Leo_53.lod.ls3"/>
+<p X="337.9606" Y="282.1258" Z="401.7899"/>
+<phi Z="0.316614"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000480_005694_Messinghausen\Objekte_Beringhausen\Beringhausen07_Wohnhaeuser\Beringhausen07_WHaus61.lod.ls3"/>
+<p X="391.6064" Y="237.9554" Z="399.8087"/>
+<phi Z="4.516039"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000474_005303_Aulfingen\ObjekteAulfingen\08_Bahnwaerterhaus08\Bahnwaerterhaus08.lod.ls3"/>
+<p X="316.1522" Y="257.555" Z="399.6446"/>
+<phi Z="1.104466"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000463_005293_Grimmelshofen\ObjekteGrimmelshofen\Bauernhaus2\Bauernhaus2_Schuppen.lod.ls3"/>
+<p X="378.2443" Y="258.0988" Z="400.8396"/>
+<phi Z="1.001383"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000486_005697_Bredelar\Objekte\Bredelar10_Sauerlandstr_2\Bredelar10_WHaus_3.lod.ls3"/>
+<p X="325.0106" Y="319.0594" Z="402.7239"/>
+<phi Z="-0.539961"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\06_17_30_WH_Jesuitenpfad\06_21_18_WHaeuser.lod.ls3"/>
+<p X="312.4999" Y="337.2248" Z="404.9571"/>
+<phi Z="0.976839"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\Wohnhaueser\EWH_8x5_Friesenh_1Et_Klinger_02.lod.ls3"/>
+<p X="289.0848" Y="358.9452" Z="404.2074"/>
+<phi Z="4.117625"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\Wohnhaueser\EWH_8x5_Friesenh_1Et_Klinger_01.lod.ls3"/>
+<p X="276.7866" Y="367.5312" Z="404.3535"/>
+<phi Z="4.117625"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\Wohnhaueser\EWH_8x5_Friesenh_1Et_Klinger_02.lod.ls3"/>
+<p X="264.4885" Y="376.1173" Z="404.5827"/>
+<phi Z="4.117625"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\Wohnhaueser\EWH_8x5_Friesenh_1Et_Klinger_03.lod.ls3"/>
+<p X="252.1903" Y="384.7034" Z="404.7488"/>
+<phi Z="4.117625"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\Wohnhaueser\EWH_8x5_Friesenh_1Et_Klinger_03.lod.ls3"/>
+<p X="226.8439" Y="399.5904" Z="405.0316"/>
+<phi Z="4.117625"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\Wohnhaueser\EWH_8x5_Friesenh_1Et_Klinger_02.lod.ls3"/>
+<p X="192.7957" Y="423.3523" Z="405.0859"/>
+<phi Z="4.117625"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\Wohnhaueser\EWH_8x5_Friesenh_1Et_Klinger_03.lod.ls3"/>
+<p X="202.2476" Y="416.7626" Z="405.3227"/>
+<phi Z="4.117625"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\Wohnhaueser\EWH_8x5_Friesenh_1Et_Klinger_01.lod.ls3"/>
+<p X="152.5213" Y="448.2218" Z="406.0258"/>
+<phi Z="4.211305"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\Wohnhaueser\EWH_8x5_Friesenh_1Et_Klinger_02.lod.ls3"/>
+<p X="139.1925" Y="455.1024" Z="406.0145"/>
+<phi Z="4.211305"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\Wohnhaueser\EWH_8x5_Friesenh_1Et_Klinger_01.lod.ls3"/>
+<p X="112.5349" Y="469.8011" Z="405.9893"/>
+<phi Z="4.250575"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\Wohnhaueser\EWH_8x5_Friesenh_1Et_Klinger_02.lod.ls3"/>
+<p X="99.0775" Y="476.4235" Z="405.8694"/>
+<phi Z="4.278543"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\Wohnhaueser\EWH_8x5_Friesenh_1Et_Klinger_02.lod.ls3"/>
+<p X="85.5616" Y="482.9287" Z="405.7723"/>
+<phi Z="4.278543"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000637_005372_Langweid_Lech\Objekte\MLAW_Flurstr7\MLAW_Flurstr7.lod.ls3"/>
+<p X="187.5217" Y="349.6593" Z="401.8256"/>
+<phi Z="1.013654"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000637_005372_Langweid_Lech\Objekte\MLAW_Flurstr5\MLAW_Flurstr5.lod.ls3"/>
+<p X="199.0839" Y="368.9627" Z="403.3387"/>
+<phi Z="1.033289"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000637_005372_Langweid_Lech\Objekte\MLAW_Flurstr3\MLAW_Flurstr3.lod.ls3"/>
+<p X="172.468" Y="360.3258" Z="402.2555"/>
+<phi Z="-0.552233"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000637_005372_Langweid_Lech\Objekte\MLAW_Flurstr7\MLAW_Flurstr7.lod.ls3"/>
+<p X="179.6972" Y="371.0453" Z="403.1081"/>
+<phi Z="-2.113212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_33_Leostr_65_63\04_33_WHaus_Leo_65.lod.ls3"/>
+<p X="189.2345" Y="394.4702" Z="404.4441"/>
+<phi Z="2.572179"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000465_005296_Fuetzen\ObjekteEpfenhofen\Durchlaesse\durchlass_km40-6.lod.ls3"/>
+<p X="-118.8214" Y="448.2088" Z="395.7254"/>
+<phi Z="2.687713"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000465_005296_Fuetzen\ObjekteEpfenhofen\Durchlaesse\durchlass_km40-6.lod.ls3"/>
+<p X="-110.0792" Y="465.9627" Z="395.7"/>
+<phi Z="-0.45388"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_504500_5284500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="73" MeshI="207">
 <RenderFlags TexVoreinstellung="3"/>
@@ -48,7 +342,7 @@
 <Datei Dateiname="PermanentWay\Default\cess.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeshV="8" MeshI="18">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
@@ -58,6 +352,51 @@
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="4" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\asphalt.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="4" MeshV="90" MeshI="264">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\asphalt.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="80" MeshI="234">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Pflaster\Kopfsteinpflaster\kopfsteinpflaster_03.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="4" MeterProTex2="5" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="4" MeterProTex2="5" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="19" MeshI="51">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
