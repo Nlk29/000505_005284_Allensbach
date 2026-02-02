@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="Gueterschuppen.lod3.lsb"/>
+<SubSet Cd="FFFFFFFF" MeshV="12" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="400" MeshI="624">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000468_005299_Zollhaus\ObjekteZollhaus\EG-Zollhaus\EG-Zollhaus.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

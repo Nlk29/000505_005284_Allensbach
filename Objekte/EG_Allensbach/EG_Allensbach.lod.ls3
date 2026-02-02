@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="150" Vorlade="1" LODbit="12">
+<Datei Dateiname="EG_Allensbach.lod1.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarAb="300" SichtbarBis="1000" Vorlade="1" LODbit="1">
+<Datei Dateiname="EG_Allensbach.lod3.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarAb="150" SichtbarBis="300" Vorlade="1" LODbit="2">
+<Datei Dateiname="EG_Allensbach.lod2.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+</Landschaft>
+</Zusi>
