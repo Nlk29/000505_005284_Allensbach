@@ -23893,167 +23893,153 @@
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0404" pos="1"/>
 </StrElement>
-<StrElement Nr="2442" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1153.9189" Y="1268.019" Z="404.165"/>
-<b X="-1100.7841" Y="1226.866" Z="404.0261"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0672" pos="1"/>
-<NachNorm Nr="2443"/>
-</StrElement>
 <StrElement Nr="2443" kr="-0.004776" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1100.7841" Y="1226.866" Z="404.026"/>
-<b X="-1096.821" Y="1223.719" Z="404.0071"/>
+<g X="-1100.7841" Y="1226.866" Z="401.8"/>
+<b X="-1096.821" Y="1223.719" Z="401.8"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0051" pos="1"/>
 <NachNorm Nr="2444"/>
-<NachGegen Nr="2442"/>
+<NachGegen Nr="3586"/>
 </StrElement>
 <StrElement Nr="2444" kr="-0.004776" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1096.821" Y="1223.719" Z="404.0071"/>
-<b X="-1092.934" Y="1220.4771" Z="403.992"/>
+<g X="-1096.821" Y="1223.719" Z="401.8"/>
+<b X="-1092.934" Y="1220.4771" Z="401.8"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0051" pos="1"/>
 <NachNorm Nr="2445"/>
 <NachGegen Nr="2443"/>
 </StrElement>
 <StrElement Nr="2445" kr="-0.004776" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1092.934" Y="1220.4771" Z="403.992"/>
-<b X="-1089.1281" Y="1217.141" Z="404.675"/>
+<g X="-1092.934" Y="1220.4771" Z="401.8"/>
+<b X="-1089.1281" Y="1217.141" Z="401.8"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0051" pos="1"/>
 <NachNorm Nr="2446"/>
 <NachGegen Nr="2444"/>
 </StrElement>
 <StrElement Nr="2446" kr="-0.004776" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1089.1281" Y="1217.141" Z="404.675"/>
-<b X="-1085.402" Y="1213.715" Z="404.8573"/>
+<g X="-1089.1281" Y="1217.141" Z="401.8"/>
+<b X="-1085.402" Y="1213.715" Z="401.8"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0051" pos="1"/>
 <NachNorm Nr="2447"/>
 <NachGegen Nr="2445"/>
 </StrElement>
 <StrElement Nr="2447" kr="-0.004776" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1085.402" Y="1213.715" Z="404.8573"/>
-<b X="-1081.761" Y="1210.2" Z="404.3638"/>
+<g X="-1085.402" Y="1213.715" Z="401.8"/>
+<b X="-1081.761" Y="1210.2" Z="401.8"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0051" pos="1"/>
 <NachNorm Nr="2451"/>
 <NachGegen Nr="2446"/>
 </StrElement>
-<StrElement Nr="2448" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-829.0083" Y="1103.726" Z="402.4326"/>
-<b X="-897.5792" Y="1129.192" Z="403.3532"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0731" pos="1"/>
-<NachNorm Nr="2449"/>
-</StrElement>
 <StrElement Nr="2449" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-897.5792" Y="1129.192" Z="403.3532"/>
-<b X="-966.1501" Y="1154.658" Z="402.2971"/>
+<g X="-897.5792" Y="1129.192" Z="400.3"/>
+<b X="-966.1501" Y="1154.658" Z="401.2"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0731" pos="1"/>
 <NachNorm Nr="2450"/>
-<NachGegen Nr="2448"/>
+<NachGegen Nr="3587"/>
 </StrElement>
 <StrElement Nr="2450" spTrass="27.7778" Anschluss="257" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-966.1501" Y="1154.658" Z="402.2971"/>
-<b X="-1034.7209" Y="1180.124" Z="402.6278"/>
+<g X="-966.1501" Y="1154.658" Z="401.2"/>
+<b X="-1034.7209" Y="1180.124" Z="401.8"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0731" pos="1"/>
 <NachNorm Nr="2462"/>
 <NachGegen Nr="2449"/>
 </StrElement>
 <StrElement Nr="2451" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1081.761" Y="1210.2" Z="404.3636"/>
-<b X="-1074.651" Y="1203.1689" Z="403.4513"/>
+<g X="-1081.761" Y="1210.2" Z="401.8"/>
+<b X="-1074.651" Y="1203.1689" Z="401.8"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.01" pos="1"/>
 <NachNorm Nr="2452"/>
 <NachGegen Nr="2447"/>
 </StrElement>
 <StrElement Nr="2452" kr="0.011513" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1074.651" Y="1203.1689" Z="403.4513"/>
-<b X="-1071.976" Y="1200.634" Z="403.493"/>
+<g X="-1074.651" Y="1203.1689" Z="401.8"/>
+<b X="-1071.976" Y="1200.634" Z="401.8"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0037" pos="1"/>
 <NachNorm Nr="2453"/>
 <NachGegen Nr="2451"/>
 </StrElement>
 <StrElement Nr="2453" kr="0.011513" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1071.976" Y="1200.634" Z="403.493"/>
-<b X="-1069.197" Y="1198.215" Z="403.3962"/>
+<g X="-1071.976" Y="1200.634" Z="401.8"/>
+<b X="-1069.197" Y="1198.215" Z="401.8"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0037" pos="1"/>
 <NachNorm Nr="2454"/>
 <NachGegen Nr="2452"/>
 </StrElement>
 <StrElement Nr="2454" kr="0.011513" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1069.197" Y="1198.215" Z="403.3962"/>
-<b X="-1066.317" Y="1195.915" Z="403.1665"/>
+<g X="-1069.197" Y="1198.215" Z="401.8"/>
+<b X="-1066.317" Y="1195.915" Z="401.8"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0037" pos="1"/>
 <NachNorm Nr="2455"/>
 <NachGegen Nr="2453"/>
 </StrElement>
 <StrElement Nr="2455" kr="0.011513" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1066.317" Y="1195.915" Z="403.1665"/>
-<b X="-1063.343" Y="1193.74" Z="403.0305"/>
+<g X="-1066.317" Y="1195.915" Z="401.8"/>
+<b X="-1063.343" Y="1193.74" Z="401.8"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0037" pos="1"/>
 <NachNorm Nr="2456"/>
 <NachGegen Nr="2454"/>
 </StrElement>
 <StrElement Nr="2456" kr="0.011513" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1063.343" Y="1193.74" Z="403.0305"/>
-<b X="-1060.2791" Y="1191.693" Z="402.8192"/>
+<g X="-1063.343" Y="1193.74" Z="401.8"/>
+<b X="-1060.2791" Y="1191.693" Z="401.8"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0037" pos="1"/>
 <NachNorm Nr="2457"/>
 <NachGegen Nr="2455"/>
 </StrElement>
 <StrElement Nr="2457" kr="0.011513" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1060.2791" Y="1191.693" Z="402.8192"/>
-<b X="-1057.13" Y="1189.778" Z="402.8115"/>
+<g X="-1060.2791" Y="1191.693" Z="401.8"/>
+<b X="-1057.13" Y="1189.778" Z="401.8"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0037" pos="1"/>
 <NachNorm Nr="2458"/>
 <NachGegen Nr="2456"/>
 </StrElement>
 <StrElement Nr="2458" kr="0.011513" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1057.13" Y="1189.778" Z="402.8115"/>
-<b X="-1053.9041" Y="1187.999" Z="402.7773"/>
+<g X="-1057.13" Y="1189.778" Z="401.8"/>
+<b X="-1053.9041" Y="1187.999" Z="401.8"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0037" pos="1"/>
 <NachNorm Nr="2459"/>
 <NachGegen Nr="2457"/>
 </StrElement>
 <StrElement Nr="2459" kr="0.011513" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1053.9041" Y="1187.999" Z="402.7773"/>
-<b X="-1050.605" Y="1186.3571" Z="402.7307"/>
+<g X="-1053.9041" Y="1187.999" Z="401.8"/>
+<b X="-1050.605" Y="1186.3571" Z="401.8"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0037" pos="1"/>
 <NachNorm Nr="2460"/>
 <NachGegen Nr="2458"/>
 </StrElement>
 <StrElement Nr="2460" kr="0.011513" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1050.605" Y="1186.3571" Z="402.7307"/>
-<b X="-1047.239" Y="1184.8571" Z="402.7676"/>
+<g X="-1050.605" Y="1186.3571" Z="401.8"/>
+<b X="-1047.239" Y="1184.8571" Z="401.8"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0037" pos="1"/>
 <NachNorm Nr="2461"/>
 <NachGegen Nr="2459"/>
 </StrElement>
 <StrElement Nr="2461" kr="0.011513" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1047.239" Y="1184.8571" Z="402.7676"/>
-<b X="-1043.813" Y="1183.501" Z="402.6988"/>
+<g X="-1047.239" Y="1184.8571" Z="401.8"/>
+<b X="-1043.813" Y="1183.501" Z="401.8"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0037" pos="1"/>
 <NachNorm Nr="2462"/>
 <NachGegen Nr="2460"/>
 </StrElement>
 <StrElement Nr="2462" spTrass="27.7778" Anschluss="257" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1043.813" Y="1183.501" Z="402.6987"/>
-<b X="-1034.7209" Y="1180.124" Z="402.6278"/>
+<g X="-1043.813" Y="1183.501" Z="401.8"/>
+<b X="-1034.7209" Y="1180.124" Z="401.8"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0097" pos="1"/>
 <NachNorm Nr="2450"/>
@@ -32397,6 +32383,20 @@
 <InfoNormRichtung vMax="38.8889" km="402.7174"/>
 <NachNorm Nr="298"/>
 <NachGegen Nr="297"/>
+</StrElement>
+<StrElement Nr="3586" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="-1151.5486" Y="1266.1832" Z="404.0595"/>
+<b X="-1100.7841" Y="1226.866" Z="401.8"/>
+<InfoNormRichtung vMax="27.7778"/>
+<NachNorm Nr="2443"/>
+<NachGegen Nr="2442"/>
+</StrElement>
+<StrElement Nr="3587" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="-830.8831" Y="1104.4222" Z="399.8137"/>
+<b X="-897.5792" Y="1129.192" Z="400.3"/>
+<InfoNormRichtung vMax="27.7778"/>
+<NachNorm Nr="2449"/>
+<NachGegen Nr="2448"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Reichenau (Baden) C\ -&gt; Reichenau (Baden) Gleis 1" FahrstrTyp="TypZug" Laenge="859.071">
 <FahrstrStart Ref="196">

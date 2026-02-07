@@ -2,24 +2,27 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
-<lsb Dateiname="Gueterschuppen.lod2.lsb"/>
-<SubSet Cd="FFFFFFFF" MeshV="865" MeshI="1476">
+<lsb Dateiname="Gueterschuppen.lod1.lsb"/>
+<SubSet Cd="FFFFFFFF" MeshV="2156" MeshI="4005">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000468_005299_Zollhaus\ObjekteZollhaus\EG-Zollhaus\EG-Zollhaus.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="110" MeshI="174">
+<SubSet Cd="FFFFFFFF" MeshV="68" MeshI="108">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="RailwayObjects\Deutschland\Stuetzmauer\Bruchstein-grau.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="50" MeshI="96">
+<SubSet Cd="FFFFFFFF" MeshV="29" MeshI="57">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Pflaster\Kopfsteinpflaster\kopfsteinpflaster_02.dds"/>
 </Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 </Landschaft>
 </Zusi>
