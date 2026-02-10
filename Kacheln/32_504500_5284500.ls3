@@ -344,11 +344,17 @@
 <phi Z="8.956495"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="718" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000527_005709_Huemme\Objekte\Huemme_10-Wohnhaeuser\Huemme_10-Wh-3.lod.ls3"/>
 <p X="415.7558" Y="212.1914" Z="399.2475"/>
 <phi Z="1.362681"/>
 <sk X="1.5" Y="1.5" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000475_005692_Hoppecke\Objekte\Hoppecke03_West\Hoppecke03_WHaus98a.lod.ls3"/>
+<p X="494.5116" Y="170" Z="397.2774"/>
+<phi Z="-0.503964"/>
+<sk X="1.2" Y="1.2" Z="1.2"/>
 </Verknuepfte>
 <lsb Dateiname="32_504500_5284500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="73" MeshI="207">
@@ -967,6 +973,60 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="5" zBias="-2" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Pflaster\Kopfsteinpflaster\kopfsteinpflaster_04.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="5" MeterProTex2="10" MeshV="9" MeshI="21">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Pflaster\Kopfsteinpflaster\kopfsteinpflaster_04.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="5" MeterProTex2="10" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Pflaster\Kopfsteinpflaster\kopfsteinpflaster_04.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="5" MeterProTex2="10" MeshV="11" MeshI="27">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Pflaster\Kopfsteinpflaster\kopfsteinpflaster_04.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="5" MeterProTex2="10" MeshV="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Pflaster\Kopfsteinpflaster\kopfsteinpflaster_04.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="5" MeshV="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Pflaster\Kopfsteinpflaster\kopfsteinpflaster_04.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="5" MeterProTex2="10" MeshV="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Pflaster\Kopfsteinpflaster\kopfsteinpflaster_04.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="5" MeshV="12" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Pflaster\Kopfsteinpflaster\kopfsteinpflaster_04.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="5" MeterProTex2="10" MeshV="18" MeshI="48">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Pflaster\Kopfsteinpflaster\kopfsteinpflaster_04.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

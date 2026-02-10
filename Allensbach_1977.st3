@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
-<Info DateiTyp="Strecke" Version="A.7" MinVersion="A.1"/>
+<Info DateiTyp="Strecke" Version="A.6" MinVersion="A.1"/>
 <Strecke RekTiefe="20" Himmelsmodell="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.ls3"/>
 <HintergrundDatei/>
@@ -4042,8 +4042,8 @@
 <b X="-47.4432" Y="674.1064" Z="399.3096"/>
 <InfoNormRichtung vMax="38.8889" km="402.8537" Reg="5009">
 <Signal NameBetriebsstelle="Allensbach" Stellwerk="Allensbach Af" Signalname="F" SignalTyp="9" BoundingR="10">
-<p X="-46.0043" Y="676.9647" Z="398.8096"/>
-<phi Z="2.675229"/>
+<p X="-46.0043" Y="676.9647" Z="399.3"/>
+<phi Z="2.675228"/>
 <SignalFrame>
 <p/>
 <phi/>
@@ -4087,7 +4087,7 @@
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_69\Zs1_8-69.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="3.2" Z="0.5"/>
+<p Y="3.2"/>
 <phi/>
 <sk/>
 <Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
@@ -17949,14 +17949,7 @@
 <b X="-1591.4144" Y="1513.0621" Z="402.65"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.005" pos="1"/>
 <NachNorm Nr="2527"/>
-<NachGegen Nr="1615"/>
-</StrElement>
-<StrElement Nr="1615" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1547.2271" Y="1605.502" Z="409.6551"/>
-<b X="-1589.2111" Y="1517.543" Z="403.3203"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0975" pos="1"/>
-<NachNorm Nr="1614"/>
+<NachGegen Nr="3593"/>
 </StrElement>
 <StrElement Nr="1616" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1596.2729" Y="1503.49" Z="402.4976"/>
@@ -25264,7 +25257,7 @@
 <p Y="-0.5"/>
 <phi/>
 <sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne2.ls3"/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne2k.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p Y="3.2" Z="0.5"/>
@@ -25282,7 +25275,7 @@
 <p X="-0.43" Z="2.59"/>
 <phi/>
 <sk/>
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Signalbeschriftung\TextGross\A.lod.ls3"/>
+<Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungen\Gross\Sigbeschr_A.lod.ls3"/>
 </SignalFrame>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
 <HsigBegriff FahrstrTyp="6"/>
@@ -32397,6 +32390,41 @@
 <InfoNormRichtung vMax="27.7778"/>
 <NachNorm Nr="2449"/>
 <NachGegen Nr="2448"/>
+</StrElement>
+<StrElement Nr="3588" spTrass="27.7778" Fkt="2">
+<g X="-938.5705" Y="1707.2894" Z="420.3584"/>
+<b X="-965.3263" Y="1633.7695" Z="418.4537"/>
+</StrElement>
+<StrElement Nr="3589" spTrass="27.7778" Fkt="2">
+<g X="-965.3263" Y="1633.7695" Z="418.4537"/>
+<b X="-1002.2178" Y="1556.3314" Z="417.098"/>
+</StrElement>
+<StrElement Nr="3590" spTrass="27.7778" Fkt="2">
+<g X="-1002.2178" Y="1556.3314" Z="417.098"/>
+<b X="-1047.0476" Y="1458.8887" Z="414.6234"/>
+</StrElement>
+<StrElement Nr="3591" spTrass="27.7778" Fkt="2">
+<g X="-1047.0476" Y="1458.8887" Z="414.6234"/>
+<b X="-1087.4193" Y="1375.3202" Z="411.9892"/>
+</StrElement>
+<StrElement Nr="3592" spTrass="27.7778" Fkt="2">
+<g X="-1087.4193" Y="1375.3202" Z="411.9892"/>
+<b X="-1122.9519" Y="1312.4148" Z="408.8503"/>
+</StrElement>
+<StrElement Nr="3593" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="-1544.0765" Y="1612.1025" Z="410.1304"/>
+<b X="-1589.2111" Y="1517.543" Z="403.3203"/>
+<InfoNormRichtung vMax="27.7778"/>
+<NachNorm Nr="1614"/>
+<NachGegen Nr="1615"/>
+</StrElement>
+<StrElement Nr="3594" spTrass="27.7778" Fkt="2">
+<g X="600" Y="287.7435" Z="398.7081"/>
+<b X="596.0294" Y="272.6754" Z="398.1042"/>
+</StrElement>
+<StrElement Nr="3597" spTrass="27.7778" Fkt="2">
+<g X="726.527" Y="257.9334" Z="398.8454"/>
+<b X="716.4103" Y="232.4773" Z="398.489"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Reichenau (Baden) C\ -&gt; Reichenau (Baden) Gleis 1" FahrstrTyp="TypZug" Laenge="859.071">
 <FahrstrStart Ref="196">
