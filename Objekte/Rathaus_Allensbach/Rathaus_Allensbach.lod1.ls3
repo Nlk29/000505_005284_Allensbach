@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="Rathaus_Allensbach.lod1.lsb"/>
+<SubSet Cd="FFFFFFFF" MeshV="72" MeshI="162">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000591_005806_Wipshausen\Objekte\06_Ersestrasse\Dachziegel.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FF604238" MeshV="124" MeshI="246">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="497" MeshI="1278">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="wand.rot.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFC8C8C8" MeshV="5612" MeshI="10620">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000727_005446_Regenstauf\Objekte\NRGF_EG\NRGF_EG_Wand.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="294" MeshI="552">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000587_005811_Plockhorst\Objekte\Bahnhofsbruecke\P_Gebaede.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="36" MeshI="66">
+<RenderFlags TexVoreinstellung="2"/>
+<Textur TransparentFarbe="00FFFFFF">
+<Datei Dateiname="Schrift_Glocke.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="8" MeshI="12">
+<RenderFlags TexVoreinstellung="2"/>
+<Textur TransparentFarbe="00FFFFFF">
+<Datei Dateiname="Schrift_Glocke.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="152" MeshI="228">
+<RenderFlags TexVoreinstellung="4"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000587_005811_Plockhorst\Objekte\Stw_Nw\FensterStw.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>
