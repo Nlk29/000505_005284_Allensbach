@@ -2,7 +2,19 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
-<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="1000" Vorlade="1" LODbit="15">
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="300" Vorlade="1" LODbit="12">
+<Datei Dateiname="Rathaus_Allensbach.lod1.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarAb="300" SichtbarBis="600" Vorlade="1" LODbit="2">
+<Datei Dateiname="Rathaus_Allensbach.lod2.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarAb="600" SichtbarBis="1000" Vorlade="1" LODbit="1">
 <Datei Dateiname="Rathaus_Allensbach.lod3.ls3"/>
 <p/>
 <phi/>
