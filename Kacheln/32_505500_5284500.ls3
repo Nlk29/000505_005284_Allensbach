@@ -196,8 +196,8 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000415_005704_Froendenberg\Objekte\Froemern_03_Wohnhaeuser\Froemern_03_WH_3.lod.ls3"/>
-<p X="-178.4579" Y="-91.6921" Z="398.0385"/>
-<phi Z="-0.44915"/>
+<p X="-171.0634" Y="-96.1687" Z="398.0385"/>
+<phi Z="-0.48842"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
@@ -1260,6 +1260,12 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000463_005293_Grimmelshofen\ObjekteGrimmelshofen\Bauernhaus2\Bauernhaus2_Anbau.lod.ls3"/>
 <p X="115.104" Y="-219.486" Z="398.4189"/>
 <phi Z="-0.301806"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="604" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000480_005694_Messinghausen\Objekte_Beringhausen\Beringhausen07_Wohnhaeuser\Beringhausen07_WHaus124.lod.ls3"/>
+<p X="-440.3245" Y="94.3237" Z="398.3391"/>
+<phi Z="3.22995"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_505500_5284500.lsb"/>
