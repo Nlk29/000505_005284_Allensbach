@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
-<Info DateiTyp="Strecke" Version="A.7" MinVersion="A.1"/>
+<Info DateiTyp="Strecke" Version="A.6" MinVersion="A.1"/>
 <Strecke RekTiefe="20" Himmelsmodell="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.ls3"/>
 <HintergrundDatei/>
@@ -32937,8 +32937,9 @@
 <NachNorm Nr="3797"/>
 </StrElement>
 <StrElement Nr="3697" spTrass="27.7778" Fkt="2">
-<g X="441.6631" Y="331.0437" Z="397.4541"/>
+<g X="441.6631" Y="331.0437" Z="397.9"/>
 <b X="447.0994" Y="346.6369" Z="397.9738"/>
+<NachNorm Nr="3698"/>
 </StrElement>
 <StrElement Nr="3698" spTrass="27.7778" Fkt="2">
 <g X="447.0994" Y="346.6369" Z="397.9738"/>
@@ -32955,12 +32956,13 @@
 <g X="459.8813" Y="376.4742" Z="398.247"/>
 <b X="466.4119" Y="390.3654" Z="398.3348"/>
 <NachNorm Nr="3749"/>
+<NachNorm Nr="3702"/>
 <NachGegen Nr="3699"/>
 </StrElement>
-<StrElement Nr="3702" kr="-0.2" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<StrElement Nr="3702" kr="0.2" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="466.4119" Y="390.3654" Z="398.3348"/>
-<b X="466.7538" Y="390.956" Z="398.3387"/>
-<NachNorm Nr="3711"/>
+<b X="466.6485" Y="391.0055" Z="398.3387"/>
+<NachNorm Nr="3757"/>
 <NachGegen Nr="3700"/>
 </StrElement>
 <StrElement Nr="3711" kr="-0.2" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
@@ -32999,10 +33001,10 @@
 <NachNorm Nr="3797"/>
 <NachGegen Nr="3743"/>
 </StrElement>
-<StrElement Nr="3749" kr="0.2" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<StrElement Nr="3749" kr="-0.2" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="466.4119" Y="390.3654" Z="398.3348"/>
-<b X="466.6485" Y="391.0055" Z="398.3387"/>
-<NachNorm Nr="3757"/>
+<b X="466.7538" Y="390.956" Z="398.3387"/>
+<NachNorm Nr="3711"/>
 <NachGegen Nr="3700"/>
 </StrElement>
 <StrElement Nr="3757" kr="0.2" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
@@ -33043,7 +33045,7 @@
 </StrElement>
 <StrElement Nr="3794" spTrass="27.7778" Anschluss="1" Fkt="2">
 <g X="423.7281" Y="416.2554" Z="398.573"/>
-<b X="463.9002" Y="396.975" Z="398.3797"/>
+<b X="468.8367" Y="394.6874" Z="398.3964"/>
 <NachNorm Nr="3793"/>
 </StrElement>
 <StrElement Nr="3795" spTrass="27.7778" Fkt="2">
@@ -33069,17 +33071,18 @@
 <b X="325.9768" Y="359.1964" Z="397.5244"/>
 </StrElement>
 <StrElement Nr="3800" spTrass="27.7778" Fkt="2">
-<g X="321.5854" Y="414.223" Z="398.1299"/>
-<b X="298.6372" Y="372.8821" Z="397.7961"/>
+<g X="320.1846" Y="415.2223" Z="398.1292"/>
+<b X="294.9477" Y="369.7584" Z="397.3993"/>
 </StrElement>
 <StrElement Nr="3801" spTrass="27.7778" Fkt="2">
 <g X="269.9424" Y="494.1482" Z="398.7219"/>
-<b X="252.9003" Y="471.8571" Z="398.2957"/>
+<b X="252.5" Y="471.8571" Z="398.2957"/>
 </StrElement>
-<StrElement Nr="3802" spTrass="27.7778" Fkt="2">
-<g X="252.9003" Y="471.8571" Z="398.2957"/>
+<StrElement Nr="3802" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="252.5" Y="471.8571" Z="398.2957"/>
 <b X="242.6468" Y="460.5327" Z="397.852"/>
 <NachNorm Nr="3804"/>
+<NachGegen Nr="3801"/>
 </StrElement>
 <StrElement Nr="3804" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="242.6468" Y="460.5327" Z="397.852"/>
