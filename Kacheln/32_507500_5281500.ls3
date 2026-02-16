@@ -33,5 +33,11 @@
 <Datei Dateiname="Terrain\Default\embankment_verlauf.dds"/>
 </Textur>
 </SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="95" MeshI="279">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\Water\water01.dds"/>
+</Textur>
+</SubSet>
 </Landschaft>
 </Zusi>

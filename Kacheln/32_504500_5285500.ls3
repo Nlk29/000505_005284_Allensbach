@@ -254,6 +254,54 @@
 <phi Z="-1.434902"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000637_005372_Langweid_Lech\Objekte\MLAW_Flurstr3\MLAW_Flurstr3.lod.ls3"/>
+<p X="-326.1073" Y="-467.4258" Z="398.4124"/>
+<phi Z="-0.491906"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000637_005372_Langweid_Lech\Objekte\MLAW_Flurstr7\MLAW_Flurstr7.lod.ls3"/>
+<p X="-299.6644" Y="-481.5949" Z="398.6964"/>
+<phi Z="-0.491906"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000637_005372_Langweid_Lech\Objekte\MLAW_Flurstr3\MLAW_Flurstr3.lod.ls3"/>
+<p X="-273.2215" Y="-495.764" Z="398.8904"/>
+<phi Z="-0.491906"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000637_005372_Langweid_Lech\Objekte\MLAW_Flurstr3\MLAW_Flurstr3.lod.ls3"/>
+<p X="-480.4748" Y="-387.1382" Z="398.922"/>
+<phi Z="-0.471058"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000637_005372_Langweid_Lech\Objekte\MLAW_Flurstr5\MLAW_Flurstr5.lod.ls3"/>
+<p X="-453.7429" Y="-400.7527" Z="398.5176"/>
+<phi Z="-0.471058"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000637_005372_Langweid_Lech\Objekte\MLAW_Flurstr5\MLAW_Flurstr5.lod.ls3"/>
+<p X="-427.0109" Y="-414.3672" Z="398.5963"/>
+<phi Z="-0.471058"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000637_005372_Langweid_Lech\Objekte\MLAW_Flurstr5\MLAW_Flurstr5.lod.ls3"/>
+<p X="-400.279" Y="-427.9818" Z="398.6704"/>
+<phi Z="-0.471058"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1373" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000637_005372_Langweid_Lech\Objekte\MLAW_Flurstr5\MLAW_Flurstr5.lod.ls3"/>
+<p X="-373.547" Y="-441.5963" Z="398.6469"/>
+<phi Z="-0.471058"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_504500_5285500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="35" MeshI="93">
 <RenderFlags TexVoreinstellung="3"/>
@@ -487,6 +535,60 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\vineyard02.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="12" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="38" MeshI="144">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\General\Water\river_10m_water01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="15" MeshI="39">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\Water\water01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="9" MeshI="21">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="9" MeshI="21">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="11" MeshI="27">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

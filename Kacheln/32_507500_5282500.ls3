@@ -9,7 +9,7 @@
 <Datei Dateiname="Terrain\General\Water\river_10m_water01.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="59" MeshI="171">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="2" zBias="-2" MeshV="59" MeshI="171">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment_verlauf.dds"/>
@@ -25,6 +25,12 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment_verlauf.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="103" MeshI="294">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\Water\water01.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
