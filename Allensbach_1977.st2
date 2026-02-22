@@ -45,15 +45,18 @@
     <Lageplan>
       <UTM UTM_WE="505" UTM_NS="5284" UTM_Zone="32" UTM_Zone2="T" />
       <Huellkurve>
-        <PunktXYZ X="7539.18" Y="-4299" />
-        <PunktXYZ X="3361.593" Y="-3915.282" />
         <PunktXYZ X="5071.401" Y="-299.13" />
-        <PunktXYZ X="9800.553" Y="-1473.481" />
-        <PunktXYZ X="11021.97" Y="-2506.988" />
-        <PunktXYZ X="9228.338" Y="-5369.862" />
+        <PunktXYZ X="3361.593" Y="-3915.282" />
+        <PunktXYZ X="1090.959" Y="-1189.162" />
+        <PunktXYZ X="455.2523" Y="-417.2317" />
+        <PunktXYZ X="-1098.967" Y="454.0332" />
+        <PunktXYZ X="-1965.589" Y="952.9977" />
+        <PunktXYZ X="-3838.482" Y="2028.825" />
+        <PunktXYZ X="7855.311" Y="30198.05" />
+        <PunktXYZ X="17039.05" Y="25012.2" />
       </Huellkurve>
       <DEM>
-        <Datei Dateiname="..\..\..\niklas\Desktop\Allensbach DGM\unified_t.dem" />
+        <Datei Dateiname="..\..\..\niklas\Desktop\Allensbach DGM\unified.dem" />
       </DEM>
       <Kreisbogen ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="6.629891E-05" WinkelAnf="-2.010556" WinkelLauf="-0.007377611">
         <PunktWinkel X="4214.569" Y="-2111.267" W="2.701833" />
@@ -738,11 +741,11 @@
       </Gerade>
       <Kreisbogen st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" kr="5.0005E-05" WinkelAnf="1.103584" WinkelLauf="0.001292765">
         <PunktWinkel X="-252.9289" Y="775.5503" W="2.67438" km="402.62" />
-        <PunktWinkel X="-276.0185" Y="787.1794" W="-0.4659195" km="402.37" />
+        <PunktWinkel X="-276.0185" Y="787.1794" W="-0.4659195" km="402.5941" />
         <Punkt X="-9260.01" Y="-17079.21" />
       </Kreisbogen>
       <Gerade st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="-276.014" Y="787.1772" W="2.676313" km="402.37" />
+        <PunktWinkel X="-276.014" Y="787.1772" W="2.676313" km="402.5941" />
         <PunktWinkel X="-971.2305" Y="1136.205" W="5.817905" km="401.818" />
       </Gerade>
       <Klothoide st2Typ="1" ProfilName="Reichenau-Allensbach" spTrass="38.88889" Oberbau="Holz K-Oberbau" L="84.9348" R="-1571" Versatz="2">
@@ -2934,9 +2937,6 @@
       <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="BÜ">
         <PunktWinkel X="2467.841" Y="-372.4622" />
       </Punkt>
-      <Punkt st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="EVsig C">
-        <PunktWinkel X="3397.636" Y="-1423.616" />
-      </Punkt>
     </Lageplan>
     <HoehenProfil ProfilName="4000" ProfilFarbe="FF0000FF" ProfilAbstandHorizontKm="2" ProfilGleisElementeZeichnen="1">
       <StuetzPkt Y="401.38" Radius="5000" />
@@ -2987,28 +2987,11 @@
       <StuetzPkt X="7.791443" Y="398.6589" Radius="5000" />
       <StuetzPkt X="11.39656" Y="398.6589" Radius="5000" />
       <StuetzPkt X="1082.766" Y="398.8865" Radius="5000" />
-      <StuetzPkt X="2525.176" Y="399.8096" Kategorie="1" />
-      <StuetzPkt X="2526.701" Y="399.8108" Kategorie="3" Radius="5000" />
-      <StuetzPkt X="2527.538" Y="399.8105" Kategorie="2" />
-      <StuetzPkt X="2529.9" Y="399.8101" Kategorie="1" />
+      <StuetzPkt X="2526.701" Y="399.8108" Radius="5000" />
       <StuetzPkt X="4203.395" Y="399.3" Radius="5000" />
-      <StuetzPkt X="5243.932" Y="399.2998" Kategorie="1" />
-      <StuetzPkt X="5247.196" Y="399.3008" Kategorie="2" />
-      <StuetzPkt X="5250.444" Y="399.3" Kategorie="3" Radius="5000" />
-      <StuetzPkt X="5250.46" Y="399.3042" Kategorie="2" />
-      <StuetzPkt X="5253.724" Y="399.3096" Kategorie="2" />
-      <StuetzPkt X="5256.988" Y="399.3169" Kategorie="1" />
-      <StuetzPkt X="6508.162" Y="402.584" Kategorie="1" />
-      <StuetzPkt X="6511.066" Y="402.5908" Kategorie="2" />
-      <StuetzPkt X="6513.867" Y="402.5992" Kategorie="3" Radius="5000" />
-      <StuetzPkt X="6513.97" Y="402.5957" Kategorie="2" />
-      <StuetzPkt X="6516.875" Y="402.5991" Kategorie="2" />
-      <StuetzPkt X="6519.779" Y="402.6006" Kategorie="1" />
-      <StuetzPkt X="7006.368" Y="402.7412" Kategorie="1" />
-      <StuetzPkt X="7008.808" Y="402.7417" Kategorie="2" />
-      <StuetzPkt X="7010.246" Y="402.7422" Kategorie="3" Radius="5000" />
-      <StuetzPkt X="7011.248" Y="402.7407" Kategorie="2" />
-      <StuetzPkt X="7013.688" Y="402.7383" Kategorie="1" />
+      <StuetzPkt X="5250.444" Y="399.3" Radius="5000" />
+      <StuetzPkt X="6513.867" Y="402.5992" Radius="5000" />
+      <StuetzPkt X="7010.246" Y="402.7422" Radius="5000" />
       <StuetzPkt X="9297.14" Y="400.0529" Radius="5000" />
     </HoehenProfil>
   </Gleisplan>

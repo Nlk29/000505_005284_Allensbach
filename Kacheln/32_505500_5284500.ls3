@@ -1274,6 +1274,228 @@
 <phi Z="1.656699"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast.lod.ls3"/>
+<p X="441.0219" Y="-297.869" Z="399.3159"/>
+<phi Z="2.783153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
+<p X="442.1183" Y="-294.9426" Z="399.3159"/>
+<phi Z="2.783153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-standard_k.lod.ls3"/>
+<p X="440.4391" Y="-297.7146" Z="399.3158"/>
+<phi Z="2.783153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast.lod.ls3"/>
+<p X="439.4507" Y="-301.5516" Z="399.3147"/>
+<phi Z="-0.358442"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
+<p X="438.3543" Y="-304.478" Z="399.3147"/>
+<phi Z="-0.358442"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-standard_l.lod.ls3"/>
+<p X="438.9098" Y="-301.2849" Z="399.3146"/>
+<phi Z="-0.358442"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast.lod.ls3"/>
+<p X="377.3437" Y="-274.0137" Z="399.3017"/>
+<phi Z="2.783153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
+<p X="378.44" Y="-271.0873" Z="399.3017"/>
+<phi Z="2.783153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-ausfaedelung.lod.ls3"/>
+<p X="376.7608" Y="-273.8593" Z="399.3016"/>
+<phi Z="2.783153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Gittermast8m0.lod.ls3"/>
+<p X="374.5898" Y="-280.8574" Z="399.3017"/>
+<phi Z="2.783153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
+<p X="374.6607" Y="-280.6683" Z="399.3017"/>
+<phi Z="-0.35844"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-ausfaedelung.lod.ls3"/>
+<p X="375.2161" Y="-277.4752" Z="399.3016"/>
+<phi Z="-0.35844"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-standard_k.lod.ls3"/>
+<p X="376.3398" Y="-277.8962" Z="399.3016"/>
+<phi Z="-0.35844"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Gittermast8m0.lod.ls3"/>
+<p X="323.8888" Y="-250.1079" Z="399.3"/>
+<phi Z="5.916443"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Radspannwerke\RSP-GM_ueber_std.lod.ls3"/>
+<p X="324.0755" Y="-250.1796" Z="399.3"/>
+<phi Z="-0.366742"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="326.318" Y="-250.9762" Z="406.0026"/>
+<phi X="-0.001317" Z="1.14129"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="326.1931" Y="-251.3044" Z="405.1104"/>
+<phi X="-0.005259" Z="1.151244"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Gittermast8m0.lod.ls3"/>
+<p X="319.9353" Y="-260.1788" Z="399.3319"/>
+<phi Z="2.778199"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Radspannwerke\RSP-GM_ueber_std.lod.ls3"/>
+<p X="320.1222" Y="-260.2498" Z="399.3319"/>
+<phi Z="-0.363393"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="322.4513" Y="-260.821" Z="406.0334"/>
+<phi X="-0.000773" Z="1.261434"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="322.3254" Y="-261.1488" Z="405.1412"/>
+<phi X="-0.004704" Z="1.271393"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
+<p X="320.007" Y="-259.9899" Z="399.3319"/>
+<phi Z="-0.363393"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-ausfaedelung.lod.ls3"/>
+<p X="441.5628" Y="-298.1356" Z="399.3158"/>
+<phi Z="2.783153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-ausfaedelung.lod.ls3"/>
+<p X="440.0335" Y="-301.7059" Z="399.3146"/>
+<phi Z="-0.358442"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="498.4138" Y="-327.2725" Z="406.0238"/>
+<phi X="0.0053" Z="4.294474"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="498.5354" Y="-326.9445" Z="405.1429"/>
+<phi X="-0.004265" Z="4.305096"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-standard_l.lod.ls3"/>
+<p X="377.8846" Y="-274.2803" Z="399.3016"/>
+<phi Z="2.783153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-Kurve_l.lod.ls3"/>
+<p X="320.5783" Y="-256.7996" Z="399.3318"/>
+<phi Z="-0.363393"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-Kurve_k.lod.ls3"/>
+<p X="322.694" Y="-253.2183" Z="399.3"/>
+<phi Z="2.774851"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast.lod.ls3"/>
+<p X="270.2024" Y="-232.3068" Z="399.3"/>
+<phi Z="2.75509"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast.lod.ls3"/>
+<p X="268.5495" Y="-235.5102" Z="399.3081"/>
+<phi Z="5.892235"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-Kurve_l.lod.ls3"/>
+<p X="270.2005" Y="-232.3115" Z="399.3"/>
+<phi Z="2.75509"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_2m5\Ausleger_2m5-Kurve_k.lod.ls3"/>
+<p X="268.2672" Y="-236.1318" Z="399.3081"/>
+<phi Z="-0.39095"/>
+<sk X="1" Y="0.95" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast.lod.ls3"/>
+<p X="226.4179" Y="-213.3215" Z="399.3"/>
+<phi Z="2.722797"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\IPB200-Mast.lod.ls3"/>
+<p X="224.6015" Y="-217.048" Z="399.3"/>
+<phi Z="5.853838"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-Kurve_l.lod.ls3"/>
+<p X="226.4159" Y="-213.326" Z="399.3"/>
+<phi Z="2.722797"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="778" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-Kurve_k.lod.ls3"/>
+<p X="224.5078" Y="-217.2472" Z="399.3"/>
+<phi Z="-0.429348"/>
+<sk X="1" Y="0.925" Z="1"/>
+</Verknuepfte>
 <lsb Dateiname="32_505500_5284500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="295" MeshI="636">
 <RenderFlags TexVoreinstellung="3"/>
@@ -1320,7 +1542,7 @@
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="292" MeshI="735">
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="292" MeshI="258">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
@@ -1353,7 +1575,7 @@
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="613" MeshI="2136">
+<SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="613" MeshI="2133">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
@@ -3295,6 +3517,159 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="37" MeshI="93">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Stahl_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="35" MeshI="96">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Stahl_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="64" MeshI="180">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Stahl_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Stahl_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="16" MeshI="30">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Stahl_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Holz_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Stahl_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Holz_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Stahl_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Holz_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Stahl_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Holz_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Stahl_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="26" MeshI="66">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Stahl_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="15" MeshI="33">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Holz_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Stahl_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Holz_K-Oberbau.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

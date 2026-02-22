@@ -9,5 +9,23 @@
 <Datei Dateiname="PermanentWay\Default\rail.dds"/>
 </Textur>
 </SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="40" MeshI="126">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="61" MeshI="198">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="102" MeshI="378">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="102" MeshI="378">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="38" MeshI="126">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="45" MeshI="156">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
 </Landschaft>
 </Zusi>

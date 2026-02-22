@@ -9,5 +9,29 @@
 <Datei Dateiname="PermanentWay\Default\rail.dds"/>
 </Textur>
 </SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="70" MeshI="252">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="76" MeshI="279">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="101" MeshI="378">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="101" MeshI="378">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="101" MeshI="378">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="101" MeshI="378">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="80" MeshI="282">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="91" MeshI="324">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
 </Landschaft>
 </Zusi>

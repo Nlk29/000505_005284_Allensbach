@@ -1046,6 +1046,78 @@
 <phi Z="2.238385"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-ausfaedelung.lod.ls3"/>
+<p X="-411.4578" Y="-458.3665" Z="399.252"/>
+<phi Z="2.169038"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-Standard_l.lod.ls3"/>
+<p X="-411.1765" Y="-458.7796" Z="399.252"/>
+<phi Z="2.169038"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-ausfaedelung.lod.ls3"/>
+<p X="-414.7627" Y="-460.6191" Z="399.252"/>
+<phi Z="5.310631"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-Standard_k.lod.ls3"/>
+<p X="-415.0444" Y="-460.2059" Z="399.252"/>
+<phi Z="-0.972555"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-ausfaedelung.lod.ls3"/>
+<p X="-456.5129" Y="-392.2604" Z="399.3032"/>
+<phi Z="2.169038"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-Standard_k.lod.ls3"/>
+<p X="-456.2317" Y="-392.6734" Z="399.3032"/>
+<phi Z="2.169038"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-ausfaedelung.lod.ls3"/>
+<p X="-459.8181" Y="-394.5131" Z="399.3032"/>
+<phi Z="5.310631"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-Standard_l.lod.ls3"/>
+<p X="-460.0999" Y="-394.0998" Z="399.3032"/>
+<phi Z="-0.972555"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Gittermast8m2.lod.ls3"/>
+<p X="-498.813" Y="-324.2765" Z="399.3544"/>
+<phi Z="2.169053"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Radspannwerke\RSP-GM_ueber_std.lod.ls3"/>
+<p X="-498.7046" Y="-324.4359" Z="399.3544"/>
+<phi Z="-0.97254"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-497.2939" Y="-326.3551" Z="406.0336"/>
+<phi X="0.010398" Z="0.547627"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-497.5823" Y="-326.5528" Z="405.1606"/>
+<phi X="-0.003151" Z="0.558366"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_508500_5283500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="20" MeshI="48">
 <RenderFlags TexVoreinstellung="3"/>

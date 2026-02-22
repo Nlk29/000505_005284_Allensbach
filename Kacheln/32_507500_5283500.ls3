@@ -782,6 +782,282 @@
 <phi Z="-0.60132"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-Standard_l.lod.ls3"/>
+<p X="498.4312" Y="-326.1547" Z="399.3544"/>
+<phi Z="2.169052"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Gittermast8m2.lod.ls3"/>
+<p X="492.3701" Y="-330.2857" Z="399.3544"/>
+<phi Z="5.310645"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Radspannwerke\RSP-GM_ueber_ged.lod.ls3"/>
+<p X="492.366" Y="-330.2799" Z="399.3544"/>
+<phi Z="-0.97254"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-Standard_k.lod.ls3"/>
+<p X="495.1255" Y="-328.4074" Z="399.3544"/>
+<phi Z="-0.97254"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="493.7483" Y="-332.4604" Z="406.0331"/>
+<phi X="0.010647" Z="0.648374"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="494.0378" Y="-332.2644" Z="405.1606"/>
+<phi X="-0.003111" Z="0.637647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-kurve_k.lod.ls3"/>
+<p X="453.313" Y="-260.0925" Z="399.4056"/>
+<phi Z="2.175327"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-kurve_l.lod.ls3"/>
+<p X="449.9883" Y="-262.3893" Z="399.4056"/>
+<phi Z="5.316919"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-kurve_k.lod.ls3"/>
+<p X="409.2168" Y="-198.6792" Z="399.454"/>
+<phi Z="2.210089"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-kurve_l.lod.ls3"/>
+<p X="405.9331" Y="-201.1205" Z="399.454"/>
+<phi Z="5.351682"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-kurve_k.lod.ls3"/>
+<p X="367.6804" Y="-146.1066" Z="399.4969"/>
+<phi Z="2.269274"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-kurve_l.lod.ls3"/>
+<p X="364.5083" Y="-148.7702" Z="399.4969"/>
+<phi Z="5.410867"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Kurve_s.lod.ls3"/>
+<p X="323.9973" Y="-97.6292" Z="399.5386"/>
+<phi Z="2.342434"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-kurve_l.lod.ls3"/>
+<p X="321.0254" Y="-100.5205" Z="399.5385"/>
+<phi Z="5.484027"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Kurve_s.lod.ls3"/>
+<p X="276.8381" Y="-52.5209" Z="399.5803"/>
+<phi Z="2.412618"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-kurve_l.lod.ls3"/>
+<p X="274.0962" Y="-55.5911" Z="399.5803"/>
+<phi Z="5.554211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Kurve_s.lod.ls3"/>
+<p X="226.5491" Y="-10.9307" Z="399.6219"/>
+<phi Z="2.482835"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-kurve_l.lod.ls3"/>
+<p X="224.0479" Y="-14.1619" Z="399.622"/>
+<phi Z="5.624428"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Kurve_s.lod.ls3"/>
+<p X="173.3909" Y="26.9253" Z="399.6636"/>
+<phi Z="2.552965"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\Anker.lod.ls3"/>
+<p X="176.9995" Y="32.3314" Z="399.6636"/>
+<phi Z="-0.588628"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-kurve_l.lod.ls3"/>
+<p X="171.1399" Y="23.5533" Z="399.6638"/>
+<phi Z="5.694558"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\Anker.lod.ls3"/>
+<p X="171.1396" Y="23.5533" Z="399.6637"/>
+<phi Z="-0.588628"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Kurve_s.lod.ls3"/>
+<p X="117.6382" Y="60.8351" Z="399.7054"/>
+<phi Z="2.637225"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="168.2278" Y="33.457" Z="406.737"/>
+<phi X="-0.002927" Z="4.209388"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-kurve_l.lod.ls3"/>
+<p X="115.6929" Y="57.3107" Z="399.7054"/>
+<phi Z="5.778817"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="162.7053" Y="25.4157" Z="406.7374"/>
+<phi X="-0.002955" Z="4.109275"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Kurve_s.lod.ls3"/>
+<p X="59.468" Y="90.4149" Z="399.7471"/>
+<phi Z="2.711595"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\Anker.lod.ls3"/>
+<p X="59.4678" Y="90.4149" Z="399.7471"/>
+<phi Z="2.711595"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="67.8347" Y="89.4148" Z="406.8103"/>
+<phi X="-0.001656" Z="1.056793"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-kurve_l.lod.ls3"/>
+<p X="57.7932" Y="86.763" Z="399.7471"/>
+<phi Z="5.853187"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\Anker.lod.ls3"/>
+<p X="55.0833" Y="80.8548" Z="399.747"/>
+<phi Z="2.711594"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="63.7158" Y="80.6087" Z="406.8104"/>
+<phi X="-0.001666" Z="1.156406"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-kurve_k.lod.ls3"/>
+<p X="-7.2441" Y="119.4431" Z="399.7936"/>
+<phi Z="2.754752"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-kurve_l.lod.ls3"/>
+<p X="-8.7527" Y="115.7396" Z="399.7936"/>
+<phi Z="5.896344"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Standard_k.lod.ls3"/>
+<p X="-81.7251" Y="148.6269" Z="399.7946"/>
+<phi Z="2.780672"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Standard_l.lod.ls3"/>
+<p X="-83.136" Y="144.8891" Z="399.7946"/>
+<phi Z="5.922265"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Standard_l.lod.ls3"/>
+<p X="-156.6108" Y="176.7715" Z="399.7702"/>
+<phi Z="2.78315"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Standard_k.lod.ls3"/>
+<p X="-158.0139" Y="173.0264" Z="399.7703"/>
+<phi Z="5.924743"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Standard_k.lod.ls3"/>
+<p X="-231.5264" Y="204.8367" Z="399.7458"/>
+<phi Z="2.783152"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Standard_l.lod.ls3"/>
+<p X="-232.9294" Y="201.0915" Z="399.7458"/>
+<phi Z="5.924745"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Standard_l.lod.ls3"/>
+<p X="-306.4419" Y="232.9019" Z="399.7215"/>
+<phi Z="2.783152"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Standard_k.lod.ls3"/>
+<p X="-307.845" Y="229.1566" Z="399.7215"/>
+<phi Z="5.924745"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Standard_k.lod.ls3"/>
+<p X="-381.3574" Y="260.967" Z="399.6971"/>
+<phi Z="2.783152"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Standard_l.lod.ls3"/>
+<p X="-382.7605" Y="257.2217" Z="399.6971"/>
+<phi Z="5.924745"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Standard_l.lod.ls3"/>
+<p X="-456.2732" Y="289.0319" Z="399.6727"/>
+<phi Z="2.783156"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Standard_k.lod.ls3"/>
+<p X="-457.6761" Y="285.2868" Z="399.6727"/>
+<phi Z="5.924748"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_507500_5283500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="296" MeshI="864">
 <RenderFlags TexVoreinstellung="3"/>
