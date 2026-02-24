@@ -15,5 +15,23 @@
 <Datei Dateiname="Terrain\General\forest\Wald_rand.dds"/>
 </Textur>
 </SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeshV="12" MeshI="33">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeshV="133" MeshI="435">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="5" MeterProTex="100" MeshV="107" MeshI="375">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\forest\Wald_oben.dds"/>
+</Textur>
+</SubSet>
 </Landschaft>
 </Zusi>

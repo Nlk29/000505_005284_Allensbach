@@ -1796,6 +1796,156 @@
 <phi X="-0.004447" Z="3.699953"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-70.7041" Y="47.2006" Z="398.1504"/>
+<phi Z="-0.970179"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-59.4011" Y="30.7008" Z="398.1446"/>
+<phi Z="-0.970179"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-48.1008" Y="14.1993" Z="398.1374"/>
+<phi Z="-0.971792"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-36.8245" Y="-2.3186" Z="398.1132"/>
+<phi Z="-0.971792"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-25.51" Y="-18.8097" Z="398.0848"/>
+<phi Z="-0.960956"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-14.0554" Y="-35.2045" Z="398.0548"/>
+<phi Z="-0.960956"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-2.521" Y="-51.5359" Z="398.0259"/>
+<phi Z="-0.952345"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="9.0688" Y="-67.8239" Z="398.0045"/>
+<phi Z="-0.952345"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-11.1326" Y="-57.5883" Z="398.2242"/>
+<phi Z="2.186125"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-22.675" Y="-41.2594" Z="398.2066"/>
+<phi Z="2.186125"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-34.0334" Y="-24.799" Z="398.186"/>
+<phi Z="2.170125"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-45.3159" Y="-8.2855" Z="398.1656"/>
+<phi Z="2.170234"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-56.5996" Y="8.2275" Z="398.1502"/>
+<phi Z="2.170234"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-67.8955" Y="24.7296" Z="398.1515"/>
+<phi Z="2.171305"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-79.1951" Y="41.2283" Z="398.1544"/>
+<phi Z="2.171305"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-90.4949" Y="57.7269" Z="399.0745"/>
+<phi Z="2.171305"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-81.4765" Y="63.0404" Z="399.0744"/>
+<phi Z="-0.983057"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="0.5259" Y="-73.9614" Z="398.2444"/>
+<phi Z="2.212532"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiguhr\DB_Epoche3\Bahnsteiguhr_120cm-rund_mastmontiert.lod.ls3"/>
+<p X="-84.998" Y="49.8019" Z="402.6823"/>
+<phi Z="-1.06716"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiguhr\DB_Epoche3\Bahnsteiguhr_60cm-rund_wandmontiert.lod.ls3"/>
+<p X="-79.1912" Y="60.2888" Z="401.6542"/>
+<phi Z="-0.941823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiguhr\Masten\DB_Stahlmast.lod.ls3"/>
+<p X="-84.998" Y="49.8019" Z="398.7823"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-82.3517" Y="73.6498" Z="399.0747"/>
+<phi Z="0.999746"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-96.326" Y="62.4165" Z="398.7426"/>
+<phi Z="0.592648"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Bahnuebergangslaterne\Bahnuebergangslaterne_6m_rechts.lod.ls3"/>
+<p X="333.538" Y="-408.4883" Z="398.7663"/>
+<phi Z="5.642105"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Bahnuebergangslaterne\Bahnuebergangslaterne_6m_rechts.lod.ls3"/>
+<p X="335.4741" Y="-390.2986" Z="398.5711"/>
+<phi Z="2.503457"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_508500_5282500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="233" MeshI="687">
 <RenderFlags TexVoreinstellung="3"/>
@@ -2356,6 +2506,24 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeshV="1037" MeshI="3897">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeshV="178" MeshI="558">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="5" MeterProTex="100" MeshV="87" MeshI="273">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\forest\Wald_oben.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

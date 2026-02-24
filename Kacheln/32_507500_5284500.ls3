@@ -888,5 +888,29 @@
 <Datei Dateiname="Terrain\Default\stubble-field.dds"/>
 </Textur>
 </SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeshV="217" MeshI="624">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeshV="591" MeshI="1893">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeshV="166" MeshI="495">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="5" MeterProTex="100" MeshV="274" MeshI="948">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\forest\Wald_oben.dds"/>
+</Textur>
+</SubSet>
 </Landschaft>
 </Zusi>

@@ -566,6 +566,18 @@
 <phi Z="2.589673"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Bahnuebergangslaterne\Bahnuebergangslaterne_6m_rechts.lod.ls3"/>
+<p X="332.6614" Y="-245.2513" Z="402.5804"/>
+<phi Z="2.558762"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1704" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Bahnuebergangslaterne\Bahnuebergangslaterne_6m_rechts.lod.ls3"/>
+<p X="330.3768" Y="-261.3088" Z="401.973"/>
+<phi Z="-0.521963"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_503500_5285500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="140" MeshI="408">
 <RenderFlags TexVoreinstellung="3"/>
@@ -1027,6 +1039,18 @@
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeshV="982" MeshI="3507">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeshV="240" MeshI="756">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>

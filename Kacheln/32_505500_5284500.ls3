@@ -2204,6 +2204,324 @@
 <phi Z="-0.466111"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Aushangtafeln\db_abfahrt-ankunft.lod.ls3"/>
+<p X="-358.9883" Y="84.844" Z="399.6611"/>
+<phi Z="-0.47582"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteigbank\holzbank_braun.lod.ls3"/>
+<p X="-379.6154" Y="95.1403" Z="399.6798"/>
+<phi Z="2.668063"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteigbank\holzbank_braun.lod.ls3"/>
+<p X="-369.5555" Y="90.3101" Z="399.6798"/>
+<phi Z="2.668062"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-400.9088" Y="103.779" Z="399.6798"/>
+<phi Z="-0.461464"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-382.3742" Y="95.8192" Z="399.6798"/>
+<phi Z="-0.461464"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-364.4662" Y="86.914" Z="399.6798"/>
+<phi Z="-0.461464"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-346.5581" Y="78.0088" Z="399.6798"/>
+<phi Z="-0.461464"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-328.6508" Y="69.101" Z="399.6798"/>
+<phi Z="-0.4659"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-310.7825" Y="60.1165" Z="399.6798"/>
+<phi Z="-0.4659"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-292.9142" Y="51.1319" Z="399.6799"/>
+<phi Z="-0.4659"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-275.0458" Y="42.1474" Z="399.6793"/>
+<phi Z="-0.4659"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-257.1775" Y="33.1629" Z="399.6783"/>
+<phi Z="-0.4659"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-239.3091" Y="24.1783" Z="399.6772"/>
+<phi Z="-0.4659"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-223.6279" Y="16.2566" Z="399.6764"/>
+<phi Z="-0.473202"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-418.2709" Y="114.2303" Z="399.6798"/>
+<phi Z="-0.46273"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-247.3067" Y="13.1208" Z="399.6799"/>
+<phi Z="2.675328"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-265.1718" Y="22.1118" Z="399.6799"/>
+<phi Z="2.675328"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-283.0368" Y="31.1029" Z="399.6799"/>
+<phi Z="2.675328"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-300.9019" Y="40.0939" Z="399.6799"/>
+<phi Z="2.675328"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-318.767" Y="49.085" Z="399.6799"/>
+<phi Z="2.675328"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-336.632" Y="58.076" Z="399.6799"/>
+<phi Z="2.675328"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-354.4971" Y="67.0671" Z="399.6799"/>
+<phi Z="2.675328"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-372.3622" Y="76.0581" Z="399.6798"/>
+<phi Z="2.675328"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-390.2273" Y="85.0492" Z="399.6798"/>
+<phi Z="2.675328"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-408.0923" Y="94.0403" Z="399.6798"/>
+<phi Z="2.675328"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-420.5902" Y="100.3635" Z="399.6798"/>
+<phi Z="2.679517"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
+<p X="-229.5152" Y="4.2697" Z="399.6799"/>
+<phi Z="2.664136"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiguhr\DB_1985\Bahnsteiguhr_60cm-rund_wandmontiert.lod.ls3"/>
+<p X="-379.6827" Y="95.5468" Z="402.5564"/>
+<phi Z="-0.461463"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiguhr\Masten\DB_Betonmast_8eckig.lod.ls3"/>
+<p X="-386.6865" Y="83.6499" Z="399.6798"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiguhr\DB_1985\Bahnsteiguhr_120cm-rund_mastmontiert.lod.ls3"/>
+<p X="-386.6865" Y="83.6499" Z="403.5798"/>
+<phi Z="-0.457494"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_2x1m.lod.ls3"/>
+<p X="-397.3976" Y="103.19" Z="399.6798"/>
+<phi Z="-0.461463"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_2x1m.lod.ls3"/>
+<p X="-395.6157" Y="102.2845" Z="399.6798"/>
+<phi Z="-0.461463"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_blue01.lod.ls3"/>
+<p X="-397.8927" Y="103.4279" Z="400.2657"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_blue01.lod.ls3"/>
+<p X="-397.4321" Y="103.2373" Z="400.2751"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_blue01.lod.ls3"/>
+<p X="-396.9138" Y="102.9023" Z="400.2532"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-396.2805" Y="102.4695" Z="400.2361"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-395.8216" Y="102.6195" Z="400.2626"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-395.1668" Y="102.0962" Z="400.3111"/>
+<phi/>
+<sk X="0.5" Y="0.5" Z="0.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Lautsprecher\DB_Lautsprecher.lod.ls3"/>
+<p X="-379.6827" Y="95.5312" Z="402.08"/>
+<phi Z="2.680129"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Lautsprecher\DB_Lautsprecher.lod.ls3"/>
+<p X="-386.685" Y="83.7" Z="402.5"/>
+<phi Z="-0.457494"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Lautsprecher\DB_Lautsprecher.lod.ls3"/>
+<p X="-275.0458" Y="42.1474" Z="402.6793"/>
+<phi Z="2.675693"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Lautsprecher\DB_Lautsprecher.lod.ls3"/>
+<p X="-283.0368" Y="31.1029" Z="402.6799"/>
+<phi Z="5.816921"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-205.7899" Y="7.2886" Z="399.3"/>
+<phi Z="5.817076"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="100.2112" Y="-146.6547" Z="399.3"/>
+<phi Z="2.67548"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh0-scheibe.lod.ls3"/>
+<p X="-206.2119" Y="8.4524" Z="400.5"/>
+<phi Z="-0.46611"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh0-scheibe.lod.ls3"/>
+<p X="100.6331" Y="-147.8185" Z="400.5"/>
+<phi Z="2.67548"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\ueberschreiten_verboten.lod.ls3"/>
+<p X="-228.6753" Y="5.1873" Z="399"/>
+<phi Z="-0.462512"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\ueberschreiten_verboten.lod.ls3"/>
+<p X="-223.6984" Y="15.0269" Z="399"/>
+<phi Z="-0.462512"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\ueberschreiten_verboten.lod.ls3"/>
+<p X="-404.9679" Y="99.95" Z="397.8"/>
+<phi Z="1.108284"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Streugutkiste\streugutkiste.lod.ls3"/>
+<p X="-338.2216" Y="73.1761" Z="399.67"/>
+<phi Z="2.67908"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnmeisterei\Spurstange.lod.ls3"/>
+<p X="-7.4654" Y="-88.1795" Z="399.3"/>
+<phi Z="2.578661"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Bahnuebergangslaterne\Bahnuebergangslaterne_6m_rechts.lod.ls3"/>
+<p X="-432.1542" Y="121.0661" Z="398.4532"/>
+<phi Z="3.211624"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Bahnuebergangslaterne\Bahnuebergangslaterne_6m_links.lod.ls3"/>
+<p X="-430.6056" Y="105.3146" Z="399.0591"/>
+<phi Z="6.364997"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_505500_5284500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="295" MeshI="636">
 <RenderFlags TexVoreinstellung="3"/>
@@ -4378,6 +4696,24 @@
 </Textur>
 <Textur>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Holz_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeshV="1113" MeshI="4332">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeshV="545" MeshI="1467">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="5" MeterProTex="100" MeshV="60" MeshI="222">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\forest\Wald_oben.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
