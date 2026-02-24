@@ -3,7 +3,7 @@
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
 <lsb Dateiname="32_507500_5285500.lsb"/>
-<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="1" MeterProTex="100" MeterProTex2="10" MeshV="52" MeshI="150">
+<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="4" MeterProTex="100" MeshV="52" MeshI="150">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\General\forest\Wald_oben.dds"/>
@@ -15,7 +15,7 @@
 <Datei Dateiname="Terrain\General\forest\Wald_rand.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="1" MeterProTex="100" MeterProTex2="10" MeshV="70" MeshI="204">
+<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="4" MeterProTex="100" MeshV="70" MeshI="204">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\General\forest\Wald_oben.dds"/>
@@ -27,7 +27,7 @@
 <Datei Dateiname="Terrain\General\forest\Wald_rand.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="1" MeterProTex="100" MeterProTex2="10" MeshV="19" MeshI="45">
+<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="4" MeterProTex="100" MeshV="19" MeshI="45">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\General\forest\Wald_oben.dds"/>
@@ -39,7 +39,7 @@
 <Datei Dateiname="Terrain\General\forest\Wald_rand.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="1" MeterProTex="100" MeterProTex2="10" MeshV="26" MeshI="72">
+<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="4" MeterProTex="100" MeshV="26" MeshI="72">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\General\forest\Wald_oben.dds"/>

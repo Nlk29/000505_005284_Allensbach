@@ -2352,7 +2352,7 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="1" MeterProTex="100" MeterProTex2="10" MeshV="22" MeshI="60">
+<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="4" MeterProTex="100" MeshV="22" MeshI="60">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\General\forest\Wald_oben.dds"/>

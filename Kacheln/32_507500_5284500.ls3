@@ -768,7 +768,7 @@
 <Datei Dateiname="Terrain\General\forest\Wald_rand.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="1" MeterProTex="100" MeterProTex2="10" MeshV="56" MeshI="162">
+<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="4" MeterProTex="100" MeshV="56" MeshI="162">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\General\forest\Wald_oben.dds"/>
@@ -780,7 +780,7 @@
 <Datei Dateiname="Terrain\General\forest\Wald_rand.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="1" MeterProTex="100" MeterProTex2="10" MeshV="72" MeshI="198">
+<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="4" MeterProTex="100" MeshV="72" MeshI="198">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\General\forest\Wald_oben.dds"/>
@@ -870,7 +870,7 @@
 <Datei Dateiname="Terrain\Default\soil01.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="1" MeterProTex="100" MeterProTex2="10" MeshV="14" MeshI="30">
+<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="4" MeterProTex="100" MeshV="14" MeshI="30">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\General\forest\Wald_oben.dds"/>
