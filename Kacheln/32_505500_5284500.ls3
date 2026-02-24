@@ -1154,18 +1154,6 @@
 <phi Z="-1.052083"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="24" BoundingR="7" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000486_006019_StPeterOrding\Objekte\APO_Schulstrasse_1\APO_Schulstrasse_1.lod.ls3"/>
-<p X="-65.529" Y="247.2124" Z="403.4415"/>
-<phi Z="-1.052083"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="24" BoundingR="11" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000460_005690_Bestwig\Objekte\Bestwig_23_Bahnhofstr\Bestwig_23_Fahrschule.lod.ls3"/>
-<p X="-55.6281" Y="229.8684" Z="404.4387"/>
-<phi Z="0.518714"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="24" BoundingR="12" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000460_005690_Bestwig\Objekte\Bestwig_11_Wh_Bahnhofstr\Bestwig_11_WHaus_5.lod.ls3"/>
 <p X="-45.7272" Y="212.5244" Z="406.9552"/>
@@ -1228,7 +1216,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0006_0054\000635_005387_Nordendorf\Objekte\MNOD_Bf_Nebengebaeude\MNOD_Bf_Nebengebaeude.lod.ls3"/>
-<p X="-410.4278" Y="114.1247" Z="399.522"/>
+<p X="-409.7106" Y="113.8692" Z="399.522"/>
 <phi Z="1.110602"/>
 <sk X="0.95" Y="0.9"/>
 </Verknuepfte>
@@ -2290,67 +2278,67 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="-418.2709" Y="114.2303" Z="399.6798"/>
+<p X="-418.4455" Y="114.2408" Z="399.6798"/>
 <phi Z="-0.46273"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="-247.3067" Y="13.1208" Z="399.6799"/>
+<p X="-245.9614" Y="12.1938" Z="399.6799"/>
 <phi Z="2.675328"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="-265.1718" Y="22.1118" Z="399.6799"/>
+<p X="-263.3976" Y="21.0114" Z="399.6799"/>
 <phi Z="2.675328"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="-283.0368" Y="31.1029" Z="399.6799"/>
+<p X="-281.2626" Y="30.0025" Z="399.6799"/>
 <phi Z="2.675328"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="-300.9019" Y="40.0939" Z="399.6799"/>
+<p X="-299.1277" Y="38.9935" Z="399.6799"/>
 <phi Z="2.675328"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="-318.767" Y="49.085" Z="399.6799"/>
+<p X="-316.9928" Y="47.9846" Z="399.6799"/>
 <phi Z="2.675328"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="-336.632" Y="58.076" Z="399.6799"/>
+<p X="-334.8578" Y="56.9756" Z="399.6799"/>
 <phi Z="2.675328"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="-354.4971" Y="67.0671" Z="399.6799"/>
+<p X="-352.7229" Y="65.9667" Z="399.6799"/>
 <phi Z="2.675328"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="-372.3622" Y="76.0581" Z="399.6798"/>
+<p X="-370.588" Y="74.9577" Z="399.6798"/>
 <phi Z="2.675328"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="-390.2273" Y="85.0492" Z="399.6798"/>
+<p X="-388.4531" Y="83.9488" Z="399.6798"/>
 <phi Z="2.675328"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="-408.0923" Y="94.0403" Z="399.6798"/>
+<p X="-406.3181" Y="92.9399" Z="399.6798"/>
 <phi Z="2.675328"/>
 <sk/>
 </Verknuepfte>
@@ -2374,13 +2362,13 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiguhr\Masten\DB_Betonmast_8eckig.lod.ls3"/>
-<p X="-386.6865" Y="83.6499" Z="399.6798"/>
+<p X="-385.7771" Y="82.7862" Z="399.6798"/>
 <phi/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiguhr\DB_1985\Bahnsteiguhr_120cm-rund_mastmontiert.lod.ls3"/>
-<p X="-386.6865" Y="83.6499" Z="403.5798"/>
+<p X="-385.7771" Y="82.7862" Z="403.5798"/>
 <phi Z="-0.457494"/>
 <sk/>
 </Verknuepfte>
@@ -2440,7 +2428,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Lautsprecher\DB_Lautsprecher.lod.ls3"/>
-<p X="-386.685" Y="83.7" Z="402.5"/>
+<p X="-385.7756" Y="82.8363" Z="402.5"/>
 <phi Z="-0.457494"/>
 <sk/>
 </Verknuepfte>
@@ -2494,7 +2482,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\ueberschreiten_verboten.lod.ls3"/>
-<p X="-404.9679" Y="99.95" Z="397.8"/>
+<p X="-404.9679" Y="99.95" Z="398.0578"/>
 <phi Z="1.108284"/>
 <sk/>
 </Verknuepfte>
@@ -2521,6 +2509,462 @@
 <p X="-430.6056" Y="105.3146" Z="399.0591"/>
 <phi Z="6.364997"/>
 <sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-405.3263" Y="102.9223" Z="399.2906"/>
+<phi Z="-0.453814"/>
+<sk X="1" Y="1.25" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleismitte.ls3"/>
+<p X="-407.4313" Y="98.6289" Z="399.2836"/>
+<phi Z="-0.453814"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleismitte.ls3"/>
+<p X="-405.4295" Y="102.7055" Z="399.2941"/>
+<phi Z="-0.453814"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisrand2m.ls3"/>
+<p X="-407.3359" Y="98.8412" Z="399.3012"/>
+<phi Z="-0.453814"/>
+<sk X="1" Y="1.25" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisrand2m.ls3"/>
+<p X="-405.599" Y="102.3465" Z="399.2906"/>
+<phi Z="2.687779"/>
+<sk X="1" Y="1.5" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-400.292" Y="97.6585" Z="398.828"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-398.0589" Y="96.5345" Z="398.8277"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-395.8259" Y="95.4105" Z="398.8273"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-393.5928" Y="94.2865" Z="398.827"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-391.3597" Y="93.1624" Z="398.8266"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-389.1266" Y="92.0384" Z="398.8263"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-386.8936" Y="90.9145" Z="398.8259"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-384.6605" Y="89.7904" Z="398.8256"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-382.4274" Y="88.6664" Z="398.8252"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-380.1944" Y="87.5424" Z="398.8249"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-377.9613" Y="86.4184" Z="398.8245"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-375.7282" Y="85.2944" Z="398.8242"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-373.4951" Y="84.1704" Z="398.8238"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-371.2621" Y="83.0464" Z="398.8235"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-369.029" Y="81.9224" Z="398.8231"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-366.7959" Y="80.7984" Z="398.8228"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-364.5629" Y="79.6743" Z="398.8224"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-362.3298" Y="78.5503" Z="398.822"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-360.0967" Y="77.4263" Z="398.8217"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-357.8636" Y="76.3023" Z="398.8214"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-355.6306" Y="75.1783" Z="398.821"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-353.3975" Y="74.0543" Z="398.8206"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-351.1644" Y="72.9303" Z="398.8203"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-348.9314" Y="71.8063" Z="398.8199"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-346.6983" Y="70.6823" Z="398.8196"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-344.4652" Y="69.5583" Z="398.8192"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-342.2321" Y="68.4342" Z="398.8188"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-339.9991" Y="67.3103" Z="398.8185"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-337.766" Y="66.1862" Z="398.8181"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-335.533" Y="65.0622" Z="398.8178"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-333.2999" Y="63.9382" Z="398.8174"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-331.0668" Y="62.8142" Z="398.8171"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-328.8337" Y="61.6902" Z="398.8167"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-326.6006" Y="60.5662" Z="398.8164"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-324.3676" Y="59.4422" Z="398.816"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-322.1345" Y="58.3182" Z="398.8157"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-319.9014" Y="57.1942" Z="398.8153"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-317.6684" Y="56.0702" Z="398.815"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-315.4353" Y="54.9461" Z="398.8146"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-412.0524" Y="103.4727" Z="398.805"/>
+<phi Z="2.679794"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-414.2905" Y="104.5866" Z="398.8122"/>
+<phi Z="2.679794"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-416.5286" Y="105.7005" Z="398.8194"/>
+<phi Z="2.679794"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-418.7667" Y="106.8144" Z="398.8266"/>
+<phi Z="2.679794"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-421.0049" Y="107.9283" Z="398.8338"/>
+<phi Z="2.679794"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen.lod.ls3"/>
+<p X="-423.243" Y="109.0421" Z="398.8409"/>
+<phi Z="2.679794"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen_Schluss.lod.ls3"/>
+<p X="-409.8142" Y="102.3588" Z="398.7979"/>
+<phi Z="2.679794"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Gelaender_2m50_dunkelgruen_Schluss.lod.ls3"/>
+<p X="-402.1852" Y="98.6067" Z="398.8284"/>
+<phi Z="-0.466321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Laeutewerk\Spindellaeutewerk\Spindellaeutewerk.lod.ls3"/>
+<p X="-385.8163" Y="98.0349" Z="399.6798"/>
+<phi Z="-0.407425"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Ladegut\Blechkiste\Blechkiste_Steinkohle.lod.ls3"/>
+<p X="-149.6394" Y="-17.592" Z="400.5406"/>
+<phi Z="-0.451604"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Ladegut\Kabeltrommel\Kabeltrommel_Holz_160cm_beladen.lod.ls3"/>
+<p X="-154.5541" Y="-7.3801" Z="400.6106"/>
+<phi Z="-0.434423"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Ladegut\Oelfass\oelfass_226_gr.lod.ls3"/>
+<p X="-154.819" Y="-5.8528" Z="400.5536"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Ladegut\Oelfass\oelfass_226_sw.lod.ls3"/>
+<p X="-155.0986" Y="-5.225" Z="400.5576"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Ladegut\Oelfass\oelfass_226_gr.lod.ls3"/>
+<p X="-155.497" Y="-5.8372" Z="400.5518"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\halterung_seitlich.lod.ls3"/>
+<p X="-382.3742" Y="95.8192" Z="403.0798"/>
+<phi Z="2.680129"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\gleis1.lod.ls3"/>
+<p X="-382.6413" Y="95.282" Z="403.0797"/>
+<phi Z="2.680129"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\halterung_seitlich.lod.ls3"/>
+<p X="-418.4455" Y="114.2408" Z="403.0798"/>
+<phi Z="5.820455"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\gleis1.lod.ls3"/>
+<p X="-418.1776" Y="114.7776" Z="403.0798"/>
+<phi Z="-0.46273"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\halterung_seitlich.lod.ls3"/>
+<p X="-420.5902" Y="100.3635" Z="403.0798"/>
+<phi Z="2.679517"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\halterung_seitlich.lod.ls3"/>
+<p X="-388.453" Y="83.9488" Z="403.0798"/>
+<phi Z="2.675328"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\gleis2.lod.ls3"/>
+<p X="-388.7227" Y="83.4128" Z="403.0798"/>
+<phi Z="2.675328"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\gleis2.lod.ls3"/>
+<p X="-420.8577" Y="99.8264" Z="403.0798"/>
+<phi Z="2.679517"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\halterung_seitlich.lod.ls3"/>
+<p X="-346.5581" Y="78.0088" Z="403.0798"/>
+<phi Z="5.821722"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\gleis1.lod.ls3"/>
+<p X="-346.291" Y="78.546" Z="403.0798"/>
+<phi Z="-0.461463"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\halterung_seitlich.lod.ls3"/>
+<p X="-352.7228" Y="65.9666" Z="403.0799"/>
+<phi Z="2.675328"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\gleis2.lod.ls3"/>
+<p X="-352.9925" Y="65.4306" Z="403.0799"/>
+<phi Z="2.675328"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Objekte\Schild_Allensbach_gross\Schild_einseitig-stehend_3m60.lod.ls3"/>
+<p X="381.7961" Y="-270.8527" Z="399.5086"/>
+<phi Z="-2.568743"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Objekte\Schild_Allensbach\Schild_einseitig_3m00.lod.ls3"/>
+<p X="-375.4669" Y="93.5655" Z="401.2888"/>
+<phi Z="2.680129"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Objekte\Schild_Allensbach_Af\Schild_einseitig_3m00.lod.ls3"/>
+<p X="-363.045" Y="92.8318" Z="401.2014"/>
+<phi Z="4.250926"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Objekte\Schild_Allensbach_Aw\Schild_einseitig_3m00.lod.ls3"/>
+<p X="203.8117" Y="-199.6153" Z="400.6659"/>
+<phi Z="2.684834"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Objekte\Schild_Allensbach\Schild_einseitig_3m00.lod.ls3"/>
+<p X="-415.6443" Y="116.868" Z="401.4175"/>
+<phi Z="1.110602"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Objekte\Schild_Allensbach\Schild_einseitig_3m00.lod.ls3"/>
+<p X="-209.6964" Y="12.5287" Z="400.5897"/>
+<phi Z="8.945945"/>
+<sk X="1.1" Y="1" Z="1"/>
 </Verknuepfte>
 <lsb Dateiname="32_505500_5284500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="295" MeshI="636">
@@ -4714,6 +5158,12 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\General\forest\Wald_oben.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="14" MeshI="36">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

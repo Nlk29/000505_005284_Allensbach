@@ -1934,16 +1934,28 @@
 <phi Z="0.592648"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Bahnuebergangslaterne\Bahnuebergangslaterne_6m_rechts.lod.ls3"/>
 <p X="333.538" Y="-408.4883" Z="398.7663"/>
 <phi Z="5.642105"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Bahnuebergangslaterne\Bahnuebergangslaterne_6m_rechts.lod.ls3"/>
 <p X="335.4741" Y="-390.2986" Z="398.5711"/>
 <phi Z="2.503457"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Objekte\Schild_Reichenau_Waldsiedling\Schild_zweiseitig-stehend_4m80.lod.ls3"/>
+<p X="16.1633" Y="-73.0209" Z="398.8257"/>
+<phi Z="0.07314"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Objekte\Schild_Reichenau_Waldsiedling\Schild_zweiseitig-stehend_4m80.lod.ls3"/>
+<p X="-99.2139" Y="66.7352" Z="398.2559"/>
+<phi Z="0.156098"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_508500_5282500.lsb"/>

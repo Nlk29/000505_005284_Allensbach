@@ -854,6 +854,12 @@
 <phi Z="5.852197"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Objekte\Schild_Allensbach_gross\Schild_einseitig-stehend_3m60.lod.ls3"/>
+<p X="363.6796" Y="207.8498" Z="398.2801"/>
+<phi Z="0.424115"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_504500_5284500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="73" MeshI="111">
 <RenderFlags TexVoreinstellung="3"/>

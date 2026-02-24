@@ -572,10 +572,28 @@
 <phi Z="2.558762"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1704" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Bahnuebergangslaterne\Bahnuebergangslaterne_6m_rechts.lod.ls3"/>
 <p X="330.3768" Y="-261.3088" Z="401.973"/>
 <phi Z="-0.521963"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Bahnuebergangslaterne\Bahnuebergangslaterne_6m_rechts.lod.ls3"/>
+<p X="-93.924" Y="15.7976" Z="402.9775"/>
+<phi Z="2.655627"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Bahnuebergangslaterne\Bahnuebergangslaterne_6m_links.lod.ls3"/>
+<p X="-99.7936" Y="4.2073" Z="402.5955"/>
+<phi Z="-0.925297"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Fernsprecher\F_Wellblechbude.lod.ls3"/>
+<p X="-63.9264" Y="-7.0929" Z="402.3054"/>
+<phi Z="2.589678"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_503500_5285500.lsb"/>

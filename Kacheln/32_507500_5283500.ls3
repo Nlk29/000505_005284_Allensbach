@@ -1126,55 +1126,55 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="129.8701" Y="44.3525" Z="399.5657"/>
+<p X="131.2424" Y="43.6107" Z="399.5657"/>
 <phi Z="2.612058"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="112.563" Y="54.3716" Z="399.5894"/>
+<p X="114.554" Y="53.4259" Z="399.5894"/>
 <phi Z="2.66968"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="94.749" Y="64.179" Z="399.4106"/>
+<p X="96.74" Y="63.2333" Z="399.4106"/>
 <phi Z="2.66968"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="76.9351" Y="73.1786" Z="399.4665"/>
+<p X="79.5437" Y="71.804" Z="399.4665"/>
 <phi Z="2.66968"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="59.0876" Y="81.5771" Z="399.627"/>
+<p X="61.6962" Y="80.2025" Z="399.627"/>
 <phi Z="2.72388"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="40.8074" Y="90.0311" Z="399.6053"/>
+<p X="43.7101" Y="88.5791" Z="399.6053"/>
 <phi Z="2.72388"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="22.5269" Y="98.057" Z="399.6269"/>
+<p X="25.4296" Y="96.605" Z="399.6269"/>
 <phi Z="2.72388"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="4.1016" Y="105.5786" Z="399.6355"/>
+<p X="7.1391" Y="104.6141" Z="399.6355"/>
 <phi Z="2.752977"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_6m.lod.ls3"/>
-<p X="-14.407" Y="113.5802" Z="399.6499"/>
+<p X="-11.3695" Y="112.6157" Z="399.6499"/>
 <phi Z="2.752977"/>
 <sk/>
 </Verknuepfte>
@@ -1214,10 +1214,34 @@
 <phi Z="2.585595"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Bahnuebergangslaterne\Bahnuebergangslaterne_6m_rechts.lod.ls3"/>
 <p X="-32.7644" Y="118.8718" Z="399.5865"/>
 <phi Z="5.694791"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Objekte\Schild_Hegne\Schild_zweiseitig_2m40.lod.ls3"/>
+<p X="7.1824" Y="104.5567" Z="402.2863"/>
+<phi Z="-1.959412"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Objekte\Schild_Hegne\Schild_zweiseitig_2m40.lod.ls3"/>
+<p X="7.064" Y="104.6047" Z="402.2863"/>
+<phi Z="-1.959413"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Objekte\Schild_Hegne\Schild_zweiseitig_2m40.lod.ls3"/>
+<p X="12.4421" Y="116.2503" Z="402.307"/>
+<phi Z="1.170586"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Objekte\Schild_Hegne\Schild_zweiseitig_2m40.lod.ls3"/>
+<p X="12.5617" Y="116.2069" Z="402.3129"/>
+<phi Z="1.170586"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_507500_5283500.lsb"/>

@@ -260,6 +260,24 @@
 <phi Z="2.748112"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Bahnuebergangslaterne\Bahnuebergangslaterne_6m_rechts.lod.ls3"/>
+<p X="417.5293" Y="-236.3474" Z="400.2871"/>
+<phi Z="2.923154"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Bahnuebergangslaterne\Bahnuebergangslaterne_6m_rechts.lod.ls3"/>
+<p X="419.3142" Y="-251.6851" Z="400.2331"/>
+<phi Z="-0.260163"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Fernsprecher\F-Kasten-einfachfuss.lod.ls3"/>
+<p X="-112.3035" Y="-18.2205" Z="400.0995"/>
+<phi Z="2.748117"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_501500_5286500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="38" MeshI="102">
 <RenderFlags TexVoreinstellung="3"/>

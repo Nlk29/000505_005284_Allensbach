@@ -92,7 +92,7 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte GruppenName="Nachbarmodul" BoundingR="4890" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte GruppenName="Nachbarmodul" BoundingR="4834" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.ls3"/>
 <p X="6000" Y="-3000"/>
 <phi/>
