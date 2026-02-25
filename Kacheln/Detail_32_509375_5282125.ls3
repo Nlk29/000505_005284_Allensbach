@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\grasses\gras06.lod.ls3"/>
+<p X="-123.9985" Y="-110.2681" Z="403.0062"/>
+<phi Z="-0.942604"/>
+<sk X="1.4853" Y="1.4853" Z="1.4853"/>
+</Verknuepfte>
+</Landschaft>
+</Zusi>

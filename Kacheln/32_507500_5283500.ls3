@@ -1220,28 +1220,100 @@
 <phi Z="5.694791"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Objekte\Schild_Hegne\Schild_zweiseitig_2m40.lod.ls3"/>
 <p X="7.1824" Y="104.5567" Z="402.2863"/>
 <phi Z="-1.959412"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Objekte\Schild_Hegne\Schild_zweiseitig_2m40.lod.ls3"/>
 <p X="7.064" Y="104.6047" Z="402.2863"/>
 <phi Z="-1.959413"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Objekte\Schild_Hegne\Schild_zweiseitig_2m40.lod.ls3"/>
 <p X="12.4421" Y="116.2503" Z="402.307"/>
 <phi Z="1.170586"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Objekte\Schild_Hegne\Schild_zweiseitig_2m40.lod.ls3"/>
 <p X="12.5617" Y="116.2069" Z="402.3129"/>
 <phi Z="1.170586"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Aushangtafeln\db_abfahrt-ankunft.lod.ls3"/>
+<p X="-26.459" Y="113.739" Z="399.6744"/>
+<phi Z="1.174825"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\halterung_seitlich.lod.ls3"/>
+<p X="7.1392" Y="104.6141" Z="403.0355"/>
+<phi Z="-0.388615"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\gleis2.lod.ls3"/>
+<p X="7.3665" Y="105.1694" Z="403.0354"/>
+<phi Z="-0.388615"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\halterung_seitlich.lod.ls3"/>
+<p X="12.479" Y="116.1969" Z="403.075"/>
+<phi Z="2.741383"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\gleis1.lod.ls3"/>
+<p X="12.2454" Y="115.6443" Z="403.0749"/>
+<phi Z="2.741383"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\halterung_seitlich.lod.ls3"/>
+<p X="-24.363" Y="131.1069" Z="403.2064"/>
+<phi Z="2.744312"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\gleis1.lod.ls3"/>
+<p X="-24.5952" Y="130.5536" Z="403.2063"/>
+<phi Z="2.744312"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\halterung_seitlich.lod.ls3"/>
+<p X="-29.0486" Y="119.4825" Z="403.1115"/>
+<phi Z="-0.382226"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\Gleisnummern\DB_Epoche3\gleis2.lod.ls3"/>
+<p X="-28.8247" Y="120.0392" Z="403.1114"/>
+<phi Z="-0.382226"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\ueberschreiten_verboten.lod.ls3"/>
+<p X="-20.9138" Y="123.1111" Z="398.5"/>
+<phi Z="1.186824"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\durchgang_verboten.lod.ls3"/>
+<p X="147.675" Y="35.0165" Z="399.2"/>
+<phi Z="2.583087"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\durchgang_verboten.lod.ls3"/>
+<p X="153.1331" Y="44.1627" Z="399.2"/>
+<phi Z="2.583087"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_507500_5283500.lsb"/>

@@ -734,6 +734,144 @@
 <phi Z="0.319386"/>
 <sk X="0.845" Y="0.845" Z="0.845"/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-479.3296" Y="-386.9357" Z="402.2053"/>
+<phi Z="-1.024613"/>
+<sk X="0.8216" Y="0.8216" Z="0.8216"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-441.2744" Y="-372.0709" Z="404.4924"/>
+<phi Z="1.157026"/>
+<sk X="0.7233" Y="0.7233" Z="0.7233"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-402.0332" Y="-350.7343" Z="405.0863"/>
+<phi Z="1.83752"/>
+<sk X="0.9722" Y="0.9722" Z="0.9722"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-380.2065" Y="-385.4481" Z="403.8885"/>
+<phi Z="-0.504474"/>
+<sk X="1.02" Y="1.02" Z="1.02"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-362.3643" Y="-433.3573" Z="403.4267"/>
+<phi Z="-1.77937"/>
+<sk X="0.8" Y="0.8" Z="0.8"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-335.2051" Y="-479.1293" Z="402.6645"/>
+<phi Z="-2.399058"/>
+<sk X="1.3" Y="1.3" Z="1.3"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-451.4941" Y="-440.6383" Z="402.1819"/>
+<phi Z="2.647193"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-446.2502" Y="-400.0034" Z="403.6354"/>
+<phi Z="0.643785"/>
+<sk X="0.8459" Y="0.8459" Z="0.8459"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-417.47" Y="-392.4644" Z="403.6787"/>
+<phi Z="-0.415642"/>
+<sk X="0.6395" Y="0.6395" Z="0.6395"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-311.7295" Y="-403.8026" Z="404.163"/>
+<phi Z="0.453356"/>
+<sk X="1.1303" Y="1.1303" Z="1.1303"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-13m.lod.ls3"/>
+<p X="-254.9951" Y="-410.7213" Z="404.6362"/>
+<phi Z="-1.620941"/>
+<sk X="1.5171" Y="1.5171" Z="1.5171"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-13m.lod.ls3"/>
+<p X="-240.7251" Y="-433.5599" Z="403.9784"/>
+<phi Z="-1.108717"/>
+<sk X="1.0563" Y="1.0563" Z="1.0563"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-271.8184" Y="-474.4408" Z="403.2492"/>
+<phi Z="-0.831668"/>
+<sk X="1.8893" Y="1.8893" Z="1.8893"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-485.4729" Y="-460.3859" Z="400.0426"/>
+<phi Z="2.723361"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-477.7356" Y="-443.223" Z="401.5143"/>
+<phi Z="-0.979403"/>
+<sk X="1.1157" Y="1.1157" Z="1.1157"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-13m.lod.ls3"/>
+<p X="-440.1321" Y="-432.0765" Z="403.0487"/>
+<phi Z="0.670578"/>
+<sk X="0.6266" Y="0.6266" Z="0.6266"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-371.272" Y="-386.9192" Z="403.9422"/>
+<phi Z="1.13496"/>
+<sk X="1.2351" Y="1.2351" Z="1.2351"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-366.9487" Y="-335.5887" Z="406.0287"/>
+<phi Z="-1.840183"/>
+<sk X="1.0466" Y="1.0466" Z="1.0466"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-350.7534" Y="-383.7896" Z="404.2661"/>
+<phi Z="-2.407587"/>
+<sk X="1.2902" Y="1.2902" Z="1.2902"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-323.0835" Y="-477.1536" Z="402.8795"/>
+<phi Z="-1.474397"/>
+<sk X="1.2062" Y="1.2062" Z="1.2062"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-13m.lod.ls3"/>
+<p X="-428.791" Y="-490.9589" Z="399.6958"/>
+<phi Z="4.139505"/>
+<sk X="0.9" Y="0.9" Z="0.9"/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="178" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_509125_5282125.ls3"/>
+<p X="-375" Y="-375"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="168" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_509375_5282125.ls3"/>
+<p X="-125" Y="-375"/>
+<phi/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_509500_5282500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="9" MeshI="21">
 <RenderFlags TexVoreinstellung="1"/>
