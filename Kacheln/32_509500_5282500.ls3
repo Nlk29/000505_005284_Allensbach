@@ -872,6 +872,24 @@
 <phi/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-08m.lod.ls3"/>
+<p X="-498.1711" Y="-281.3474" Z="404.541"/>
+<phi Z="0.672206"/>
+<sk X="0.9258" Y="0.9258" Z="0.9258"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-13m.lod.ls3"/>
+<p X="-447.0842" Y="-298.3829" Z="405.8781"/>
+<phi Z="-1.056591"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-13m.lod.ls3"/>
+<p X="-480.6892" Y="-337.6665" Z="404.0891"/>
+<phi Z="-3.097906"/>
+<sk X="1.0134" Y="1.0134" Z="1.0134"/>
+</Verknuepfte>
 <lsb Dateiname="32_509500_5282500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="9" MeshI="21">
 <RenderFlags TexVoreinstellung="1"/>
@@ -1005,7 +1023,7 @@
 <Datei Dateiname="Terrain\General\forest\Wald_rand.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeshV="661" MeshI="2286">
+<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeshV="662" MeshI="2289">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>

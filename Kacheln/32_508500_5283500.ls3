@@ -1118,6 +1118,96 @@
 <phi X="-0.003151" Z="0.558366"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="-374.3242" Y="-479.3331" Z="401.5518"/>
+<phi Z="1.524366"/>
+<sk X="1.1735" Y="1.1735" Z="1.1735"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-1m5.lod.ls3"/>
+<p X="-370.1599" Y="-446.1432" Z="402.1777"/>
+<phi Z="0.593196"/>
+<sk X="0.8356" Y="0.8356" Z="0.8356"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush05-08m.lod.ls3"/>
+<p X="-448.1536" Y="-350.4479" Z="399.5388"/>
+<phi Z="2.416709"/>
+<sk X="1.0028" Y="1.0028" Z="1.0028"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-3m.lod.ls3"/>
+<p X="-456.7642" Y="-327.1632" Z="399.2371"/>
+<phi Z="2.736984"/>
+<sk X="0.9854" Y="0.9854" Z="0.9854"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush05-08m.lod.ls3"/>
+<p X="-407.512" Y="-393.8433" Z="400.577"/>
+<phi Z="1.815297"/>
+<sk X="0.9084" Y="0.9084" Z="0.9084"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-1m5.lod.ls3"/>
+<p X="-458.4929" Y="-339.3031" Z="399.3216"/>
+<phi Z="2.212051"/>
+<sk X="0.98" Y="0.98" Z="0.98"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-3m.lod.ls3"/>
+<p X="-427.0985" Y="-453.636" Z="398.3094"/>
+<phi Z="1.32832"/>
+<sk X="0.8269" Y="0.8269" Z="0.8269"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="-484.1171" Y="-417.7805" Z="398.6608"/>
+<phi Z="3.303452"/>
+<sk X="1.1676" Y="1.1676" Z="1.1676"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-1m5.lod.ls3"/>
+<p X="-471.6411" Y="-405.9612" Z="398.6343"/>
+<phi Z="1.681213"/>
+<sk X="0.7402" Y="0.7402" Z="0.7402"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-1m5.lod.ls3"/>
+<p X="-486.6362" Y="-381.9397" Z="398.6392"/>
+<phi Z="-0.443355"/>
+<sk X="1.0119" Y="1.0119" Z="1.0119"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-374.4275" Y="-475.6685" Z="401.6493"/>
+<phi Z="1.848169"/>
+<sk X="0.7739" Y="0.7739" Z="0.7739"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-20m.lod.ls3"/>
+<p X="-437.8501" Y="-387.838" Z="399.9093"/>
+<phi Z="1.54032"/>
+<sk X="1.1557" Y="1.1557" Z="1.1557"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-427.728" Y="-367.512" Z="399.81"/>
+<phi Z="0.534092"/>
+<sk X="1.033" Y="1.033" Z="1.033"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-20m.lod.ls3"/>
+<p X="-375.3918" Y="-437.7346" Z="402.0905"/>
+<phi Z="0.179572"/>
+<sk X="1.0974" Y="1.0974" Z="1.0974"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="-474.8733" Y="-408.2157" Z="398.6529"/>
+<phi/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_508500_5283500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="20" MeshI="48">
 <RenderFlags TexVoreinstellung="3"/>

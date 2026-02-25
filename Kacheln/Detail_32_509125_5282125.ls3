@@ -3,12 +3,6 @@
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\grasses\gras01.lod.ls3"/>
-<p X="-123.6702" Y="-111.8317" Z="398.6958"/>
-<phi Z="-0.241696"/>
-<sk X="0.6306" Y="0.6306" Z="0.6306"/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\grasses\gras05.lod.ls3"/>
 <p X="-117.7258" Y="-116.3953" Z="398.5825"/>
 <phi Z="0.614806"/>
@@ -25,18 +19,6 @@
 <p X="-97.7942" Y="-121.0399" Z="398.6687"/>
 <phi Z="1.565171"/>
 <sk X="0.9119" Y="0.9119" Z="0.9119"/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\grasses\gras06.lod.ls3"/>
-<p X="-104.4277" Y="-117.8456" Z="398.664"/>
-<phi Z="1.907326"/>
-<sk X="1.5456" Y="1.5456" Z="1.5456"/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\grasses\gras03.lod.ls3"/>
-<p X="-115.1543" Y="-114.2817" Z="398.6556"/>
-<phi Z="3.493075"/>
-<sk X="1.1189" Y="1.1189" Z="1.1189"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\grasses\gras05.lod.ls3"/>

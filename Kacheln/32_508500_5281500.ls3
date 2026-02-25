@@ -596,12 +596,6 @@
 <phi Z="-3.289252"/>
 <sk X="1.0591" Y="1.0591" Z="1.0591"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Bushes\Bush03-1m5.lod.ls3"/>
-<p X="478.3811" Y="403.0051" Z="398.2704"/>
-<phi Z="-3.704632"/>
-<sk X="1.1736" Y="1.1736" Z="1.1736"/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush04-07m.lod.ls3"/>
 <p X="451.5518" Y="405.2219" Z="398.211"/>
@@ -871,6 +865,84 @@
 <p X="464.9177" Y="499.7448" Z="398.7603"/>
 <phi Z="3.234242"/>
 <sk X="0.9364" Y="0.9364" Z="0.9364"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-2m.lod.ls3"/>
+<p X="324.8289" Y="491.8859" Z="399.0869"/>
+<phi Z="-0.626164"/>
+<sk X="0.9187" Y="0.9187" Z="0.9187"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-07m.lod.ls3"/>
+<p X="369.0435" Y="443.1987" Z="398.2413"/>
+<phi Z="-1.731719"/>
+<sk X="1.0082" Y="1.0082" Z="1.0082"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="362.7217" Y="422.9385" Z="398.1983"/>
+<phi Z="0.096382"/>
+<sk X="0.9628" Y="0.9628" Z="0.9628"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-07m.lod.ls3"/>
+<p X="390.8474" Y="353.7412" Z="398.408"/>
+<phi Z="0.411385"/>
+<sk X="1.1795" Y="1.1795" Z="1.1795"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-07m.lod.ls3"/>
+<p X="440.1208" Y="318.6753" Z="398.1693"/>
+<phi Z="0.480041"/>
+<sk X="1.0705" Y="1.0705" Z="1.0705"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="444.2266" Y="272.9724" Z="398.2722"/>
+<phi Z="-0.490041"/>
+<sk X="0.9632" Y="0.9632" Z="0.9632"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
+<p X="496.7976" Y="205.665" Z="398.3541"/>
+<phi Z="0.751012"/>
+<sk X="0.9687" Y="0.9687" Z="0.9687"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-2m.lod.ls3"/>
+<p X="435.1216" Y="294.9241" Z="398.2749"/>
+<phi Z="2.604808"/>
+<sk X="1.0889" Y="1.0889" Z="1.0889"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="408.9014" Y="336.8115" Z="398.336"/>
+<phi Z="3.155856"/>
+<sk X="0.7646" Y="0.7646" Z="0.7646"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-07m.lod.ls3"/>
+<p X="389.3394" Y="384.4658" Z="398.2261"/>
+<phi Z="1.804325"/>
+<sk X="1.0602" Y="1.0602" Z="1.0602"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="377.3645" Y="425.9612" Z="398.0551"/>
+<phi Z="3.50293"/>
+<sk X="0.829" Y="0.829" Z="0.829"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
+<p X="329.564" Y="432.2356" Z="398.6064"/>
+<phi Z="2.84177"/>
+<sk X="0.9688" Y="0.9688" Z="0.9688"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="305.4548" Y="482.7533" Z="399.1641"/>
+<phi Z="3.750779"/>
+<sk X="1.0727" Y="1.0727" Z="1.0727"/>
 </Verknuepfte>
 <lsb Dateiname="32_508500_5281500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="15" MeshI="33">

@@ -381,6 +381,7 @@
 <ReferenzElemente ReferenzNr="317" StrElement="2476" StrNorm="1" RefTyp="4" Info="Bü km 0,000"/>
 <ReferenzElemente ReferenzNr="318" StrElement="2511" RefTyp="4" Info="Bü km 0,000"/>
 <ReferenzElemente ReferenzNr="319" StrElement="2511" StrNorm="1" RefTyp="4" Info="Bü km 0,000"/>
+<ReferenzElemente ReferenzNr="320" StrElement="2560" RefTyp="4" Info="Signal: Reichenau (Baden) Cv"/>
 <StrElement Nr="1" kr="-0.000066" spTrass="38.8889" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="4214.5688" Y="-2111.2671" Z="398.6589"/>
 <b X="4213.2988" Y="-2110.6689" Z="398.6589"/>
@@ -2001,20 +2002,13 @@
 <NachNorm Nr="2534"/>
 <NachGegen Nr="117"/>
 </StrElement>
-<StrElement Nr="108" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="3406.853" Y="-1432.495" Z="398.8865"/>
-<b X="3400.4919" Y="-1423.163" Z="398.8938"/>
-<InfoGegenRichtung vMax="38.8889" km="407.0313" pos="1"/>
-<NachNorm Nr="2464"/>
-<NachGegen Nr="2496"/>
-</StrElement>
 <StrElement Nr="109" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="3394.1311" Y="-1413.8311" Z="398.901"/>
 <b X="3343.533" Y="-1339.592" Z="398.9585"/>
 <InfoNormRichtung vMax="38.8889" km="407.02"/>
 <InfoGegenRichtung vMax="38.8889" km="406.9301" pos="1"/>
 <NachNorm Nr="110"/>
-<NachGegen Nr="2464"/>
+<NachGegen Nr="2560"/>
 </StrElement>
 <StrElement Nr="110" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="3343.533" Y="-1339.592" Z="398.9585"/>
@@ -23595,94 +23589,11 @@
 <NachGegen Nr="273"/>
 </StrElement>
 <StrElement Nr="2464" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="3400.4919" Y="-1423.163" Z="398.8938"/>
-<b X="3394.1311" Y="-1413.8311" Z="398.901"/>
-<InfoNormRichtung vMax="38.8889" km="407.0313"/>
-<InfoGegenRichtung vMax="-1">
-<Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="Cv" SignalTyp="6" BoundingR="10">
-<p X="3397.8477" Y="-1424.9653" Z="398.3938"/>
-<phi Z="-0.972511"/>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSig\DB_egli_VSig-Mast.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSIG\DB_egli-VSig-Standard-2begr-Gas.Lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="3.2" Z="0.5"/>
-<phi/>
-<sk/>
-<Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="1.5"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne2.ls3"/>
-</SignalFrame>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
-<VsigBegriff VsigGeschw="-1"/>
-<VsigBegriff/>
-<VsigBegriff VsigGeschw="2.7778"/>
-<VsigBegriff VsigGeschw="5.5556"/>
-<VsigBegriff VsigGeschw="8.3333"/>
-<VsigBegriff VsigGeschw="11.1111"/>
-<VsigBegriff VsigGeschw="13.8889"/>
-<VsigBegriff VsigGeschw="16.6667"/>
-<VsigBegriff VsigGeschw="19.4444"/>
-<VsigBegriff VsigGeschw="22.2222"/>
-<VsigBegriff VsigGeschw="25"/>
-<VsigBegriff VsigGeschw="27.7778"/>
-<VsigBegriff VsigGeschw="30.5556"/>
-<VsigBegriff VsigGeschw="33.3333"/>
-<VsigBegriff VsigGeschw="36.1111"/>
-<VsigBegriff VsigGeschw="38.8889"/>
-<VsigBegriff VsigGeschw="41.6667"/>
-<VsigBegriff VsigGeschw="-2"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="51" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
-<Ereignis Er="2000"/>
-</MatrixEintrag>
-</Signal>
-</InfoGegenRichtung>
-<NachNorm Nr="109"/>
-<NachGegen Nr="108"/>
+<g X="3406.853" Y="-1432.495" Z="398.8865"/>
+<b X="3397.3115" Y="-1418.4969" Z="398.8974"/>
+<InfoGegenRichtung vMax="-1"/>
+<NachNorm Nr="2560"/>
+<NachGegen Nr="2496"/>
 </StrElement>
 <StrElement Nr="2465" spTrass="38.8889" Anschluss="256" Oberbau="Stahl K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="79.4195" Y="610.3086" Z="399.3"/>
@@ -24692,7 +24603,7 @@
 <MatrixEintrag MatrixGeschw="-1"/>
 </Signal>
 </InfoGegenRichtung>
-<NachNorm Nr="108"/>
+<NachNorm Nr="2464"/>
 <NachGegen Nr="2534"/>
 </StrElement>
 <StrElement Nr="2497" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
@@ -26451,6 +26362,135 @@
 <g X="-3634.2373" Y="2434.1194" Z="395.23"/>
 <b X="-3670.7727" Y="2442.6921" Z="395.5569"/>
 </StrElement>
+<StrElement Nr="2560" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="3397.3115" Y="-1418.4969" Z="398.8974"/>
+<b X="3394.1311" Y="-1413.8311" Z="398.901"/>
+<InfoNormRichtung vMax="38.8889" km="407.0257"/>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="Cv" SignalTyp="6" BoundingR="10">
+<p X="3394.6675" Y="-1420.2993" Z="398.3974"/>
+<phi Z="-0.972505"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSig\DB_egli_VSig-Mast.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSIG\DB_egli-VSig-Standard-2begr-Gas.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="3.2" Z="0.5"/>
+<phi/>
+<sk/>
+<Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="1.5"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne2.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
+<VsigBegriff VsigGeschw="-1"/>
+<VsigBegriff/>
+<VsigBegriff VsigGeschw="2.7778"/>
+<VsigBegriff VsigGeschw="5.5556"/>
+<VsigBegriff VsigGeschw="8.3333"/>
+<VsigBegriff VsigGeschw="11.1111"/>
+<VsigBegriff VsigGeschw="13.8889"/>
+<VsigBegriff VsigGeschw="16.6667"/>
+<VsigBegriff VsigGeschw="19.4444"/>
+<VsigBegriff VsigGeschw="22.2222"/>
+<VsigBegriff VsigGeschw="25"/>
+<VsigBegriff VsigGeschw="27.7778"/>
+<VsigBegriff VsigGeschw="30.5556"/>
+<VsigBegriff VsigGeschw="33.3333"/>
+<VsigBegriff VsigGeschw="36.1111"/>
+<VsigBegriff VsigGeschw="38.8889"/>
+<VsigBegriff VsigGeschw="41.6667"/>
+<VsigBegriff VsigGeschw="-2"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="51" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="109"/>
+<NachGegen Nr="2464"/>
+</StrElement>
+<StrElement Nr="2561" spTrass="27.7778" Fkt="2" Volt="2" Drahthoehe="5">
+<g X="304.8211" Y="478.16" Z="398.8481"/>
+<b X="287.9388" Y="447.6427" Z="398.5273"/>
+</StrElement>
+<StrElement Nr="2562" spTrass="27.7778" Fkt="2" Volt="2" Drahthoehe="5">
+<g X="287.9388" Y="447.6427" Z="398.5273"/>
+<b X="260.9272" Y="472.5018" Z="398.4812"/>
+<NachNorm Nr="2563"/>
+</StrElement>
+<StrElement Nr="2563" spTrass="27.7778" Fkt="2" Volt="2" Drahthoehe="5">
+<g X="260.9272" Y="472.5018" Z="398.4812"/>
+<b X="276.1604" Y="492.8572" Z="398.6924"/>
+<NachNorm Nr="2564"/>
+</StrElement>
+<StrElement Nr="2564" spTrass="27.7778" Fkt="2" Volt="2" Drahthoehe="5">
+<g X="276.1604" Y="492.8572" Z="398.6924"/>
+<b X="304.8211" Y="478.16" Z="398.8481"/>
+<NachNorm Nr="2561"/>
+</StrElement>
+<StrElement Nr="2565" spTrass="27.7778" Fkt="2" Volt="2" Drahthoehe="5">
+<g X="548.7645" Y="359.2195" Z="398.6184"/>
+<b X="311.1712" Y="477.9641" Z="398.7603"/>
+<NachNorm Nr="2566"/>
+</StrElement>
+<StrElement Nr="2566" spTrass="27.7778" Fkt="2" Volt="2" Drahthoehe="5">
+<g X="311.1712" Y="477.9641" Z="398.7603"/>
+<b X="286.0121" Y="492.9677" Z="398.6251"/>
+<NachNorm Nr="2567"/>
+</StrElement>
+<StrElement Nr="2567" spTrass="27.7778" Fkt="2" Volt="2" Drahthoehe="5">
+<g X="286.0121" Y="492.9677" Z="398.6251"/>
+<b X="268.7236" Y="502.8335" Z="399.5788"/>
+<NachNorm Nr="2568"/>
+</StrElement>
+<StrElement Nr="2568" spTrass="27.7778" Fkt="2" Volt="2" Drahthoehe="5">
+<g X="268.7236" Y="502.8335" Z="399.5788"/>
+<b X="255.005" Y="509.7138" Z="399.5788"/>
+<NachNorm Nr="2569"/>
+</StrElement>
 <Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Allensbach \D" FahrstrTyp="TypZug" Laenge="4185.874">
 <FahrstrStart Ref="299">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
@@ -26579,7 +26619,7 @@
 <FahrstrVSignal Ref="281" FahrstrSignalSpalte="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
-<FahrstrVSignal Ref="152">
+<FahrstrVSignal Ref="320">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
@@ -26608,7 +26648,7 @@
 <FahrstrSignal Ref="216" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="224" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="317" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="232" FahrstrSignalZeile="1">
@@ -26655,7 +26695,7 @@
 <FahrstrSignal Ref="220" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="226" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="319" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="230" FahrstrSignalZeile="1">
@@ -26705,7 +26745,7 @@
 <FahrstrSignal Ref="229" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="225" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="318" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="219" FahrstrSignalZeile="1">
@@ -26740,7 +26780,7 @@
 <FahrstrSignal Ref="231" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="223" FahrstrSignalZeile="2">
+<FahrstrSignal Ref="316" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="215" FahrstrSignalZeile="1">
@@ -27192,9 +27232,6 @@
 <FahrstrSignal Ref="143">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrVSignal Ref="223" FahrstrSignalSpalte="2">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrVSignal>
 <FahrstrVSignal Ref="12">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
@@ -27254,14 +27291,11 @@
 <FahrstrSignal Ref="143" FahrstrSignalZeile="5">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrVSignal Ref="223" FahrstrSignalSpalte="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrVSignal>
 <FahrstrVSignal Ref="12" FahrstrSignalSpalte="5">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Allensbach C -&gt; Reichenau (Baden) C" FahrstrStrecke="720a" RglGgl="2" FahrstrTyp="TypZug" Laenge="4208.4932">
+<Fahrstrasse FahrstrName="Allensbach C -&gt; Reichenau (Baden) C" FahrstrStrecke="720a" RglGgl="2" FahrstrTyp="TypZug" Laenge="4208.4937">
 <FahrstrStart Ref="146">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -27435,7 +27469,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Allensbach B -&gt; Reichenau (Baden) C" FahrstrStrecke="720a" RglGgl="2" FahrstrTyp="TypZug" Laenge="4383.6904">
+<Fahrstrasse FahrstrName="Allensbach B -&gt; Reichenau (Baden) C" FahrstrStrecke="720a" RglGgl="2" FahrstrTyp="TypZug" Laenge="4383.6909">
 <FahrstrStart Ref="286">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrStart>
