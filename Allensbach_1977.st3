@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
-<Info DateiTyp="Strecke" Version="A.7" MinVersion="A.1"/>
+<Info DateiTyp="Strecke" Version="A.6" MinVersion="A.1"/>
 <Strecke RekTiefe="20">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.ls3"/>
 <HintergrundDatei/>
@@ -5644,7 +5644,7 @@
 <b X="243.4053" Y="527.8103" Z="399.3"/>
 <InfoGegenRichtung vMax="38.8889" km="403.1823" pos="1">
 <Signal NameBetriebsstelle="Allensbach" Stellwerk="Allensbach Af" SignalTyp="1" BoundingR="10">
-<p X="274.8649" Y="511.9836" Z="405.4"/>
+<p X="274.9683" Y="512.1886" Z="405.4"/>
 <phi Z="-0.466109"/>
 <SignalFrame>
 <p/>
@@ -7812,27 +7812,7 @@
 <InfoNormRichtung vMax="-1">
 <Ereignis Er="1000010"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="403.2181" pos="1">
-<Signal NameBetriebsstelle="Allensbach" Stellwerk="Allensbach Af" SignalTyp="1" BoundingR="10">
-<p X="281.0411" Y="499.6922" Z="402.45"/>
-<phi Z="-0.482974"/>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Elektrischer_Betrieb\El_6.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Z="0.425"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Elektrischer_Betrieb\El_Pfeil.lod.ls3"/>
-</SignalFrame>
-<HsigBegriff HsigGeschw="-1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
+<InfoGegenRichtung vMax="38.8889" km="403.2181" pos="1"/>
 <NachNorm Nr="2536"/>
 <NachGegen Nr="668"/>
 </StrElement>
@@ -24782,7 +24762,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -24794,7 +24774,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-5m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -24832,7 +24812,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -24844,7 +24824,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-5m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -26490,6 +26470,33 @@
 <g X="268.7236" Y="502.8335" Z="399.5788"/>
 <b X="255.005" Y="509.7138" Z="399.5788"/>
 <NachNorm Nr="2569"/>
+</StrElement>
+<StrElement Nr="2569" spTrass="27.7778" Fkt="2" Volt="2" Drahthoehe="5">
+<g X="402.2538" Y="395.0971" Z="398.5122"/>
+<b X="381.9276" Y="405.3665" Z="398.2558"/>
+<NachNorm Nr="2570"/>
+</StrElement>
+<StrElement Nr="2570" spTrass="27.7778" Fkt="2" Volt="2" Drahthoehe="5">
+<g X="381.9276" Y="405.3665" Z="398.2558"/>
+<b X="395.2603" Y="432.6018" Z="398.521"/>
+<NachNorm Nr="2571"/>
+</StrElement>
+<StrElement Nr="2571" spTrass="27.7778" Fkt="2" Volt="2" Drahthoehe="5">
+<g X="395.2603" Y="432.6018" Z="398.521"/>
+<b X="416.101" Y="422.1113" Z="398.5589"/>
+<NachNorm Nr="2572"/>
+</StrElement>
+<StrElement Nr="2572" spTrass="27.7778" Fkt="2" Volt="2" Drahthoehe="5">
+<g X="416.101" Y="422.1113" Z="398.5589"/>
+<b X="402.2538" Y="395.0971" Z="398.5122"/>
+</StrElement>
+<StrElement Nr="2573" spTrass="27.7778" Fkt="2">
+<g X="-213.3334" Y="767.1672" Z="400.1992"/>
+<b X="-184.047" Y="822.5869" Z="402.7411"/>
+</StrElement>
+<StrElement Nr="2574" spTrass="27.7778" Fkt="2">
+<g X="-269.6107" Y="874.0253" Z="403.7725"/>
+<b X="-304.0544" Y="814.2685" Z="400.6563"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Allensbach \D" FahrstrTyp="TypZug" Laenge="4185.874">
 <FahrstrStart Ref="299">

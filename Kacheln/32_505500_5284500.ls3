@@ -5655,12 +5655,6 @@
 <sk X="1.2025" Y="1.2025" Z="1.2025"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\grasses\gras07.lod.ls3"/>
-<p X="-209.7148" Y="-26.066" Z="398.8372"/>
-<phi Z="-1.788894"/>
-<sk X="1.0146" Y="1.0146" Z="1.0146"/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\grasses\gras02.lod.ls3"/>
 <p X="-215.2802" Y="-40.2303" Z="398.8098"/>
 <phi Z="-1.748881"/>
@@ -5857,12 +5851,6 @@
 <p X="-201.9442" Y="-22.4689" Z="398.6989"/>
 <phi Z="0.663745"/>
 <sk X="0.8821" Y="0.8821" Z="0.8821"/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\grasses\gras07.lod.ls3"/>
-<p X="-208.0135" Y="-27.2911" Z="398.8057"/>
-<phi Z="-2.682561"/>
-<sk X="1.0531" Y="1.0531" Z="1.0531"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\grasses\gras07.lod.ls3"/>
@@ -7323,18 +7311,6 @@
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Trees\Cherry\Cherry01-05m.lod.ls3"/>
-<p X="-206.336" Y="-33.272" Z="398.8203"/>
-<phi/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Trees\Cherry\Cherry01-05m.lod.ls3"/>
-<p X="-211.4721" Y="-16.6691" Z="398.7501"/>
-<phi/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Poplar\Poplar022-12m.lod.ls3"/>
 <p X="45.5185" Y="-141.291" Z="398.5056"/>
 <phi/>
@@ -8027,6 +8003,216 @@
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
 <p X="237.5128" Y="-340.5148" Z="396.8601"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-206.336" Y="-33.272" Z="398.8203"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-211.4721" Y="-16.6691" Z="398.7501"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-97.7449" Y="-104.9035" Z="398.5122"/>
+<phi Y="0.055515" Z="2.66133"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-102.2076" Y="-102.6488" Z="398.4559"/>
+<phi X="0.012935" Y="-0.019359" Z="2.673771"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-106.6704" Y="-100.3941" Z="398.3996"/>
+<phi X="-0.071783" Y="-0.022989" Z="2.673771"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-111.1331" Y="-98.1394" Z="398.3433"/>
+<phi X="0.012428" Y="0.057523" Z="2.673771"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-115.5959" Y="-95.8846" Z="398.287"/>
+<phi X="-0.043076" Y="0.037148" Z="2.673771"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-117.0944" Y="-92.6357" Z="398.2753"/>
+<phi X="0.075599" Y="0.065197" Z="1.115554"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-114.896" Y="-88.145" Z="398.319"/>
+<phi X="0.031988" Y="0.072783" Z="1.115554"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-112.6976" Y="-83.6542" Z="398.3627"/>
+<phi X="-0.028351" Y="-0.063046" Z="1.115554"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-110.4992" Y="-79.1634" Z="398.4064"/>
+<phi X="-0.024238" Y="0.047348" Z="1.115554"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-108.3008" Y="-74.6726" Z="398.4502"/>
+<phi X="0.03505" Y="0.076246" Z="1.115554"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-106.1024" Y="-70.1819" Z="398.4939"/>
+<phi X="0.072788" Y="0.0361" Z="1.115554"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-103.042" Y="-68.2527" Z="398.5241"/>
+<phi X="0.016903" Y="0.011698" Z="-0.466337"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-98.5759" Y="-70.5008" Z="398.5322"/>
+<phi X="0.078232" Y="-0.019311" Z="-0.466337"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-94.1098" Y="-72.7489" Z="398.5403"/>
+<phi X="-0.021677" Y="0.036624" Z="-0.466337"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-89.6437" Y="-74.997" Z="398.5485"/>
+<phi X="-0.04581" Y="0.072036" Z="-0.466337"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-85.1776" Y="-77.2451" Z="398.5566"/>
+<phi X="-0.0728" Y="0.021113" Z="-0.466337"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-85.5267" Y="-81.0643" Z="398.5534"/>
+<phi X="-0.022311" Y="0.033656" Z="-2.044465"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-87.8075" Y="-85.5138" Z="398.5457"/>
+<phi X="-0.073815" Y="-0.048011" Z="-2.044465"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-90.0883" Y="-89.9633" Z="398.538"/>
+<phi X="0.063274" Y="-0.024216" Z="-2.044465"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-92.369" Y="-94.4128" Z="398.5303"/>
+<phi X="0.043604" Y="0.001535" Z="-2.044465"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-94.6498" Y="-98.8623" Z="398.5226"/>
+<phi X="0.028082" Y="-0.007147" Z="-2.044465"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-96.9306" Y="-103.3118" Z="398.515"/>
+<phi X="-0.009787" Y="-0.032105" Z="-2.044465"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-118.0724" Y="-94.6335" Z="398.2558"/>
+<phi Z="2.673771"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-104.7397" Y="-67.3982" Z="398.521"/>
+<phi Z="1.115553"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-83.899" Y="-77.8887" Z="398.5589"/>
+<phi Z="-0.466338"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-107.8764" Y="-85.4541" Z="398.4292"/>
+<phi/>
+<sk X="2" Y="2" Z="2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Cherry\Cherry01-05m.lod.ls3"/>
+<p X="-102.4258" Y="-78.6429" Z="398.4819"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Cherry\Cherry01-05m.lod.ls3"/>
+<p X="-90.8216" Y="-88.1838" Z="398.4918"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="-94.4738" Y="-93.7886" Z="398.4584"/>
+<phi Z="1.043925"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="-87.1774" Y="-79.8668" Z="398.544"/>
+<phi Z="1.043925"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="-90.4379" Y="-84.0203" Z="398.5112"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="-101.8098" Y="-75.3493" Z="398.4988"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="-226.916" Y="3.709" Z="399.4788"/>
 <phi/>
 <sk/>
 </Verknuepfte>
@@ -9231,16 +9417,16 @@
 <Datei Dateiname="RailwayObjects\Deutschland\Stuetzmauer\Bruchstein-grau.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="5" MeshI="9">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="5" MeshI="9">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="5" MeterProTex2="10" MeshV="7" MeshI="15">
@@ -10228,6 +10414,12 @@
 <RenderFlags TexVoreinstellung="8"/>
 <Textur>
 <Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="2" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\vineyard02.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
