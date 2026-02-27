@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
-<Info DateiTyp="Strecke" Version="A.6" MinVersion="A.1"/>
+<Info DateiTyp="Strecke" Version="A.7" MinVersion="A.1"/>
 <Strecke RekTiefe="20">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.ls3"/>
 <HintergrundDatei/>
@@ -24762,7 +24762,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -24774,7 +24774,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-5m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -24812,7 +24812,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -24824,7 +24824,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-5m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -26497,6 +26497,18 @@
 <StrElement Nr="2574" spTrass="27.7778" Fkt="2">
 <g X="-269.6107" Y="874.0253" Z="403.7725"/>
 <b X="-304.0544" Y="814.2685" Z="400.6563"/>
+</StrElement>
+<StrElement Nr="2576" spTrass="27.7778" Fkt="2">
+<g X="-524.0359" Y="935.5099" Z="401.3188"/>
+<b X="-497.9825" Y="985.775" Z="404.6428"/>
+</StrElement>
+<StrElement Nr="2577" spTrass="27.7778" Fkt="2">
+<g X="-618.7562" Y="970.0129" Z="396.7684"/>
+<b X="-585.2164" Y="1039.097" Z="403.7011"/>
+</StrElement>
+<StrElement Nr="2578" spTrass="27.7778" Fkt="2">
+<g X="-726.2723" Y="1099.6544" Z="404.8377"/>
+<b X="-754.477" Y="1040.8788" Z="400.9495"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Allensbach \D" FahrstrTyp="TypZug" Laenge="4185.874">
 <FahrstrStart Ref="299">

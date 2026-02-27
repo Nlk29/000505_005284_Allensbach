@@ -596,6 +596,120 @@
 <phi Z="2.589678"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar022-12m.lod.ls3"/>
+<p X="328.2842" Y="-268.3698" Z="401.7552"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar022-12m.lod.ls3"/>
+<p X="334.3314" Y="-271.3922" Z="401.9077"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar022-12m.lod.ls3"/>
+<p X="340.8888" Y="-275.0347" Z="402.04"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar022-12m.lod.ls3"/>
+<p X="347.6274" Y="-279.2659" Z="402.1801"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar022-12m.lod.ls3"/>
+<p X="355.209" Y="-283.3275" Z="402.3064"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="344.9606" Y="-335.8815" Z="396.6725"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="364.7839" Y="-340.8833" Z="397.3282"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="386.1906" Y="-348.3468" Z="397.6015"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="467.5394" Y="-379.187" Z="397.0161"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="486.5486" Y="-385.4562" Z="397.2081"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-2m.lod.ls3"/>
+<p X="444.0183" Y="-286.2762" Z="403.7354"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="463.3479" Y="-307.005" Z="403.6803"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-2m.lod.ls3"/>
+<p X="399.2266" Y="-253.8065" Z="403.8333"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
+<p X="354.7817" Y="-248.6207" Z="402.9857"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="419.9102" Y="-245.8226" Z="406.0964"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
+<p X="458.8762" Y="-262.1053" Z="406.2733"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-2m.lod.ls3"/>
+<p X="379.5338" Y="-268.4233" Z="401.7877"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
+<p X="398.4805" Y="-277.3252" Z="401.7377"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="497.8748" Y="-338.6812" Z="401.4941"/>
+<phi/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_503500_5285500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="140" MeshI="408">
 <RenderFlags TexVoreinstellung="3"/>

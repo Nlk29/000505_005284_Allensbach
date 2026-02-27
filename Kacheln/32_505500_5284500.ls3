@@ -8216,6 +8216,36 @@
 <phi/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\sycamore\sycamore01-08m.lod.ls3"/>
+<p X="325.77" Y="-276.9677" Z="398.6451"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\sycamore\sycamore01-08m.lod.ls3"/>
+<p X="313.9597" Y="-277.3322" Z="398.6083"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\sycamore\sycamore01-08m.lod.ls3"/>
+<p X="299.684" Y="-276.8115" Z="398.564"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\sycamore\sycamore01-08m.lod.ls3"/>
+<p X="284.4929" Y="-276.8807" Z="398.5166"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="799" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\sycamore\sycamore01-08m.lod.ls3"/>
+<p X="267.088" Y="-277.0518" Z="398.4778"/>
+<phi/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_505500_5284500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="295" MeshI="636">
 <RenderFlags TexVoreinstellung="3"/>

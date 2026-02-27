@@ -356,6 +356,594 @@
 <phi Z="2.704716"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-39.2159" Y="-498.1617" Z="403.8108"/>
+<phi Z="1.0926"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000463_005293_Grimmelshofen\ObjekteGrimmelshofen\Bauernhaus2\Bauernhaus2_Schuppen.lod.ls3"/>
+<p X="-80.5605" Y="-496.0146" Z="400.9251"/>
+<phi Z="-0.559596"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-2m.lod.ls3"/>
+<p X="-45.357" Y="-473.6941" Z="404.5698"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
+<p X="-49.3187" Y="-482.848" Z="404.0207"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush05-03m.lod.ls3"/>
+<p X="-56.281" Y="-491.4196" Z="403.358"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-101.8596" Y="-495.184" Z="400.9742"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-96.182" Y="-483.4894" Z="402.4298"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-90.5044" Y="-471.7948" Z="403.2988"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-113.5543" Y="-489.5064" Z="402.0198"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-107.8767" Y="-477.8118" Z="402.9071"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-102.199" Y="-466.1172" Z="403.3391"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-130.9266" Y="-495.5234" Z="401.6046"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-125.2489" Y="-483.8288" Z="402.5154"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-119.5713" Y="-472.1342" Z="402.9474"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-113.8936" Y="-460.4395" Z="403.3794"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-142.6212" Y="-489.8458" Z="402.1236"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-136.9436" Y="-478.1511" Z="402.5557"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-131.266" Y="-466.4565" Z="402.9877"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-125.5883" Y="-454.7618" Z="403.4197"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-159.9935" Y="-495.8627" Z="401.7319"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-154.3158" Y="-484.1682" Z="402.1639"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-148.6382" Y="-472.4735" Z="402.5959"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-142.9605" Y="-460.7788" Z="403.0279"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-137.2829" Y="-449.0842" Z="403.4587"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-171.6881" Y="-490.1851" Z="401.6288"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-166.0105" Y="-478.4905" Z="402.0969"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-160.3329" Y="-466.7959" Z="402.5651"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-154.6552" Y="-455.1012" Z="403.0184"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-148.9776" Y="-443.4066" Z="403.4502"/>
+<phi Z="1.118823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-226.2222" Y="-400.2411" Z="404.8377"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-230.5486" Y="-409.2567" Z="404.2424"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-234.8749" Y="-418.2725" Z="403.647"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-239.2013" Y="-427.2881" Z="403.0516"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-243.5277" Y="-436.3038" Z="402.4563"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-247.854" Y="-445.3195" Z="401.8609"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-252.1804" Y="-454.3351" Z="401.2655"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-219.0097" Y="-403.7021" Z="404.8377"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-223.336" Y="-412.7178" Z="404.2424"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-227.6624" Y="-421.7335" Z="403.647"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-231.9887" Y="-430.7491" Z="403.0516"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-236.3151" Y="-439.7649" Z="402.4563"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-240.6414" Y="-448.7805" Z="401.8609"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-244.9678" Y="-457.7963" Z="401.2655"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-211.7971" Y="-407.1632" Z="404.8377"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-216.1234" Y="-416.179" Z="404.2424"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-220.4498" Y="-425.1946" Z="403.647"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-224.7762" Y="-434.2103" Z="403.0516"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-229.1026" Y="-443.226" Z="402.4563"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-233.4289" Y="-452.2417" Z="401.8609"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-237.7553" Y="-461.2573" Z="401.2655"/>
+<phi Z="-2.018211"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-214.8102" Y="-457.5525" Z="401.681"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-193.5347" Y="-428.1013" Z="403.2014"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-192.4798" Y="-479.4217" Z="401.2613"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-182.5297" Y="-457.1738" Z="402.5985"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-264.7132" Y="-376.8524" Z="405.8946"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-274.9551" Y="-482.0043" Z="397.6765"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-2m.lod.ls3"/>
+<p X="-219.3985" Y="-464.8425" Z="401.3161"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
+<p X="-155.7902" Y="-472.8699" Z="402.4883"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush05-03m.lod.ls3"/>
+<p X="-134.2445" Y="-436.3729" Z="403.8853"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="-315.7108" Y="-370.7422" Z="403.4144"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
+<p X="-316.2762" Y="-385.2356" Z="401.9076"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush05-03m.lod.ls3"/>
+<p X="-248.205" Y="-420.5428" Z="403.3196"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="-267.5372" Y="-453.6851" Z="400.9435"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="-297.6964" Y="-497.6785" Z="397.3423"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="-323.1173" Y="-481.3055" Z="396.4177"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
+<p X="-314.0735" Y="-477.5539" Z="397.7775"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="-309.9741" Y="-471.1146" Z="398.1059"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
+<p X="-239.9232" Y="-488.4248" Z="399.0341"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-335.5924" Y="-396.9209" Z="399.7993"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-346.0331" Y="-404.3481" Z="399.1233"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-350.7583" Y="-411.0541" Z="398.3732"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-352.6354" Y="-395.1365" Z="400.2151"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-400.3216" Y="-366.3975" Z="400.3478"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-413.1284" Y="-361.3235" Z="400.5169"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-426.6515" Y="-356.6903" Z="400.6928"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-440.3424" Y="-352.197" Z="400.8706"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-453.263" Y="-346.9751" Z="401.0416"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-466.543" Y="-342.7144" Z="401.7346"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-477.9464" Y="-338.8682" Z="401.578"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-489.6076" Y="-333.8606" Z="401.7976"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000463_005293_Grimmelshofen\ObjekteGrimmelshofen\Bauernhaus1\Bauernhaus1.lod.ls3"/>
+<p X="-320.8227" Y="-339.0417" Z="406.1264"/>
+<phi Z="2.785954"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="-339.3838" Y="-341.9723" Z="405.4283"/>
+<phi/>
+<sk X="0.7" Y="0.7" Z="0.7"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="-419.8834" Y="-315.1244" Z="404.1235"/>
+<phi/>
+<sk X="0.7" Y="0.7" Z="0.7"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="-412.1865" Y="-434.8562" Z="396.9968"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
+<p X="-496.4891" Y="-312.347" Z="405.1526"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-2m.lod.ls3"/>
+<p X="-436.2152" Y="-365.2434" Z="400.8449"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="-467.951" Y="-332.2244" Z="403.4348"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush05-03m.lod.ls3"/>
+<p X="-453.2732" Y="-294.045" Z="407.0138"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="-438.5327" Y="-337.9762" Z="402.2976"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
+<p X="-393.4792" Y="-345.1918" Z="400.8364"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-2m.lod.ls3"/>
+<p X="-352.0254" Y="-355.9392" Z="401.424"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="-379.8456" Y="-338.6566" Z="402.6394"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
+<p X="-330.9991" Y="-348.4272" Z="404.8571"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-2m.lod.ls3"/>
+<p X="-361.6726" Y="-324.1851" Z="406.813"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
+<p X="-367.7942" Y="-404.4229" Z="399.7598"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="-389.766" Y="-381.3424" Z="400.4764"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
+<p X="-386.9226" Y="-393.5873" Z="400.8389"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
+<p X="-420.4099" Y="-373.0804" Z="400.7965"/>
+<phi/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_504500_5285500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="35" MeshI="93">
 <RenderFlags TexVoreinstellung="3"/>
