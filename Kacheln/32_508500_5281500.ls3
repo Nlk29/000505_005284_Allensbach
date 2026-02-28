@@ -944,6 +944,12 @@
 <phi Z="3.750779"/>
 <sk X="1.0727" Y="1.0727" Z="1.0727"/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="495.158" Y="487.1129" Z="397.5096"/>
+<phi Z="2.641994"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_508500_5281500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="15" MeshI="33">
 <RenderFlags TexVoreinstellung="3"/>

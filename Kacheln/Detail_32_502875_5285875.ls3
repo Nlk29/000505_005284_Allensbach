@@ -33,5 +33,11 @@
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="75" MeshI="270">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
+<SubSet Ca="00808080" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="384" MeshI="2133">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00808080" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="159" MeshI="837">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
 </Landschaft>
 </Zusi>

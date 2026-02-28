@@ -278,6 +278,1572 @@
 <phi Z="2.748117"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_4.lod.ls3"/>
+<p X="186.1973" Y="-29.7029" Z="405.0273"/>
+<phi Z="0.906236"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_2.lod.ls3"/>
+<p X="197.2781" Y="-35.3899" Z="404.8336"/>
+<phi Z="0.834749"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="213.1948" Y="-43.96" Z="404.5268"/>
+<phi Z="-1.912099"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="220.0022" Y="-48.9814" Z="404.3071"/>
+<phi Z="-1.119007"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_4.lod.ls3"/>
+<p X="236.2544" Y="-51.2144" Z="404.3304"/>
+<phi Z="0.179612"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_4.lod.ls3"/>
+<p X="257.459" Y="-58.4517" Z="404.323"/>
+<phi Z="-0.685374"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_2.lod.ls3"/>
+<p X="264.1973" Y="-58.7703" Z="404.4328"/>
+<phi Z="0.651931"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="278.2722" Y="-67.9636" Z="403.9608"/>
+<phi Z="0.467398"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="298.179" Y="-72.1726" Z="404.0197"/>
+<phi Z="0.292509"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="313.2773" Y="-77.2417" Z="403.6957"/>
+<phi Z="-1.534809"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="326.2295" Y="-79.228" Z="403.6422"/>
+<phi Z="0.726552"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="335.522" Y="-87.5149" Z="403.4639"/>
+<phi Z="-0.401953"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="350.9763" Y="-88.7876" Z="403.8792"/>
+<phi Z="1.078876"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="368.4126" Y="-95.2234" Z="403.8839"/>
+<phi Z="-1.867337"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="378.2529" Y="-101.8606" Z="403.6292"/>
+<phi Z="0.934391"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_4.lod.ls3"/>
+<p X="393.9954" Y="-107.97" Z="403.0354"/>
+<phi Z="-1.877562"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_2.lod.ls3"/>
+<p X="404.8821" Y="-114.3145" Z="403.2988"/>
+<phi Z="0.080791"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_2.lod.ls3"/>
+<p X="426.6597" Y="-115.8367" Z="403.64"/>
+<phi Z="0.583783"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="437.3828" Y="-121.2727" Z="403.5294"/>
+<phi Z="-1.596352"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="455.8281" Y="-130.4578" Z="403.0787"/>
+<phi Z="0.249629"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="464.2153" Y="-134.7009" Z="403.0567"/>
+<phi Z="-1.229309"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="481.9893" Y="-141.4626" Z="403.1999"/>
+<phi Z="1.020073"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="491.4106" Y="-139.9834" Z="403.3816"/>
+<phi Z="0.567513"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="494.3289" Y="-152.717" Z="403.0488"/>
+<phi Z="2.061927"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="477.3977" Y="-143.679" Z="403.0664"/>
+<phi Z="3.822671"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="466.4719" Y="-139.6125" Z="402.7732"/>
+<phi Z="3.400126"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="452.1313" Y="-137.8694" Z="402.405"/>
+<phi Z="2.725184"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="434.8672" Y="-126.2139" Z="403.332"/>
+<phi Z="3.560192"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="414.5408" Y="-128.2092" Z="403.056"/>
+<phi Z="2.976774"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_4.lod.ls3"/>
+<p X="410.5305" Y="-117.436" Z="403.3794"/>
+<phi Z="1.596379"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="394.6094" Y="-119.575" Z="403.0089"/>
+<phi Z="2.602393"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="382.8816" Y="-105.7195" Z="403.1963"/>
+<phi Z="1.523833"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="362.3567" Y="-106.7451" Z="403.069"/>
+<phi Z="1.348119"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="352.5024" Y="-98.4026" Z="403.3475"/>
+<phi Z="2.697467"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="340.4832" Y="-90.8777" Z="403.4754"/>
+<phi Z="3.6264"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="323.2285" Y="-85.5505" Z="403.3216"/>
+<phi Z="2.757205"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="309.093" Y="-76.7822" Z="403.6944"/>
+<phi Z="2.61174"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_2.lod.ls3"/>
+<p X="299.6057" Y="-74.6479" Z="403.7987"/>
+<phi Z="3.714813"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="281.2461" Y="-74.426" Z="403.4119"/>
+<phi Z="2.0355"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="265.9656" Y="-63.959" Z="404.0229"/>
+<phi Z="2.332778"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="254.2087" Y="-61.0664" Z="404.032"/>
+<phi Z="3.423175"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_4.lod.ls3"/>
+<p X="235.9419" Y="-55.0952" Z="404.1185"/>
+<phi Z="2.494323"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="227.2502" Y="-45.7183" Z="404.672"/>
+<phi Z="2.756455"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="214.7905" Y="-41.1802" Z="404.7567"/>
+<phi Z="2.440693"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="193.7307" Y="-36.9817" Z="404.6438"/>
+<phi Z="2.843244"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_4.lod.ls3"/>
+<p X="182.0393" Y="-24.7839" Z="416.9763"/>
+<phi Z="3.999577"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="171.1904" Y="-23.6829" Z="409.2299"/>
+<phi Z="3.493614"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_4.lod.ls3"/>
+<p X="167.2798" Y="-9.2017" Z="417.8396"/>
+<phi Z="2.129952"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="161.7007" Y="4.0562" Z="407.886"/>
+<phi Z="1.504018"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_2.lod.ls3"/>
+<p X="155.7773" Y="20.7119" Z="407.818"/>
+<phi Z="0.628234"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="153.2034" Y="32.6099" Z="418.4407"/>
+<phi Z="1.192658"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="140.2539" Y="50.6731" Z="410.0581"/>
+<phi Z="0.644547"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="134.4812" Y="56.5571" Z="410.4699"/>
+<phi Z="1.803352"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="136.0535" Y="78.6528" Z="411.7693"/>
+<phi Z="0.145403"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_2.lod.ls3"/>
+<p X="140.2175" Y="87.5029" Z="412.1405"/>
+<phi Z="2.236809"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_2.lod.ls3"/>
+<p X="139.9116" Y="101.1003" Z="412.761"/>
+<phi Z="1.308536"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_4.lod.ls3"/>
+<p X="138.533" Y="118.4661" Z="413.2371"/>
+<phi Z="3.097647"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_2.lod.ls3"/>
+<p X="136.0103" Y="132.3682" Z="421.8012"/>
+<phi Z="1.56278"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="127.3792" Y="139.6482" Z="420.7427"/>
+<phi Z="3.65691"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_4.lod.ls3"/>
+<p X="114.7087" Y="152.3916" Z="414.0964"/>
+<phi Z="2.188843"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_2.lod.ls3"/>
+<p X="117.7686" Y="171.6943" Z="416.7311"/>
+<phi Z="0.165501"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="117.8704" Y="182.6343" Z="416.204"/>
+<phi Z="0.81361"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="125.3152" Y="199.189" Z="416.7442"/>
+<phi Z="0.663521"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="123.501" Y="195.9021" Z="416.5058"/>
+<phi Z="0.337892"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="123.6299" Y="213.5308" Z="417.8769"/>
+<phi Z="0.291038"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_4.lod.ls3"/>
+<p X="123.5923" Y="224.3191" Z="419.0927"/>
+<phi Z="0.624705"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="123.8481" Y="247.3176" Z="422.0964"/>
+<phi Z="1.952096"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="122.812" Y="253.9431" Z="422.8389"/>
+<phi Z="2.478752"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="122.9863" Y="271.3113" Z="426.6751"/>
+<phi Z="3.025885"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_4.lod.ls3"/>
+<p X="128.2292" Y="286.0293" Z="428.0552"/>
+<phi Z="2.50289"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="129.5046" Y="302.3784" Z="427.3423"/>
+<phi Z="0.264063"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_2.lod.ls3"/>
+<p X="138.1611" Y="311.8274" Z="428.0276"/>
+<phi Z="1.839345"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_4.lod.ls3"/>
+<p X="149.1636" Y="327.9333" Z="429.1072"/>
+<phi Z="1.142661"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="141.0715" Y="335.0234" Z="429.0585"/>
+<phi Z="0.362525"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="143.4595" Y="350.2017" Z="429.925"/>
+<phi Z="2.34694"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_4.lod.ls3"/>
+<p X="133.9956" Y="365.2896" Z="430.4125"/>
+<phi Z="0.510433"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="127.9373" Y="384.8462" Z="430.9408"/>
+<phi Z="3.027583"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="130.6997" Y="400.7446" Z="432.1565"/>
+<phi Z="1.035244"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="127.2302" Y="413.1689" Z="432.9999"/>
+<phi Z="1.692862"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="113.9211" Y="422.8962" Z="433.2828"/>
+<phi Z="3.022182"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_2.lod.ls3"/>
+<p X="113.1179" Y="445.0618" Z="435.0801"/>
+<phi Z="2.178499"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="104.8606" Y="457.3992" Z="435.6693"/>
+<phi Z="1.658413"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="102.8137" Y="466.7039" Z="436.3491"/>
+<phi Z="2.520051"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="95.1682" Y="485.2573" Z="437.0767"/>
+<phi Z="1.43141"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_2.lod.ls3"/>
+<p X="97.4404" Y="493.3091" Z="449.0576"/>
+<phi Z="3.377921"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="90.8313" Y="499.9204" Z="436.9785"/>
+<phi Z="-2.215194"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="103.0029" Y="489.1155" Z="449.0527"/>
+<phi Z="-1.016366"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="98.7937" Y="474.2429" Z="436.767"/>
+<phi Z="-1.65205"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="111.3101" Y="466.1587" Z="446.7619"/>
+<phi Z="-2.71866"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_4.lod.ls3"/>
+<p X="113.1589" Y="444.5603" Z="435.0395"/>
+<phi Z="-2.797077"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="117.5564" Y="431.5969" Z="434.1901"/>
+<phi Z="-1.440536"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="123.9272" Y="425.4275" Z="433.9341"/>
+<phi Z="0.033843"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="128.9126" Y="409.2551" Z="432.7861"/>
+<phi Z="-1.982977"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="136.4453" Y="390.2678" Z="431.732"/>
+<phi Z="-1.49303"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="136.4111" Y="375.2825" Z="431.0312"/>
+<phi Z="-1.540464"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="147.5542" Y="369.0725" Z="431.2534"/>
+<phi Z="-1.919924"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="146.321" Y="348.8345" Z="429.987"/>
+<phi Z="-2.836347"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="143.6953" Y="335.5796" Z="429.2057"/>
+<phi Z="-1.416111"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_2.lod.ls3"/>
+<p X="132.3931" Y="321.0759" Z="428.1272"/>
+<phi Z="-2.060742"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_2.lod.ls3"/>
+<p X="131.2026" Y="309.6816" Z="427.6469"/>
+<phi Z="-3.140584"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_2.lod.ls3"/>
+<p X="122.823" Y="300.2544" Z="428.181"/>
+<phi Z="-3.077941"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="123.6023" Y="280.8757" Z="430.0708"/>
+<phi Z="-1.907828"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_4.lod.ls3"/>
+<p X="125.0906" Y="267.9983" Z="424.6546"/>
+<phi Z="-1.545208"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="120.8149" Y="250.5984" Z="422.3102"/>
+<phi Z="-1.767002"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="125.512" Y="233.3296" Z="420.3947"/>
+<phi Z="0.195646"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="128.3926" Y="221.6421" Z="418.9941"/>
+<phi Z="-1.671869"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="134.9336" Y="207.7456" Z="417.9719"/>
+<phi Z="-3.387622"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="124.6252" Y="199.5037" Z="416.7687"/>
+<phi Z="-2.358766"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="121.2061" Y="181.0105" Z="415.4754"/>
+<phi Z="-2.346552"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="111.2441" Y="172.0432" Z="415.989"/>
+<phi Z="-1.05544"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="110.209" Y="153.5664" Z="414.131"/>
+<phi Z="-1.669869"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="112.9272" Y="141.8247" Z="413.8871"/>
+<phi Z="-0.784647"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="128.7764" Y="130.5332" Z="413.6323"/>
+<phi Z="0.568987"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_4.lod.ls3"/>
+<p X="136.2966" Y="120.228" Z="413.325"/>
+<phi Z="0.15027"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="136.6387" Y="105.1824" Z="412.8934"/>
+<phi Z="-0.210088"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_2.lod.ls3"/>
+<p X="135.6816" Y="89.1995" Z="412.2209"/>
+<phi Z="-1.736218"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="135.2681" Y="77.8066" Z="411.7342"/>
+<phi Z="-0.731709"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="128.4849" Y="64.7158" Z="411.0898"/>
+<phi Z="-2.546132"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="130.4856" Y="48.9976" Z="409.7474"/>
+<phi Z="-1.791462"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_3.lod.ls3"/>
+<p X="140.1482" Y="37.05" Z="408.8772"/>
+<phi Z="-1.6009"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_4.lod.ls3"/>
+<p X="147.4807" Y="18.1316" Z="407.6852"/>
+<phi Z="-2.623785"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_1.lod.ls3"/>
+<p X="153.7471" Y="9.5186" Z="407.11"/>
+<phi Z="0.099428"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Forest\Trees\Foresttree_4.lod.ls3"/>
+<p X="157.6208" Y="-7.2556" Z="405.8884"/>
+<phi Z="-2.206788"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="166.7856" Y="-21.0239" Z="405.2385"/>
+<phi Z="-0.799407"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Freileitungen\Mittelspannung\EndMast-8m_Anschl_R.lod.ls3"/>
+<p X="448.8767" Y="-219.0403" Z="400.6679"/>
+<phi Z="5.964117"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="308.2229" Y="-292.6428" Z="399.1575"/>
+<phi Z="1.274005"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="313.0466" Y="-293.9575" Z="399.2052"/>
+<phi Z="1.274005"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="317.8706" Y="-295.2725" Z="399.252"/>
+<phi Z="1.274005"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="322.6943" Y="-296.5872" Z="399.299"/>
+<phi Z="1.274005"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="327.5181" Y="-297.9021" Z="399.3458"/>
+<phi Z="1.274005"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="332.3418" Y="-299.217" Z="399.3851"/>
+<phi Z="1.274005"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="337.1658" Y="-300.5317" Z="399.4225"/>
+<phi Z="1.274005"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="341.9895" Y="-301.8467" Z="399.4692"/>
+<phi Z="1.274005"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="346.8132" Y="-303.1616" Z="399.5161"/>
+<phi Z="1.274005"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="351.637" Y="-304.4763" Z="399.5629"/>
+<phi Z="1.274005"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="356.4609" Y="-305.7913" Z="399.6097"/>
+<phi Z="1.274005"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="361.2847" Y="-307.1062" Z="399.6539"/>
+<phi Z="1.274005"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="366.1084" Y="-308.4209" Z="399.6957"/>
+<phi Z="1.274005"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="370.9321" Y="-309.7358" Z="399.7425"/>
+<phi Z="1.274005"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="375.7561" Y="-311.0505" Z="399.7893"/>
+<phi Z="1.274005"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="380.5798" Y="-312.3655" Z="399.8361"/>
+<phi Z="1.274005"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="385.4036" Y="-313.6804" Z="399.8828"/>
+<phi Z="1.274005"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="389.0183" Y="-314.7417" Z="399.9326"/>
+<phi Z="4.534368"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="303.8633" Y="-291.439" Z="399.1021"/>
+<phi Z="1.278972"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="301.3234" Y="-301.2547" Z="399.0078"/>
+<phi Z="4.453172"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="306.1384" Y="-302.6014" Z="399.0533"/>
+<phi Z="4.453172"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="310.9536" Y="-303.9481" Z="399.0987"/>
+<phi Z="4.453172"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="315.7685" Y="-305.2947" Z="399.1442"/>
+<phi Z="4.453172"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="320.5834" Y="-306.6414" Z="399.1897"/>
+<phi Z="4.453172"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="325.3984" Y="-307.9881" Z="399.2351"/>
+<phi Z="4.453172"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="330.2133" Y="-309.3348" Z="399.2803"/>
+<phi Z="4.453172"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="335.0285" Y="-310.6815" Z="399.3246"/>
+<phi Z="4.453172"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="339.8434" Y="-312.0281" Z="399.3699"/>
+<phi Z="4.453172"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="344.6584" Y="-313.3748" Z="399.4154"/>
+<phi Z="4.453172"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="349.4733" Y="-314.7215" Z="399.4608"/>
+<phi Z="4.453172"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="354.2885" Y="-316.0682" Z="399.5063"/>
+<phi Z="4.453172"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="359.1035" Y="-317.4149" Z="399.5517"/>
+<phi Z="4.453172"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="363.9184" Y="-318.7615" Z="399.5972"/>
+<phi Z="4.453172"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="368.7333" Y="-320.1082" Z="399.6426"/>
+<phi Z="4.453172"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="373.5483" Y="-321.4549" Z="399.688"/>
+<phi Z="4.453172"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="378.3635" Y="-322.8016" Z="399.7335"/>
+<phi Z="4.453172"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="383.1784" Y="-324.1483" Z="399.8051"/>
+<phi Z="4.453172"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="386.5039" Y="-324.9712" Z="399.7767"/>
+<phi Z="4.518003"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="309.0786" Y="-336.1405" Z="397.6878"/>
+<phi Z="1.598129"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="314.0764" Y="-336.0196" Z="397.7966"/>
+<phi Z="1.598129"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="319.0742" Y="-335.899" Z="397.9053"/>
+<phi Z="1.598129"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="324.072" Y="-335.7784" Z="398.0141"/>
+<phi Z="1.598129"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="329.07" Y="-335.6576" Z="398.1201"/>
+<phi Z="1.598129"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="334.0678" Y="-335.537" Z="398.2346"/>
+<phi Z="1.598129"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="339.0656" Y="-335.4164" Z="398.3434"/>
+<phi Z="1.598129"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="344.0634" Y="-335.2957" Z="398.4521"/>
+<phi Z="1.598129"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="349.0612" Y="-335.1749" Z="398.5609"/>
+<phi Z="1.598129"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="354.059" Y="-335.0543" Z="398.6697"/>
+<phi Z="1.598129"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="359.0568" Y="-334.9337" Z="398.7785"/>
+<phi Z="1.598129"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="364.0546" Y="-334.8128" Z="398.8967"/>
+<phi Z="1.598129"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="369.0524" Y="-334.6922" Z="398.9553"/>
+<phi Z="1.598129"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="374.0505" Y="-334.5716" Z="399.0097"/>
+<phi Z="1.598129"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="379.0483" Y="-334.4508" Z="399.0369"/>
+<phi Z="1.598129"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="309.7305" Y="-346.1729" Z="397.7239"/>
+<phi Z="-1.526544"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="314.7288" Y="-346.062" Z="397.8323"/>
+<phi Z="-1.526544"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="319.7268" Y="-345.9514" Z="397.9408"/>
+<phi Z="-1.526544"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="324.7251" Y="-345.8406" Z="398.0492"/>
+<phi Z="-1.526544"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="329.7231" Y="-345.7297" Z="398.1577"/>
+<phi Z="-1.526544"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="334.7214" Y="-345.6189" Z="398.2662"/>
+<phi Z="-1.526544"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="339.7195" Y="-345.5081" Z="398.3747"/>
+<phi Z="-1.526544"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="344.7178" Y="-345.3975" Z="398.4831"/>
+<phi Z="-1.526544"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="349.7158" Y="-345.2866" Z="398.5916"/>
+<phi Z="-1.526544"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="354.7139" Y="-345.1758" Z="398.6719"/>
+<phi Z="-1.526544"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="359.7122" Y="-345.0649" Z="398.6817"/>
+<phi Z="-1.526544"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="364.7102" Y="-344.9541" Z="398.6729"/>
+<phi Z="-1.526544"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="369.7085" Y="-344.8433" Z="398.6642"/>
+<phi Z="-1.526544"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="374.7065" Y="-344.7327" Z="398.7246"/>
+<phi Z="-1.526544"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="378.8757" Y="-344.4465" Z="398.5399"/>
+<phi Z="-1.526618"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="299.917" Y="-364.5271" Z="397.2008"/>
+<phi Z="1.625943"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="304.9148" Y="-364.3862" Z="397.2492"/>
+<phi Z="1.625943"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="309.9128" Y="-364.2456" Z="397.2829"/>
+<phi Z="1.625943"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="314.9106" Y="-364.1047" Z="397.3167"/>
+<phi Z="1.625943"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="319.9087" Y="-363.9641" Z="397.3504"/>
+<phi Z="1.625943"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="324.9067" Y="-363.8235" Z="397.3841"/>
+<phi Z="1.625943"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="329.9045" Y="-363.6826" Z="397.4178"/>
+<phi Z="1.625943"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="334.9026" Y="-363.542" Z="397.4672"/>
+<phi Z="1.625943"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="339.9004" Y="-363.4011" Z="397.5012"/>
+<phi Z="1.625943"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="344.8984" Y="-363.2605" Z="397.5352"/>
+<phi Z="1.625943"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="349.8965" Y="-363.1196" Z="397.5692"/>
+<phi Z="1.625943"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="354.8943" Y="-362.979" Z="397.6032"/>
+<phi Z="1.625943"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="359.8923" Y="-362.8384" Z="397.6372"/>
+<phi Z="1.625943"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="364.8901" Y="-362.6975" Z="397.6279"/>
+<phi Z="1.625943"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="369.8882" Y="-362.5569" Z="397.5879"/>
+<phi Z="1.625943"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="300.3635" Y="-374.4128" Z="397.1417"/>
+<phi Z="-1.543556"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="305.3613" Y="-374.2644" Z="397.1764"/>
+<phi Z="-1.543556"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="310.3589" Y="-374.116" Z="397.211"/>
+<phi Z="-1.543556"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="315.3567" Y="-373.9675" Z="397.2457"/>
+<phi Z="-1.543556"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="320.3545" Y="-373.8191" Z="397.2803"/>
+<phi Z="-1.543556"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="325.3523" Y="-373.6707" Z="397.3013"/>
+<phi Z="-1.543556"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="330.3499" Y="-373.5222" Z="397.336"/>
+<phi Z="-1.543556"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="335.3477" Y="-373.3738" Z="397.3709"/>
+<phi Z="-1.543556"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="340.3455" Y="-373.2253" Z="397.4059"/>
+<phi Z="-1.543556"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="345.3433" Y="-373.0769" Z="397.4409"/>
+<phi Z="-1.543556"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="350.3411" Y="-372.9285" Z="397.4759"/>
+<phi Z="-1.543556"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="355.3386" Y="-372.78" Z="397.4987"/>
+<phi Z="-1.543556"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Gelb.lod.ls3"/>
+<p X="360.3364" Y="-372.6313" Z="397.499"/>
+<phi Z="-1.543556"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Weiss.lod.ls3"/>
+<p X="365.3342" Y="-372.4829" Z="397.5191"/>
+<phi Z="-1.543556"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Zelte\Zweimannzelt_Blau.lod.ls3"/>
+<p X="370.332" Y="-372.3345" Z="397.4737"/>
+<phi Z="-1.543556"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="403.9314" Y="-316.1348" Z="400.2023"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="406.842" Y="-316.8613" Z="400.2162"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="409.7527" Y="-317.5881" Z="400.23"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="412.6633" Y="-318.3147" Z="400.2439"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="415.574" Y="-319.0413" Z="400.2574"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Tisch.lod.ls3"/>
+<p X="403.6892" Y="-317.105" Z="400.2023"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Tisch.lod.ls3"/>
+<p X="406.5999" Y="-317.8315" Z="400.2162"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Tisch.lod.ls3"/>
+<p X="409.5105" Y="-318.5583" Z="400.23"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Tisch.lod.ls3"/>
+<p X="412.4209" Y="-319.2849" Z="400.2439"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Tisch.lod.ls3"/>
+<p X="415.3318" Y="-320.0115" Z="400.2574"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="403.4468" Y="-318.0752" Z="400.2023"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="406.3577" Y="-318.8018" Z="400.2162"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="409.2683" Y="-319.5286" Z="400.23"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="412.1787" Y="-320.2551" Z="400.2439"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="415.0894" Y="-320.9817" Z="400.2574"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="404.4158" Y="-314.1943" Z="400.2023"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="407.3264" Y="-314.9209" Z="400.2162"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="410.2371" Y="-315.6477" Z="400.23"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="413.1477" Y="-316.3743" Z="400.2439"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="416.0583" Y="-317.1008" Z="400.2574"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Tisch.lod.ls3"/>
+<p X="404.658" Y="-313.2241" Z="400.2023"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Tisch.lod.ls3"/>
+<p X="407.5686" Y="-313.9507" Z="400.2162"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Tisch.lod.ls3"/>
+<p X="410.4792" Y="-314.6772" Z="400.23"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Tisch.lod.ls3"/>
+<p X="413.3899" Y="-315.4041" Z="400.2439"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Tisch.lod.ls3"/>
+<p X="416.3005" Y="-316.1306" Z="400.2574"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="404.9001" Y="-312.2539" Z="400.2023"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="407.8108" Y="-312.9805" Z="400.2162"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="410.7214" Y="-313.707" Z="400.23"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="413.6321" Y="-314.4338" Z="400.2439"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Bierzeltgarnitur\Bierzeltgarnitur_Bank.lod.ls3"/>
+<p X="416.5427" Y="-315.1604" Z="400.2574"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Getraenke\Flaschen\Weinflasche\Weinflasche.lod.ls3"/>
+<p X="412.4204" Y="-319.2805" Z="400.9954"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Getraenke\Glaeser\Bierglas\Bierglas_anbruch.lod.ls3"/>
+<p X="407.5681" Y="-313.9463" Z="400.9677"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Getraenke\Glaeser\Bierglas\Bierglas_voll.lod.ls3"/>
+<p X="416.3" Y="-316.1262" Z="401.0089"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Getraenke\Glaeser\Bierglas\Bierglas_voll.lod.ls3"/>
+<p X="403.6887" Y="-317.1006" Z="400.9538"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Schwenkgrill\Schwenkgrill.lod.ls3"/>
+<p X="405.4246" Y="-311.2664" Z="400.0695"/>
+<phi Z="-0.244647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Getraenke\Bierfass\Bierfass_50L.lod.ls3"/>
+<p X="402.6777" Y="-319.4626" Z="400.0915"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Getraenke\Bierfass\Bierfass_50L.lod.ls3"/>
+<p X="402.4363" Y="-319.04" Z="400.0851"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Campingplatz\Getraenke\Bierfass\Bierfass_50L.lod.ls3"/>
+<p X="402.1787" Y="-319.4497" Z="400.0865"/>
+<phi/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_501500_5286500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="38" MeshI="102">
 <RenderFlags TexVoreinstellung="3"/>
@@ -525,7 +2091,7 @@
 <Datei Dateiname="Terrain\General\Water\water01.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeshV="720" MeshI="2796">
+<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeshV="721" MeshI="2799">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>

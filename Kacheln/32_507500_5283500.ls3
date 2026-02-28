@@ -2432,6 +2432,216 @@
 <phi Z="1.55463"/>
 <sk X="1.0514" Y="1.0514" Z="1.0514"/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-08m.lod.ls3"/>
+<p X="489.8147" Y="-252.1624" Z="399.5451"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-08m.lod.ls3"/>
+<p X="499.9336" Y="-275.4" Z="399.5475"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-08m.lod.ls3"/>
+<p X="457.4021" Y="-189.4782" Z="399.6899"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="491.3701" Y="-332.2417" Z="398.1513"/>
+<phi Z="2.169047"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="468.7798" Y="-299.1747" Z="398.177"/>
+<phi Z="2.167799"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="446.2378" Y="-266.89" Z="398.2026"/>
+<phi Z="2.175921"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="423.3396" Y="-233.5885" Z="398.2282"/>
+<phi Z="2.190255"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="399.8594" Y="-200.7062" Z="398.2538"/>
+<phi Z="2.210763"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="375.6282" Y="-168.0941" Z="398.2794"/>
+<phi Z="2.247629"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="350.3354" Y="-137.3522" Z="398.3052"/>
+<phi Z="2.282454"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="323.8215" Y="-108.1574" Z="398.3308"/>
+<phi Z="2.328216"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="295.9348" Y="-80.0391" Z="398.3565"/>
+<phi Z="2.37022"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="266.8259" Y="-53.4769" Z="398.3822"/>
+<phi Z="2.412231"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="236.6348" Y="-28.5765" Z="398.4078"/>
+<phi Z="2.468327"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="205.239" Y="-4.5897" Z="398.4335"/>
+<phi Z="2.510389"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="172.7996" Y="17.5954" Z="398.4592"/>
+<phi Z="2.552329"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="139.3818" Y="32.6011" Z="398.4847"/>
+<phi Z="2.594402"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="105.05" Y="51.2379" Z="398.5104"/>
+<phi Z="2.636438"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="69.8286" Y="69.8758" Z="398.5361"/>
+<phi Z="2.687447"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="33.8201" Y="88.7888" Z="398.5617"/>
+<phi Z="2.728207"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="-2.7856" Y="107.4459" Z="398.5874"/>
+<phi Z="2.751399"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="-52.7295" Y="128.0215" Z="398.6092"/>
+<phi Z="2.768273"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="-77.0139" Y="136.6918" Z="398.5975"/>
+<phi Z="2.778813"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="-114.4163" Y="150.9862" Z="398.5853"/>
+<phi Z="2.783041"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="-151.873" Y="164.9721" Z="398.5732"/>
+<phi Z="2.783152"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="-189.3308" Y="179.1686" Z="398.5609"/>
+<phi Z="2.783153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="-226.7888" Y="193.0793" Z="398.5487"/>
+<phi Z="2.783152"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="-264.2466" Y="206.8717" Z="398.5366"/>
+<phi Z="2.783152"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="-301.7043" Y="220.8715" Z="398.5244"/>
+<phi Z="2.783153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="-339.1621" Y="234.7809" Z="398.5122"/>
+<phi Z="2.783153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="-376.6199" Y="248.9564" Z="398.5"/>
+<phi Z="2.783153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="-414.0776" Y="262.7769" Z="398.4878"/>
+<phi Z="2.783153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="-451.5356" Y="277.0158" Z="398.4756"/>
+<phi Z="2.783153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="-488.9933" Y="290.9381" Z="398.4634"/>
+<phi Z="2.783153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telefonmast_1.lod.ls3"/>
+<p X="-31.2004" Y="117.8052" Z="399.6229"/>
+<phi Z="2.735886"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_507500_5283500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="296" MeshI="864">
 <RenderFlags TexVoreinstellung="3"/>
@@ -3088,6 +3298,12 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\Water\water01.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

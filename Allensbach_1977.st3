@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
-<Info DateiTyp="Strecke" Version="A.6" MinVersion="A.1"/>
+<Info DateiTyp="Strecke" Version="A.7" MinVersion="A.1"/>
 <Strecke RekTiefe="20">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.ls3"/>
 <HintergrundDatei/>
@@ -4473,12 +4473,12 @@
 <NachGegen Nr="356"/>
 </StrElement>
 <StrElement Nr="358" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5">
-<g X="-1593.099" Y="1505.733" Z="402.7422"/>
-<b X="-1597.3567" Y="1508.3546" Z="402.7363"/>
+<g X="-1593.0989" Y="1505.7329" Z="402.7422"/>
+<b X="-1597.3566" Y="1508.3545" Z="402.7363"/>
 <InfoNormRichtung vMax="-1">
 <Ereignis Er="1000027" Wert="240" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Lohorn 1" Stellwerk="BÜ Lohorn 1" Signalname="BÜ Lohorn 1" SignalTyp="14" BoundingR="1">
-<p X="-1594.75" Y="1506.75" Z="402.74"/>
+<p X="-1594.7499" Y="1506.7499" Z="402.74"/>
 <phi/>
 <KoppelSignal ReferenzNr="235">
 <Datei NurInfo="1"/>
@@ -4493,8 +4493,8 @@
 <InfoGegenRichtung vMax="38.8889" km="401.0866" pos="1">
 <Ereignis Er="1000027" Wert="239" Beschr="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Lohorn 1" Stellwerk="BÜ Lohorn 1" Signalname="BÜ Lohorn 1" SignalTyp="14" BoundingR="1">
-<p X="-1594.75" Y="1506.75" Z="402.74"/>
-<phi Z="3.141593"/>
+<p X="-1594.7499" Y="1506.7499" Z="402.74"/>
+<phi Z="-3.141593"/>
 <KoppelSignal ReferenzNr="235">
 <Datei NurInfo="1"/>
 </KoppelSignal>
@@ -26517,6 +26517,39 @@
 <StrElement Nr="2580" spTrass="27.7778" Fkt="2">
 <g X="-1471.532" Y="1556.1655" Z="408.5893"/>
 <b X="-1511.634" Y="1480.0942" Z="402.8785"/>
+</StrElement>
+<StrElement Nr="2581" spTrass="27.7778" Fkt="2">
+<g X="-3051.2178" Y="2280.9524" Z="400.3407"/>
+<b X="-2384.4592" Y="2053.5972" Z="404.4174"/>
+<NachNorm Nr="2582"/>
+</StrElement>
+<StrElement Nr="2582" spTrass="27.7778" Fkt="2">
+<g X="-2384.4592" Y="2053.5972" Z="404.4174"/>
+<b X="-2057.2327" Y="1940.0942" Z="403.8246"/>
+<NachNorm Nr="2583"/>
+</StrElement>
+<StrElement Nr="2583" spTrass="27.7778" Fkt="2">
+<g X="-2057.2327" Y="1940.0942" Z="403.8246"/>
+<b X="-1831.0582" Y="1878.3929" Z="405.9037"/>
+</StrElement>
+<StrElement Nr="2585" spTrass="27.7778" Fkt="2">
+<g X="-1326.4117" Y="1322.2068" Z="400.6253"/>
+<b X="-1586.3978" Y="1483.6105" Z="401.3723"/>
+</StrElement>
+<StrElement Nr="2586" spTrass="27.7778" Fkt="2">
+<g X="-1326.4756" Y="1322.2474" Z="400.6248"/>
+<b X="-1119.8206" Y="1196.766" Z="401.694"/>
+</StrElement>
+<StrElement Nr="2587" spTrass="27.7778" Fkt="2">
+<g X="-3096.0684" Y="2183.865" Z="400.2023"/>
+<b X="-3087.9163" Y="2181.8298" Z="400.2412"/>
+<NachNorm Nr="2589"/>
+</StrElement>
+<StrElement Nr="2589" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="-3087.9163" Y="2181.8298" Z="400.2412"/>
+<b X="-3079.7642" Y="2179.7947" Z="400.279"/>
+<NachNorm Nr="2588"/>
+<NachGegen Nr="2587"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Allensbach \D" FahrstrTyp="TypZug" Laenge="4185.874">
 <FahrstrStart Ref="299">
