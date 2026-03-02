@@ -2416,15 +2416,15 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
-<p X="335.3782" Y="-387.0497" Z="398.5777"/>
+<p X="334.6626" Y="-387.0497" Z="398.5777"/>
 <phi/>
-<sk/>
+<sk X="0.8" Y="0.8" Z="0.9"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
-<p X="331.0647" Y="-383.8986" Z="398.5935"/>
+<p X="331.0647" Y="-383.9783" Z="398.5935"/>
 <phi/>
-<sk/>
+<sk X="0.8" Y="0.8" Z="0.9"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush04-2m.lod.ls3"/>
@@ -3332,6 +3332,288 @@
 <phi Z="2.169049"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-07a.lod.ls3"/>
+<p X="-92.8459" Y="93.9664" Z="401.0259"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Schachtdeckel\runddeckel01_mit-schacht.lod.ls3"/>
+<p X="-82.6958" Y="102.8015" Z="401.3177"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Schachtdeckel\runddeckel01_mit-schacht.lod.ls3"/>
+<p X="329.9395" Y="-416.6149" Z="398.892"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Telefone\1978_Bundespost\TelH78.lod.ls3"/>
+<p X="-75.3137" Y="56.3655" Z="399.0032"/>
+<phi Z="3.753549"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="336.2422" Y="-409.2275" Z="398.7651"/>
+<phi Z="-0.628319"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="338.25" Y="-410.6497" Z="398.7929"/>
+<phi Z="-0.628319"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="340.2571" Y="-412.1028" Z="398.8262"/>
+<phi Z="-0.628319"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="342.3076" Y="-413.5675" Z="398.8608"/>
+<phi Z="-0.608684"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="344.3259" Y="-414.9521" Z="398.8588"/>
+<phi Z="-0.615228"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten.lod.ls3"/>
+<p X="346.4287" Y="-416.3973" Z="398.8218"/>
+<phi Z="-0.605411"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="333.833" Y="-409.813" Z="398.8043"/>
+<phi Z="0.219257"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="326.4072" Y="-402.9041" Z="398.8408"/>
+<phi Z="-1.580614"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="326.3379" Y="-405.3914" Z="398.8563"/>
+<phi Z="-2.251475"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="324.7397" Y="-407.3918" Z="398.9245"/>
+<phi Z="-2.274382"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="323.1292" Y="-409.322" Z="398.9955"/>
+<phi Z="-2.313652"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="321.406" Y="-411.2043" Z="399.0615"/>
+<phi Z="3.927972"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten.lod.ls3"/>
+<p X="319.612" Y="-413.0083" Z="399.1271"/>
+<phi Z="3.965933"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="332.1389" Y="-411.8065" Z="398.8634"/>
+<phi Z="0.890118"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="330.4912" Y="-413.8041" Z="398.9284"/>
+<phi Z="0.890118"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="328.8262" Y="-415.8188" Z="398.9783"/>
+<phi Z="0.890118"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="343.0078" Y="-395.2827" Z="398.5777"/>
+<phi Z="0.186532"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="345.498" Y="-394.844" Z="398.5772"/>
+<phi Z="-0.186532"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="347.916" Y="-395.3209" Z="398.5774"/>
+<phi Z="-0.179987"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten.lod.ls3"/>
+<p X="350.3157" Y="-395.7523" Z="398.5851"/>
+<phi Z="-0.179987"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="336.5974" Y="-390.5491" Z="398.5794"/>
+<phi Z="1.45495"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="336.9033" Y="-388.0675" Z="398.5777"/>
+<phi Z="1.755038"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="336.5098" Y="-385.6476" Z="398.5777"/>
+<phi Z="2.095377"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="335.2937" Y="-383.49" Z="398.5777"/>
+<phi Z="2.418371"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="333.3908" Y="-381.8171" Z="398.5777"/>
+<phi Z="2.614721"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten_Stahlrohr.lod.ls3"/>
+<p X="331.2703" Y="-380.5416" Z="398.6046"/>
+<phi Z="2.644501"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Gelaender\Betonpfosten.lod.ls3"/>
+<p X="329.0591" Y="-379.325" Z="398.6763"/>
+<phi Z="2.644502"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-95.3142" Y="62.7645" Z="398.792"/>
+<phi Z="-2.437266"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-98.1208" Y="60.7753" Z="398.4818"/>
+<phi Z="-2.81592"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-101.5059" Y="60.0261" Z="398.0539"/>
+<phi Z="-3.003244"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-104.99" Y="59.8627" Z="397.843"/>
+<phi Z="3.092311"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-92.9155" Y="59.574" Z="398.7997"/>
+<phi Z="-2.948234"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-97.4941" Y="58.5982" Z="398.5861"/>
+<phi Z="-2.948234"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-101.2027" Y="57.6713" Z="398.2225"/>
+<phi Z="-2.941195"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-105.0009" Y="57.3347" Z="397.9197"/>
+<phi Z="-3.037241"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-82.9319" Y="72.889" Z="399.0285"/>
+<phi Z="0.964352"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-81.165" Y="75.875" Z="399.2881"/>
+<phi Z="1.200021"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-80.1394" Y="79.1938" Z="399.5506"/>
+<phi Z="1.420117"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-79.8411" Y="82.6594" Z="399.8226"/>
+<phi Z="1.548353"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-78.6182" Y="70.0393" Z="399.0798"/>
+<phi Z="0.974707"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-76.401" Y="74.1419" Z="399.2755"/>
+<phi Z="1.061116"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-74.9851" Y="78.4562" Z="399.4566"/>
+<phi Z="1.265834"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-74.7771" Y="82.3005" Z="399.6656"/>
+<phi Z="1.472264"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_508500_5282500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="233" MeshI="687">
 <RenderFlags TexVoreinstellung="3"/>
@@ -3822,31 +4104,25 @@
 <Datei Dateiname="Terrain\General\Water\water01.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="4" MeshI="6">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\embankment01.dds"/>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="4" MeshI="6">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\embankment01.dds"/>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="14" MeshI="36">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="12">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="14" MeshI="30">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
@@ -3858,13 +4134,19 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment01.dds"/>
@@ -3900,12 +4182,6 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeshV="178" MeshI="558">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="15" TypGF="5" MeterProTex="100" MeshV="88" MeshI="276">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
@@ -3928,6 +4204,24 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

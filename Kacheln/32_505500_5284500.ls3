@@ -892,13 +892,13 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000463_005293_Grimmelshofen\ObjekteGrimmelshofen\Bauernhaus3\Bauernhaus3.lod.ls3"/>
-<p X="-459.7079" Y="169.5744" Z="398.1497"/>
+<p X="-459.7079" Y="169.5744" Z="397.2591"/>
 <phi Z="-0.598866"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000463_005293_Grimmelshofen\ObjekteGrimmelshofen\Bauernhaus2\Bauernhaus2_Anbau.lod.ls3"/>
-<p X="-454.4778" Y="166.005" Z="398.1144"/>
+<p X="-454.4778" Y="166.005" Z="397.255"/>
 <phi Z="-0.598866"/>
 <sk/>
 </Verknuepfte>
@@ -9548,10 +9548,748 @@
 <phi Z="-0.395153"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="603" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Bushaltestelle\Haltestellenschild_Fahrplan.lod.ls3"/>
 <p X="-304.6631" Y="70.4424" Z="399.0517"/>
 <phi Z="-0.395153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Muelltonnen\Muelltonne_240l_schwarz.lod.ls3"/>
+<p X="-326.5191" Y="94.5957" Z="399.1642"/>
+<phi Z="0.799797"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Muelltonnen\Muelltonne_240l_schwarz.lod.ls3"/>
+<p X="-325.9275" Y="94.1089" Z="399.1603"/>
+<phi Z="0.799797"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Muelltonnen\Muelltonne_240l_schwarz.lod.ls3"/>
+<p X="-197.9083" Y="40.887" Z="399.4696"/>
+<phi Z="2.501821"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Muelltonnen\Muelltonne_240l_schwarz.lod.ls3"/>
+<p X="-197.4562" Y="41.4785" Z="399.4867"/>
+<phi Z="2.501821"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Muelltonnen\Muelltonne_240l_schwarz.lod.ls3"/>
+<p X="-97.2265" Y="-5.769" Z="400.03"/>
+<phi Z="1.136864"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Muelltonnen\Muelltonne_240l_schwarz.lod.ls3"/>
+<p X="-437.0507" Y="94.6158" Z="398.3391"/>
+<phi Z="3.200825"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Muelltonnen\Muelltonne_240l_schwarz.lod.ls3"/>
+<p X="23.8141" Y="-141.1105" Z="398.3698"/>
+<phi Z="4.227406"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Personen\1950\Bahnpersonal\Fahrdienstleiter_Uniform_Muetze_1.lod.ls3"/>
+<p X="-368.2564" Y="88.5691" Z="399.6798"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\People\2000\Photographers\Photographer_female_1.lod.ls3"/>
+<p X="49" Y="-139.2079" Z="408.5"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\People\1975\Adults\woman02-b.lod.ls3"/>
+<p X="220.4445" Y="-236.8221" Z="398.782"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\People\1950\Adults\woman01-b.lod.ls3"/>
+<p X="-209.2649" Y="-22.8564" Z="398.8154"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\People\1975\Adults\man01-c.lod.ls3"/>
+<p X="-436.543" Y="97.0325" Z="398.3391"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\People\1975\Adults\woman02-a.lod.ls3"/>
+<p X="-319.8725" Y="89.5081" Z="399.2145"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Post\Postbriefkasten_EB7K.lod.ls3"/>
+<p X="-382.98" Y="104.4686" Z="399.1609"/>
+<phi Z="-0.436332"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Reklame\Plakatwand_Format_18-1.lod.ls3"/>
+<p X="-416.6376" Y="135.0002" Z="397.8968"/>
+<phi Z="5.846853"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Reklame\Plakat_Zusi_Hohenzollernbruecke.lod.ls3"/>
+<p X="-416.6376" Y="135.0002" Z="397.8968"/>
+<phi Z="2.70526"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\People\1975\Adults\woman02-b.lod.ls3"/>
+<p X="-480.7296" Y="84.4771" Z="395.1195"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\People\1975\Adults\woman02-c.lod.ls3"/>
+<p X="-496.7665" Y="79.7767" Z="395.4402"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\People\1975\Adults\woman02-a.lod.ls3"/>
+<p X="-470.9598" Y="103.8799" Z="393.9519"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Schachtdeckel\runddeckel01_mit-schacht.lod.ls3"/>
+<p X="-492.2988" Y="103.2523" Z="394.5755"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Schachtdeckel\runddeckel01_mit-schacht.lod.ls3"/>
+<p X="-219.1463" Y="12.3272" Z="399.3063"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Schaltschrank\KVz83BK.lod.ls3"/>
+<p X="-214.7116" Y="16.0407" Z="399.2959"/>
+<phi Z="-0.471239"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Schaltschrank\KVz83.lod.ls3"/>
+<p X="-131.2529" Y="8.6549" Z="399.4169"/>
+<phi Z="-0.436332"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Schaltschrank\KVz82.lod.ls3"/>
+<p X="-412.6328" Y="45.1298" Z="396.8154"/>
+<phi Z="-1.22173"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\Masten\Verkehrszeichenmast_3m.lod.ls3"/>
+<p X="-422.6861" Y="137.9194" Z="397.8074"/>
+<phi Z="-0.504946"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\1992\Zeichen306_Vorfahrtstrasse\Zeichen_306_1992_mittel.lod.ls3"/>
+<p X="-422.6581" Y="137.904" Z="400.3074"/>
+<phi Z="-0.504946"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\Masten\Verkehrszeichenmast_3m.lod.ls3"/>
+<p X="-435.7452" Y="136.4948" Z="397.7068"/>
+<phi Z="2.636646"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\1992\Zeichen306_Vorfahrtstrasse\Zeichen_306_1992_mittel.lod.ls3"/>
+<p X="-435.7732" Y="136.5103" Z="400.2068"/>
+<phi Z="2.636646"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\Masten\Verkehrszeichenmast_3m.lod.ls3"/>
+<p X="-424.9173" Y="131.4247" Z="397.8191"/>
+<phi Z="4.207443"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\1992\Zeichen205_Vorfahrt-gewaehren\zeichen205_1992.lod.ls3"/>
+<p X="-424.9327" Y="131.3967" Z="400.3191"/>
+<phi Z="-2.075743"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\Masten\Verkehrszeichenmast_3m.lod.ls3"/>
+<p X="-429.2132" Y="142.9767" Z="397.779"/>
+<phi Z="1.06585"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\1992\Zeichen205_Vorfahrt-gewaehren\zeichen205_1992.lod.ls3"/>
+<p X="-429.1977" Y="143.0047" Z="400.279"/>
+<phi Z="1.06585"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\Masten\Verkehrszeichenmast_3m.lod.ls3"/>
+<p X="-8.9419" Y="-50.5882" Z="402.2309"/>
+<phi Z="-0.425424"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\1992\Zeichen306_Vorfahrtstrasse\Zeichen_306_1992_mittel.lod.ls3"/>
+<p X="-8.9127" Y="-50.6013" Z="404.7309"/>
+<phi Z="-0.425424"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\Masten\Verkehrszeichenmast_3m.lod.ls3"/>
+<p X="-23.4096" Y="-37.7556" Z="401.6538"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\1992\Zeichen205_Vorfahrt-gewaehren\zeichen205_1992.lod.ls3"/>
+<p X="-23.3776" Y="-37.7556" Z="404.1538"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\Masten\Verkehrszeichenmast_3m.lod.ls3"/>
+<p X="-47.1813" Y="-41.3911" Z="401.1619"/>
+<phi Z="2.716169"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\1992\Zeichen306_Vorfahrtstrasse\Zeichen_306_1992_mittel.lod.ls3"/>
+<p X="-47.2104" Y="-41.3779" Z="403.6619"/>
+<phi Z="2.716169"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Telefone\1978_Bundespost\TelH78.lod.ls3"/>
+<p X="-443.5706" Y="154.5601" Z="397.5933"/>
+<phi Z="-3.724097"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Industrie\Saegewerk\Eichenstapel_2.lod.ls3"/>
+<p X="-73.6837" Y="-42.815" Z="399.5333"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Lampenaufsaetze\LampeAnbau02.lod.ls3"/>
+<p X="-140.4303" Y="-18.5426" Z="405.7546"/>
+<phi Y="0" Z="-0.451159"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Lampenaufsaetze\LampeAnbau02.lod.ls3"/>
+<p X="-104.4326" Y="-35.9794" Z="406.0186"/>
+<phi Y="0" Z="-0.451159"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Lampenaufsaetze\LampeAnbau02.lod.ls3"/>
+<p X="-68.4348" Y="-52.6838" Z="406.0685"/>
+<phi Y="0" Z="-0.451159"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Lampenaufsaetze\LampeAnbau02.lod.ls3"/>
+<p X="-32.4372" Y="-71.7073" Z="407.0293"/>
+<phi Y="0" Z="-0.451159"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Lampenaufsaetze\LampeAnbau02.lod.ls3"/>
+<p X="3.5605" Y="-90.1262" Z="407.4728"/>
+<phi Y="0" Z="-0.518163"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Lampenaufsaetze\LampeAnbau02.lod.ls3"/>
+<p X="37.2965" Y="-105.2967" Z="405.6763"/>
+<phi Y="0" Z="-0.619193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Lampenaufsaetze\LampeAnbau02.lod.ls3"/>
+<p X="69.8227" Y="-127.3286" Z="404.8857"/>
+<phi Z="2.675026"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Lampenaufsaetze\LampeAnbau02.lod.ls3"/>
+<p X="105.5475" Y="-145.9953" Z="406.0944"/>
+<phi Z="2.675026"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Lampenaufsaetze\LampeAnbau02.lod.ls3"/>
+<p X="141.2722" Y="-163.9882" Z="406.0113"/>
+<phi Z="2.675026"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Lampenaufsaetze\LampeAnbau02.lod.ls3"/>
+<p X="176.9815" Y="-184.0183" Z="406.1662"/>
+<phi Z="2.64923"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Lattenzaun_gruen_5m_125cm_hoch.lod.ls3"/>
+<p X="-52.0758" Y="-96.9393" Z="398.4909"/>
+<phi Z="-0.453239"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Lattenzaun_gruen_5m_125cm_hoch.lod.ls3"/>
+<p X="-45.0272" Y="-100.269" Z="398.5647"/>
+<phi Z="-0.453239"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Lattenzaun_gruen_5m_125cm_hoch.lod.ls3"/>
+<p X="-40.5289" Y="-102.447" Z="398.5519"/>
+<phi Z="-0.453239"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Lattenzaun_gruen_5m_125cm_hoch.lod.ls3"/>
+<p X="-39.1437" Y="-105.713" Z="398.4926"/>
+<phi Z="4.25915"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Lattenzaun_gruen_5m_125cm_hoch.lod.ls3"/>
+<p X="-41.355" Y="-110.2227" Z="398.5927"/>
+<phi Z="4.25915"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Lattenzaun_gruen_5m_125cm_hoch.lod.ls3"/>
+<p X="-55.356" Y="-98.3618" Z="398.5889"/>
+<phi Z="7.400743"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Lattenzaun_gruen_5m_125cm_hoch.lod.ls3"/>
+<p X="-57.518" Y="-102.8076" Z="398.6043"/>
+<phi Z="7.400743"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Lattenzaun_gruen_5m_125cm_hoch.lod.ls3"/>
+<p X="-59.7016" Y="-107.2942" Z="398.6129"/>
+<phi Z="7.400743"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Lattenzaun_gruen_5m_125cm_hoch.lod.ls3"/>
+<p X="-58.3343" Y="-110.5013" Z="398.568"/>
+<phi Z="8.971539"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-321.9451" Y="87.2238" Z="399.0309"/>
+<phi Z="-0.503964"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-332.8979" Y="92.917" Z="399.0753"/>
+<phi Z="-0.481186"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-330.6818" Y="91.76" Z="399.063"/>
+<phi Z="-0.481186"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-328.4656" Y="90.6029" Z="399.1133"/>
+<phi Z="-0.481186"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-319.8162" Y="86.1036" Z="398.97"/>
+<phi Z="0.819069"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-318.1089" Y="87.9298" Z="399.1311"/>
+<phi Z="0.819069"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-316.4017" Y="89.7561" Z="399.2922"/>
+<phi Z="0.819069"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-314.6945" Y="91.5824" Z="399.4533"/>
+<phi Z="0.819069"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-312.9872" Y="93.4087" Z="399.6144"/>
+<phi Z="0.819069"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-311.28" Y="95.235" Z="399.7755"/>
+<phi Z="0.819069"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-309.5727" Y="97.0612" Z="399.9366"/>
+<phi Z="0.819069"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-332.8332" Y="92.8515" Z="399.0755"/>
+<phi Z="0.826361"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-331.1393" Y="94.6902" Z="399.1851"/>
+<phi Z="0.826361"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-329.4454" Y="96.5288" Z="399.2947"/>
+<phi Z="0.826361"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-327.7515" Y="98.3675" Z="399.4044"/>
+<phi Z="0.826361"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-326.0576" Y="100.2062" Z="399.514"/>
+<phi Z="0.826361"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-324.3637" Y="102.0449" Z="399.6236"/>
+<phi Z="0.826361"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-322.6698" Y="103.8836" Z="399.7332"/>
+<phi Z="0.826361"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-320.976" Y="105.7223" Z="399.8428"/>
+<phi Z="0.826361"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-319.282" Y="107.5609" Z="399.9525"/>
+<phi Z="0.826361"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-317.5882" Y="109.3996" Z="400.0621"/>
+<phi Z="0.826361"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-288.4122" Y="70.8263" Z="399.1167"/>
+<phi Z="1.080671"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-287.2354" Y="73.032" Z="399.2502"/>
+<phi Z="1.080671"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-286.0585" Y="75.2377" Z="399.3525"/>
+<phi Z="1.080671"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-284.8817" Y="77.4434" Z="399.4237"/>
+<phi Z="1.080671"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-283.7048" Y="79.6491" Z="399.4489"/>
+<phi Z="1.080671"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-282.528" Y="81.8548" Z="399.4475"/>
+<phi Z="1.080671"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-281.3511" Y="84.0605" Z="399.4461"/>
+<phi Z="1.080671"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-280.1743" Y="86.2661" Z="399.4447"/>
+<phi Z="1.080671"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-278.9975" Y="88.4718" Z="399.4433"/>
+<phi Z="1.080671"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-277.8206" Y="90.6775" Z="399.4418"/>
+<phi Z="1.080671"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-276.6438" Y="92.8832" Z="399.4404"/>
+<phi Z="1.080671"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-275.4669" Y="95.0889" Z="399.4393"/>
+<phi Z="1.080671"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-271.906" Y="62.6456" Z="399.1121"/>
+<phi Z="1.083341"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-270.7351" Y="64.8545" Z="399.2235"/>
+<phi Z="1.083341"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-269.5641" Y="67.0633" Z="399.3363"/>
+<phi Z="1.083341"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-268.3932" Y="69.2721" Z="399.4492"/>
+<phi Z="1.083341"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-267.2223" Y="71.4809" Z="399.5196"/>
+<phi Z="1.083341"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-266.0513" Y="73.6897" Z="399.6512"/>
+<phi Z="1.083341"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-264.8804" Y="75.8985" Z="399.7829"/>
+<phi Z="1.083341"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-263.7094" Y="78.1074" Z="399.9146"/>
+<phi Z="1.083341"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-262.5385" Y="80.3162" Z="400.0462"/>
+<phi Z="1.083341"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-261.3675" Y="82.525" Z="400.1779"/>
+<phi Z="1.083341"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-260.1966" Y="84.7338" Z="400.3096"/>
+<phi Z="1.083341"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-288.4068" Y="70.9168" Z="399.098"/>
+<phi Z="-0.435241"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-271.9124" Y="62.6584" Z="399.128"/>
+<phi Z="2.700934"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-274.1735" Y="63.7248" Z="399.1222"/>
+<phi Z="2.700934"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Jaegerzaun\jaegerzaun80cm_braun_250cm.lod.ls3"/>
+<p X="-276.4347" Y="64.7911" Z="399.1163"/>
+<phi Z="2.700934"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaun_mit_Mauer\Ziegel_Beige_Holz\ZiegelBeigeHolz_1x_4m.lod.ls3"/>
+<p X="-261.7394" Y="-12.2342" Z="398.5843"/>
+<phi Z="0.919729"/>
+<sk X="0.5" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaun_mit_Mauer\Ziegel_Beige_Holz\ZiegelBeigeHolz_1x_4m.lod.ls3"/>
+<p X="-259.3152" Y="-9.0525" Z="398.5903"/>
+<phi Z="0.919729"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaun_mit_Mauer\Ziegel_Beige_Holz\ZiegelBeigeHolz_1x_4m.lod.ls3"/>
+<p X="-256.8911" Y="-5.8707" Z="398.5964"/>
+<phi Z="0.919729"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaun_mit_Mauer\Ziegel_Beige_Holz\ZiegelBeigeHolz_1x_4m.lod.ls3"/>
+<p X="-254.467" Y="-2.689" Z="398.6024"/>
+<phi Z="0.919729"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaun_mit_Mauer\Ziegel_Beige_Metall\ZiegelBeigeMetall_Pfosten.lod.ls3"/>
+<p X="-262.8429" Y="-13.7371" Z="398.5201"/>
+<phi Z="0.919729"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaun_mit_Mauer\Ziegel_Beige_Holz\ZiegelBeigeHolz_1x_4m.lod.ls3"/>
+<p X="-251.2367" Y="-5.3623" Z="398.6335"/>
+<phi Z="-0.623267"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaun_mit_Mauer\Ziegel_Beige_Holz\ZiegelBeigeHolz_1x_4m.lod.ls3"/>
+<p X="-247.9888" Y="-7.697" Z="398.6234"/>
+<phi Z="-0.623267"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaun_mit_Mauer\Ziegel_Beige_Holz\ZiegelBeigeHolz_1x_4m.lod.ls3"/>
+<p X="-244.7409" Y="-10.0318" Z="398.6133"/>
+<phi Z="-0.623267"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaun_mit_Mauer\Ziegel_Beige_Metall\ZiegelBeigeMetall_1x_4m.lod.ls3"/>
+<p X="-242.9051" Y="-11.2183" Z="398.6071"/>
+<phi Z="-0.623268"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaun_mit_Mauer\Ziegel_Beige_Holz\ZiegelBeigeHolz_1x_4m.lod.ls3"/>
+<p X="-245.5642" Y="-14.2374" Z="398.5261"/>
+<phi Z="-2.244596"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaun_mit_Mauer\Ziegel_Beige_Holz\ZiegelBeigeHolz_1x_4m.lod.ls3"/>
+<p X="-248.0601" Y="-17.3632" Z="398.3499"/>
+<phi Z="-2.244596"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaun_mit_Mauer\Ziegel_Beige_Holz\ZiegelBeigeHolz_1x_4m.lod.ls3"/>
+<p X="-250.5559" Y="-20.489" Z="398.1738"/>
+<phi Z="-2.244596"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaun_mit_Mauer\Ziegel_Beige_Holz\ZiegelBeigeHolz_1x_4m.lod.ls3"/>
+<p X="-253.0518" Y="-23.6149" Z="397.9977"/>
+<phi Z="-2.244596"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Lattenzaun_gruen_5m_125cm_hoch.lod.ls3"/>
+<p X="-454.8948" Y="162.1622" Z="397.3652"/>
+<phi Z="-0.658892"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Lattenzaun_gruen_5m_125cm_hoch.lod.ls3"/>
+<p X="-451.7321" Y="159.7133" Z="397.5202"/>
+<phi Z="-0.658892"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Lattenzaun_gruen_5m_125cm_hoch.lod.ls3"/>
+<p X="-448.5694" Y="157.2643" Z="397.6753"/>
+<phi Z="-0.658892"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_505500_5284500.lsb"/>
@@ -11767,6 +12505,18 @@
 </Textur>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\sleepers.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" MeterProTex="2" MeterProTex2="10" zBias="-1" MeshV="80" MeshI="342">
+<RenderFlags TexVoreinstellung="2"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\schutzplanke.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" MeterProTex="2" MeterProTex2="10" zBias="-1" MeshV="72" MeshI="306">
+<RenderFlags TexVoreinstellung="2"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\schutzplanke.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

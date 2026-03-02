@@ -2642,6 +2642,120 @@
 <phi Z="2.735886"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\People\1975\Photographers\photographer01-b.lod.ls3"/>
+<p X="105.3853" Y="59.3248" Z="399.716"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Schachtdeckel\runddeckel01_mit-schacht.lod.ls3"/>
+<p X="-27.6279" Y="106.1872" Z="399.4976"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Telefone\1978_Bundespost\TelH78.lod.ls3"/>
+<p X="-17.2129" Y="137.3978" Z="399.981"/>
+<phi Z="1.08974"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-30.7686" Y="137.2347" Z="399.7443"/>
+<phi Z="1.010568"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-29.1634" Y="140.1996" Z="399.8401"/>
+<phi Z="1.010568"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-27.3038" Y="143.1646" Z="399.9359"/>
+<phi Z="1.010568"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-25.4361" Y="146.1296" Z="400.0317"/>
+<phi Z="1.010568"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-22.9855" Y="133.1798" Z="399.813"/>
+<phi Z="0.994867"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-20.7214" Y="136.1152" Z="399.8972"/>
+<phi Z="0.994867"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-18.8154" Y="139.0506" Z="399.9814"/>
+<phi Z="0.994867"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-16.9092" Y="141.986" Z="400.0655"/>
+<phi Z="0.994867"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-32.2747" Y="119.4985" Z="399.5832"/>
+<phi Z="-2.110881"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-34.0745" Y="116.4967" Z="399.4242"/>
+<phi Z="-2.110881"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-35.8743" Y="113.4948" Z="399.2651"/>
+<phi Z="-2.110881"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-37.6738" Y="110.493" Z="399.1061"/>
+<phi Z="-2.110881"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-41.6935" Y="122.1236" Z="399.4452"/>
+<phi Z="-2.204782"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-43.5589" Y="119.7803" Z="399.4083"/>
+<phi Z="-2.204782"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-45.2446" Y="117.3886" Z="399.0854"/>
+<phi Z="-2.204782"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Zubehoer\Leitstein_Leitpflock\Leitpflock.lod.ls3"/>
+<p X="-47.3179" Y="114.5688" Z="398.9454"/>
+<phi Z="-2.204782"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_507500_5283500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="296" MeshI="864">
 <RenderFlags TexVoreinstellung="3"/>
@@ -3270,7 +3384,7 @@
 <Datei Dateiname="Terrain\Deutschland\Asphalt\ASPHALT-hellgrau.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
@@ -3304,6 +3418,12 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\General\Water\water01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

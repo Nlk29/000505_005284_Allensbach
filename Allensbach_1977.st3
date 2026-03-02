@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
-<Info DateiTyp="Strecke" Version="A.7" MinVersion="A.1"/>
+<Info DateiTyp="Strecke" Version="A.6" MinVersion="A.1"/>
 <Strecke RekTiefe="20">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.ls3"/>
 <HintergrundDatei/>
@@ -382,6 +382,12 @@
 <ReferenzElemente ReferenzNr="318" StrElement="2511" RefTyp="4" Info="Bü km 0,000"/>
 <ReferenzElemente ReferenzNr="319" StrElement="2511" StrNorm="1" RefTyp="4" Info="Bü km 0,000"/>
 <ReferenzElemente ReferenzNr="320" StrElement="2560" RefTyp="4" Info="Signal: Reichenau (Baden) Cv"/>
+<ReferenzElemente ReferenzNr="321" StrElement="2590" RefTyp="4" Info="Reisende"/>
+<ReferenzElemente ReferenzNr="322" StrElement="2591" RefTyp="4" Info="Reisende"/>
+<ReferenzElemente ReferenzNr="323" StrElement="2592" RefTyp="4" Info="Reisende"/>
+<ReferenzElemente ReferenzNr="324" StrElement="2593" RefTyp="4" Info="Reisende"/>
+<ReferenzElemente ReferenzNr="325" StrElement="2594" RefTyp="4" Info="Reisende"/>
+<ReferenzElemente ReferenzNr="326" StrElement="2595" RefTyp="4" Info="Reisende"/>
 <StrElement Nr="1" kr="-0.000066" spTrass="38.8889" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="4214.5688" Y="-2111.2671" Z="398.6589"/>
 <b X="4213.2988" Y="-2110.6689" Z="398.6589"/>
@@ -1997,8 +2003,29 @@
 <b X="3412.0649" Y="-1440.1421" Z="398.8845"/>
 <InfoNormRichtung vMax="-1">
 <Ereignis Er="1000012" Beschr="Reichenau-Waldsiedlung (Baden) Hp"/>
+<Signal SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="3444.73" Y="-1488.069" Z="398.8722"/>
+<phi/>
+<KoppelSignal ReferenzNr="325">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="407.052" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="407.052" pos="1">
+<Signal SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="3444.73" Y="-1488.069" Z="398.8722"/>
+<phi/>
+<KoppelSignal ReferenzNr="325">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="2534"/>
 <NachGegen Nr="117"/>
 </StrElement>
@@ -2150,8 +2177,29 @@
 <b X="3415.3694" Y="-1437.8894" Z="398.8845"/>
 <InfoNormRichtung vMax="-1">
 <Ereignis Er="1000009" Beschr="Reichenau-Waldsiedlung (Baden) Hp"/>
+<Signal SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="3448.0349" Y="-1485.816" Z="398.8722"/>
+<phi/>
+<KoppelSignal ReferenzNr="326">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="407.052" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="407.052" pos="1">
+<Signal SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="3448.0349" Y="-1485.816" Z="398.8722"/>
+<phi/>
+<KoppelSignal ReferenzNr="326">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="2533"/>
 <NachGegen Nr="134"/>
 </StrElement>
@@ -3402,21 +3450,29 @@
 <b X="79.4195" Y="610.3086" Z="399.3"/>
 <InfoNormRichtung vMax="-1">
 <Ereignis Er="1000009"/>
-<Signal NameBetriebsstelle="Allensbach" Stellwerk="Allensbach Af" SignalTyp="1" BoundingR="10">
-<p X="80.8127" Y="613.0779" Z="399.3"/>
+<Signal SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="10" Y="613.0779" Z="399.3"/>
 <phi Z="2.675482"/>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne5_bel_el.lod.ls3"/>
-</SignalFrame>
+<KoppelSignal ReferenzNr="321">
+<Datei NurInfo="1"/>
+</KoppelSignal>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="9223372036854775807" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="402.9954" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="402.9954" pos="1">
+<Signal SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="115.1524" Y="592.332" Z="399.3"/>
+<phi/>
+<KoppelSignal ReferenzNr="321">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="2465"/>
 <NachGegen Nr="2474"/>
 </StrElement>
@@ -5371,8 +5427,30 @@
 <StrElement Nr="455" Ueberh="0.0314" kr="-0.00049" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2485.9299" Y="-377.5898" Z="399.7984"/>
 <b X="2498.3879" Y="-382.6648" Z="399.7898"/>
-<InfoNormRichtung vMax="38.8889" km="405.613" pos="1"/>
-<InfoGegenRichtung vMax="38.8889" km="405.6264"/>
+<InfoNormRichtung vMax="38.8889" km="405.613" pos="1">
+<Signal SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="2485.9299" Y="-377.5898" Z="399.7984"/>
+<phi/>
+<KoppelSignal ReferenzNr="324">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="38.8889" km="405.6264">
+<Signal SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="2485.9299" Y="-377.5898" Z="399.7984"/>
+<phi/>
+<KoppelSignal ReferenzNr="324">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="456"/>
 <NachGegen Nr="454"/>
 </StrElement>
@@ -5550,8 +5628,30 @@
 <StrElement Nr="473" Ueberh="0.0297" kr="-0.00048" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2479.0339" Y="-379.1271" Z="399.8022"/>
 <b X="2490.792" Y="-383.8759" Z="399.794"/>
-<InfoNormRichtung vMax="38.8889" km="405.6067" pos="1"/>
-<InfoGegenRichtung vMax="38.8889" km="405.6194"/>
+<InfoNormRichtung vMax="38.8889" km="405.6067" pos="1">
+<Signal SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="2479.0339" Y="-379.1271" Z="399.8022"/>
+<phi/>
+<KoppelSignal ReferenzNr="323">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="38.8889" km="405.6194">
+<Signal SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="2479.0339" Y="-379.1271" Z="399.8022"/>
+<phi/>
+<KoppelSignal ReferenzNr="323">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="474"/>
 <NachGegen Nr="2535"/>
 </StrElement>
@@ -5864,21 +5964,29 @@
 <b X="80.9853" Y="604.4765" Z="399.3"/>
 <InfoNormRichtung vMax="-1">
 <Ereignis Er="1000012"/>
-<Signal NameBetriebsstelle="Allensbach" Stellwerk="Allensbach Af" SignalTyp="1" BoundingR="10">
-<p X="79.5698" Y="601.6626" Z="399.3"/>
+<Signal SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="10" Y="601.6626" Z="399.3"/>
 <phi Z="2.675483"/>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne5_bel_el.lod.ls3"/>
-</SignalFrame>
+<KoppelSignal ReferenzNr="322">
+<Datei NurInfo="1"/>
+</KoppelSignal>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="9223372036854775807" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="402.9998" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="402.9998" pos="1">
+<Signal SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="130.1181" Y="579.7587" Z="399.3"/>
+<phi/>
+<KoppelSignal ReferenzNr="322">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="2466"/>
 <NachGegen Nr="2537"/>
 </StrElement>
@@ -24762,7 +24870,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -24774,7 +24882,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-5m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -24812,7 +24920,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -24824,7 +24932,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-5m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -26461,10 +26569,11 @@
 <b X="286.0121" Y="492.9677" Z="398.6251"/>
 <NachNorm Nr="2567"/>
 </StrElement>
-<StrElement Nr="2567" spTrass="27.7778" Fkt="2" Volt="2" Drahthoehe="5">
+<StrElement Nr="2567" spTrass="27.7778" Anschluss="256" Fkt="2" Volt="2" Drahthoehe="5">
 <g X="286.0121" Y="492.9677" Z="398.6251"/>
 <b X="268.7236" Y="502.8335" Z="399.5788"/>
 <NachNorm Nr="2568"/>
+<NachGegen Nr="2566"/>
 </StrElement>
 <StrElement Nr="2568" spTrass="27.7778" Fkt="2" Volt="2" Drahthoehe="5">
 <g X="268.7236" Y="502.8335" Z="399.5788"/>
@@ -26523,10 +26632,11 @@
 <b X="-2384.4592" Y="2053.5972" Z="404.4174"/>
 <NachNorm Nr="2582"/>
 </StrElement>
-<StrElement Nr="2582" spTrass="27.7778" Fkt="2">
+<StrElement Nr="2582" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="-2384.4592" Y="2053.5972" Z="404.4174"/>
 <b X="-2057.2327" Y="1940.0942" Z="403.8246"/>
 <NachNorm Nr="2583"/>
+<NachGegen Nr="2581"/>
 </StrElement>
 <StrElement Nr="2583" spTrass="27.7778" Fkt="2">
 <g X="-2057.2327" Y="1940.0942" Z="403.8246"/>
@@ -26535,10 +26645,12 @@
 <StrElement Nr="2585" spTrass="27.7778" Fkt="2">
 <g X="-1326.4117" Y="1322.2068" Z="400.6253"/>
 <b X="-1586.3978" Y="1483.6105" Z="401.3723"/>
+<NachGegen Nr="2586"/>
 </StrElement>
 <StrElement Nr="2586" spTrass="27.7778" Fkt="2">
 <g X="-1326.4756" Y="1322.2474" Z="400.6248"/>
 <b X="-1119.8206" Y="1196.766" Z="401.694"/>
+<NachGegen Nr="2585"/>
 </StrElement>
 <StrElement Nr="2587" spTrass="27.7778" Fkt="2">
 <g X="-3096.0684" Y="2183.865" Z="400.2023"/>
@@ -26550,6 +26662,523 @@
 <b X="-3079.7642" Y="2179.7947" Z="400.279"/>
 <NachNorm Nr="2588"/>
 <NachGegen Nr="2587"/>
+</StrElement>
+<StrElement Nr="2590" spTrass="27.7778" Fkt="2">
+<g X="142.7293" Y="580.2054" Z="399.15"/>
+<b X="145.9144" Y="578.5487" Z="399.15"/>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Allensbach" Stellwerk="Reisende" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="67">
+<p X="142.7293" Y="580.2054" Z="399.15"/>
+<phi/>
+<SignalFrame>
+<p X="1.0311" Y="2.6164" Z="0.5298"/>
+<phi Z="0.80666"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-01b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-1.1951" Y="1.9171" Z="0.5298"/>
+<phi Z="1.206026"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-10b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-8.2001" Y="5.5953" Z="0.5298"/>
+<phi Z="1.170835"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-08b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="6.7939" Y="-0.0444" Z="0.5298"/>
+<phi Z="0.848113"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-01a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-13.408" Y="10.0124" Z="0.5298"/>
+<phi Z="1.352962"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-03a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-3.3055" Y="3.8419" Z="0.5298"/>
+<phi Z="1.098894"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-02b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="45.325" Y="-19.6913" Z="0.5298"/>
+<phi Z="1.15871"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\1975\Adults\woman02-b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-5.6816" Y="5.5285" Z="0.5298"/>
+<phi Z="0.62727"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\1975\Travellers\travellers01-c.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-23.7027" Y="14.201" Z="0.5298"/>
+<phi Z="0.920591"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-07a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="59.4252" Y="-27.7483" Z="0.5299"/>
+<phi Z="1.189991"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-05b.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+</StrElement>
+<StrElement Nr="2591" spTrass="27.7778" Fkt="2">
+<g X="142.2547" Y="572.0068" Z="399.15"/>
+<b X="139.6087" Y="573.2858" Z="399.15"/>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Allensbach" Stellwerk="Reisende" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="96">
+<p X="142.2547" Y="572.0068" Z="399.15"/>
+<phi/>
+<SignalFrame>
+<p X="0.7983" Y="-1.943" Z="0.5298"/>
+<phi Z="-2.309259"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\1975\Adults\man01-b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="4.031" Y="-4.6459" Z="0.5298"/>
+<phi Z="-1.850156"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-04b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-15.1997" Y="5.4238" Z="0.5298"/>
+<phi Z="-2.276459"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\1975\Adults\man01-b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="19.1412" Y="-12.1977" Z="0.5299"/>
+<phi Z="-1.797381"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-10a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-6.6025" Y="0.561" Z="0.5298"/>
+<phi Z="-1.97982"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-09b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-18.1846" Y="6.6973" Z="0.5298"/>
+<phi Z="-2.500626"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\1975\Adults\woman02-c.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="83.7458" Y="-44.1733" Z="0.5299"/>
+<phi Z="-1.667585"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-02a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="6.5316" Y="-6.1622" Z="0.5298"/>
+<phi Z="-1.690686"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-02b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-2.6032" Y="-1.2938" Z="0.5298"/>
+<phi Z="-1.848766"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\1975\Adults\man01-a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-8.7901" Y="2.3459" Z="0.5298"/>
+<phi Z="-2.094057"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-04a.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+</StrElement>
+<StrElement Nr="2592" spTrass="27.7778" Fkt="2">
+<g X="2490.0239" Y="-385.2516" Z="399.5947"/>
+<b X="2484.7317" Y="-383.1668" Z="399.5936"/>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Hegne Hp" Stellwerk="Reisende" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="82">
+<p X="2490.0239" Y="-385.2516" Z="399.5947"/>
+<phi/>
+<SignalFrame>
+<p X="-12.875" Y="3.7596" Z="0.3073"/>
+<phi Z="-1.683089"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-04b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="7.427" Y="-5.3126" Z="0.1863"/>
+<phi Z="-1.562205"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-02b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="28.0762" Y="-14.1646" Z="0.1485"/>
+<phi Z="-2.395837"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\1975\Adults\man01-a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="44.4119" Y="-22.0871" Z="0.0327"/>
+<phi Z="-2.367877"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\1975\Adults\man01-b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="72.4871" Y="-35.0046" Z="0.0032"/>
+<phi Z="-1.973344"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-06b.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+</StrElement>
+<StrElement Nr="2593" spTrass="27.7778" Fkt="2">
+<g X="2492.7681" Y="-378.7821" Z="399.6904"/>
+<b X="2489.1235" Y="-377.2799" Z="399.6916"/>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Hegne Hp" Stellwerk="Reisende" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="69">
+<p X="2492.7681" Y="-378.7821" Z="399.6904"/>
+<phi/>
+<SignalFrame>
+<p X="0.53" Y="2.6512" Z="0.0294"/>
+<phi Z="1.026973"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\Travellers_2000_Pram_1.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="6.8191" Y="-0.6214" Z="0.1175"/>
+<phi Z="1.36001"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-02a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="63.7844" Y="-24.2936" Z="-0.056"/>
+<phi Z="0.905557"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-02a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-2.7646" Y="3.354" Z="0.1147"/>
+<phi Z="1.286772"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-01b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-9.3955" Y="6.2197" Z="0.1281"/>
+<phi Z="0.867824"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\1975\Adults\man01-a.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+</StrElement>
+<StrElement Nr="2594" spTrass="27.7778" Fkt="2">
+<g X="3415.1831" Y="-1447.4495" Z="398.7334"/>
+<b X="3412.0474" Y="-1442.7045" Z="398.7343"/>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Reichenau-Waldsiedlung (Baden) Hp" Stellwerk="Reisende" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="23">
+<p X="3415.1831" Y="-1447.4495" Z="398.7334"/>
+<phi/>
+<SignalFrame>
+<p X="2.481" Y="-5.6467" Z="0.3382"/>
+<phi Z="-2.37395"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-09b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.5002" Y="-1.0436" Z="0.3394"/>
+<phi Z="-2.274804"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\Travellers_2000_Man_young_3a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="11.4578" Y="-19.3741" Z="0.3347"/>
+<phi Z="-2.983413"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\1975\Adults\man01-a.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+</StrElement>
+<StrElement Nr="2595" spTrass="27.7778" Fkt="2">
+<g X="3420.1365" Y="-1442.2646" Z="398.7326"/>
+<b X="3417.8506" Y="-1439.215" Z="398.7336"/>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Reichenau-Waldsiedlung (Baden) Hp" Stellwerk="Reisende" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="16">
+<p X="3420.1365" Y="-1442.2646" Z="398.7326"/>
+<phi/>
+<SignalFrame>
+<p X="-1.0637" Y="4.1718" Z="0.3414"/>
+<phi Z="1.060582"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-09a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="9.5791" Y="-11.3013" Z="0.3374"/>
+<phi Z="0.729102"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-10b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="6.4119" Y="-7.0968" Z="0.3385"/>
+<phi Z="0.181448"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-10a.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+</StrElement>
+<StrElement Nr="2596" spTrass="27.7778" Fkt="2">
+<g X="565.2227" Y="380.316" Z="399.4451"/>
+<b X="562.5563" Y="388.8918" Z="407.7419"/>
+</StrElement>
+<StrElement Nr="2597" spTrass="27.7778" Fkt="2">
+<g X="280.8119" Y="530.4985" Z="399.0876"/>
+<b X="306.7274" Y="521.9626" Z="399.1819"/>
+<NachNorm Nr="2598"/>
+</StrElement>
+<StrElement Nr="2598" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="306.7274" Y="521.9626" Z="399.1819"/>
+<b X="326.5919" Y="515.6467" Z="399.1313"/>
+<NachNorm Nr="2599"/>
+<NachGegen Nr="2597"/>
+</StrElement>
+<StrElement Nr="2599" spTrass="27.7778" Fkt="2">
+<g X="326.5919" Y="515.6467" Z="399.1313"/>
+<b X="356.0243" Y="503.1784" Z="399.1663"/>
+<NachNorm Nr="2600"/>
+</StrElement>
+<StrElement Nr="2600" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="356.0243" Y="503.1784" Z="399.1663"/>
+<b X="448.5536" Y="460.5948" Z="401.0538"/>
+<NachNorm Nr="2601"/>
+<NachGegen Nr="2599"/>
+</StrElement>
+<StrElement Nr="2601" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="448.5536" Y="460.5948" Z="401.0538"/>
+<b X="471.9054" Y="449.9436" Z="401.93"/>
+<NachNorm Nr="2617"/>
+<NachGegen Nr="2600"/>
+</StrElement>
+<StrElement Nr="2602" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="541.9608" Y="417.9901" Z="404.5587"/>
+<b X="555.0306" Y="411.9521" Z="405.2061"/>
+<NachNorm Nr="2603"/>
+<NachGegen Nr="2616"/>
+</StrElement>
+<StrElement Nr="2603" spTrass="27.7778" Fkt="2">
+<g X="555.0306" Y="411.9521" Z="405.2061"/>
+<b X="558.1084" Y="410.1521" Z="405.5529"/>
+<NachNorm Nr="2604"/>
+</StrElement>
+<StrElement Nr="2604" spTrass="27.7778" Fkt="2">
+<g X="558.1084" Y="410.1521" Z="405.5529"/>
+<b X="560.1808" Y="408.1906" Z="405.834"/>
+<NachNorm Nr="2605"/>
+</StrElement>
+<StrElement Nr="2605" spTrass="27.7778" Fkt="2">
+<g X="560.1808" Y="408.1906" Z="405.834"/>
+<b X="561.8824" Y="405.9598" Z="406.1098"/>
+<NachNorm Nr="2606"/>
+</StrElement>
+<StrElement Nr="2606" spTrass="27.7778" Fkt="2">
+<g X="561.8824" Y="405.9598" Z="406.1098"/>
+<b X="563.3981" Y="403.0984" Z="406.4291"/>
+<NachNorm Nr="2607"/>
+</StrElement>
+<StrElement Nr="2607" spTrass="27.7778" Fkt="2">
+<g X="563.3981" Y="403.0984" Z="406.4291"/>
+<b X="564.1187" Y="401.1729" Z="406.6349"/>
+<NachNorm Nr="2608"/>
+</StrElement>
+<StrElement Nr="2608" spTrass="27.7778" Fkt="2">
+<g X="564.1187" Y="401.1729" Z="406.6349"/>
+<b X="564.5167" Y="399.7387" Z="406.7785"/>
+<NachNorm Nr="2609"/>
+</StrElement>
+<StrElement Nr="2609" spTrass="27.7778" Fkt="2">
+<g X="564.5167" Y="399.7387" Z="406.7785"/>
+<b X="564.7589" Y="398.2801" Z="406.9264"/>
+<NachNorm Nr="2610"/>
+</StrElement>
+<StrElement Nr="2610" spTrass="27.7778" Fkt="2">
+<g X="564.7589" Y="398.2801" Z="406.9264"/>
+<b X="564.7942" Y="396.2913" Z="407.1193"/>
+<NachNorm Nr="2611"/>
+</StrElement>
+<StrElement Nr="2611" spTrass="27.7778" Fkt="2">
+<g X="564.7942" Y="396.2913" Z="407.1193"/>
+<b X="564.6085" Y="393.4267" Z="407.403"/>
+<NachNorm Nr="2612"/>
+</StrElement>
+<StrElement Nr="2612" spTrass="27.7778" Fkt="2">
+<g X="564.6085" Y="393.4267" Z="407.403"/>
+<b X="564.34" Y="391.5584" Z="407.5923"/>
+<NachNorm Nr="2613"/>
+</StrElement>
+<StrElement Nr="2613" spTrass="27.7778" Fkt="2">
+<g X="564.34" Y="391.5584" Z="407.5923"/>
+<b X="563.2219" Y="388.6105" Z="407.8924"/>
+<NachNorm Nr="2614"/>
+</StrElement>
+<StrElement Nr="2614" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="563.2219" Y="388.6105" Z="407.8924"/>
+<b X="562.3577" Y="386.4522" Z="408.0751"/>
+<NachNorm Nr="2615"/>
+<NachGegen Nr="2613"/>
+</StrElement>
+<StrElement Nr="2615" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="562.3577" Y="386.4522" Z="408.0751"/>
+<b X="560.3" Y="381.1" Z="408.0751"/>
+<NachGegen Nr="2614"/>
+</StrElement>
+<StrElement Nr="2616" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="495.2572" Y="439.2924" Z="402.8063"/>
+<b X="541.9608" Y="417.9901" Z="404.5587"/>
+<NachNorm Nr="2602"/>
+<NachGegen Nr="2618"/>
+</StrElement>
+<StrElement Nr="2617" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="471.9054" Y="449.9436" Z="401.93"/>
+<b X="477.7433" Y="447.2809" Z="402.1491"/>
+<NachNorm Nr="2619"/>
+<NachGegen Nr="2601"/>
+</StrElement>
+<StrElement Nr="2618" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="483.5813" Y="444.618" Z="402.3682"/>
+<b X="495.2572" Y="439.2924" Z="402.8063"/>
+<NachNorm Nr="2616"/>
+<NachGegen Nr="2619"/>
+</StrElement>
+<StrElement Nr="2619" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="477.7433" Y="447.2809" Z="402.1491"/>
+<b X="483.5813" Y="444.618" Z="402.3682"/>
+<NachNorm Nr="2618"/>
+<NachGegen Nr="2617"/>
+</StrElement>
+<StrElement Nr="2620" spTrass="27.7778" Fkt="2">
+<g X="2545.5542" Y="-248.9295" Z="406.0039"/>
+<b X="2299.0703" Y="-73.8304" Z="405.9182"/>
+</StrElement>
+<StrElement Nr="2621" spTrass="27.7778" Fkt="2">
+<g X="2299.0703" Y="-73.8304" Z="405.9182"/>
+<b X="2251.5771" Y="-44.9947" Z="406.8945"/>
+</StrElement>
+<StrElement Nr="2622" spTrass="27.7778" Fkt="2">
+<g X="2251.5771" Y="-44.9947" Z="406.8945"/>
+<b X="2217.7856" Y="-29.5745" Z="407.5181"/>
+</StrElement>
+<StrElement Nr="2623" spTrass="27.7778" Fkt="2">
+<g X="2217.7856" Y="-29.5745" Z="407.5181"/>
+<b X="2180.2471" Y="-19.8048" Z="407.9586"/>
+</StrElement>
+<StrElement Nr="2624" spTrass="27.7778" Fkt="2">
+<g X="-3076.8005" Y="2262.4185" Z="400.5239"/>
+<b X="-3074.0413" Y="2272.0244" Z="400.8608"/>
+</StrElement>
+<StrElement Nr="2630" spTrass="27.7778" Fkt="2">
+<g X="-1599.6567" Y="1503.1675" Z="402.6473"/>
+<b X="-1601.7181" Y="1501.5952" Z="402.65"/>
+<NachNorm Nr="2631"/>
+</StrElement>
+<StrElement Nr="2631" spTrass="27.7778" Fkt="2">
+<g X="-1601.7181" Y="1501.5952" Z="402.65"/>
+<b X="-1603.681" Y="1500.9258" Z="402.65"/>
+<NachNorm Nr="2632"/>
+</StrElement>
+<StrElement Nr="2632" spTrass="27.7778" Fkt="2">
+<g X="-1603.681" Y="1500.9258" Z="402.65"/>
+<b X="-1606.2401" Y="1500.9427" Z="402.65"/>
+<NachNorm Nr="2633"/>
+</StrElement>
+<StrElement Nr="2633" spTrass="27.7778" Fkt="2">
+<g X="-1606.2401" Y="1500.9427" Z="402.65"/>
+<b X="-1608.5974" Y="1501.8501" Z="402.6532"/>
+<NachNorm Nr="2634"/>
+</StrElement>
+<StrElement Nr="2634" spTrass="27.7778" Fkt="2">
+<g X="-1608.5974" Y="1501.8501" Z="402.6532"/>
+<b X="-1610.2507" Y="1503.2561" Z="402.6682"/>
+<NachNorm Nr="2635"/>
+</StrElement>
+<StrElement Nr="2635" spTrass="27.7778" Fkt="2">
+<g X="-1610.2507" Y="1503.2561" Z="402.6682"/>
+<b X="-1615.3741" Y="1507.4564" Z="402.714"/>
+</StrElement>
+<StrElement Nr="2636" spTrass="27.7778" Fkt="2">
+<g X="-1592.8488" Y="1516.2322" Z="402.9479"/>
+<b X="-1588.3719" Y="1525.7927" Z="403.8786"/>
+</StrElement>
+<StrElement Nr="2637" spTrass="27.7778" Fkt="2">
+<g X="-1588.4941" Y="1513.2709" Z="402.8234"/>
+<b X="-1584.0731" Y="1521.9863" Z="403.7674"/>
+</StrElement>
+<StrElement Nr="2638" spTrass="27.7778" Fkt="2">
+<g X="-1175.6409" Y="1241.4573" Z="402.008"/>
+<b X="-1176.8341" Y="1239.6616" Z="402.0989"/>
+<NachNorm Nr="2639"/>
+</StrElement>
+<StrElement Nr="2639" spTrass="27.7778" Fkt="2">
+<g X="-1176.8341" Y="1239.6616" Z="402.0989"/>
+<b X="-1182.9248" Y="1243.3727" Z="402.1081"/>
+</StrElement>
+<StrElement Nr="2640" spTrass="27.7778" Fkt="2">
+<g X="-1170.5372" Y="1238.5426" Z="402.008"/>
+<b X="-1171.7687" Y="1236.7" Z="402.101"/>
+<NachNorm Nr="2641"/>
+</StrElement>
+<StrElement Nr="2641" spTrass="27.7778" Fkt="2">
+<g X="-1171.7687" Y="1236.7" Z="402.101"/>
+<b X="-1165.8136" Y="1233.0216" Z="402.1808"/>
+</StrElement>
+<StrElement Nr="2642" spTrass="27.7778" Fkt="2">
+<g X="-1162.6653" Y="1251.5509" Z="402.3381"/>
+<b X="-1156.4441" Y="1259.2535" Z="403.7401"/>
+</StrElement>
+<StrElement Nr="2643" spTrass="27.7778" Fkt="2">
+<g X="-1167.205" Y="1254.5129" Z="402.6061"/>
+<b X="-1161.0553" Y="1262.7448" Z="403.4829"/>
+</StrElement>
+<StrElement Nr="2671" spTrass="27.7778" Fkt="2">
+<g X="228.0876" Y="562.6584" Z="398.9561"/>
+<b X="222.1053" Y="565.4796" Z="398.9406"/>
+</StrElement>
+<StrElement Nr="2674" spTrass="27.7778" Fkt="2">
+<g X="256.912" Y="488.9712" Z="398.6198"/>
+<b X="248.5807" Y="478.5369" Z="398.0314"/>
+</StrElement>
+<StrElement Nr="2676" spTrass="27.7778" Fkt="2">
+<g X="53.0919" Y="655.8067" Z="397.619"/>
+<b X="64.0205" Y="669.7108" Z="397.9122"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Allensbach \D" FahrstrTyp="TypZug" Laenge="4185.874">
 <FahrstrStart Ref="299">
