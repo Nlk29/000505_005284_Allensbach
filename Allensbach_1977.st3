@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
-<Info DateiTyp="Strecke" Version="A.6" MinVersion="A.1"/>
-<Strecke RekTiefe="20">
+<Info DateiTyp="Strecke" Version="A.7" MinVersion="A.1"/>
+<Strecke RekTiefe="20" Himmelsmodell="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.ls3"/>
 <HintergrundDatei/>
 <BefehlsKonfiguration/>
@@ -67,6 +67,9 @@
 </StreckenStandort>
 <ModulDateien>
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</ModulDateien>
+<ModulDateien>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
 </ModulDateien>
 <ReferenzElemente ReferenzNr="1" StrElement="1" RefTyp="1" Info="Modulgrenze nach Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <ReferenzElemente ReferenzNr="2" StrElement="5" RefTyp="1" Info="Modulgrenze nach Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
@@ -388,6 +391,8 @@
 <ReferenzElemente ReferenzNr="324" StrElement="2593" RefTyp="4" Info="Reisende"/>
 <ReferenzElemente ReferenzNr="325" StrElement="2594" RefTyp="4" Info="Reisende"/>
 <ReferenzElemente ReferenzNr="326" StrElement="2595" RefTyp="4" Info="Reisende"/>
+<ReferenzElemente ReferenzNr="327" StrElement="407" RefTyp="1" Info="Modulgrenze nach Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3"/>
+<ReferenzElemente ReferenzNr="328" StrElement="421" RefTyp="1" Info="Modulgrenze nach Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3"/>
 <StrElement Nr="1" kr="-0.000066" spTrass="38.8889" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="4214.5688" Y="-2111.2671" Z="398.6589"/>
 <b X="4213.2988" Y="-2110.6689" Z="398.6589"/>
@@ -3458,7 +3463,7 @@
 </KoppelSignal>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="9223372036854775807" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="402.9954" pos="1">
@@ -5972,7 +5977,7 @@
 </KoppelSignal>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="9223372036854775807" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="402.9998" pos="1">
@@ -24870,7 +24875,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -24882,7 +24887,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-5m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -24920,7 +24925,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -24932,7 +24937,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-5m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -27130,9 +27135,10 @@
 <b X="-1610.2507" Y="1503.2561" Z="402.6682"/>
 <NachNorm Nr="2635"/>
 </StrElement>
-<StrElement Nr="2635" spTrass="27.7778" Fkt="2">
+<StrElement Nr="2635" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="-1610.2507" Y="1503.2561" Z="402.6682"/>
 <b X="-1615.3741" Y="1507.4564" Z="402.714"/>
+<NachGegen Nr="2634"/>
 </StrElement>
 <StrElement Nr="2636" spTrass="27.7778" Fkt="2">
 <g X="-1592.8488" Y="1516.2322" Z="402.9479"/>
