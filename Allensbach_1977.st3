@@ -4976,33 +4976,11 @@
 <g X="-3646.0139" Y="2492.4629" Z="400.0566"/>
 <b X="-3578.5925" Y="2464.4746" Z="400.1425"/>
 <InfoNormRichtung vMax="-1" Reg="5011"/>
-<InfoGegenRichtung vMax="38.8889" km="398.9058" Reg="5011">
-<Signal NameBetriebsstelle="Hilf Radolfzell" Stellwerk="Hilf Radolfzell" Signalname="Hilf Radolfzell F" SignalTyp="13" BoundingR="1">
-<p X="-3646.0139" Y="2492.4629" Z="400.0566"/>
-<phi Z="2.748116"/>
-<HsigBegriff HsigGeschw="11.1111" FahrstrTyp="4"/>
-<HsigBegriff FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="11.1111" FahrstrTyp="4"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag MatrixGeschw="11.1111">
-<Ereignis Er="23"/>
-<Ereignis Er="32" Wert="70" Beschr="10A"/>
-</MatrixEintrag>
-<MatrixEintrag>
-<Ereignis Er="23"/>
-</MatrixEintrag>
-<MatrixEintrag MatrixGeschw="11.1111">
-<Ereignis Er="23"/>
-<Ereignis Er="32" Wert="70" Beschr="10A"/>
-</MatrixEintrag>
-<Ersatzsignal ErsatzsigBezeichnung="Befehl" ErsatzsigID="0000010A">
-<MatrixEintrag MatrixGeschw="11.1111">
-<Ereignis Er="32" Wert="70"/>
-</MatrixEintrag>
-</Ersatzsignal>
-</Signal>
-</InfoGegenRichtung>
+<InfoGegenRichtung vMax="38.8889" km="398.9058" Reg="5011"/>
 <NachNorm Nr="2459"/>
+<NachGegenModul Nr="566">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</NachGegenModul>
 </StrElement>
 <StrElement Nr="408" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-3556.2439" Y="2455.197" Z="400.171"/>
@@ -5107,33 +5085,11 @@
 <g X="-3647.5481" Y="2488.769" Z="400.0566"/>
 <b X="-3557.7781" Y="2451.5029" Z="400.171"/>
 <InfoNormRichtung vMax="38.8889" km="398.8172" pos="1" Reg="5012"/>
-<InfoGegenRichtung vMax="38.8889" km="398.9144" Reg="5012">
-<Signal NameBetriebsstelle="Hilf Radolfzell" Stellwerk="Hilf Radolfzell" Signalname="Hilf Radolfzell Lsf F" SignalTyp="13" BoundingR="1">
-<p X="-3647.5481" Y="2488.769" Z="400.0566"/>
-<phi Z="2.748113"/>
-<HsigBegriff HsigGeschw="11.1111" FahrstrTyp="4"/>
-<HsigBegriff FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="11.1111" FahrstrTyp="4"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag MatrixGeschw="11.1111">
-<Ereignis Er="23"/>
-<Ereignis Er="32" Wert="70" Beschr="10A"/>
-</MatrixEintrag>
-<MatrixEintrag>
-<Ereignis Er="23"/>
-</MatrixEintrag>
-<MatrixEintrag MatrixGeschw="11.1111">
-<Ereignis Er="23"/>
-<Ereignis Er="32" Wert="70" Beschr="10A"/>
-</MatrixEintrag>
-<Ersatzsignal ErsatzsigBezeichnung="Befehl" ErsatzsigID="0000010A">
-<MatrixEintrag MatrixGeschw="11.1111">
-<Ereignis Er="32" Wert="70"/>
-</MatrixEintrag>
-</Ersatzsignal>
-</Signal>
-</InfoGegenRichtung>
+<InfoGegenRichtung vMax="38.8889" km="398.9144" Reg="5012"/>
 <NachNorm Nr="422"/>
+<NachGegenModul Nr="567">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</NachGegenModul>
 </StrElement>
 <StrElement Nr="422" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-3557.7781" Y="2451.5029" Z="400.171"/>
@@ -27318,12 +27274,12 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Allensbach Gleis 2 -&gt; Hilf Radolfzell Hilf Radolfzell Lsf F" FahrstrStrecke="720b" RglGgl="3" FahrstrTyp="TypZug" Laenge="4038.8413">
+<Fahrstrasse FahrstrName="Allensbach Gleis 2 -&gt; Radolfzell Lsf F" FahrstrStrecke="720b" RglGgl="3" FahrstrTyp="TypZug" Laenge="7677.1416">
 <FahrstrStart Ref="6">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrStart>
-<FahrstrZiel Ref="16">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+<FahrstrZiel Ref="11">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
 </FahrstrZiel>
 <FahrstrRegister Ref="157">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
@@ -27337,9 +27293,57 @@
 <FahrstrRegister Ref="18">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrRegister>
+<FahrstrRegister Ref="9">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="875">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="869">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="261">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="12">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrAufloesung Ref="577">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="574">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="577">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="583">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="574">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="577">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="580">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="586">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="589">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrAufloesung>
 <FahrstrTeilaufloesung Ref="293">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrTeilaufloesung>
+<FahrstrSigHaltfall Ref="794">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrSigHaltfall>
+<FahrstrWeiche Ref="260" FahrstrWeichenlage="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrWeiche>
 <FahrstrSignal Ref="216" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
@@ -27361,16 +27365,147 @@
 <FahrstrSignal Ref="259" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
+<FahrstrSignal Ref="663" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="900" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="672" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="6" FahrstrSignalZeile="1" FahrstrSignalErsatzsignal="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Allensbach F -&gt; Hilf Radolfzell Hilf Radolfzell F" FahrstrStrecke="720b" RglGgl="2" FahrstrTyp="TypZug" Laenge="4039.2671">
+<Fahrstrasse FahrstrName="Allensbach Gleis 2 -&gt; Radolfzell F" FahrstrStrecke="720b" RglGgl="3" FahrstrTyp="TypZug" Laenge="7684.4375">
+<FahrstrStart Ref="6">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrStart>
+<FahrstrZiel Ref="14">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrZiel>
+<FahrstrRegister Ref="157">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="294">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="144">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="18">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="9">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="875">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="869">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="261">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="246">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="255">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="250">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="268">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="15">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrAufloesung Ref="574">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="577">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="583">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="574">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="577">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="580">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="586">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="589">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrTeilaufloesung Ref="293">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrTeilaufloesung>
+<FahrstrSigHaltfall Ref="791">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrSigHaltfall>
+<FahrstrWeiche Ref="260" FahrstrWeichenlage="2">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrWeiche>
+<FahrstrWeiche Ref="254" FahrstrWeichenlage="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrWeiche>
+<FahrstrWeiche Ref="248" FahrstrWeichenlage="2">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrWeiche>
+<FahrstrWeiche Ref="266" FahrstrWeichenlage="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrWeiche>
+<FahrstrSignal Ref="216" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="317" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="232" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="240" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="246" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="251" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="259" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="663" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="900" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="674" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="6">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+</Fahrstrasse>
+<Fahrstrasse FahrstrName="Allensbach F -&gt; Sbk4 4" FahrstrStrecke="720b" RglGgl="2" FahrstrTyp="TypZug" Laenge="4959.3442">
 <FahrstrStart Ref="9">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrStart>
-<FahrstrZiel Ref="13">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+<FahrstrZiel Ref="552">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
 </FahrstrZiel>
 <FahrstrRegister Ref="308">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
@@ -27384,6 +27519,15 @@
 <FahrstrRegister Ref="15">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrRegister>
+<FahrstrRegister Ref="7">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="553">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrAufloesung Ref="568">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrAufloesung>
 <FahrstrTeilaufloesung Ref="153">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrTeilaufloesung>
@@ -27408,9 +27552,18 @@
 <FahrstrSignal Ref="257" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="9" FahrstrSignalErsatzsignal="1">
+<FahrstrSignal Ref="661" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="9">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
+<FahrstrVSignal Ref="265" FahrstrSignalSpalte="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrVSignal>
+<FahrstrVSignal Ref="136">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrVSignal>
 </Fahrstrasse>
 <Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Allensbach \A" FahrstrTyp="TypZug" Laenge="3900.6074">
 <FahrstrStart Ref="301">
