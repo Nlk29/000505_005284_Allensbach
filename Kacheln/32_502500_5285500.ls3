@@ -8,7 +8,7 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="32" BoundingR="174" SichtbarBis="140" Vorlade="1">
+<Verknuepfte Flags="32" BoundingR="177" SichtbarBis="140" Vorlade="1">
 <Datei Dateiname="Detail_32_502875_5285875.ls3"/>
 <p X="375" Y="375"/>
 <phi/>
@@ -611,31 +611,31 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Freileitungen\Mittelspannung\Einzelteile\Anbausaetze\Anbausatz_3Stuetzen.lod.ls3"/>
 <p X="490.204" Y="427.1533" Z="412.9107"/>
-<phi Y="0" Z="-0.266323"/>
+<phi Z="-0.266323"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Freileitungen\Mittelspannung\Einzelteile\Anbausaetze\Anbausatz_3Stuetzen.lod.ls3"/>
 <p X="437.2683" Y="442.0017" Z="412.4845"/>
-<phi Y="0" Z="-0.333878"/>
+<phi Z="-0.333878"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Freileitungen\Mittelspannung\Einzelteile\Anbausaetze\Anbausatz_3Stuetzen.lod.ls3"/>
 <p X="385.3054" Y="460.0258" Z="412.5786"/>
-<phi Y="0" Z="-0.333878"/>
+<phi Z="-0.333878"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Freileitungen\Mittelspannung\Einzelteile\Anbausaetze\Anbausatz_3Stuetzen.lod.ls3"/>
 <p X="333.3425" Y="478.0497" Z="412.6728"/>
-<phi Y="0" Z="-0.333878"/>
+<phi Z="-0.333878"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Freileitungen\Mittelspannung\Einzelteile\Anbausaetze\Anbausatz_3Stuetzen.lod.ls3"/>
 <p X="281.3796" Y="496.0737" Z="412.7669"/>
-<phi Y="0" Z="-0.333878"/>
+<phi Z="-0.333878"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_502500_5285500.lsb"/>
@@ -925,6 +925,12 @@
 <RenderFlags TexVoreinstellung="8"/>
 <Textur>
 <Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\Water\water01.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

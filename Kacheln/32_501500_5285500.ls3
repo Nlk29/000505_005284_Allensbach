@@ -1,19 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
-<Landschaft>
-<lsb Dateiname="32_501500_5285500.lsb"/>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="35" MeshI="99">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\General\Water\water01.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\General\Water\water01.dds"/>
-</Textur>
-</SubSet>
-</Landschaft>
+<Landschaft/>
 </Zusi>

@@ -3498,7 +3498,7 @@
 <InfoGegenRichtung vMax="38.8889" km="403.8652" pos="1" Reg="5006">
 <Ereignis Er="4"/>
 <Ereignis Er="1000002"/>
-<Ereignis Er="28" Beschr="720a"/>
+<Ereignis Er="28" Beschr="4000a"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1057"/>
 <NachGegen Nr="249"/>
@@ -8313,7 +8313,7 @@
 <InfoGegenRichtung vMax="38.8889" km="403.8365" pos="1" Reg="5021">
 <Ereignis Er="4"/>
 <Ereignis Er="1000002"/>
-<Ereignis Er="39" Beschr="720a"/>
+<Ereignis Er="39" Beschr="4000a"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1014"/>
 <NachGegen Nr="687"/>
@@ -8405,6 +8405,24 @@
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_69\Zs1_8-69.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
+<p X="-1.5"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1972_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSig\DB_gn_VSig-Mast.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-1.5"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1972_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSIG\DB_gn-VSig-Standard-2begr-el.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne2k.ls3"/>
+</SignalFrame>
+<SignalFrame>
 <p Y="2.5"/>
 <phi/>
 <sk/>
@@ -8420,7 +8438,7 @@
 <p X="-0.43" Z="2.59"/>
 <phi/>
 <sk/>
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Signalbeschriftung\TextGross\E.lod.ls3"/>
+<Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungen\Gross\Sigbeschr_E.lod.ls3"/>
 </SignalFrame>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
 <HsigBegriff FahrstrTyp="6"/>
@@ -8439,35 +8457,629 @@
 <HsigBegriff HsigGeschw="36.1111" FahrstrTyp="4"/>
 <HsigBegriff HsigGeschw="38.8889" FahrstrTyp="4"/>
 <HsigBegriff HsigGeschw="41.6667" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="60442917" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="60368019">
+<VsigBegriff/>
+<VsigBegriff VsigGeschw="2.7778"/>
+<VsigBegriff VsigGeschw="5.5556"/>
+<VsigBegriff VsigGeschw="8.3333"/>
+<VsigBegriff VsigGeschw="11.1111"/>
+<VsigBegriff VsigGeschw="13.8889"/>
+<VsigBegriff VsigGeschw="16.6667"/>
+<VsigBegriff VsigGeschw="19.4444"/>
+<VsigBegriff VsigGeschw="22.2222"/>
+<VsigBegriff VsigGeschw="25"/>
+<VsigBegriff VsigGeschw="27.7778"/>
+<VsigBegriff VsigGeschw="30.5556"/>
+<VsigBegriff VsigGeschw="33.3333"/>
+<VsigBegriff VsigGeschw="36.1111"/>
+<VsigBegriff VsigGeschw="38.8889"/>
+<VsigBegriff VsigGeschw="41.6667"/>
+<VsigBegriff VsigGeschw="-2"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="60592713" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="60592713" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="60592713" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="60592713" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="60592713" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="60592713" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="60442917" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="60442917" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="60442917" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="60442917" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="60442917" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="60442917" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="60442917" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="60442917" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="60442917" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="60592713" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2040079507">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040079507">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040079507">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040079507">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040079507">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040079507">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040079507">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040079507">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040079507">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040079507">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040079507">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040079507">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040079507">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040079507">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040079507">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040079507">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040079507">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040079507">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2057081417" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="2040304201" MatrixGeschw="11.1111">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2056931621" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2040154405" MatrixGeschw="-1">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
 <Ersatzsignal ErsatzsigBezeichnung="Zs1">
-<MatrixEintrag Signalbild="62465171" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="2025399443" MatrixGeschw="11.1111">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
 </Ersatzsignal>
 <Ersatzsignal ErsatzsigBezeichnung="Zs8" ErsatzsigID="00000001">
-<MatrixEintrag Signalbild="64562323" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="2027496595" MatrixGeschw="11.1111">
 <Ereignis Er="28" Wert="21"/>
 <Ereignis Er="2000"/>
 </MatrixEintrag>
@@ -22593,7 +23205,7 @@
 <g X="-48.4252" Y="674.6009" Z="399.3115"/>
 <b X="-52.3371" Y="676.5703" Z="399.3229"/>
 <InfoNormRichtung vMax="38.8889" km="402.8494" Reg="5034">
-<Ereignis Er="39" Beschr="720b"/>
+<Ereignis Er="39" Beschr="4000b"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" Reg="5034">
 <Ereignis Er="4"/>
@@ -22605,7 +23217,7 @@
 <g X="-50.5393" Y="670.6586" Z="399.3117"/>
 <b X="-55.0023" Y="672.9128" Z="399.3248"/>
 <InfoNormRichtung vMax="-1" Reg="5035">
-<Ereignis Er="28" Beschr="720b"/>
+<Ereignis Er="28" Beschr="4000b"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" Reg="5035">
 <Ereignis Er="4"/>
@@ -24831,7 +25443,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -24843,7 +25455,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-5m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -24881,7 +25493,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -24893,7 +25505,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-5m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -27274,11 +27886,11 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Allensbach Gleis 2 -&gt; Radolfzell Lsf F" FahrstrStrecke="720b" RglGgl="3" FahrstrTyp="TypZug" Laenge="7677.1416">
+<Fahrstrasse FahrstrName="Allensbach Gleis 2 -&gt; Radolfzell Lsf F" FahrstrStrecke="720b" RglGgl="3" FahrstrTyp="TypZug" Laenge="7587.1133">
 <FahrstrStart Ref="6">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrStart>
-<FahrstrZiel Ref="11">
+<FahrstrZiel Ref="924">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
 </FahrstrZiel>
 <FahrstrRegister Ref="157">
@@ -27305,7 +27917,7 @@
 <FahrstrRegister Ref="261">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
 </FahrstrRegister>
-<FahrstrRegister Ref="12">
+<FahrstrRegister Ref="925">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
 </FahrstrRegister>
 <FahrstrAufloesung Ref="577">
@@ -27378,128 +27990,6 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Allensbach Gleis 2 -&gt; Radolfzell F" FahrstrStrecke="720b" RglGgl="3" FahrstrTyp="TypZug" Laenge="7684.4375">
-<FahrstrStart Ref="6">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrStart>
-<FahrstrZiel Ref="14">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrZiel>
-<FahrstrRegister Ref="157">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="294">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="144">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="18">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="9">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="875">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="869">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="261">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="246">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="255">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="250">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="268">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="15">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrAufloesung Ref="574">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="577">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="583">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="574">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="577">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="580">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="586">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="589">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrTeilaufloesung Ref="293">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrTeilaufloesung>
-<FahrstrSigHaltfall Ref="791">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrSigHaltfall>
-<FahrstrWeiche Ref="260" FahrstrWeichenlage="2">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrWeiche Ref="254" FahrstrWeichenlage="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrWeiche Ref="248" FahrstrWeichenlage="2">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrWeiche Ref="266" FahrstrWeichenlage="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrSignal Ref="216" FahrstrSignalZeile="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrSignal>
-<FahrstrSignal Ref="317" FahrstrSignalZeile="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrSignal>
-<FahrstrSignal Ref="232" FahrstrSignalZeile="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrSignal>
-<FahrstrSignal Ref="240" FahrstrSignalZeile="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrSignal>
-<FahrstrSignal Ref="246" FahrstrSignalZeile="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrSignal>
-<FahrstrSignal Ref="251" FahrstrSignalZeile="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrSignal>
-<FahrstrSignal Ref="259" FahrstrSignalZeile="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrSignal>
-<FahrstrSignal Ref="663" FahrstrSignalZeile="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrSignal>
-<FahrstrSignal Ref="900" FahrstrSignalZeile="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrSignal>
-<FahrstrSignal Ref="674" FahrstrSignalZeile="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrSignal>
-<FahrstrSignal Ref="6">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrSignal>
-</Fahrstrasse>
 <Fahrstrasse FahrstrName="Allensbach F -&gt; Sbk4 4" FahrstrStrecke="720b" RglGgl="2" FahrstrTyp="TypZug" Laenge="4959.3442">
 <FahrstrStart Ref="9">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
@@ -27562,6 +28052,9 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
 <FahrstrVSignal Ref="136">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrVSignal>
+<FahrstrVSignal Ref="88">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
