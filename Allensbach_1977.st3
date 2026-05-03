@@ -25443,7 +25443,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -25455,7 +25455,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-5m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -25493,7 +25493,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -25505,7 +25505,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-5m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -27886,7 +27886,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Allensbach Gleis 2 -&gt; Radolfzell Lsf F" FahrstrStrecke="720b" RglGgl="3" FahrstrTyp="TypZug" Laenge="7587.1133">
+<Fahrstrasse FahrstrName="Allensbach Gleis 2 -&gt; Radolfzell Lsf F" FahrstrStrecke="4000b" RglGgl="3" FahrstrTyp="TypZug" Laenge="7587.1133">
 <FahrstrStart Ref="6">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -27950,9 +27950,6 @@
 <FahrstrTeilaufloesung Ref="293">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrTeilaufloesung>
-<FahrstrSigHaltfall Ref="794">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrSigHaltfall>
 <FahrstrWeiche Ref="260" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
 </FahrstrWeiche>
@@ -27980,7 +27977,7 @@
 <FahrstrSignal Ref="663" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="900" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="946" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="672" FahrstrSignalZeile="1">
@@ -27990,7 +27987,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Allensbach F -&gt; Sbk4 4" FahrstrStrecke="720b" RglGgl="2" FahrstrTyp="TypZug" Laenge="4959.3442">
+<Fahrstrasse FahrstrName="Allensbach F -&gt; Sbk4 4" FahrstrStrecke="4000b" RglGgl="2" FahrstrTyp="TypZug" Laenge="4959.3442">
 <FahrstrStart Ref="9">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -28636,7 +28633,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Allensbach C -&gt; Reichenau (Baden) C" FahrstrStrecke="720a" RglGgl="2" FahrstrTyp="TypZug" Laenge="4208.4937">
+<Fahrstrasse FahrstrName="Allensbach C -&gt; Reichenau (Baden) C" FahrstrStrecke="4000a" RglGgl="2" FahrstrTyp="TypZug" Laenge="4208.4937">
 <FahrstrStart Ref="146">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -28710,7 +28707,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Allensbach Gleis 1 -&gt; Reichenau (Baden) \C" FahrstrStrecke="720a" RglGgl="3" FahrstrTyp="TypZug" Laenge="4208.4087">
+<Fahrstrasse FahrstrName="Allensbach Gleis 1 -&gt; Reichenau (Baden) \C" FahrstrStrecke="4000a" RglGgl="3" FahrstrTyp="TypZug" Laenge="4208.4087">
 <FahrstrStart Ref="149">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -28810,7 +28807,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Allensbach B -&gt; Reichenau (Baden) C" FahrstrStrecke="720a" RglGgl="2" FahrstrTyp="TypZug" Laenge="4383.6909">
+<Fahrstrasse FahrstrName="Allensbach B -&gt; Reichenau (Baden) C" FahrstrStrecke="4000a" RglGgl="2" FahrstrTyp="TypZug" Laenge="4383.6909">
 <FahrstrStart Ref="286">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrStart>
