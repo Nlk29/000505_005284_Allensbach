@@ -153,7 +153,7 @@
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="2496" MeshI="13824">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
-<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="1248" MeshI="6912">
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="1248">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="624" MeshI="3456">
@@ -168,7 +168,16 @@
 <SubSet Ca="00808080" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="828" MeshI="3636">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
-<SubSet Ca="00808080" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="312" MeshI="1728">
+<SubSet Ca="00808080" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="312" MeshI="864">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00808080" TypLs3="14" GruppenName="Kettenlinien" MeshV="156" MeshI="864">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="624" MeshI="3456">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="624" MeshI="3456">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 </Landschaft>

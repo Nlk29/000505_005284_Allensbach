@@ -393,6 +393,8 @@
 <ReferenzElemente ReferenzNr="326" StrElement="2595" RefTyp="4" Info="Reisende"/>
 <ReferenzElemente ReferenzNr="327" StrElement="407" RefTyp="1" Info="Modulgrenze nach Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3"/>
 <ReferenzElemente ReferenzNr="328" StrElement="421" RefTyp="1" Info="Modulgrenze nach Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3"/>
+<ReferenzElemente ReferenzNr="329" StrElement="2677" RefTyp="4" Info="Signal: Allensbach WVc"/>
+<ReferenzElemente ReferenzNr="330" StrElement="2678" RefTyp="4" Info="Signal: Allensbach "/>
 <StrElement Nr="1" kr="-0.000066" spTrass="38.8889" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="4214.5688" Y="-2111.2671" Z="398.6589"/>
 <b X="4213.2988" Y="-2110.6689" Z="398.6589"/>
@@ -432,7 +434,7 @@
 <InfoNormRichtung vMax="38.8889" km="408.1846" pos="1" Reg="5002"/>
 <InfoGegenRichtung vMax="38.8889" km="408.186" Reg="5002"/>
 <NachNorm Nr="6"/>
-<NachGegenModul Nr="409">
+<NachGegenModul Nr="427">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </NachGegenModul>
 </StrElement>
@@ -4976,7 +4978,7 @@
 <InfoNormRichtung vMax="-1" Reg="5011"/>
 <InfoGegenRichtung vMax="38.8889" km="398.9058" Reg="5011"/>
 <NachNorm Nr="2459"/>
-<NachGegenModul Nr="566">
+<NachGegenModul Nr="1112">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
 </NachGegenModul>
 </StrElement>
@@ -6004,7 +6006,7 @@
 <InfoGegenRichtung vMax="-1" km="403.1797" pos="1" Reg="5014"/>
 <NachNorm Nr="504"/>
 <NachNorm Nr="506"/>
-<NachGegen Nr="2536"/>
+<NachGegen Nr="2678"/>
 </StrElement>
 <StrElement Nr="504" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="239.6393" Y="524.6605" Z="399.3"/>
@@ -7875,12 +7877,9 @@
 </StrElement>
 <StrElement Nr="649" spTrass="38.8889" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="278.605" Y="505.0576" Z="399.3"/>
-<b X="273.2451" Y="507.7541" Z="399.3"/>
-<InfoNormRichtung vMax="-1">
-<Ereignis Er="1000010"/>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="403.2181" pos="1"/>
-<NachNorm Nr="2536"/>
+<b X="274.1384" Y="507.3047" Z="399.3"/>
+<InfoGegenRichtung vMax="38.8889" km="403.2191" pos="1"/>
+<NachNorm Nr="2677"/>
 <NachGegen Nr="668"/>
 </StrElement>
 <StrElement Nr="650" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
@@ -8476,79 +8475,7 @@
 <StrElement Nr="690" spTrass="38.8889" Anschluss="256" Oberbau="Stahl K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="418.6431" Y="429.5692" Z="399.3"/>
 <b X="505.7199" Y="385.7623" Z="399.3"/>
-<InfoNormRichtung vMax="38.8889" km="403.3861" pos="1">
-<Signal NameBetriebsstelle="Allensbach" Stellwerk="Allensbach Aw" Signalname="Evw" SignalTyp="6" BoundingR="10">
-<p X="504.3267" Y="382.993" Z="399.3"/>
-<phi Z="-0.466111"/>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Mast51_4m10.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-0.41" Z="4.2"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Vsig51.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-0.41" Z="4.2"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Vsig51-zusatzlicht.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="0.8"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\Aufschuettungen_Formsignale\Aufschuettung_Erde.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Schaltkasten51-einfach.lod.ls3"/>
-</SignalFrame>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
-<VsigBegriff VsigGeschw="-1"/>
-<VsigBegriff/>
-<VsigBegriff VsigGeschw="2.7778"/>
-<VsigBegriff VsigGeschw="5.5556"/>
-<VsigBegriff VsigGeschw="8.3333"/>
-<VsigBegriff VsigGeschw="11.1111"/>
-<VsigBegriff VsigGeschw="13.8889"/>
-<VsigBegriff VsigGeschw="16.6667"/>
-<VsigBegriff VsigGeschw="19.4444"/>
-<VsigBegriff VsigGeschw="22.2222"/>
-<VsigBegriff VsigGeschw="25"/>
-<VsigBegriff VsigGeschw="27.7778"/>
-<VsigBegriff VsigGeschw="30.5556"/>
-<VsigBegriff VsigGeschw="33.3333"/>
-<VsigBegriff VsigGeschw="36.1111"/>
-<VsigBegriff VsigGeschw="38.8889"/>
-<VsigBegriff VsigGeschw="41.6667"/>
-<VsigBegriff VsigGeschw="-2"/>
-<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="115" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="121" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="121" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="121" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="121" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="121" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="121" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="97" MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
+<InfoNormRichtung vMax="38.8889" km="403.3861" pos="1"/>
 <InfoGegenRichtung vMax="38.8889" km="403.4836"/>
 <NachNorm Nr="691"/>
 <NachGegen Nr="2478"/>
@@ -24827,7 +24754,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -24839,7 +24766,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-5m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -24877,7 +24804,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -24889,7 +24816,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-5m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -26197,13 +26124,12 @@
 </StrElement>
 <StrElement Nr="2536" spTrass="38.8889" Anschluss="256" Oberbau="Stahl K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="273.2451" Y="507.7541" Z="399.3"/>
-<b X="240.7113" Y="524.1212" Z="399.3"/>
-<InfoNormRichtung vMax="38.8889" km="403.2181"/>
+<b X="256.9782" Y="515.9376" Z="399.3"/>
 <InfoGegenRichtung vMax="-1">
 <Ereignis Er="1000009"/>
 </InfoGegenRichtung>
-<NachNorm Nr="503"/>
-<NachGegen Nr="649"/>
+<NachNorm Nr="2678"/>
+<NachGegen Nr="2677"/>
 </StrElement>
 <StrElement Nr="2537" spTrass="38.8889" Anschluss="256" Oberbau="Stahl K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="173.2929" Y="558.0382" Z="399.3"/>
@@ -27138,6 +27064,72 @@
 <g X="53.0919" Y="655.8067" Z="397.619"/>
 <b X="64.0205" Y="669.7108" Z="397.9122"/>
 </StrElement>
+<StrElement Nr="2677" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="274.1384" Y="507.3047" Z="399.3"/>
+<b X="273.2451" Y="507.7541" Z="399.3"/>
+<InfoNormRichtung vMax="-1">
+<Ereignis Er="1000010"/>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1"/>
+<NachNorm Nr="2536"/>
+<NachGegen Nr="649"/>
+</StrElement>
+<StrElement Nr="2678" spTrass="38.8889" Anschluss="256" Oberbau="Stahl K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="256.9782" Y="515.9376" Z="399.3"/>
+<b X="240.7113" Y="524.1212" Z="399.3"/>
+<InfoNormRichtung vMax="38.8889" km="403.1999"/>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Allensbach" Stellwerk="Allensbach Af" BoundingR="10">
+<p X="254.2409" Y="512.5957" Z="403.3298"/>
+<phi Z="-0.466264"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Sonstiges\DB_Fahrtanzeiger.Lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
+<VsigBegriff/>
+<VsigBegriff VsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="2.7778"/>
+<VsigBegriff VsigGeschw="5.5556"/>
+<VsigBegriff VsigGeschw="8.3333"/>
+<VsigBegriff VsigGeschw="11.1111"/>
+<VsigBegriff VsigGeschw="13.8889"/>
+<VsigBegriff VsigGeschw="16.6667"/>
+<VsigBegriff VsigGeschw="19.4444"/>
+<VsigBegriff VsigGeschw="22.2222"/>
+<VsigBegriff VsigGeschw="25"/>
+<VsigBegriff VsigGeschw="27.7778"/>
+<VsigBegriff VsigGeschw="30.5556"/>
+<VsigBegriff VsigGeschw="33.3333"/>
+<VsigBegriff VsigGeschw="36.1111"/>
+<VsigBegriff VsigGeschw="38.8889"/>
+<VsigBegriff VsigGeschw="41.6667"/>
+<VsigBegriff VsigGeschw="-2"/>
+<MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="503"/>
+<NachGegen Nr="2536"/>
+</StrElement>
 <Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Allensbach \D" FahrstrTyp="TypZug" Laenge="4185.874">
 <FahrstrStart Ref="299">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
@@ -27358,7 +27350,7 @@
 <FahrstrSignal Ref="259" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="663" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="1037" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="946" FahrstrSignalZeile="1">
@@ -27390,9 +27382,6 @@
 <FahrstrRegister Ref="15">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrRegister>
-<FahrstrRegister Ref="7">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
-</FahrstrRegister>
 <FahrstrRegister Ref="553">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
 </FahrstrRegister>
@@ -27422,6 +27411,12 @@
 </FahrstrSignal>
 <FahrstrSignal Ref="257" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="1035" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="1113">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Radolfzell_1980.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="9">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
@@ -27736,7 +27731,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Allensbach \D -&gt; Allensbach Gleis 2" FahrstrTyp="TypZug" Laenge="1057.6801">
+<Fahrstrasse FahrstrName="Allensbach \D -&gt; Allensbach Gleis 2" FahrstrTyp="TypZug" Laenge="1057.6799">
 <FahrstrStart Ref="139">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -27893,7 +27888,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Allensbach A -&gt; Allensbach C" FahrstrTyp="TypZug" Laenge="945.3689">
+<Fahrstrasse FahrstrName="Allensbach A -&gt; Allensbach C" FahrstrTyp="TypZug" Laenge="945.3688">
 <FahrstrStart Ref="143">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -28081,6 +28076,9 @@
 <FahrstrVSignal Ref="289" FahrstrSignalSpalte="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
+<FahrstrVSignal Ref="330" FahrstrSignalSpalte="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrVSignal>
 <FahrstrVSignal Ref="143">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
@@ -28132,7 +28130,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Reichenau (Baden) \C -&gt; Reichenau (Baden) Gleis 1" FahrstrTyp="TypZug" Laenge="797.9164">
+<Fahrstrasse FahrstrName="Reichenau (Baden) \C -&gt; Reichenau (Baden) Gleis 1" FahrstrTyp="TypZug" Laenge="843.5096">
 <FahrstrStart Ref="278">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -28141,6 +28139,9 @@
 </FahrstrZiel>
 <FahrstrRegister Ref="306">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="426">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
 <FahrstrRegister Ref="63">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
@@ -28252,10 +28253,10 @@
 <FahrstrSignal Ref="286" FahrstrSignalZeile="5">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrVSignal Ref="91" FahrstrSignalSpalte="5">
+<FahrstrVSignal Ref="273" FahrstrSignalSpalte="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
-<FahrstrVSignal Ref="273" FahrstrSignalSpalte="1">
+<FahrstrVSignal Ref="330" FahrstrSignalSpalte="5">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
 <FahrstrVSignal Ref="143" FahrstrSignalSpalte="5">

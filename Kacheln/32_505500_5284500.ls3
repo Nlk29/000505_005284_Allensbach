@@ -38,12 +38,6 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000394_005696_Hengstey\Objekte\Hengstey_03_Abzw_Hohensyburg\Hengstey03_Stw_Hohensyburg.lod.ls3"/>
-<p X="204.8152" Y="-197.6886" Z="399.0562"/>
-<phi Z="-2.027554"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000537_005669_Koerle_West\Objekte\WH_Koerle\Wh_1.lod.ls3"/>
 <p X="234.6393" Y="-312.953" Z="397.7303"/>
@@ -2944,9 +2938,9 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Objekte\Schild_Allensbach_Aw\Schild_einseitig_3m00.lod.ls3"/>
-<p X="203.8117" Y="-199.6153" Z="400.6659"/>
-<phi Z="2.684834"/>
-<sk/>
+<p X="206.1644" Y="-199.3286" Z="401.2987"/>
+<phi Z="4.255631"/>
+<sk X="0.75" Z="0.75"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Objekte\Schild_Allensbach\Schild_einseitig_3m00.lod.ls3"/>
@@ -8476,13 +8470,13 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\Stw_Gruppenablenkung\gruppenablenkung_beton_bohlenbelag.lod.ls3"/>
-<p X="204.6848" Y="-200.6717" Z="399.1008"/>
+<p X="202.0172" Y="-199.2406" Z="399.1008"/>
 <phi Z="5.841128"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\Stw_Gruppenablenkung\gruppenablenkung_beton_bohlenbelag.lod.ls3"/>
-<p X="206.302" Y="-201.4452" Z="399.1008"/>
+<p X="203.6344" Y="-200.0141" Z="399.1008"/>
 <phi Z="-0.449901"/>
 <sk/>
 </Verknuepfte>
@@ -9148,14 +9142,14 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_8-8.lod.ls3"/>
-<p X="200.5631" Y="-194.1654" Z="399.5131"/>
-<phi Z="5.826427"/>
+<p X="205.5504" Y="-198.1465" Z="401.5522"/>
+<phi Z="8.85021"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_8-8.lod.ls3"/>
-<p X="200.5631" Y="-194.1654" Z="398.4034"/>
-<phi Z="5.826427"/>
+<p X="205.5504" Y="-198.1465" Z="400.4425"/>
+<phi Z="8.85021"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -9490,13 +9484,13 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Freileitungen\Niederspannung\Holzmast_I-8m.lod.ls3"/>
-<p X="200.0343" Y="-196.6223" Z="400.6236"/>
+<p X="198.9023" Y="-196.8774" Z="399.2408"/>
 <phi/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Freileitungen\Niederspannung\Einzelteile\Anbausaetze\Anbausatz_4Stuetzen.lod.ls3"/>
-<p X="200.0343" Y="-196.6223" Z="408.6236"/>
+<p X="198.9023" Y="-196.8774" Z="407.2408"/>
 <phi Z="-0.637154"/>
 <sk/>
 </Verknuepfte>
@@ -10310,10 +10304,28 @@
 <phi Z="-0.466111"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="610" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_8-4.lod.ls3"/>
 <p X="-415.1809" Y="113.4468" Z="399.3"/>
 <phi Z="5.817076"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\UeberschreitenDerGleiseVerboten.lod.ls3"/>
+<p X="-247.3362" Y="20.6076" Z="399.3"/>
+<phi Z="4.246281"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000499_005293_Stahringen\Objekte\Stw_Stahringen_Sf\Stw_Stahringen_Sf.lod.ls3"/>
+<p X="202.6535" Y="-197.599" Z="399.0562"/>
+<phi Z="2.684834"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="572" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Zusatzsignale\Zs_Halter_an_Laterne.lod.ls3"/>
+<p X="-245.9614" Y="12.1938" Z="403.0799"/>
+<phi Z="-0.466264"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_505500_5284500.lsb"/>
